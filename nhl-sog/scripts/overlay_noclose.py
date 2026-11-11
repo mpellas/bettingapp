@@ -1,0 +1,27 @@
+"""Reporting overlay for missing closes (added 2026-10-31). Does NOT touch pinned grade.py/close.py/grade_shadow.py or graded/.
+Copies every graded/<date>.csv to graded_overlay/<date>.csv; rows with status VOID_noC
+that have a LOGGED actual shot count become status OK with clv_status no_close (CLV blank). VOID_pulled_before_close stays void.
+Shot counts are the logged graded/ values - no box-score substitution (NOTES.md: Oct 12-13 logged actuals kept as is).
+Logged-vs-official (data/s2026.pkl) differences on flipped rows go to graded_overlay/discrepancies.csv, info only.
+Then runs grade_report.py --graded graded_overlay --out graded_overlay/REPORT.md (model-only track on the overlay).
+Usage: .venv/bin/python scripts/overlay_noclose.py"""
+import glob, os, subprocess, sys, re
+import pandas as pd
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
+OUT = 'graded_overlay'; os.makedirs(OUT, exist_ok=True)
+off = pd.read_pickle('data/s2026.pkl').set_index(['playerId', 'gameId']).shots
+TAG = {'VOID_noC': 'no_close'}  # 2026-10-31: VOID_pulled_before_close stays void (Tester2)
+summ, disc = [], []
+for f in sorted(glob.glob('graded/2*.csv')):
+    if not re.fullmatch(r'\d{8}\.csv', os.path.basename(f)): continue
+    d = os.path.basename(f)[:8]; G = pd.read_csv(f); G['clv_status'] = pd.NA
+    m = G.status.isin(TAG) & G.actual.notna()
+    G.loc[m, 'clv_status'] = G.loc[m, 'status'].map(TAG); G.loc[m, 'status'] = 'OK'
+    for r in G[m].itertuples():
+        o = off.get((r.nhl_id, r.gameId))
+        if o is not None and o != r.actual: disc.append(dict(date=d, player=r.player, gameId=r.gameId, nhl_id=r.nhl_id, line=r.line, logged=r.actual, official=o))
+    G.to_csv(f'{OUT}/{d}.csv', index=False)
+    summ.append(dict(date=d, lines=len(G), flipped_noC=int((G.clv_status == 'no_close').sum()), flipped_pulled=int((G.clv_status == 'pulled_before_close').sum())))
+S = pd.DataFrame(summ); S.to_csv(f'{OUT}/flips.csv', index=False); pd.DataFrame(disc, columns=['date','player','gameId','nhl_id','line','logged','official']).to_csv(f'{OUT}/discrepancies.csv', index=False)
+print(S[(S.flipped_noC + S.flipped_pulled) > 0].to_string(index=False)); print('discrepancies:', len(disc))
+subprocess.run([sys.executable, 'grade_report.py', '--graded', OUT, '--out', f'{OUT}/REPORT.md', '--title', 'Overlay: missing close graded (no_close), CLV blank'], check=True, stdout=subprocess.DEVNULL)

@@ -1,0 +1,4 @@
+Fliff check: Sam Reinhart OVER 2.5 (DK +100, Fliff at +113 or better) - model +4.5 pts vs no-vig; recent +10.5 pts
+   evidence: Sam Reinhart O2.5: agrees 4 of 7 (champion +4.5 pts; challenger +5.7 pts; shrunk form +2.6 pts; on PP1); against: TOI last 5 -0.6 min vs season; no-vig moved -2.6 pts toward side since open
+Fliff check: Mackie Samoskevich UNDER 1.5 (DK +100, Fliff at +115 or better) - model +3.0 pts vs no-vig; recent +7.3 pts
+   evidence: Mackie Samoskevich U1.5: agrees 3 of 7 (champion +3.0 pts; opponent allows -7% to F_3rd; no-vig moved +1.3 pts toward side since open); against: challenger -1.3 pts; on PP1

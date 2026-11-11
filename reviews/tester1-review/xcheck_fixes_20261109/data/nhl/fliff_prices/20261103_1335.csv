@@ -1,0 +1,2 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261103,Andrei Svechnikov,Carolina Hurricanes at Nashville Predators,UNDER,2.5,8480830,2026020245,401892642,f5dd1d8198a0f9c5cc65fe744ef3b1c8,offered,2.5,-130,True,101,False,-115,2.5,-120,2.5,True,2026-11-03T13:35:48-08:00,20261103_1335_post.txt

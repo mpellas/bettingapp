@@ -1,0 +1,3 @@
+league,combined_settings,tune_norm_mae_live,tune_norm_mae_combined,holdout_norm_mae_live,holdout_norm_mae_combined,accepted
+nfl,"{""W_SEASON"": 0.5, ""W_L3"": 0.2, ""W_PRIOR"": 0.3, ""ENV_STRENGTH"": 0.5, ""MATCHUP_STRENGTH"": 0.3}",0.94293,0.93428,0.98406,0.98046,True
+ncaaf,"{""CFB_W_SEASON"": 0.7, ""CFB_PRIOR_DECAY"": 0.08}",0.95364,0.94905,0.98205,0.97822,True

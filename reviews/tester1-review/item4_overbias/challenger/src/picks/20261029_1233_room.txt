@@ -1,0 +1,43 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, 12:30 PM PT window pass (Thu Oct 29; fired 12:33, run 12:33 PM PT), DraftKings lines captured 12:31 PM PT. Three games in the window, all 4:00 PM PT (206 min out at run time): Winnipeg Jets at Tampa Bay Lightning, Utah Mammoth at Pittsburgh Penguins, Columbus Blue Jackets at Carolina Hurricanes. No earlier pass today had scored them.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (47 lines up; best is -5.7%).
+
+Fliff check (5). Not bets right now: Fliff hasn't posted shots markets for any of these games yet, and DraftKings is worse than shop-at on each.
+1. Gage Goncalves (TBL F), Jets at Lightning (4:00 PM PT), UNDER 1.5 shots on goal
+   DK now: -155 (opened -115), model under 61.4% vs no-vig 54.5%, recent form under 72.6%. Shop-at (worst acceptable): -121 on Fliff and DraftKings. PrizePicks: price qualifies for flex5/flex6, but not seen offered on PrizePicks.
+   Last 5: 2 of 5 under 1.5 (shots 1, 2, 0, 3, 2).
+   Role: Lightning top line and PP2, no change (Tampa Bay DailyFaceoff lineup updated 8:51 AM PT today, about 4 hours old). TOI last 5 16.6 min vs 15.7 over last 30; PP time last 5 1.1 min vs 1.1.
+   Evidence: agrees 5 of 7 (champion +7.0 pts; challenger +6.5 pts; shrunk form +7.1 pts; Winnipeg allows -3% to top-six forwards; no-vig moved 4.9 pts toward the under since open). Nothing against. Even without the line-move signal it's 4 of 7.
+   DK -155 is worse than -121.
+2. MacKenzie Weegar (UTA D), Mammoth at Penguins (4:00 PM PT), OVER 1.5 shots on goal
+   DK now: -120 (opened -125), model over 59.1% vs no-vig 50.5%, recent form over 70.0%. Shop-at: -103 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 3 of 5 over 1.5 (shots 1, 3, 6, 1, 2).
+   Role: Mammoth top pair and PP2, no change (Utah lineup updated 10:36 AM PT today, about 2 hours old). TOI last 5 23.3 min vs 20.9 over last 30; PP time last 5 0.8 min vs 0.7.
+   Evidence: agrees 4 of 7 (champion +8.6 pts; challenger +10.3 pts; shrunk form +5.5 pts; TOI up 1.6 min vs this season). Against: Pittsburgh allows -3% to defensemen; no-vig moved 1.0 pts away from the over since open.
+   DK -120 is worse than -103.
+3. Dylan Guenther (UTA F), Mammoth at Penguins (4:00 PM PT), UNDER 2.5 shots on goal
+   DK now: +115 (opened -180), model under 50.3% vs no-vig 43.3%, recent form under 46.2%. Shop-at: +129 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 3 of 5 under 2.5 (shots 2, 2, 2, 3, 4).
+   Role: Mammoth second line and PP1, no change (Utah lineup about 2 hours old). TOI last 5 18.6 min vs 17.7 over last 30; PP time last 5 3.2 min vs 3.7.
+   Evidence: agrees 3 of 7 (champion +7.0 pts; challenger +4.7 pts; shrunk form +1.5 pts). Against: TOI up 1.3 min vs this season; on PP1; no-vig moved 16.3 pts away from the under since open (a huge move toward the over).
+   DK +115 is worse than +129.
+4. Nikolaj Ehlers (CAR F), Blue Jackets at Hurricanes (4:00 PM PT), OVER 1.5 shots on goal
+   DK now: -170 (opened -185), model over 70.2% vs no-vig 58.6%, recent form over 63.7%. Shop-at: -145 on Fliff and DraftKings. PrizePicks: price qualifies for power2/power3/flex3-6, but not seen offered on PrizePicks.
+   Last 5: 4 of 5 over 1.5 (shots 3, 4, 1, 2, 4).
+   Role: Hurricanes second line and PP1, no change (Carolina lineup updated 8:50 AM PT today, about 4 hours old). TOI last 5 16.5 min vs 16.5 over last 30; PP time last 5 3.0 min vs 3.2.
+   Evidence: agrees 4 of 7 (champion +11.6 pts; challenger +13.9 pts; shrunk form +12.5 pts; on PP1). Against: no-vig moved 2.3 pts away from the over since open.
+   DK -170 is worse than -145.
+5. Sebastian Aho (CAR F), Blue Jackets at Hurricanes (4:00 PM PT), OVER 2.5 shots on goal
+   DK now: -120 (opened -105), model over 57.3% vs no-vig 50.5%, recent form over 54.2%. Shop-at: -103 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 4 of 5 over 2.5 (shots 3, 4, 3, 1, 5).
+   Role: Hurricanes top line and PP1, no change (Carolina lineup about 4 hours old). TOI last 5 20.3 min vs 19.5 over last 30; PP time last 5 3.5 min vs 3.5.
+   Evidence: agrees 5 of 7 (champion +6.8 pts; challenger +5.4 pts; shrunk form +7.9 pts; on PP1; no-vig moved 3.0 pts toward the over since open). Nothing against. Even without the line-move signal it's 4 of 7.
+   DK -120 is worse than -103.
+Correlation: Ehlers and Aho are both Carolina overs on the same power play, so they rise and fall together; don't stack them in one entry. Weegar over and Guenther under are both Utah and partly hedge each other (more Utah shots helps Weegar and hurts Guenther).
+Fliff credits: 3 of 10 used today (3 this pass, one per game); 94 left on the account.
+
+Vetoes: 11 role-check vetoes and 6 slot vetoes, all on sides with no positive DK EV. Overs dropped for demotions: Pionk, Mercer, Kindel, Jarvis, Knies, Fantilli; unders dropped for promotions: Salomonsson, Novak, Nichushkin, Carrier, Olivier.
+Pittsburgh's DailyFaceoff lineup is about 26 hours old (Oct 28, 10:26 AM PT), so every Penguins side is skipped under the 12-hour rule; none would have qualified anyway. Winnipeg, Tampa Bay, Utah, Columbus and Carolina lineups are fresh. No ESPN injury flags. DailyFaceoff lists Chinakhov as day-to-day and Kindel on IR, both game-time decisions; neither is on the list.
+Spreadsheet: /workspace/nhl-sog/sheets/20261029_D_1233_picks.xlsx (colors only show in Excel or Google Sheets).

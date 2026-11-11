@@ -1,0 +1,692 @@
+{
+ "event": "401892547",
+ "name": "Detroit Red Wings at Seattle Kraken",
+ "home": "Seattle Kraken",
+ "away": "Detroit Red Wings",
+ "start_utc": "2026-10-21T01:40Z",
+ "captured_utc": "2026-10-20T00:55:33.740312+00:00",
+ "tag": "TEST",
+ "minutes_to_start": 1484.4,
+ "book": "DraftKings (ESPN provider 100)",
+ "sog_lines": [],
+ "saves_lines": [],
+ "raw": [],
+ "lineups": {
+  "Seattle Kraken": {
+   "updatedAt": "2026-10-19T17:56:21.640Z",
+   "source": "@sound_hockey",
+   "players": [
+    {
+     "name": "Jared McCann",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matty Beniers",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Eberle",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bobby McMann",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Chandler Stephenson",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Mackie Samoskevich",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kaapo Kakko",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Berkly Catton",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Shane Wright",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Meyers",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Frederick Gaudreau",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Winterton",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vince Dunn",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Adam Larsson",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryker Evans",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ty Nelson",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Joshua Mahura",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ville Ottavainen",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Philipp Grubauer",
+     "positionIdentifier": "g1",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Joey Daccord",
+     "positionIdentifier": "g2",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Eberle",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bobby McMann",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jared McCann",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Chandler Stephenson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vince Dunn",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kaapo Kakko",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Berkly Catton",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Shane Wright",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matty Beniers",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryker Evans",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jacob Melanson",
+     "positionIdentifier": "ir2",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "ir",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Lindgren",
+     "positionIdentifier": "ir3",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "out",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Brandon Montour",
+     "positionIdentifier": "ir4",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "dtd",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Frederick Gaudreau",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Winterton",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryker Evans",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Adam Larsson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Chandler Stephenson",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matty Beniers",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vince Dunn",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Joshua Mahura",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    }
+   ]
+  },
+  "Detroit Red Wings": {
+   "updatedAt": "2026-10-19T14:44:33.412Z",
+   "source": "Max Bultman",
+   "players": [
+    {
+     "name": "Viktor Arvidsson",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dylan Larkin",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Lucas Raymond",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex DeBrincat",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Emmitt Finnie",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Michael Brandsegg-Nyg\u00e5rd",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Michael Rasmussen",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Andrew Copp",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Carter Mazur",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Nate Danielson",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Keegan Kolesar",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Chiarot",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Moritz Seider",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "William Wallinder",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Justin Faulk",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Albert Johansson",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Anton Johansson",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Daniil Tarasov",
+     "positionIdentifier": "g1",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "John Gibson",
+     "positionIdentifier": "g2",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Axel Sandin-Pellikka",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Michael Brandsegg-Nyg\u00e5rd",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Andrew Copp",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Emmitt Finnie",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex DeBrincat",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Moritz Seider",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Lucas Raymond",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dylan Larkin",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Viktor Arvidsson",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Axel Sandin-Pellikka",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Nate Danielson",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "J.T. Compher",
+     "positionIdentifier": "ir1",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "ir",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Marco Kasper",
+     "positionIdentifier": "ir2",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "ir",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Mason Appleton",
+     "positionIdentifier": "ir3",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "ir",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Simon Edvinsson",
+     "positionIdentifier": "ir4",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "ir",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Andrew Copp",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Emmitt Finnie",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Chiarot",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Moritz Seider",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Michael Rasmussen",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Keegan Kolesar",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "William Wallinder",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Justin Faulk",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    }
+   ]
+  }
+ }
+}

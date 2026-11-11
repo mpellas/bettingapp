@@ -1,0 +1,10 @@
+Fliff check: J.T. Miller UNDER 1.5 (DK +125, Fliff at +140 or better) - model +8.4 pts vs no-vig; recent +22.0 pts
+   evidence: J.T. Miller U1.5: agrees 4 of 7 (champion +8.4 pts; challenger +6.2 pts; shrunk form +8.2 pts; no-vig moved 2.5 pts toward side since open); against: TOI last 5 +1.3 min vs season; on PP1
+Fliff check: Eeli Tolvanen UNDER 1.5 (DK -125, Fliff at -108 or better) - model +10.1 pts vs no-vig; recent +13.2 pts
+   evidence: Eeli Tolvanen U1.5: agrees 5 of 7 (champion +10.1 pts; challenger +7.5 pts; shrunk form +5.8 pts; TOI last 5 -0.6 min vs season; no-vig moved 3.9 pts toward side since open); against: opponent allows +8% to F_3rd
+Fliff check: Jackson LaCombe UNDER 1.5 (DK -125, Fliff at -107 or better) - model +8.2 pts vs no-vig; recent +2.5 pts
+   evidence: Jackson LaCombe U1.5: agrees 4 of 7 (champion +8.2 pts; challenger +7.0 pts; shrunk form +3.2 pts; TOI last 5 -1.0 min vs season); against: opponent allows +4% to D+PP1; on PP1
+Fliff check: Beckett Sennecke UNDER 2.5 (DK -110, Fliff at +105 or better) - model +7.5 pts vs no-vig; recent +2.8 pts
+   evidence: Beckett Sennecke U2.5: agrees 2 of 7 (champion +7.5 pts; challenger +6.5 pts); against: shrunk form -6.7 pts; TOI last 5 +0.5 min vs season; on PP1; no-vig moved 9.0 pts away from side since open
+Fliff check: Artturi Lehkonen UNDER 1.5 (DK +115, Fliff at +130 or better) - model +2.7 pts vs no-vig; recent +5.5 pts
+   evidence: Artturi Lehkonen U1.5: agrees 3 of 7 (champion +2.7 pts; challenger +0.9 pts; shrunk form +1.1 pts); against: no-vig moved 2.2 pts away from side since open

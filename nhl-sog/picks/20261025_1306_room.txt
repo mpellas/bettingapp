@@ -1,0 +1,17 @@
+**NO BETS** on this pass.
+
+NHL shots on goal, 1:00 PM PT window pass (Sun Oct 25), lines captured 1:06 PM PT. One game: Montreal Canadiens at Winnipeg Jets (4:00 PM PT, start time rechecked). Earlier games were posted in the earlier passes and stay unchanged.
+
+DraftKings list: none. No side has positive blended EV at DraftKings.
+Fliff check: none, so no Fliff prices were pulled.
+DraftKings had only 11 shots lines up for this game, so the pool was thin.
+
+Closest misses:
+- Chris Kreider OVER 1.5 (DK +110): model 52.9% vs no-vig 44.3% (+8.6 pts), but recent form is only 21.4%, so it fails the recent-form check.
+- Mark Scheifele OVER 1.5 (DK -165): model 64.6% vs no-vig 57.8% (+6.8 pts), agrees 5 of 7, but recent form 52.5% doesn't beat no-vig.
+- Oliver Kapanen UNDER 1.5 (DK +130): model 63.6% vs no-vig 40.6% (+23 pts), but he's promoted from the 3rd line to line 1 and PP1 today, so the under is vetoed (the model doesn't know about the bigger role).
+
+Vetoes: 0 sides skipped by the lineup-status check and 4 unders by the role/lineup-slot check (all promotions: Kreider to line 2/PP2, Josh Anderson to line 2, Noah Dobson to PP1, Kapanen to line 1/PP1). The other positive-edge sides were under the 5-point floor or failed recent form.
+Fliff credits: 0 this pass; 2 of 10 used today, 111 left on the account.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261025_D_1306_picks.xlsx (colors only show in Excel or Google Sheets).

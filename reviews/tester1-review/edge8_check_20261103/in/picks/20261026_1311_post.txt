@@ -1,0 +1,6 @@
+Fliff check: Trevor Moore OVER 1.5 (DK -145, Fliff at -123 or better) - model +9.8 pts vs no-vig; recent +16.2 pts
+   last 5: 3 of 5 over 1.5 (shots 4,3,0,3,1); model 64.6%, recent form 71.0% (shot rate last 10 x TOI last 5)
+   evidence: Trevor Moore O1.5: agrees 3 of 7 (champion +9.8 pts; challenger +9.4 pts; shrunk form +15.3 pts); against: no-vig moved 1.8 pts away from side since open
+Fliff check: Alex Laferriere UNDER 2.5 (DK -145, Fliff at -123 or better) - model +7.7 pts vs no-vig; recent +14.5 pts
+   last 5: 4 of 5 under 2.5 (shots 2,2,3,2,0); model 62.5%, recent form 69.4% (shot rate last 10 x TOI last 5)
+   evidence: Alex Laferriere U2.5: agrees 3 of 7 (champion +7.7 pts; challenger +2.4 pts; no-vig moved 7.3 pts toward side since open); against: shrunk form -2.6 pts; TOI last 5 20.6 vs this season 19.1 (+1.6 min); last 30 incl. last season 20.1 (reference only); on PP1

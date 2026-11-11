@@ -1,0 +1,128 @@
+{
+ "captured_at_utc": "2026-11-10T01:13:48+00:00",
+ "captured_at_pt": "2026-11-09T17:13:48-08:00",
+ "dir": "data/snapshots/2026-11-09",
+ "events": [],
+ "skipped": [
+  {
+   "event_id": "401873051",
+   "reason": "captured < 1 min ago"
+  },
+  {
+   "event_id": "401873037",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873038",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873040",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873045",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873042",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873039",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873044",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873043",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873041",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873046",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873049",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873047",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873048",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873050",
+   "reason": "state=post, kickoff passed"
+  },
+  {
+   "event_id": "401873052",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873053",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873058",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873056",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873060",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873057",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873059",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873055",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873054",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873062",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873061",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873063",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873064",
+   "reason": "captured < 9 min ago"
+  },
+  {
+   "event_id": "401873065",
+   "reason": "captured < 9 min ago"
+  }
+ ],
+ "manifest_sha256": "1ca325cf123cae1021d941a9fd4ba69c1795a36094108a35c024b29bd3081d59",
+ "total_lines_by_market": {},
+ "total_lines_with_prices": 0,
+ "next_kickoff_min": 1.2
+}

@@ -1,0 +1,19 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, 4:00 PM PT window pass (Tue Oct 27; fired 4:09, run 4:09 PM PT), DraftKings lines captured about 4:01 PM PT. One game in the window: Buffalo Sabres at San Jose Sharks, 7:30 PM PT (200 min out at run time). The ten earlier games were already posted by the 1:00, 1:30, 2:30 and 3:30 PM passes and were not re-scored.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (20 lines up; best is -5.3%).
+
+Fliff check (1). It isn't a bet right now: Fliff and DraftKings are both worse than shop-at.
+1. Jack Quinn (BUF F), Buffalo Sabres at San Jose Sharks (7:30 PM PT), UNDER 2.5 shots on goal
+   DK now: -105 (opened +115), model under 53.9% vs no-vig 47.5%, recent form under 49.4% (shot rate last 10 x TOI last 5). Shop-at (worst acceptable): +109 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 1 of 5 under 2.5 (shots 3, 4, 2, 4, 3).
+   Role: Sabres forward, line 2 and PP1, no change (Buffalo DailyFaceoff lineup updated 12:24 PM PT today, about 4 hours old). TOI last 5 19.3 min vs 17.2 over last 30 (trending up, which leans against the under). SJ allows about 5% more than average to top-six PP1 forwards.
+   Evidence: agrees 3 of 7 (champion +6.4 pts; challenger +5.7 pts; no-vig moved 4.2 pts toward the under since open); against: shrunk form -9.8 pts; opponent allows +5% to top-six PP1 forwards; on PP1.
+   Fliff -125 and DK -105 are both worse than +109.
+Correlation: only one live side, so no same-game link.
+Fliff credits: 7 of 10 used today (1 this pass, for the one eligible side); 100 left on the account.
+
+Vetoes: 5 role-check vetoes, all on sides with no positive DK EV. Overs dropped for demotions or PP1 loss: Jason Zucker, Kiefer Sherwood, Owen Power; unders dropped for promotions: Josh Doan, Collin Graf.
+No games before noon PT in this pass. Both teams' DailyFaceoff lineups are fresh (BUF 12:24 PM, SJ 10:44 AM PT today).
+Spreadsheet: /workspace/nhl-sog/sheets/20261027_D_1609_picks.xlsx (colors only show in Excel or Google Sheets).

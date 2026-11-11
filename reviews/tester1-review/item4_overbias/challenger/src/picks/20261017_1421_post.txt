@@ -1,0 +1,6 @@
+Fliff check: Steven Stamkos OVER 2.5 (DK +100, Fliff at +117 or better) - model +2.7 pts vs no-vig; recent +6.6 pts
+   evidence: Steven Stamkos O2.5: agrees 4 of 7 (champion +2.7 pts; challenger +4.5 pts; shrunk form +6.2 pts; on PP1); against: no-vig moved 1.4 pts away from side since open
+Fliff check: Roman Josi OVER 2.5 (DK +115, Fliff at +132 or better) - model +2.8 pts vs no-vig; recent +5.7 pts
+   evidence: Roman Josi O2.5: agrees 4 of 7 (champion +2.8 pts; challenger +6.2 pts; shrunk form +6.7 pts; on PP1); nothing against
+Fliff check: Matthew Wood OVER 1.5 (DK +105, Fliff at +121 or better) - model +3.8 pts vs no-vig; recent +2.8 pts
+   evidence: Matthew Wood O1.5: agrees 3 of 7 (champion +3.8 pts; challenger +5.9 pts; shrunk form +2.4 pts); against: opponent allows -7% to F_3rd; no-vig moved 1.4 pts away from side since open

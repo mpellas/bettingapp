@@ -1,0 +1,870 @@
+status,source,game,team,player,market,line,side,book,price,fair_prob,ev_pct,n_books,sharps,model_p,reason
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,pass_yds,237.5,Over,draftkings,-112,0.5,-5.36,5,pinnacle,0.687,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,pass_yds,237.5,Under,draftkings,-112,0.5,-5.36,5,pinnacle,0.313,1 sharp book(s) at line; EV -5.36% < 2; model 31.3% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,pass_yds,190.5,Over,draftkings,-111,0.5,-4.95,3,,0.7,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,pass_yds,190.5,Under,draftkings,-112,0.5,-5.36,3,,0.3,0 sharp book(s) at line; EV -5.36% < 2; model 30.0% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,parker washington,reception_yds,69.5,Over,draftkings,-114,0.5042,-5.35,3,fanduel,0.4797,1 sharp book(s) at line; EV -5.35% < 2; model 48.0% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,parker washington,reception_yds,69.5,Under,draftkings,-110,0.4958,-5.35,3,fanduel,0.5203,1 sharp book(s) at line; EV -5.35% < 2; model 52.0% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,brenton strange,reception_yds,40.5,Over,draftkings,-115,0.5,-6.52,3,,0.5543,0 sharp book(s) at line; EV -6.52% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,brenton strange,reception_yds,40.5,Under,draftkings,-109,0.5,-4.13,3,,0.4457,0 sharp book(s) at line; EV -4.13% < 2; model 44.6% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,tyler warren,reception_yds,39.5,Over,draftkings,-115,0.5017,-6.21,4,,0.5733,0 sharp book(s) at line; EV -6.21% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,tyler warren,reception_yds,39.5,Under,draftkings,-109,0.4983,-4.45,4,,0.4267,0 sharp book(s) at line; EV -4.45% < 2; model 42.7% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,keenan allen,reception_yds,34.5,Over,draftkings,-112,0.5,-5.36,4,,0.4865,0 sharp book(s) at line; EV -5.36% < 2; model 48.6% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,keenan allen,reception_yds,34.5,Under,draftkings,-112,0.5,-5.36,4,,0.5135,0 sharp book(s) at line; EV -5.36% < 2; model 51.4% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,josh downs,reception_yds,34.5,Over,draftkings,-111,0.4979,-5.36,3,,0.6804,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,josh downs,reception_yds,34.5,Under,draftkings,-113,0.5021,-5.36,3,,0.3196,0 sharp book(s) at line; EV -5.36% < 2; model 32.0% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,jakobi meyers,reception_yds,33.5,Over,draftkings,-113,0.5,-5.75,4,,0.7197,0 sharp book(s) at line; EV -5.75% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,jakobi meyers,reception_yds,33.5,Under,draftkings,-111,0.5,-4.95,4,,0.2803,0 sharp book(s) at line; EV -4.95% < 2; model 28.0% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,laquon treadwell,reception_yds,23.5,Over,draftkings,-114,0.5021,-5.74,4,,,0 sharp book(s) at line; EV -5.74% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,laquon treadwell,reception_yds,23.5,Under,draftkings,-110,0.4979,-4.95,4,,,0 sharp book(s) at line; EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,reception_yds,14.5,Over,draftkings,-117,0.5103,-5.36,3,,0.6849,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,reception_yds,14.5,Under,draftkings,-107,0.4897,-5.26,3,,0.3151,0 sharp book(s) at line; EV -5.26% < 2; model 31.5% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,reception_yds,14.5,Over,draftkings,-108,0.4933,-5.0,4,,0.4851,0 sharp book(s) at line; EV -5.00% < 2; model 48.5% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,reception_yds,14.5,Under,draftkings,-116,0.5067,-5.64,4,,0.5149,0 sharp book(s) at line; EV -5.64% < 2; model 51.5% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,travis hunter,reception_yds,13.5,Over,draftkings,-116,0.5073,-5.53,5,"fanduel,pinnacle",,EV -5.53% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,travis hunter,reception_yds,13.5,Under,draftkings,-109,0.4927,-5.53,5,"fanduel,pinnacle",,EV -5.53% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,josh cameron,reception_yds,13.5,Over,draftkings,-109,0.4968,-4.73,6,pinnacle,0.547,1 sharp book(s) at line; EV -4.73% < 2; model 54.7% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,josh cameron,reception_yds,13.5,Under,draftkings,-115,0.5032,-5.93,6,pinnacle,0.453,1 sharp book(s) at line; EV -5.93% < 2; model 45.3% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,brian thomas,reception_yds,10.5,Over,draftkings,-110,0.5,-4.55,7,"fanduel,pinnacle",0.7044,EV -4.55% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,brian thomas,reception_yds,10.5,Under,draftkings,-114,0.5,-6.14,7,"fanduel,pinnacle",0.2956,EV -6.14% < 2; model 29.6% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,nate boerkircher,reception_yds,8.5,Over,draftkings,-109,0.4948,-5.12,5,fanduel,,1 sharp book(s) at line; EV -5.12% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,nate boerkircher,reception_yds,8.5,Under,draftkings,-115,0.5052,-5.56,5,fanduel,,1 sharp book(s) at line; EV -5.56% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,ashton dulin,reception_yds,3.5,Over,draftkings,-113,0.5021,-5.36,1,,,no books at exact line; 0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,ashton dulin,reception_yds,3.5,Under,draftkings,-111,0.4979,-5.36,1,,,no books at exact line; 0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,rush_yds,66.5,Over,draftkings,-114,0.5042,-5.35,3,,0.3348,0 sharp book(s) at line; EV -5.35% < 2; model 33.5% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,rush_yds,66.5,Under,draftkings,-110,0.4958,-5.35,3,,0.6652,0 sharp book(s) at line; EV -5.35% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,rush_yds,48.5,Over,draftkings,-113,0.5,-5.75,3,,0.6972,0 sharp book(s) at line; EV -5.75% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,rush_yds,48.5,Under,draftkings,-111,0.5,-4.95,3,,0.3028,0 sharp book(s) at line; EV -4.95% < 2; model 30.3% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,chris rodriguez,rush_yds,31.5,Over,draftkings,-109,0.4989,-4.34,6,"fanduel,pinnacle",0.4593,EV -4.34% < 2; model 45.9% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,chris rodriguez,rush_yds,31.5,Under,draftkings,-115,0.5011,-6.32,6,"fanduel,pinnacle",0.5407,EV -6.32% < 2; model 54.1% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,rush_yds,24.5,Over,draftkings,-109,0.4969,-4.72,5,,0.4763,0 sharp book(s) at line; EV -4.72% < 2; model 47.6% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,rush_yds,24.5,Under,draftkings,-115,0.5031,-5.94,5,,0.5237,0 sharp book(s) at line; EV -5.94% < 2; model 52.4% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,rush_yds,12.5,Over,draftkings,-108,0.4907,-5.49,2,,,0 sharp book(s) at line; EV -5.49% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,rush_yds,12.5,Under,draftkings,-116,0.5093,-5.17,2,,,0 sharp book(s) at line; EV -5.17% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,rush_yds,8.5,Over,draftkings,-115,0.5,-6.52,5,,,0 sharp book(s) at line; EV -6.52% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,rush_yds,8.5,Under,draftkings,-109,0.5,-4.13,5,,,0 sharp book(s) at line; EV -4.13% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,pass_yds,192.5,Over,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.6897,EV -8.33% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,pass_yds,192.5,Under,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.3103,EV -8.33% < 2; model 31.0% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,tyler warren,reception_yds,40.5,Over,fliff,-115,0.5,-6.52,3,"fanduel,pinnacle",0.4643,EV -6.52% < 2; model 46.4% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,tyler warren,reception_yds,40.5,Under,fliff,-125,0.5,-10.0,3,"fanduel,pinnacle",0.5357,EV -10.00% < 2; model 53.6% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,josh downs,reception_yds,32.5,Over,fliff,-125,0.5082,-8.52,5,"fanduel,pinnacle",0.7057,EV -8.52% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,josh downs,reception_yds,32.5,Under,fliff,-120,0.4918,-9.84,5,"fanduel,pinnacle",0.2943,EV -9.84% < 2; model 29.4% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,keenan allen,reception_yds,35.5,Over,fliff,-120,0.5,-8.33,4,"fanduel,pinnacle",0.5685,EV -8.33% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,keenan allen,reception_yds,35.5,Under,fliff,-120,0.5,-8.33,4,"fanduel,pinnacle",0.4315,EV -8.33% < 2; model 43.1% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,rush_yds,11.5,Over,fliff,-120,0.5026,-7.86,6,"fanduel,pinnacle",,EV -7.86% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,rush_yds,11.5,Under,fliff,-120,0.4974,-8.81,6,"fanduel,pinnacle",,EV -8.81% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,rush_yds,23.5,Over,fliff,-120,0.4977,-8.75,2,fanduel,0.4172,1 sharp book(s) at line; EV -8.75% < 2; model 41.7% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,rush_yds,23.5,Under,fliff,-125,0.5023,-9.59,2,fanduel,0.5828,1 sharp book(s) at line; EV -9.59% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,parker washington,reception_yds,67.5,Over,fliff,-120,0.5,-8.33,4,pinnacle,0.4221,1 sharp book(s) at line; EV -8.33% < 2; model 42.2% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,parker washington,reception_yds,67.5,Under,fliff,-120,0.5,-8.33,4,pinnacle,0.5779,1 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,laquon treadwell,reception_yds,24.5,Over,fliff,-120,0.5,-8.33,3,pinnacle,,1 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,IND,laquon treadwell,reception_yds,24.5,Under,fliff,-120,0.5,-8.33,3,pinnacle,,1 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,pass_yds,238.5,Over,fliff,-120,0.4949,-9.26,2,,0.6807,0 sharp book(s) at line; EV -9.26% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,pass_yds,238.5,Under,fliff,-120,0.5051,-7.41,2,,0.3193,0 sharp book(s) at line; EV -7.41% < 2; model 31.9% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,travis hunter,reception_yds,14.5,Over,fliff,-125,0.5023,-9.59,2,,,0 sharp book(s) at line; EV -9.59% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,travis hunter,reception_yds,14.5,Under,fliff,-120,0.4977,-8.75,2,,,0 sharp book(s) at line; EV -8.75% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,brian thomas,reception_yds,11.5,Over,fliff,-115,0.4905,-8.29,1,,0.6876,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,brian thomas,reception_yds,11.5,Under,fliff,-125,0.5095,-8.29,1,,0.3124,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2; model 31.2% < 55.0%
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,nate boerkircher,reception_yds,7.5,Over,fliff,-125,0.5098,-8.24,2,,,0 sharp book(s) at line; EV -8.24% < 2; not in model universe
+fail,DK/Fliff,Indianapolis Colts @ Jacksonville Jaguars,JAX,nate boerkircher,reception_yds,7.5,Under,fliff,-115,0.4902,-8.35,2,,,0 sharp book(s) at line; EV -8.35% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jared goff,pass_yds,259.5,Over,draftkings,-111,0.4979,-5.36,3,pinnacle,0.607,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jared goff,pass_yds,259.5,Under,draftkings,-113,0.5021,-5.36,3,pinnacle,0.393,1 sharp book(s) at line; EV -5.36% < 2; model 39.3% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,pass_yds,225.5,Over,draftkings,-113,0.5011,-5.55,2,,0.5357,0 sharp book(s) at line; EV -5.55% < 2; model 53.6% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,pass_yds,225.5,Under,draftkings,-111,0.4989,-5.16,2,,0.4643,0 sharp book(s) at line; EV -5.16% < 2; model 46.4% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,amon ra st brown,reception_yds,77.5,Over,draftkings,-114,0.5042,-5.35,5,"fanduel,pinnacle",0.5974,EV -5.35% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,amon ra st brown,reception_yds,77.5,Under,draftkings,-110,0.4958,-5.35,5,"fanduel,pinnacle",0.4026,EV -5.35% < 2; model 40.3% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,justin jefferson,reception_yds,75.5,Over,draftkings,-110,0.5,-4.55,5,"fanduel,pinnacle",0.3858,injury Out; EV -4.55% < 2; model 38.6% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,justin jefferson,reception_yds,75.5,Under,draftkings,-114,0.5,-6.14,5,"fanduel,pinnacle",0.6142,injury Out; EV -6.14% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jameson williams,reception_yds,51.5,Over,draftkings,-113,0.5011,-5.55,6,"fanduel,pinnacle",0.6312,EV -5.55% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jameson williams,reception_yds,51.5,Under,draftkings,-111,0.4989,-5.16,6,"fanduel,pinnacle",0.3688,EV -5.16% < 2; model 36.9% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,t j hockenson,reception_yds,42.5,Over,draftkings,-115,0.5082,-4.98,4,,0.37,0 sharp book(s) at line; EV -4.98% < 2; model 37.0% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,t j hockenson,reception_yds,42.5,Under,draftkings,-109,0.4918,-5.7,4,,0.63,0 sharp book(s) at line; EV -5.70% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,sam laporta,reception_yds,42.5,Over,draftkings,-111,0.4989,-5.16,2,,0.5903,0 sharp book(s) at line; EV -5.16% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,sam laporta,reception_yds,42.5,Under,draftkings,-113,0.5011,-5.55,2,,0.4097,0 sharp book(s) at line; EV -5.55% < 2; model 41.0% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jordan addison,reception_yds,37.5,Over,draftkings,-113,0.5011,-5.55,4,fanduel,0.5747,1 sharp book(s) at line; EV -5.55% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jordan addison,reception_yds,37.5,Under,draftkings,-111,0.4989,-5.16,4,fanduel,0.4253,1 sharp book(s) at line; EV -5.16% < 2; model 42.5% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,reception_yds,30.5,Over,draftkings,-110,0.4979,-4.95,4,,0.6234,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,reception_yds,30.5,Under,draftkings,-114,0.5021,-5.74,4,,0.3766,0 sharp book(s) at line; EV -5.74% < 2; model 37.7% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,isaac teslaa,reception_yds,17.5,Over,draftkings,-112,0.5,-5.36,2,,0.6265,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,isaac teslaa,reception_yds,17.5,Under,draftkings,-112,0.5,-5.36,2,,0.3735,0 sharp book(s) at line; EV -5.36% < 2; model 37.4% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jauan jennings,reception_yds,12.5,Over,draftkings,-113,0.5011,-5.55,6,"fanduel,pinnacle",0.6682,EV -5.55% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jauan jennings,reception_yds,12.5,Under,draftkings,-111,0.4989,-5.16,6,"fanduel,pinnacle",0.3318,EV -5.16% < 2; model 33.2% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,reception_yds,9.5,Over,draftkings,-114,0.5,-6.14,9,"fanduel,pinnacle",,EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,reception_yds,9.5,Under,draftkings,-110,0.5,-4.55,9,"fanduel,pinnacle",,EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,rush_yds,88.5,Over,draftkings,-114,0.5021,-5.74,2,,0.4514,0 sharp book(s) at line; EV -5.74% < 2; model 45.1% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,rush_yds,88.5,Under,draftkings,-110,0.4979,-4.95,2,,0.5486,0 sharp book(s) at line; EV -4.95% < 2; model 54.9% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,rush_yds,50.5,Over,draftkings,-111,0.4989,-5.16,2,,0.5142,0 sharp book(s) at line; EV -5.16% < 2; model 51.4% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,rush_yds,50.5,Under,draftkings,-113,0.5011,-5.55,2,,0.4858,0 sharp book(s) at line; EV -5.55% < 2; model 48.6% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,29.5,Over,draftkings,-110,0.4775,-8.84,4,pinnacle,0.7923,1 sharp book(s) at line; EV -8.84% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,29.5,Under,draftkings,-114,0.5225,-1.92,4,pinnacle,0.2077,1 sharp book(s) at line; EV -1.92% < 2; model 20.8% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,rush_yds,25.5,Over,draftkings,-109,0.4918,-5.7,2,,,0 sharp book(s) at line; EV -5.70% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,rush_yds,25.5,Under,draftkings,-115,0.5082,-4.98,2,,,0 sharp book(s) at line; EV -4.98% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,sione vaki,rush_yds,5.5,Over,draftkings,-105,0.4888,-4.57,4,,,0 sharp book(s) at line; EV -4.57% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,sione vaki,rush_yds,5.5,Under,draftkings,-119,0.5112,-5.92,4,,,0 sharp book(s) at line; EV -5.92% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jared goff,rush_yds,1.5,Over,draftkings,-105,0.4871,-4.9,2,,,0 sharp book(s) at line; EV -4.90% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jared goff,rush_yds,1.5,Under,draftkings,-120,0.5129,-5.96,2,,,0 sharp book(s) at line; EV -5.96% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,t j hockenson,reception_yds,40.5,Over,fliff,-125,0.5046,-9.17,3,"fanduel,pinnacle",0.4667,EV -9.17% < 2; model 46.7% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,t j hockenson,reception_yds,40.5,Under,fliff,-120,0.4954,-9.17,3,"fanduel,pinnacle",0.5333,EV -9.17% < 2; model 53.3% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,isaac teslaa,reception_yds,18.5,Over,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.5047,EV -8.33% < 2; model 50.5% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,isaac teslaa,reception_yds,18.5,Under,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.4953,EV -8.33% < 2; model 49.5% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,rush_yds,49.5,Over,fliff,-120,0.5011,-8.13,6,"fanduel,pinnacle",0.4438,EV -8.13% < 2; model 44.4% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,rush_yds,49.5,Under,fliff,-120,0.4989,-8.53,6,"fanduel,pinnacle",0.5562,EV -8.53% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,rush_yds,24.5,Over,fliff,-120,0.5051,-7.41,6,"fanduel,pinnacle",,EV -7.41% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,rush_yds,24.5,Under,fliff,-120,0.4949,-9.26,6,"fanduel,pinnacle",,EV -9.26% < 2; not in model universe
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,28.5,Over,fliff,-115,0.4938,-7.69,2,,0.8612,0 sharp book(s) at line; EV -7.69% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,28.5,Under,fliff,-125,0.5062,-8.88,2,,0.1388,0 sharp book(s) at line; EV -8.88% < 2; model 13.9% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jared goff,pass_yds,255.5,Over,fliff,-120,0.5,-8.33,1,,0.6334,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jared goff,pass_yds,255.5,Under,fliff,-120,0.5,-8.33,1,,0.3666,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 36.7% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,pass_yds,223.5,Over,fliff,-120,0.5,-8.33,1,,0.5556,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,pass_yds,223.5,Under,fliff,-120,0.5,-8.33,1,,0.4444,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 44.4% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,amon ra st brown,reception_yds,78.5,Over,fliff,-120,0.5,-8.33,2,,0.5861,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,amon ra st brown,reception_yds,78.5,Under,fliff,-120,0.5,-8.33,2,,0.4139,0 sharp book(s) at line; EV -8.33% < 2; model 41.4% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,justin jefferson,reception_yds,76.5,Over,fliff,-120,0.5,-8.33,1,,0.4408,injury Out; no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 44.1% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,MIN,justin jefferson,reception_yds,76.5,Under,fliff,-120,0.5,-8.33,1,,0.5592,injury Out; no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,sam laporta,reception_yds,44.5,Over,fliff,-120,0.4898,-10.19,2,,0.5584,0 sharp book(s) at line; EV -10.19% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,sam laporta,reception_yds,44.5,Under,fliff,-120,0.5102,-6.47,2,,0.4416,0 sharp book(s) at line; EV -6.47% < 2; model 44.2% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,reception_yds,28.5,Over,fliff,-125,0.508,-8.56,2,pinnacle,0.5514,1 sharp book(s) at line; EV -8.56% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,reception_yds,28.5,Under,fliff,-115,0.492,-8.02,2,pinnacle,0.4486,1 sharp book(s) at line; EV -8.02% < 2; model 44.9% < 55.0%
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,rush_yds,86.5,Over,fliff,-120,0.5,-8.33,1,,0.5631,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,rush_yds,86.5,Under,fliff,-120,0.5,-8.33,1,,0.4369,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 43.7% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,pass_yds,224.5,Over,draftkings,-113,0.5,-5.75,3,,0.5638,0 sharp book(s) at line; EV -5.75% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,pass_yds,224.5,Under,draftkings,-111,0.5,-4.95,3,,0.4362,0 sharp book(s) at line; EV -4.95% < 2; model 43.6% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,pass_yds,212.5,Over,draftkings,-111,0.5,-4.95,3,,0.5958,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,pass_yds,212.5,Under,draftkings,-113,0.5,-5.75,3,,0.4042,0 sharp book(s) at line; EV -5.75% < 2; model 40.4% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,drake london,reception_yds,78.5,Over,draftkings,-110,0.5,-4.55,3,,0.4415,0 sharp book(s) at line; EV -4.55% < 2; model 44.1% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,drake london,reception_yds,78.5,Under,draftkings,-114,0.5,-6.14,3,,0.5585,0 sharp book(s) at line; EV -6.14% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,chris godwin,reception_yds,40.5,Over,draftkings,-112,0.5,-5.36,5,fanduel,0.5471,1 sharp book(s) at line; EV -5.36% < 2; model 54.7% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,chris godwin,reception_yds,40.5,Under,draftkings,-112,0.5,-5.36,5,fanduel,0.4529,1 sharp book(s) at line; EV -5.36% < 2; model 45.3% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,kyle pitts,reception_yds,34.5,Over,draftkings,-110,0.5,-4.55,7,fanduel,0.5599,1 sharp book(s) at line; EV -4.55% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,kyle pitts,reception_yds,34.5,Under,draftkings,-114,0.5,-6.14,7,fanduel,0.4401,1 sharp book(s) at line; EV -6.14% < 2; model 44.0% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,cade otton,reception_yds,33.5,Over,draftkings,-114,0.5,-6.14,6,"fanduel,pinnacle",0.4034,EV -6.14% < 2; model 40.3% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,cade otton,reception_yds,33.5,Under,draftkings,-110,0.5,-4.55,6,"fanduel,pinnacle",0.5966,EV -4.55% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,tez johnson,reception_yds,31.5,Over,draftkings,-111,0.5,-4.95,7,"fanduel,pinnacle",0.4345,EV -4.95% < 2; model 43.5% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,tez johnson,reception_yds,31.5,Under,draftkings,-114,0.5,-6.14,7,"fanduel,pinnacle",0.5655,EV -6.14% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,reception_yds,31.5,Over,draftkings,-109,0.5,-4.13,5,pinnacle,0.4502,1 sharp book(s) at line; EV -4.13% < 2; model 45.0% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,reception_yds,31.5,Under,draftkings,-115,0.5,-6.52,5,pinnacle,0.5498,1 sharp book(s) at line; EV -6.52% < 2; model 55.0% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,ted hurst,reception_yds,30.5,Over,draftkings,-112,0.5,-5.36,3,,0.3067,0 sharp book(s) at line; EV -5.36% < 2; model 30.7% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,ted hurst,reception_yds,30.5,Under,draftkings,-112,0.5,-5.36,3,,0.6933,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,jahan dotson,reception_yds,23.5,Over,draftkings,-113,0.5021,-5.36,3,,0.5971,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,jahan dotson,reception_yds,23.5,Under,draftkings,-111,0.4979,-5.36,3,,0.4029,0 sharp book(s) at line; EV -5.36% < 2; model 40.3% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,reception_yds,18.5,Over,draftkings,-108,0.4902,-5.59,4,,,0 sharp book(s) at line; EV -5.59% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,reception_yds,18.5,Under,draftkings,-117,0.5098,-5.45,4,,,0 sharp book(s) at line; EV -5.45% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,reception_yds,11.5,Over,draftkings,-111,0.5,-4.95,7,pinnacle,,1 sharp book(s) at line; EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,reception_yds,11.5,Under,draftkings,-113,0.5,-5.75,7,pinnacle,,1 sharp book(s) at line; EV -5.75% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,zachariah branch,reception_yds,8.5,Over,draftkings,-105,0.5,-2.38,7,"fanduel,pinnacle",,EV -2.38% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,zachariah branch,reception_yds,8.5,Under,draftkings,-119,0.5,-7.98,7,"fanduel,pinnacle",,EV -7.98% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,austin hooper,reception_yds,5.5,Over,draftkings,-112,0.5,-5.36,5,fanduel,,1 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,austin hooper,reception_yds,5.5,Under,draftkings,-112,0.5,-5.36,5,fanduel,,1 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,rush_yds,81.5,Over,draftkings,-110,0.4979,-4.95,2,,0.3278,0 sharp book(s) at line; EV -4.95% < 2; model 32.8% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,rush_yds,81.5,Under,draftkings,-114,0.5021,-5.74,2,,0.6722,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,rush_yds,69.5,Over,draftkings,-110,0.4979,-4.95,4,,0.4308,0 sharp book(s) at line; EV -4.95% < 2; model 43.1% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,rush_yds,69.5,Under,draftkings,-114,0.5021,-5.74,4,,0.5692,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,rush_yds,15.5,Over,draftkings,-115,0.5098,-4.69,4,,,0 sharp book(s) at line; EV -4.69% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,rush_yds,15.5,Under,draftkings,-109,0.4902,-6.01,4,,,0 sharp book(s) at line; EV -6.01% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,rush_yds,14.5,Over,draftkings,-110,0.5,-4.55,9,"fanduel,pinnacle",0.6382,EV -4.55% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,rush_yds,14.5,Under,draftkings,-114,0.5,-6.14,9,"fanduel,pinnacle",0.3618,EV -6.14% < 2; model 36.2% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,khalil herbert,rush_yds,8.5,Over,draftkings,-114,0.5042,-5.35,5,,,0 sharp book(s) at line; EV -5.35% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,khalil herbert,rush_yds,8.5,Under,draftkings,-110,0.4958,-5.35,5,,,0 sharp book(s) at line; EV -5.35% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,sean tucker,rush_yds,7.5,Over,draftkings,-108,0.4899,-5.65,3,,0.631,0 sharp book(s) at line; EV -5.65% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,sean tucker,rush_yds,7.5,Under,draftkings,-116,0.5101,-5.01,3,,0.369,0 sharp book(s) at line; EV -5.01% < 2; model 36.9% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,rush_yds,2.5,Over,draftkings,-121,0.5215,-4.75,4,"fanduel,pinnacle",,EV -4.75% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,rush_yds,2.5,Under,draftkings,-103,0.4785,-5.69,4,"fanduel,pinnacle",,EV -5.69% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,drake london,reception_yds,79.5,Over,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.4312,EV -8.33% < 2; model 43.1% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,drake london,reception_yds,79.5,Under,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.5688,EV -8.33% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,reception_yds,16.5,Over,fliff,-125,0.5049,-9.12,4,fanduel,,1 sharp book(s) at line; EV -9.12% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,reception_yds,16.5,Under,fliff,-120,0.4951,-9.23,4,fanduel,,1 sharp book(s) at line; EV -9.23% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,ted hurst,reception_yds,31.5,Over,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.3129,EV -8.33% < 2; model 31.3% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,ted hurst,reception_yds,31.5,Under,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.6871,EV -8.33% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,khalil herbert,rush_yds,7.5,Over,fliff,-125,0.5047,-9.15,2,fanduel,,1 sharp book(s) at line; EV -9.15% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,khalil herbert,rush_yds,7.5,Under,fliff,-115,0.4953,-7.41,2,fanduel,,1 sharp book(s) at line; EV -7.41% < 2; not in model universe
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,rush_yds,80.5,Over,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.3808,EV -8.33% < 2; model 38.1% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,rush_yds,80.5,Under,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.6192,EV -8.33% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,sean tucker,rush_yds,6.5,Over,fliff,-125,0.4889,-11.99,3,"fanduel,pinnacle",0.7533,EV -11.99% < 2
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,TB,sean tucker,rush_yds,6.5,Under,fliff,-115,0.5111,-4.45,3,"fanduel,pinnacle",0.2467,EV -4.45% < 2; model 24.7% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,pass_yds,227.5,Over,fliff,-120,0.5,-8.33,1,,0.5464,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 54.6% < 55.0%
+fail,DK/Fliff,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,pass_yds,227.5,Under,fliff,-120,0.5,-8.33,1,,0.4536,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 45.4% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,pass_yds,271.5,Over,draftkings,-111,0.5,-4.95,5,"fanduel,pinnacle",0.5264,EV -4.95% < 2; model 52.6% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,pass_yds,271.5,Under,draftkings,-112,0.5,-5.36,5,"fanduel,pinnacle",0.4736,EV -5.36% < 2; model 47.4% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,pass_yds,256.5,Over,draftkings,-112,0.5,-5.36,4,fanduel,0.3112,1 sharp book(s) at line; EV -5.36% < 2; model 31.1% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,pass_yds,256.5,Under,draftkings,-112,0.5,-5.36,4,fanduel,0.6888,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,ceedee lamb,reception_yds,84.5,Over,draftkings,-112,0.5,-5.36,4,,0.5375,0 sharp book(s) at line; EV -5.36% < 2; model 53.8% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,ceedee lamb,reception_yds,84.5,Under,draftkings,-112,0.5,-5.36,4,,0.4625,0 sharp book(s) at line; EV -5.36% < 2; model 46.2% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,trey mcbride,reception_yds,74.5,Over,draftkings,-113,0.5,-5.75,4,,0.379,0 sharp book(s) at line; EV -5.75% < 2; model 37.9% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,trey mcbride,reception_yds,74.5,Under,draftkings,-111,0.5,-4.95,4,,0.621,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,george pickens,reception_yds,65.5,Over,draftkings,-113,0.5,-5.75,4,"fanduel,pinnacle",0.535,EV -5.75% < 2; model 53.5% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,george pickens,reception_yds,65.5,Under,draftkings,-111,0.5,-4.95,4,"fanduel,pinnacle",0.465,EV -4.95% < 2; model 46.5% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,mike wilson,reception_yds,60.5,Over,draftkings,-110,0.5,-4.55,3,,0.5356,0 sharp book(s) at line; EV -4.55% < 2; model 53.6% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,mike wilson,reception_yds,60.5,Under,draftkings,-114,0.5,-6.14,3,,0.4644,0 sharp book(s) at line; EV -6.14% < 2; model 46.4% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,kendrick bourne,reception_yds,38.5,Over,draftkings,-112,0.5,-5.36,6,"fanduel,pinnacle",0.261,EV -5.36% < 2; model 26.1% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,kendrick bourne,reception_yds,38.5,Under,draftkings,-112,0.5,-5.36,6,"fanduel,pinnacle",0.739,EV -5.36% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,ryan flournoy,reception_yds,37.5,Over,draftkings,-111,0.5,-4.95,4,fanduel,0.5007,1 sharp book(s) at line; EV -4.95% < 2; model 50.1% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,ryan flournoy,reception_yds,37.5,Under,draftkings,-113,0.5,-5.75,4,fanduel,0.4993,1 sharp book(s) at line; EV -5.75% < 2; model 49.9% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,jake ferguson,reception_yds,17.5,Over,draftkings,-110,0.5,-4.55,6,"fanduel,pinnacle",,EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,jake ferguson,reception_yds,17.5,Under,draftkings,-114,0.5,-6.14,6,"fanduel,pinnacle",,EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,elijah higgins,reception_yds,17.5,Over,draftkings,-109,0.4905,-5.95,7,"fanduel,pinnacle",0.5211,EV -5.95% < 2; model 52.1% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,elijah higgins,reception_yds,17.5,Under,draftkings,-116,0.5095,-5.13,7,"fanduel,pinnacle",0.4789,EV -5.13% < 2; model 47.9% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,brevyn spann ford,reception_yds,14.5,Over,draftkings,-114,0.5,-6.14,4,pinnacle,,1 sharp book(s) at line; EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,brevyn spann ford,reception_yds,14.5,Under,draftkings,-110,0.5,-4.55,4,pinnacle,,1 sharp book(s) at line; EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,reception_yds,11.5,Over,draftkings,-109,0.5,-4.13,7,"fanduel,pinnacle",,EV -4.13% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,reception_yds,11.5,Under,draftkings,-115,0.5,-6.52,7,"fanduel,pinnacle",,EV -6.52% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,reception_yds,9.5,Over,draftkings,-118,0.5101,-5.76,3,,,0 sharp book(s) at line; EV -5.76% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,reception_yds,9.5,Under,draftkings,-106,0.4899,-4.8,3,,,0 sharp book(s) at line; EV -4.80% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,reggie virgil,reception_yds,8.5,Over,draftkings,-111,0.4989,-5.16,2,,,0 sharp book(s) at line; EV -5.16% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,reggie virgil,reception_yds,8.5,Under,draftkings,-113,0.5011,-5.55,2,,,0 sharp book(s) at line; EV -5.55% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,rush_yds,75.5,Over,draftkings,-114,0.5021,-5.74,2,,0.5131,0 sharp book(s) at line; EV -5.74% < 2; model 51.3% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,rush_yds,75.5,Under,draftkings,-110,0.4979,-4.95,2,,0.4869,0 sharp book(s) at line; EV -4.95% < 2; model 48.7% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,rush_yds,47.5,Over,draftkings,-110,0.4979,-4.95,2,,0.5948,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,rush_yds,47.5,Under,draftkings,-114,0.5021,-5.74,2,,0.4052,0 sharp book(s) at line; EV -5.74% < 2; model 40.5% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,tyler goodson,rush_yds,20.5,Over,draftkings,-114,0.5,-6.14,3,,,0 sharp book(s) at line; EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,tyler goodson,rush_yds,20.5,Under,draftkings,-110,0.5,-4.55,3,,,0 sharp book(s) at line; EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,,zonovan knight,rush_yds,19.5,Over,draftkings,-109,0.4815,-7.67,2,,,0 sharp book(s) at line; EV -7.67% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,,zonovan knight,rush_yds,19.5,Under,draftkings,-115,0.5185,-3.07,2,,,0 sharp book(s) at line; EV -3.07% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,tyler allgeier,rush_yds,13.5,Over,fliff,-115,0.5,-6.52,6,"fanduel,pinnacle",0.7958,EV -6.52% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,tyler allgeier,rush_yds,13.5,Under,draftkings,-108,0.5,-3.7,6,"fanduel,pinnacle",0.2042,EV -3.70% < 2; model 20.4% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,rush_yds,9.5,Over,draftkings,-110,0.4918,-6.11,5,,,0 sharp book(s) at line; EV -6.11% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,rush_yds,9.5,Under,draftkings,-114,0.5082,-4.6,5,,,0 sharp book(s) at line; EV -4.60% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,rush_yds,8.5,Over,draftkings,-109,0.5,-4.13,7,"fanduel,pinnacle",,EV -4.13% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,rush_yds,8.5,Under,draftkings,-115,0.5,-6.52,7,"fanduel,pinnacle",,EV -6.52% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,mike wilson,reception_yds,58.5,Over,fliff,-120,0.5,-8.33,2,fanduel,0.4662,1 sharp book(s) at line; EV -8.33% < 2; model 46.6% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,mike wilson,reception_yds,58.5,Under,fliff,-120,0.5,-8.33,2,fanduel,0.5338,1 sharp book(s) at line; EV -8.33% < 2; model 53.4% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,reggie virgil,reception_yds,10.5,Over,fliff,-120,0.5,-8.33,2,fanduel,,1 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,reggie virgil,reception_yds,10.5,Under,fliff,-120,0.5,-8.33,2,fanduel,,1 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,reception_yds,10.5,Over,fliff,-120,0.5052,-7.39,5,"fanduel,pinnacle",,EV -7.39% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,reception_yds,10.5,Under,fliff,-120,0.4948,-9.28,5,"fanduel,pinnacle",,EV -9.28% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,rush_yds,10.5,Over,fliff,-115,0.487,-8.95,3,"fanduel,pinnacle",,EV -8.95% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,rush_yds,10.5,Under,fliff,-130,0.513,-9.24,3,"fanduel,pinnacle",,EV -9.24% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,tyler goodson,rush_yds,19.5,Over,fliff,-120,0.5,-8.33,6,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,tyler goodson,rush_yds,19.5,Under,fliff,-120,0.5,-8.33,6,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,rush_yds,44.5,Over,fliff,-120,0.5,-8.33,4,fanduel,0.5318,1 sharp book(s) at line; EV -8.33% < 2; model 53.2% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,rush_yds,44.5,Under,fliff,-120,0.5,-8.33,4,fanduel,0.4682,1 sharp book(s) at line; EV -8.33% < 2; model 46.8% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,rush_yds,76.5,Over,fliff,-120,0.4985,-8.62,4,"fanduel,pinnacle",0.603,EV -8.62% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,rush_yds,76.5,Under,fliff,-120,0.5015,-8.05,4,"fanduel,pinnacle",0.397,EV -8.05% < 2; model 39.7% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,trey mcbride,reception_yds,72.5,Over,fliff,-120,0.5,-8.33,3,,0.4063,0 sharp book(s) at line; EV -8.33% < 2; model 40.6% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,trey mcbride,reception_yds,72.5,Under,fliff,-120,0.5,-8.33,3,,0.5937,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,pass_yds,270.5,Over,fliff,-120,0.5,-8.33,1,,0.5287,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 52.9% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,pass_yds,270.5,Under,fliff,-120,0.5,-8.33,1,,0.4713,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 47.1% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,pass_yds,257.5,Over,fliff,-120,0.5,-8.33,2,,0.2683,0 sharp book(s) at line; EV -8.33% < 2; model 26.8% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,pass_yds,257.5,Under,fliff,-120,0.5,-8.33,2,,0.7317,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,ceedee lamb,reception_yds,83.5,Over,fliff,-120,0.4949,-9.26,2,,0.4575,0 sharp book(s) at line; EV -9.26% < 2; model 45.7% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,ceedee lamb,reception_yds,83.5,Under,fliff,-120,0.5051,-7.41,2,,0.5425,0 sharp book(s) at line; EV -7.41% < 2; model 54.3% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,george pickens,reception_yds,64.5,Over,fliff,-120,0.5102,-6.47,2,,0.4561,0 sharp book(s) at line; EV -6.47% < 2; model 45.6% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,george pickens,reception_yds,64.5,Under,fliff,-120,0.4898,-10.19,2,,0.5439,0 sharp book(s) at line; EV -10.19% < 2; model 54.4% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,kendrick bourne,reception_yds,37.5,Over,fliff,-120,0.5,-8.33,1,,0.2788,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 27.9% < 55.0%
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,ARI,kendrick bourne,reception_yds,37.5,Under,fliff,-120,0.5,-8.33,1,,0.7212,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,jake ferguson,reception_yds,16.5,Over,fliff,-120,0.5,-8.33,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Arizona Cardinals @ Dallas Cowboys,DAL,jake ferguson,reception_yds,16.5,Under,fliff,-120,0.5,-8.33,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,kirk cousins,pass_yds,231.5,Over,draftkings,-111,0.5,-4.95,4,fanduel,0.5728,1 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,kirk cousins,pass_yds,231.5,Under,draftkings,-113,0.5,-5.75,4,fanduel,0.4272,1 sharp book(s) at line; EV -5.75% < 2; model 42.7% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,geno smith,pass_yds,224.5,Over,draftkings,-113,0.5,-5.75,3,,0.4477,0 sharp book(s) at line; EV -5.75% < 2; model 44.8% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,geno smith,pass_yds,224.5,Under,draftkings,-111,0.5,-4.95,3,,0.5523,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,brock bowers,reception_yds,69.5,Over,draftkings,-114,0.5,-6.14,3,,0.4326,0 sharp book(s) at line; EV -6.14% < 2; model 43.3% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,brock bowers,reception_yds,69.5,Under,draftkings,-110,0.5,-4.55,3,,0.5674,0 sharp book(s) at line; EV -4.55% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,garrett wilson,reception_yds,63.5,Over,draftkings,-111,0.5,-4.95,4,"fanduel,pinnacle",0.4767,EV -4.95% < 2; model 47.7% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,garrett wilson,reception_yds,63.5,Under,draftkings,-113,0.5,-5.75,4,"fanduel,pinnacle",0.5233,EV -5.75% < 2; model 52.3% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,tre tucker,reception_yds,48.5,Over,draftkings,-115,0.5,-6.52,5,"fanduel,pinnacle",0.5736,EV -6.52% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,tre tucker,reception_yds,48.5,Under,draftkings,-109,0.5,-4.13,5,"fanduel,pinnacle",0.4264,EV -4.13% < 2; model 42.6% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,omar cooper,reception_yds,41.5,Over,draftkings,-114,0.5042,-5.35,5,"fanduel,pinnacle",0.5287,EV -5.35% < 2; model 52.9% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,omar cooper,reception_yds,41.5,Under,draftkings,-110,0.4958,-5.35,5,"fanduel,pinnacle",0.4713,EV -5.35% < 2; model 47.1% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,reception_yds,29.5,Over,draftkings,-108,0.4899,-5.65,3,,0.5454,0 sharp book(s) at line; EV -5.65% < 2; model 54.5% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,reception_yds,29.5,Under,draftkings,-116,0.5101,-5.01,3,,0.4546,0 sharp book(s) at line; EV -5.01% < 2; model 45.5% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,mike mayer,reception_yds,26.5,Over,draftkings,-109,0.4905,-5.95,3,,0.6703,0 sharp book(s) at line; EV -5.95% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,mike mayer,reception_yds,26.5,Under,draftkings,-115,0.5095,-4.75,3,,0.3297,0 sharp book(s) at line; EV -4.75% < 2; model 33.0% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,adonai mitchell,reception_yds,25.5,Over,draftkings,-113,0.5,-5.75,3,,0.7244,0 sharp book(s) at line; EV -5.75% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,adonai mitchell,reception_yds,25.5,Under,draftkings,-111,0.5,-4.95,3,,0.2756,0 sharp book(s) at line; EV -4.95% < 2; model 27.6% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,mason taylor,reception_yds,21.5,Over,draftkings,-112,0.5,-5.36,2,,0.5718,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,mason taylor,reception_yds,21.5,Under,draftkings,-112,0.5,-5.36,2,,0.4282,0 sharp book(s) at line; EV -5.36% < 2; model 42.8% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,jalen nailor,reception_yds,16.5,Over,draftkings,-115,0.5063,-5.34,3,,,0 sharp book(s) at line; EV -5.34% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,jalen nailor,reception_yds,16.5,Under,draftkings,-109,0.4937,-5.34,3,,,0 sharp book(s) at line; EV -5.34% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,kenyon sadiq,reception_yds,16.5,Over,draftkings,-115,0.5052,-5.56,5,fanduel,,1 sharp book(s) at line; EV -5.56% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,kenyon sadiq,reception_yds,16.5,Under,draftkings,-109,0.4948,-5.12,5,fanduel,,1 sharp book(s) at line; EV -5.12% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,reception_yds,16.5,Over,draftkings,-107,0.4924,-4.74,4,,,0 sharp book(s) at line; EV -4.74% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,reception_yds,16.5,Under,draftkings,-118,0.5076,-6.23,4,,,0 sharp book(s) at line; EV -6.23% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,,jack bech,reception_yds,9.5,Over,draftkings,-118,0.5051,-6.69,4,fanduel,,1 sharp book(s) at line; EV -6.69% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,,jack bech,reception_yds,9.5,Under,draftkings,-107,0.4949,-4.25,4,fanduel,,1 sharp book(s) at line; EV -4.25% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,rush_yds,79.5,Over,draftkings,-112,0.5,-5.36,4,,0.4784,0 sharp book(s) at line; EV -5.36% < 2; model 47.8% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,rush_yds,79.5,Under,draftkings,-112,0.5,-5.36,4,,0.5216,0 sharp book(s) at line; EV -5.36% < 2; model 52.2% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,rush_yds,50.5,Over,draftkings,-114,0.5021,-5.74,2,,0.459,0 sharp book(s) at line; EV -5.74% < 2; model 45.9% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,rush_yds,50.5,Under,draftkings,-110,0.4979,-4.95,2,,0.541,0 sharp book(s) at line; EV -4.95% < 2; model 54.1% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,mike washington,rush_yds,32.5,Over,draftkings,-112,0.5,-5.36,2,,0.4202,0 sharp book(s) at line; EV -5.36% < 2; model 42.0% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,mike washington,rush_yds,32.5,Under,draftkings,-112,0.5,-5.36,2,,0.5798,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,,isaiah davis,rush_yds,9.5,Over,draftkings,-112,0.5,-5.36,2,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,,isaiah davis,rush_yds,9.5,Under,draftkings,-112,0.5,-5.36,2,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,geno smith,rush_yds,6.5,Over,draftkings,-111,0.5,-4.95,7,"fanduel,pinnacle",,EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,geno smith,rush_yds,6.5,Under,draftkings,-113,0.5,-5.75,7,"fanduel,pinnacle",,EV -5.75% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,kirk cousins,rush_yds,0.5,Over,draftkings,103,0.4694,-4.71,5,"fanduel,pinnacle",,EV -4.71% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,kirk cousins,rush_yds,0.5,Under,draftkings,-129,0.5306,-5.81,5,"fanduel,pinnacle",,EV -5.81% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,mason taylor,reception_yds,22.5,Over,fliff,-120,0.5011,-8.13,4,"fanduel,pinnacle",0.6645,EV -8.13% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,mason taylor,reception_yds,22.5,Under,fliff,-120,0.4989,-8.53,4,"fanduel,pinnacle",0.3355,EV -8.53% < 2; model 33.6% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,adonai mitchell,reception_yds,24.5,Over,fliff,-120,0.5,-8.33,4,"fanduel,pinnacle",0.6283,EV -8.33% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,adonai mitchell,reception_yds,24.5,Under,fliff,-125,0.5,-10.0,4,"fanduel,pinnacle",0.3717,EV -10.00% < 2; model 37.2% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,jalen nailor,reception_yds,17.5,Over,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,jalen nailor,reception_yds,17.5,Under,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,rush_yds,49.5,Over,fliff,-125,0.5,-10.0,5,"fanduel,pinnacle",0.5622,EV -10.00% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,rush_yds,49.5,Under,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.4378,EV -8.33% < 2; model 43.8% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,,isaiah davis,rush_yds,10.5,Over,fliff,-115,0.492,-8.02,3,fanduel,,1 sharp book(s) at line; EV -8.02% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,,isaiah davis,rush_yds,10.5,Under,fliff,-125,0.508,-8.56,3,fanduel,,1 sharp book(s) at line; EV -8.56% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,mike washington,rush_yds,31.5,Over,fliff,-120,0.5011,-8.13,4,"fanduel,pinnacle",0.5148,EV -8.13% < 2; model 51.5% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,mike washington,rush_yds,31.5,Under,fliff,-125,0.4989,-10.19,4,"fanduel,pinnacle",0.4852,EV -10.19% < 2; model 48.5% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,rush_yds,78.5,Over,fliff,-120,0.5,-8.33,2,fanduel,0.49,1 sharp book(s) at line; EV -8.33% < 2; model 49.0% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,rush_yds,78.5,Under,fliff,-120,0.5,-8.33,2,fanduel,0.51,1 sharp book(s) at line; EV -8.33% < 2; model 51.0% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,tre tucker,reception_yds,47.5,Over,fliff,-120,0.5025,-7.87,2,,0.5872,0 sharp book(s) at line; EV -7.87% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,tre tucker,reception_yds,47.5,Under,fliff,-120,0.4975,-8.79,2,,0.4128,0 sharp book(s) at line; EV -8.79% < 2; model 41.3% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,kirk cousins,pass_yds,232.5,Over,fliff,-120,0.5103,-6.45,2,pinnacle,0.5666,1 sharp book(s) at line; EV -6.45% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,kirk cousins,pass_yds,232.5,Under,fliff,-120,0.4897,-10.21,2,pinnacle,0.4334,1 sharp book(s) at line; EV -10.21% < 2; model 43.3% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,garrett wilson,reception_yds,64.5,Over,fliff,-120,0.5,-8.33,2,,0.4623,0 sharp book(s) at line; EV -8.33% < 2; model 46.2% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,garrett wilson,reception_yds,64.5,Under,fliff,-120,0.5,-8.33,2,,0.5377,0 sharp book(s) at line; EV -8.33% < 2; model 53.8% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,omar cooper,reception_yds,42.5,Over,fliff,-120,0.5,-8.33,1,,0.6212,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,omar cooper,reception_yds,42.5,Under,fliff,-120,0.5,-8.33,1,,0.3788,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 37.9% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,reception_yds,28.5,Over,fliff,-115,0.4905,-8.29,1,,0.5652,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,reception_yds,28.5,Under,fliff,-125,0.5095,-8.29,1,,0.4348,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2; model 43.5% < 55.0%
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,reception_yds,15.5,Over,fliff,-120,0.5,-8.33,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,reception_yds,15.5,Under,fliff,-120,0.5,-8.33,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,pass_yds,272.5,Over,draftkings,-111,0.5,-4.95,7,"fanduel,pinnacle",0.4753,EV -4.95% < 2; model 47.5% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,pass_yds,272.5,Under,draftkings,-113,0.5,-5.75,7,"fanduel,pinnacle",0.5247,EV -5.75% < 2; model 52.5% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,pass_yds,191.5,Over,draftkings,-111,0.4989,-5.16,2,,0.5295,0 sharp book(s) at line; EV -5.16% < 2; model 52.9% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,pass_yds,191.5,Under,draftkings,-113,0.5011,-5.55,2,,0.4705,0 sharp book(s) at line; EV -5.55% < 2; model 47.1% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,ja marr chase,reception_yds,83.5,Over,draftkings,-110,0.5,-4.55,4,,0.4322,0 sharp book(s) at line; EV -4.55% < 2; model 43.2% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,ja marr chase,reception_yds,83.5,Under,draftkings,-114,0.5,-6.14,4,,0.5678,0 sharp book(s) at line; EV -6.14% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,tee higgins,reception_yds,73.5,Over,draftkings,-110,0.4979,-4.95,2,,0.4174,0 sharp book(s) at line; EV -4.95% < 2; model 41.7% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,tee higgins,reception_yds,73.5,Under,draftkings,-114,0.5021,-5.74,2,,0.5826,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,wan dale robinson,reception_yds,46.5,Over,draftkings,-111,0.4989,-5.16,2,,0.3401,0 sharp book(s) at line; EV -5.16% < 2; model 34.0% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,wan dale robinson,reception_yds,46.5,Under,draftkings,-113,0.5011,-5.55,2,,0.6599,0 sharp book(s) at line; EV -5.55% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,elic ayomanor,reception_yds,33.5,Over,draftkings,-111,0.4979,-5.36,5,fanduel,0.3835,1 sharp book(s) at line; EV -5.36% < 2; model 38.4% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,elic ayomanor,reception_yds,33.5,Under,draftkings,-113,0.5021,-5.36,5,fanduel,0.6165,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,mike gesicki,reception_yds,22.5,Over,draftkings,-112,0.5022,-4.95,6,"fanduel,pinnacle",0.4271,EV -4.95% < 2; model 42.7% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,mike gesicki,reception_yds,22.5,Under,draftkings,-112,0.4978,-5.77,6,"fanduel,pinnacle",0.5729,EV -5.77% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,reception_yds,21.5,Over,draftkings,-112,0.5,-5.36,4,,0.6634,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,reception_yds,21.5,Under,draftkings,-112,0.5,-5.36,4,,0.3366,0 sharp book(s) at line; EV -5.36% < 2; model 33.7% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,gunnar helm,reception_yds,21.5,Over,draftkings,-111,0.5,-4.95,8,"fanduel,pinnacle",,EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,gunnar helm,reception_yds,21.5,Under,draftkings,-113,0.5,-5.75,8,"fanduel,pinnacle",,EV -5.75% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,calvin ridley,reception_yds,20.5,Over,draftkings,-115,0.5082,-4.98,2,,0.4298,0 sharp book(s) at line; EV -4.98% < 2; model 43.0% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,calvin ridley,reception_yds,20.5,Under,draftkings,-109,0.4918,-5.7,2,,0.5702,0 sharp book(s) at line; EV -5.70% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,reception_yds,13.5,Over,draftkings,-116,0.5065,-5.68,4,,,0 sharp book(s) at line; EV -5.68% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,reception_yds,13.5,Under,draftkings,-108,0.4935,-4.96,4,,,0 sharp book(s) at line; EV -4.96% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,dohnte meyers,reception_yds,12.5,Over,draftkings,-117,0.5,-7.26,6,"fanduel,pinnacle",0.5663,EV -7.26% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,dohnte meyers,reception_yds,12.5,Under,draftkings,-107,0.5,-3.27,6,"fanduel,pinnacle",0.4337,EV -3.27% < 2; model 43.4% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,dan bellinger,reception_yds,9.5,Over,draftkings,-113,0.5021,-5.36,5,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,dan bellinger,reception_yds,9.5,Under,draftkings,-111,0.4979,-5.36,5,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,drew sample,reception_yds,8.5,Over,draftkings,-119,0.5026,-7.51,6,"fanduel,pinnacle",,EV -7.51% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,drew sample,reception_yds,8.5,Under,draftkings,-105,0.4974,-2.88,6,"fanduel,pinnacle",,EV -2.88% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,reception_yds,8.5,Over,draftkings,-105,0.4869,-4.93,3,,,0 sharp book(s) at line; EV -4.93% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,reception_yds,8.5,Under,draftkings,-120,0.5131,-5.94,3,,,0 sharp book(s) at line; EV -5.94% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,reception_yds,7.5,Over,draftkings,-118,0.5101,-5.76,7,pinnacle,,1 sharp book(s) at line; EV -5.76% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,reception_yds,7.5,Under,draftkings,-106,0.4899,-4.8,7,pinnacle,,1 sharp book(s) at line; EV -4.80% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,rush_yds,65.5,Over,draftkings,-110,0.5,-4.55,5,"fanduel,pinnacle",0.5389,EV -4.55% < 2; model 53.9% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,rush_yds,65.5,Under,draftkings,-114,0.5,-6.14,5,"fanduel,pinnacle",0.4611,EV -6.14% < 2; model 46.1% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,rush_yds,59.5,Over,draftkings,-114,0.5,-6.14,5,,0.593,0 sharp book(s) at line; EV -6.14% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,rush_yds,59.5,Under,draftkings,-110,0.5,-4.55,5,,0.407,0 sharp book(s) at line; EV -4.55% < 2; model 40.7% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,rush_yds,23.5,Over,draftkings,-114,0.5,-6.14,5,fanduel,0.4923,1 sharp book(s) at line; EV -6.14% < 2; model 49.2% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,rush_yds,23.5,Under,draftkings,-110,0.5,-4.55,5,fanduel,0.5077,1 sharp book(s) at line; EV -4.55% < 2; model 50.8% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,rush_yds,12.5,Over,draftkings,-108,0.491,-5.43,6,pinnacle,0.6658,1 sharp book(s) at line; EV -5.43% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,rush_yds,12.5,Under,draftkings,-116,0.509,-5.23,6,pinnacle,0.3342,1 sharp book(s) at line; EV -5.23% < 2; model 33.4% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,rush_yds,9.5,Over,draftkings,-110,0.5,-4.55,4,fanduel,,1 sharp book(s) at line; EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,rush_yds,9.5,Under,draftkings,-114,0.5,-6.14,4,fanduel,,1 sharp book(s) at line; EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,rush_yds,5.5,Over,draftkings,-112,0.5011,-5.15,6,"fanduel,pinnacle",,EV -5.15% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,rush_yds,5.5,Under,draftkings,-112,0.4989,-5.56,6,"fanduel,pinnacle",,EV -5.56% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,reception_yds,7.5,Over,fliff,-120,0.5,-8.33,6,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,reception_yds,7.5,Under,fliff,-120,0.5,-8.33,6,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,calvin ridley,reception_yds,22.5,Over,fliff,-120,0.4974,-8.82,4,"fanduel,pinnacle",0.3895,EV -8.82% < 2; model 38.9% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,calvin ridley,reception_yds,22.5,Under,fliff,-125,0.5026,-9.53,4,"fanduel,pinnacle",0.6105,EV -9.53% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,tee higgins,reception_yds,70.5,Over,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.3858,EV -8.33% < 2; model 38.6% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,tee higgins,reception_yds,70.5,Under,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.6142,EV -8.33% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,ja marr chase,reception_yds,81.5,Over,fliff,-125,0.5,-10.0,3,fanduel,0.3885,1 sharp book(s) at line; EV -10.00% < 2; model 38.8% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,ja marr chase,reception_yds,81.5,Under,fliff,-120,0.5,-8.33,3,fanduel,0.6115,1 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,,chimere dike,reception_yds,9.5,Over,fliff,-120,0.5,-8.33,2,fanduel,,1 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,,chimere dike,reception_yds,9.5,Under,fliff,-120,0.5,-8.33,2,fanduel,,1 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,wan dale robinson,reception_yds,47.5,Over,fliff,-120,0.5,-8.33,3,,0.3669,0 sharp book(s) at line; EV -8.33% < 2; model 36.7% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,wan dale robinson,reception_yds,47.5,Under,fliff,-120,0.5,-8.33,3,,0.6331,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,rush_yds,64.5,Over,fliff,-120,0.5,-8.33,4,,0.6555,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,rush_yds,64.5,Under,fliff,-120,0.5,-8.33,4,,0.3445,0 sharp book(s) at line; EV -8.33% < 2; model 34.4% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,rush_yds,8.5,Over,fliff,-125,0.5095,-8.29,3,,,0 sharp book(s) at line; EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,rush_yds,8.5,Under,fliff,-115,0.4905,-8.29,3,,,0 sharp book(s) at line; EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,pass_yds,190.5,Over,fliff,-120,0.5,-8.33,2,,0.5313,0 sharp book(s) at line; EV -8.33% < 2; model 53.1% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,pass_yds,190.5,Under,fliff,-120,0.5,-8.33,2,,0.4687,0 sharp book(s) at line; EV -8.33% < 2; model 46.9% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,elic ayomanor,reception_yds,32.5,Over,fliff,-120,0.5011,-8.13,2,pinnacle,0.4678,1 sharp book(s) at line; EV -8.13% < 2; model 46.8% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,TEN,elic ayomanor,reception_yds,32.5,Under,fliff,-120,0.4989,-8.53,2,pinnacle,0.5322,1 sharp book(s) at line; EV -8.53% < 2; model 53.2% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,reception_yds,19.5,Over,fliff,-120,0.5102,-6.47,2,,0.7055,0 sharp book(s) at line; EV -6.47% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,reception_yds,19.5,Under,fliff,-120,0.4898,-10.19,2,,0.2945,0 sharp book(s) at line; EV -10.19% < 2; model 29.5% < 55.0%
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,rush_yds,22.5,Over,fliff,-125,0.5088,-8.42,2,pinnacle,0.6068,1 sharp book(s) at line; EV -8.42% < 2
+fail,DK/Fliff,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,rush_yds,22.5,Under,fliff,-120,0.4912,-9.95,2,pinnacle,0.3932,1 sharp book(s) at line; EV -9.95% < 2; model 39.3% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,pass_yds,216.5,Over,draftkings,-113,0.5011,-5.55,2,,0.414,0 sharp book(s) at line; EV -5.55% < 2; model 41.4% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,pass_yds,216.5,Under,draftkings,-111,0.4989,-5.16,2,,0.586,0 sharp book(s) at line; EV -5.16% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,pass_yds,207.5,Over,draftkings,-112,0.5,-5.36,3,fanduel,0.447,1 sharp book(s) at line; EV -5.36% < 2; model 44.7% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,pass_yds,207.5,Under,draftkings,-112,0.5,-5.36,3,fanduel,0.553,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,dk metcalf,reception_yds,53.5,Over,draftkings,-110,0.5,-4.55,5,,0.454,0 sharp book(s) at line; EV -4.55% < 2; model 45.4% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,dk metcalf,reception_yds,53.5,Under,draftkings,-114,0.5,-6.14,5,,0.546,0 sharp book(s) at line; EV -6.14% < 2; model 54.6% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,denzel boston,reception_yds,47.5,Over,draftkings,-114,0.5,-6.14,6,"fanduel,pinnacle",0.4895,EV -6.14% < 2; model 49.0% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,denzel boston,reception_yds,47.5,Under,draftkings,-110,0.5,-4.55,6,"fanduel,pinnacle",0.5105,EV -4.55% < 2; model 51.0% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,kc concepcion,reception_yds,47.5,Over,draftkings,-113,0.5011,-5.55,2,,0.513,0 sharp book(s) at line; EV -5.55% < 2; model 51.3% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,kc concepcion,reception_yds,47.5,Under,draftkings,-111,0.4989,-5.16,2,,0.487,0 sharp book(s) at line; EV -5.16% < 2; model 48.7% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,germie bernard,reception_yds,43.5,Over,draftkings,-109,0.4989,-4.34,6,"fanduel,pinnacle",0.4679,EV -4.34% < 2; model 46.8% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,germie bernard,reception_yds,43.5,Under,draftkings,-115,0.5011,-6.32,6,"fanduel,pinnacle",0.5321,EV -6.32% < 2; model 53.2% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,harold fannin,reception_yds,34.5,Over,draftkings,-111,0.5,-4.95,5,"fanduel,pinnacle",0.6567,EV -4.95% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,harold fannin,reception_yds,34.5,Under,draftkings,-113,0.5,-5.75,5,"fanduel,pinnacle",0.3433,EV -5.75% < 2; model 34.3% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,pat freiermuth,reception_yds,24.5,Over,draftkings,-116,0.5085,-5.31,6,"fanduel,pinnacle",0.5034,EV -5.31% < 2; model 50.3% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,pat freiermuth,reception_yds,24.5,Under,draftkings,-108,0.4915,-5.35,6,"fanduel,pinnacle",0.4966,EV -5.35% < 2; model 49.7% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,darnell washington,reception_yds,22.5,Over,draftkings,-110,0.4979,-4.95,2,,0.3712,0 sharp book(s) at line; EV -4.95% < 2; model 37.1% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,darnell washington,reception_yds,22.5,Under,draftkings,-114,0.5021,-5.74,2,,0.6288,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,reception_yds,22.5,Over,draftkings,-108,0.4958,-4.52,6,"fanduel,pinnacle",0.5581,EV -4.52% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,reception_yds,22.5,Under,draftkings,-116,0.5042,-6.11,6,"fanduel,pinnacle",0.4419,EV -6.11% < 2; model 44.2% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,jerry jeudy,reception_yds,21.5,Over,draftkings,-115,0.5046,-5.66,7,"fanduel,pinnacle",0.557,EV -5.66% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,jerry jeudy,reception_yds,21.5,Under,draftkings,-109,0.4954,-5.01,7,"fanduel,pinnacle",0.443,EV -5.01% < 2; model 44.3% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,reception_yds,16.5,Over,draftkings,-108,0.4899,-5.65,7,pinnacle,,1 sharp book(s) at line; EV -5.65% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,reception_yds,16.5,Under,draftkings,-116,0.5101,-5.01,7,pinnacle,,1 sharp book(s) at line; EV -5.01% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,reception_yds,15.5,Over,draftkings,-116,0.5101,-5.01,3,,0.4816,0 sharp book(s) at line; EV -5.01% < 2; model 48.2% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,reception_yds,15.5,Under,draftkings,-108,0.4899,-5.65,3,,0.5184,0 sharp book(s) at line; EV -5.65% < 2; model 51.8% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,reception_yds,9.5,Over,draftkings,-105,0.5,-2.38,7,"fanduel,pinnacle",,EV -2.38% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,reception_yds,9.5,Under,draftkings,-120,0.5,-8.33,7,"fanduel,pinnacle",,EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,rush_yds,66.5,Over,draftkings,-113,0.5011,-5.55,2,,0.6733,0 sharp book(s) at line; EV -5.55% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,rush_yds,66.5,Under,draftkings,-111,0.4989,-5.16,2,,0.3267,0 sharp book(s) at line; EV -5.16% < 2; model 32.7% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,rush_yds,48.5,Over,draftkings,-111,0.4989,-5.16,2,,0.5788,0 sharp book(s) at line; EV -5.16% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,rush_yds,48.5,Under,draftkings,-113,0.5011,-5.55,2,,0.4212,0 sharp book(s) at line; EV -5.55% < 2; model 42.1% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,rush_yds,31.5,Over,draftkings,-113,0.5,-5.75,5,"fanduel,pinnacle",0.6862,EV -5.75% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,rush_yds,31.5,Under,draftkings,-111,0.5,-4.95,5,"fanduel,pinnacle",0.3138,EV -4.95% < 2; model 31.4% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,rush_yds,26.5,Over,draftkings,-116,0.5042,-6.11,2,,,0 sharp book(s) at line; EV -6.11% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,rush_yds,26.5,Under,draftkings,-108,0.4958,-4.52,2,,,0 sharp book(s) at line; EV -4.52% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,rush_yds,12.5,Over,draftkings,-117,0.5103,-5.35,2,,,0 sharp book(s) at line; EV -5.35% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,rush_yds,12.5,Under,draftkings,-107,0.4897,-5.27,2,,,0 sharp book(s) at line; EV -5.27% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,rush_yds,0.5,Over,draftkings,-109,0.4935,-5.37,5,"fanduel,pinnacle",,EV -5.37% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,rush_yds,0.5,Under,draftkings,-115,0.5065,-5.31,5,"fanduel,pinnacle",,EV -5.31% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,darnell washington,reception_yds,20.5,Over,fliff,-125,0.5015,-9.72,4,"fanduel,pinnacle",0.4783,EV -9.72% < 2; model 47.8% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,darnell washington,reception_yds,20.5,Under,fliff,-115,0.4985,-6.81,4,"fanduel,pinnacle",0.5217,EV -6.81% < 2; model 52.2% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,kc concepcion,reception_yds,46.5,Over,fliff,-120,0.5,-8.33,5,"fanduel,pinnacle",0.4405,EV -8.33% < 2; model 44.1% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,kc concepcion,reception_yds,46.5,Under,fliff,-125,0.5,-10.0,5,"fanduel,pinnacle",0.5595,EV -10.00% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,reception_yds,14.5,Over,fliff,-120,0.5,-8.33,3,fanduel,0.6035,1 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,reception_yds,14.5,Under,fliff,-125,0.5,-10.0,3,fanduel,0.3965,1 sharp book(s) at line; EV -10.00% < 2; model 39.6% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,rush_yds,47.5,Over,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.7033,EV -8.33% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,rush_yds,47.5,Under,fliff,-120,0.5,-8.33,3,"fanduel,pinnacle",0.2967,EV -8.33% < 2; model 29.7% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,rush_yds,11.5,Over,fliff,-125,0.5095,-8.29,7,"fanduel,pinnacle",,EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,rush_yds,11.5,Under,fliff,-115,0.4905,-8.29,7,"fanduel,pinnacle",,EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,rush_yds,25.5,Over,fliff,-125,0.5015,-9.72,4,"fanduel,pinnacle",,EV -9.72% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,rush_yds,25.5,Under,fliff,-120,0.4985,-8.62,4,"fanduel,pinnacle",,EV -8.62% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,rush_yds,64.5,Over,fliff,-120,0.5082,-6.83,5,"fanduel,pinnacle",0.5849,EV -6.83% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,rush_yds,64.5,Under,fliff,-120,0.4918,-9.84,5,"fanduel,pinnacle",0.4151,EV -9.84% < 2; model 41.5% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,rush_yds,30.5,Over,fliff,-125,0.503,-9.46,3,,0.7034,0 sharp book(s) at line; EV -9.46% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,rush_yds,30.5,Under,fliff,-120,0.497,-8.89,3,,0.2966,0 sharp book(s) at line; EV -8.89% < 2; model 29.7% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,pass_yds,217.5,Over,fliff,-120,0.5,-8.33,2,,0.4255,0 sharp book(s) at line; EV -8.33% < 2; model 42.5% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,pass_yds,217.5,Under,fliff,-120,0.5,-8.33,2,,0.5745,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,pass_yds,209.5,Over,fliff,-120,0.5,-8.33,2,,0.4343,0 sharp book(s) at line; EV -8.33% < 2; model 43.4% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,pass_yds,209.5,Under,fliff,-120,0.5,-8.33,2,,0.5657,0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,denzel boston,reception_yds,48.5,Over,fliff,-120,0.5,-8.33,1,,0.4756,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 47.6% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,denzel boston,reception_yds,48.5,Under,fliff,-120,0.5,-8.33,1,,0.5244,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 52.4% < 55.0%
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,reception_yds,15.5,Over,fliff,-125,0.5095,-8.29,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,reception_yds,15.5,Under,fliff,-115,0.4905,-8.29,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,pass_yds,248.5,Over,draftkings,-112,0.5,-5.36,3,,0.455,0 sharp book(s) at line; EV -5.36% < 2; model 45.5% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,pass_yds,248.5,Under,draftkings,-112,0.5,-5.36,3,,0.545,0 sharp book(s) at line; EV -5.36% < 2; model 54.5% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,pass_yds,239.5,Over,draftkings,-112,0.5,-5.36,2,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,pass_yds,239.5,Under,draftkings,-112,0.5,-5.36,2,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,zay flowers,reception_yds,89.5,Over,draftkings,-112,0.5,-5.36,6,"fanduel,pinnacle",0.4523,EV -5.36% < 2; model 45.2% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,zay flowers,reception_yds,89.5,Under,draftkings,-112,0.5,-5.36,6,"fanduel,pinnacle",0.5477,EV -5.36% < 2; model 54.8% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,dj moore,reception_yds,53.5,Over,draftkings,-113,0.5,-5.75,5,pinnacle,0.2697,1 sharp book(s) at line; EV -5.75% < 2; model 27.0% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,dj moore,reception_yds,53.5,Under,draftkings,-111,0.5,-4.95,5,pinnacle,0.7303,1 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,dalton kincaid,reception_yds,43.5,Over,draftkings,-112,0.5,-5.36,4,fanduel,0.4011,1 sharp book(s) at line; EV -5.36% < 2; model 40.1% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,dalton kincaid,reception_yds,43.5,Under,draftkings,-112,0.5,-5.36,4,fanduel,0.5989,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,khalil shakir,reception_yds,41.5,Over,draftkings,-111,0.5,-4.95,7,"fanduel,pinnacle",0.4499,EV -4.95% < 2; model 45.0% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,khalil shakir,reception_yds,41.5,Under,draftkings,-113,0.5,-5.75,7,"fanduel,pinnacle",0.5501,EV -5.75% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,ja kobi lane,reception_yds,31.5,Over,draftkings,-114,0.5,-6.14,3,,0.4635,0 sharp book(s) at line; EV -6.14% < 2; model 46.4% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,ja kobi lane,reception_yds,31.5,Under,draftkings,-110,0.5,-4.55,3,,0.5365,0 sharp book(s) at line; EV -4.55% < 2; model 53.6% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,keon coleman,reception_yds,29.5,Over,draftkings,-112,0.5,-5.36,7,"fanduel,pinnacle",0.649,EV -5.36% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,keon coleman,reception_yds,29.5,Under,draftkings,-112,0.5,-5.36,7,"fanduel,pinnacle",0.351,EV -5.36% < 2; model 35.1% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,mark andrews,reception_yds,28.5,Over,draftkings,-113,0.5,-5.75,3,,0.4763,0 sharp book(s) at line; EV -5.75% < 2; model 47.6% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,mark andrews,reception_yds,28.5,Under,draftkings,-111,0.5,-4.95,3,,0.5237,0 sharp book(s) at line; EV -4.95% < 2; model 52.4% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,rashod bateman,reception_yds,25.5,Over,draftkings,-113,0.5,-5.75,4,,0.491,0 sharp book(s) at line; EV -5.75% < 2; model 49.1% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,rashod bateman,reception_yds,25.5,Under,draftkings,-111,0.5,-4.95,4,,0.509,0 sharp book(s) at line; EV -4.95% < 2; model 50.9% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,reception_yds,14.5,Over,draftkings,-110,0.4979,-4.95,2,,0.5903,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,reception_yds,14.5,Under,draftkings,-114,0.5021,-5.74,2,,0.4097,0 sharp book(s) at line; EV -5.74% < 2; model 41.0% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,reception_yds,12.5,Over,draftkings,-107,0.4897,-5.27,2,,,0 sharp book(s) at line; EV -5.27% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,reception_yds,12.5,Under,draftkings,-117,0.5103,-5.35,2,,,0 sharp book(s) at line; EV -5.35% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,reception_yds,10.5,Over,draftkings,-118,0.5114,-5.52,2,,0.68,0 sharp book(s) at line; EV -5.52% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,reception_yds,10.5,Under,draftkings,-106,0.4886,-5.04,2,,0.32,0 sharp book(s) at line; EV -5.04% < 2; model 32.0% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh palmer,reception_yds,9.5,Over,draftkings,-112,0.5,-5.36,5,,0.5432,0 sharp book(s) at line; EV -5.36% < 2; model 54.3% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh palmer,reception_yds,9.5,Under,draftkings,-112,0.5,-5.36,5,,0.4568,0 sharp book(s) at line; EV -5.36% < 2; model 45.7% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,josh cuevas,reception_yds,9.5,Over,draftkings,-106,0.4899,-4.8,7,pinnacle,0.5875,1 sharp book(s) at line; EV -4.80% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,josh cuevas,reception_yds,9.5,Under,draftkings,-118,0.5101,-5.76,7,pinnacle,0.4125,1 sharp book(s) at line; EV -5.76% < 2; model 41.2% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,reception_yds,7.5,Over,draftkings,-113,0.5,-5.75,3,,,0 sharp book(s) at line; EV -5.75% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,reception_yds,7.5,Under,draftkings,-111,0.5,-4.95,3,,,0 sharp book(s) at line; EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,dawson knox,reception_yds,7.5,Over,draftkings,-112,0.5,-5.36,8,"fanduel,pinnacle",,EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,dawson knox,reception_yds,7.5,Under,draftkings,-112,0.5,-5.36,8,"fanduel,pinnacle",,EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,devontez walker,reception_yds,0.5,Over,draftkings,148,0.3831,-5.0,2,,,0 sharp book(s) at line; EV -5.00% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,devontez walker,reception_yds,0.5,Under,draftkings,-187,0.6169,-5.32,2,,,0 sharp book(s) at line; EV -5.32% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,rush_yds,84.5,Over,draftkings,-110,0.4979,-4.95,2,,0.4475,0 sharp book(s) at line; EV -4.95% < 2; model 44.8% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,rush_yds,84.5,Under,draftkings,-114,0.5021,-5.74,2,,0.5525,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,rush_yds,80.5,Over,draftkings,-114,0.5021,-5.74,2,,0.4645,0 sharp book(s) at line; EV -5.74% < 2; model 46.5% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,rush_yds,80.5,Under,draftkings,-110,0.4979,-4.95,2,,0.5355,0 sharp book(s) at line; EV -4.95% < 2; model 53.5% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,rush_yds,38.5,Over,draftkings,-110,0.5,-4.55,3,,,0 sharp book(s) at line; EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,rush_yds,38.5,Under,draftkings,-114,0.5,-6.14,3,,,0 sharp book(s) at line; EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,rush_yds,25.5,Over,draftkings,-110,0.4969,-5.14,5,pinnacle,,1 sharp book(s) at line; EV -5.14% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,rush_yds,25.5,Under,draftkings,-114,0.5031,-5.56,5,pinnacle,,1 sharp book(s) at line; EV -5.56% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,rush_yds,9.5,Over,draftkings,-110,0.4974,-5.04,6,fanduel,,1 sharp book(s) at line; EV -5.04% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,rush_yds,9.5,Under,draftkings,-115,0.5026,-6.04,6,fanduel,,1 sharp book(s) at line; EV -6.04% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ray davis,rush_yds,4.5,Over,draftkings,-121,0.5,-8.68,6,"fanduel,pinnacle",,EV -8.68% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ray davis,rush_yds,4.5,Under,draftkings,-104,0.5,-1.92,6,"fanduel,pinnacle",,EV -1.92% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,rush_yds,1.5,Over,draftkings,-111,0.4979,-5.36,3,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,rush_yds,1.5,Under,draftkings,-113,0.5021,-5.36,3,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,reception_yds,9.5,Over,fliff,-125,0.5,-10.0,7,"fanduel,pinnacle",0.5931,EV -10.00% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,reception_yds,9.5,Under,fliff,-115,0.5,-6.52,7,"fanduel,pinnacle",0.4069,EV -6.52% < 2; model 40.7% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,reception_yds,15.5,Over,fliff,-115,0.4828,-9.73,4,"fanduel,pinnacle",0.4708,EV -9.73% < 2; model 47.1% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,reception_yds,15.5,Under,fliff,-125,0.5172,-6.91,4,"fanduel,pinnacle",0.5292,EV -6.91% < 2; model 52.9% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,reception_yds,6.5,Over,fliff,-125,0.5061,-8.91,6,"fanduel,pinnacle",,EV -8.91% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,reception_yds,6.5,Under,fliff,-115,0.4939,-7.66,6,"fanduel,pinnacle",,EV -7.66% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,rush_yds,83.5,Over,fliff,-120,0.5,-8.33,5,fanduel,0.5454,1 sharp book(s) at line; EV -8.33% < 2; model 54.5% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,james cook,rush_yds,83.5,Under,fliff,-120,0.5,-8.33,5,fanduel,0.4546,1 sharp book(s) at line; EV -8.33% < 2; model 45.5% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,reception_yds,10.5,Over,fliff,-125,0.5063,-8.87,4,pinnacle,,1 sharp book(s) at line; EV -8.87% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,reception_yds,10.5,Under,fliff,-115,0.4937,-7.7,4,pinnacle,,1 sharp book(s) at line; EV -7.70% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,rush_yds,79.5,Over,fliff,-120,0.5,-8.33,3,,0.4765,0 sharp book(s) at line; EV -8.33% < 2; model 47.7% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,rush_yds,79.5,Under,fliff,-120,0.5,-8.33,3,,0.5235,0 sharp book(s) at line; EV -8.33% < 2; model 52.3% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,pass_yds,238.5,Over,fliff,-120,0.5,-8.33,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,pass_yds,238.5,Under,fliff,-120,0.5,-8.33,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,zay flowers,reception_yds,87.5,Over,fliff,-120,0.5,-8.33,1,,0.4741,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 47.4% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,zay flowers,reception_yds,87.5,Under,fliff,-120,0.5,-8.33,1,,0.5259,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2; model 52.6% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,rashod bateman,reception_yds,24.5,Over,fliff,-120,0.5051,-7.41,2,,0.6068,0 sharp book(s) at line; EV -7.41% < 2
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BAL,rashod bateman,reception_yds,24.5,Under,fliff,-120,0.4949,-9.26,2,,0.3932,0 sharp book(s) at line; EV -9.26% < 2; model 39.3% < 55.0%
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,rush_yds,36.5,Over,fliff,-115,0.4905,-8.29,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2; not in model universe
+fail,DK/Fliff,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,rush_yds,36.5,Under,fliff,-125,0.5095,-8.29,1,,,no books at exact line; 0 sharp book(s) at line; EV -8.29% < 2; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,pass_yds,240.5,Over,prizepicks,,,,0,,0.6372,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,pass_yds,240.5,Under,prizepicks,,,,0,,0.3628,no books at exact line; 0 sharp book(s) at line; model 36.3% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,pass_yds,192.5,Over,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",0.6897,fair 50.0% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,pass_yds,192.5,Under,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",0.3103,fair 50.0% < BE+1; model 31.0% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,parker washington,reception_yds,67.5,Over,prizepicks,,0.5,-7.77,4,pinnacle,0.4221,1 sharp book(s) at line; fair 50.0% < BE+1; model 42.2% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,parker washington,reception_yds,67.5,Under,prizepicks,,0.5,-7.77,4,pinnacle,0.5779,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,brenton strange,reception_yds,41.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.4492,fair 50.0% < BE+1; model 44.9% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,brenton strange,reception_yds,41.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.5508,fair 50.0% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,tyler warren,reception_yds,40.5,Over,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",0.4643,fair 50.0% < BE+1; model 46.4% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,tyler warren,reception_yds,40.5,Under,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",0.5357,fair 50.0% < BE+1; model 53.6% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,keenan allen,reception_yds,37.5,Over,prizepicks,,,,0,,0.5369,no books at exact line; 0 sharp book(s) at line; model 53.7% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,keenan allen,reception_yds,37.5,Under,prizepicks,,,,0,,0.4631,no books at exact line; 0 sharp book(s) at line; model 46.3% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,jakobi meyers,reception_yds,35.5,Over,prizepicks,,,,0,,0.5863,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,jakobi meyers,reception_yds,35.5,Under,prizepicks,,,,0,,0.4137,no books at exact line; 0 sharp book(s) at line; model 41.4% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,josh downs,reception_yds,32.5,Over,prizepicks,,0.5082,-6.25,5,"fanduel,pinnacle",0.7057,fair 50.8% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,josh downs,reception_yds,32.5,Under,prizepicks,,0.4918,-9.28,5,"fanduel,pinnacle",0.2943,fair 49.2% < BE+1; model 29.4% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,laquon treadwell,reception_yds,23.5,Over,prizepicks,,0.5021,-7.38,4,,,0 sharp book(s) at line; fair 50.2% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,laquon treadwell,reception_yds,23.5,Under,prizepicks,,0.4979,-8.15,4,,,0 sharp book(s) at line; fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,reception_yds,14.5,Over,prizepicks,,0.5103,-5.87,3,,0.6849,0 sharp book(s) at line; fair 51.0% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,reception_yds,14.5,Under,prizepicks,,0.4897,-9.66,3,,0.3151,0 sharp book(s) at line; fair 49.0% < BE+1; model 31.5% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,reception_yds,14.5,Over,prizepicks,,0.4933,-9.01,4,,0.4851,0 sharp book(s) at line; fair 49.3% < BE+1; model 48.5% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,reception_yds,14.5,Under,prizepicks,,0.5067,-6.53,4,,0.5149,0 sharp book(s) at line; fair 50.7% < BE+1; model 51.5% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,josh cameron,reception_yds,13.5,Over,prizepicks,,0.4968,-8.35,6,pinnacle,0.547,1 sharp book(s) at line; fair 49.7% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,josh cameron,reception_yds,13.5,Under,prizepicks,,0.5032,-7.18,6,pinnacle,0.453,1 sharp book(s) at line; fair 50.3% < BE+1; model 45.3% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,travis hunter,reception_yds,13.5,Over,prizepicks,,0.5073,-6.42,5,"fanduel,pinnacle",,fair 50.7% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,travis hunter,reception_yds,13.5,Under,prizepicks,,0.4927,-9.12,5,"fanduel,pinnacle",,fair 49.3% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,brian thomas,reception_yds,10.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.7044,fair 50.0% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,brian thomas,reception_yds,10.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.2956,fair 50.0% < BE+1; model 29.6% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,nate boerkircher,reception_yds,8.5,Over,prizepicks,,0.4948,-8.72,5,fanduel,,1 sharp book(s) at line; fair 49.5% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,nate boerkircher,reception_yds,8.5,Under,prizepicks,,0.5052,-6.81,5,fanduel,,1 sharp book(s) at line; fair 50.5% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,ashton dulin,reception_yds,3.5,Over,prizepicks,,0.5021,-7.38,1,,,no books at exact line; 0 sharp book(s) at line; fair 50.2% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,ashton dulin,reception_yds,3.5,Under,prizepicks,,0.4979,-8.15,1,,,no books at exact line; 0 sharp book(s) at line; fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,,will mallory,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,rush_yds,67.5,Over,prizepicks,,0.5,-7.77,2,,0.3667,0 sharp book(s) at line; fair 50.0% < BE+1; model 36.7% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,bhayshul tuten,rush_yds,67.5,Under,prizepicks,,0.5,-7.77,2,,0.6333,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,rush_yds,50.5,Over,prizepicks,,0.4872,-10.14,2,pinnacle,0.6709,1 sharp book(s) at line; fair 48.7% < BE+1
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,jonathan taylor,rush_yds,50.5,Under,prizepicks,,0.5128,-5.4,2,pinnacle,0.3291,1 sharp book(s) at line; fair 51.3% < BE+1; model 32.9% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,chris rodriguez,rush_yds,32.5,Over,prizepicks,,0.4985,-8.04,2,,0.5306,0 sharp book(s) at line; fair 49.8% < BE+1; model 53.1% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,chris rodriguez,rush_yds,32.5,Under,prizepicks,,0.5015,-7.49,2,,0.4694,0 sharp book(s) at line; fair 50.2% < BE+1; model 46.9% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,rush_yds,24.5,Over,prizepicks,,0.4969,-8.34,5,,0.4763,0 sharp book(s) at line; fair 49.7% < BE+1; model 47.6% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,seth mcgowan,rush_yds,24.5,Under,prizepicks,,0.5031,-7.2,5,,0.5237,0 sharp book(s) at line; fair 50.3% < BE+1; model 52.4% < 54.2%
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,rush_yds,11.5,Over,prizepicks,,0.5026,-7.29,6,"fanduel,pinnacle",,fair 50.3% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,JAX,trevor lawrence,rush_yds,11.5,Under,prizepicks,,0.4974,-8.24,6,"fanduel,pinnacle",,fair 49.7% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,rush_yds,7.5,Over,prizepicks,,0.5022,-7.37,3,"fanduel,pinnacle",,fair 50.2% < BE+1; not in model universe
+fail,PrizePicks,Indianapolis Colts @ Jacksonville Jaguars,IND,dan jones,rush_yds,7.5,Under,prizepicks,,0.4978,-8.17,3,"fanduel,pinnacle",,fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jared goff,pass_yds,257.5,Over,prizepicks,,0.5,-7.77,3,fanduel,0.6203,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jared goff,pass_yds,257.5,Under,prizepicks,,0.5,-7.77,3,fanduel,0.3797,1 sharp book(s) at line; fair 50.0% < BE+1; model 38.0% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,pass_yds,224.5,Over,prizepicks,,0.5084,-6.21,4,"fanduel,pinnacle",0.5488,fair 50.8% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,pass_yds,224.5,Under,prizepicks,,0.4916,-9.32,4,"fanduel,pinnacle",0.4512,fair 49.2% < BE+1; model 45.1% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,amon ra st brown,reception_yds,77.5,Over,prizepicks,,0.5042,-6.99,5,"fanduel,pinnacle",0.5974,fair 50.4% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,amon ra st brown,reception_yds,77.5,Under,prizepicks,,0.4958,-8.54,5,"fanduel,pinnacle",0.4026,fair 49.6% < BE+1; model 40.3% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,justin jefferson,reception_yds,76.5,Over,prizepicks,,0.5,-7.77,1,,0.4408,injury Out; no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 44.1% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,justin jefferson,reception_yds,76.5,Under,prizepicks,,0.5,-7.77,1,,0.5592,injury Out; no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jameson williams,reception_yds,51.5,Over,prizepicks,,0.5011,-7.57,6,"fanduel,pinnacle",0.6312,fair 50.1% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jameson williams,reception_yds,51.5,Under,prizepicks,,0.4989,-7.96,6,"fanduel,pinnacle",0.3688,fair 49.9% < BE+1; model 36.9% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,sam laporta,reception_yds,45.5,Over,prizepicks,,0.4975,-8.23,4,"fanduel,pinnacle",0.5423,fair 49.7% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,sam laporta,reception_yds,45.5,Under,prizepicks,,0.5025,-7.3,4,"fanduel,pinnacle",0.4577,fair 50.3% < BE+1; model 45.8% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,t j hockenson,reception_yds,42.5,Over,prizepicks,,0.5082,-6.25,4,,0.37,0 sharp book(s) at line; fair 50.8% < BE+1; model 37.0% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,t j hockenson,reception_yds,42.5,Under,prizepicks,,0.4918,-9.28,4,,0.63,0 sharp book(s) at line; fair 49.2% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jordan addison,reception_yds,38.5,Over,prizepicks,,0.5,-7.77,3,pinnacle,0.6712,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jordan addison,reception_yds,38.5,Under,prizepicks,,0.5,-7.77,3,pinnacle,0.3288,1 sharp book(s) at line; fair 50.0% < BE+1; model 32.9% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,reception_yds,30.5,Over,prizepicks,,0.4979,-8.15,4,,0.6234,0 sharp book(s) at line; fair 49.8% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,reception_yds,30.5,Under,prizepicks,,0.5021,-7.38,4,,0.3766,0 sharp book(s) at line; fair 50.2% < BE+1; model 37.7% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,isaac teslaa,reception_yds,17.5,Over,prizepicks,,0.5,-7.77,2,,0.6265,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,isaac teslaa,reception_yds,17.5,Under,prizepicks,,0.5,-7.77,2,,0.3735,0 sharp book(s) at line; fair 50.0% < BE+1; model 37.4% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jauan jennings,reception_yds,12.5,Over,prizepicks,,0.5011,-7.57,6,"fanduel,pinnacle",0.6682,fair 50.1% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jauan jennings,reception_yds,12.5,Under,prizepicks,,0.4989,-7.96,6,"fanduel,pinnacle",0.3318,fair 49.9% < BE+1; model 33.2% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,reception_yds,9.5,Over,prizepicks,,0.5,-7.77,9,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,reception_yds,9.5,Under,prizepicks,,0.5,-7.77,9,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,reception_yds,3.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,,brock wright,reception_yds,3.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,rush_yds,86.5,Over,prizepicks,,0.5,-7.77,1,,0.5631,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jahmyr gibbs,rush_yds,86.5,Under,prizepicks,,0.5,-7.77,1,,0.4369,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 43.7% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,rush_yds,49.5,Over,prizepicks,,0.5011,-7.57,6,"fanduel,pinnacle",0.4438,fair 50.1% < BE+1; model 44.4% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,jordan mason,rush_yds,49.5,Under,prizepicks,,0.4989,-7.97,6,"fanduel,pinnacle",0.5562,fair 49.9% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,27.5,Over,prizepicks,,0.5,-7.77,3,fanduel,0.8695,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,27.5,Under,prizepicks,,0.5,-7.77,3,fanduel,0.1305,1 sharp book(s) at line; fair 50.0% < BE+1; model 13.0% < 54.2%
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,rush_yds,24.5,Over,prizepicks,,0.5051,-6.83,6,"fanduel,pinnacle",,fair 50.5% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,MIN,kyler murray,rush_yds,24.5,Under,prizepicks,,0.4949,-8.7,6,"fanduel,pinnacle",,fair 49.5% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,sione vaki,rush_yds,4.5,Over,prizepicks,,0.5138,-5.22,4,"fanduel,pinnacle",,fair 51.4% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,sione vaki,rush_yds,4.5,Under,prizepicks,,0.4862,-10.31,4,"fanduel,pinnacle",,fair 48.6% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jared goff,rush_yds,0.5,Over,prizepicks,,0.5306,-2.12,3,"fanduel,pinnacle",,fair 53.1% < BE+1; not in model universe
+fail,PrizePicks,Minnesota Vikings @ Detroit Lions,DET,jared goff,rush_yds,0.5,Under,prizepicks,,0.4694,-13.41,3,"fanduel,pinnacle",,fair 46.9% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,pass_yds,229.5,Over,prizepicks,,0.473,-12.75,1,pinnacle,0.5348,no books at exact line; 1 sharp book(s) at line; fair 47.3% < BE+1; model 53.5% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,pass_yds,229.5,Under,prizepicks,,0.527,-2.79,1,pinnacle,0.4652,no books at exact line; 1 sharp book(s) at line; fair 52.7% < BE+1; model 46.5% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,pass_yds,214.5,Over,prizepicks,,,,0,,0.5821,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,pass_yds,214.5,Under,prizepicks,,,,0,,0.4179,no books at exact line; 0 sharp book(s) at line; model 41.8% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,drake london,reception_yds,79.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.4312,fair 50.0% < BE+1; model 43.1% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,drake london,reception_yds,79.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.5688,fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,chris godwin,reception_yds,41.5,Over,prizepicks,,0.5,-7.77,3,pinnacle,0.4422,1 sharp book(s) at line; fair 50.0% < BE+1; model 44.2% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,chris godwin,reception_yds,41.5,Under,prizepicks,,0.5,-7.77,3,pinnacle,0.5578,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,kyle pitts,reception_yds,35.5,Over,prizepicks,,0.5041,-7.01,2,pinnacle,0.4511,1 sharp book(s) at line; fair 50.4% < BE+1; model 45.1% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,kyle pitts,reception_yds,35.5,Under,prizepicks,,0.4959,-8.52,2,pinnacle,0.5489,1 sharp book(s) at line; fair 49.6% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,cade otton,reception_yds,33.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.4034,fair 50.0% < BE+1; model 40.3% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,cade otton,reception_yds,33.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.5966,fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,reception_yds,31.5,Over,prizepicks,,0.5,-7.77,5,pinnacle,0.4502,1 sharp book(s) at line; fair 50.0% < BE+1; model 45.0% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,reception_yds,31.5,Under,prizepicks,,0.5,-7.77,5,pinnacle,0.5498,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,tez johnson,reception_yds,31.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.4345,fair 50.0% < BE+1; model 43.5% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,tez johnson,reception_yds,31.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.5655,fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,ted hurst,reception_yds,30.5,Over,prizepicks,,0.5,-7.77,3,,0.3067,0 sharp book(s) at line; fair 50.0% < BE+1; model 30.7% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,ted hurst,reception_yds,30.5,Under,prizepicks,,0.5,-7.77,3,,0.6933,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,jahan dotson,reception_yds,22.5,Over,prizepicks,,0.5,-7.77,2,fanduel,0.6138,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,jahan dotson,reception_yds,22.5,Under,prizepicks,,0.5,-7.77,2,fanduel,0.3862,1 sharp book(s) at line; fair 50.0% < BE+1; model 38.6% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,reception_yds,16.5,Over,prizepicks,,0.5049,-6.87,4,fanduel,,1 sharp book(s) at line; fair 50.5% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,reception_yds,16.5,Under,prizepicks,,0.4951,-8.67,4,fanduel,,1 sharp book(s) at line; fair 49.5% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,reception_yds,11.5,Over,prizepicks,,0.5,-7.77,7,pinnacle,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,reception_yds,11.5,Under,prizepicks,,0.5,-7.77,7,pinnacle,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,zachariah branch,reception_yds,8.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,zachariah branch,reception_yds,8.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,,olamide zaccheaus,reception_yds,8.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,austin hooper,reception_yds,5.5,Over,prizepicks,,0.5,-7.77,5,fanduel,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,austin hooper,reception_yds,5.5,Under,prizepicks,,0.5,-7.77,5,fanduel,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,rush_yds,80.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.3808,fair 50.0% < BE+1; model 38.1% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,bijan robinson,rush_yds,80.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.6192,fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,rush_yds,69.5,Over,prizepicks,,0.4979,-8.15,4,,0.4308,0 sharp book(s) at line; fair 49.8% < BE+1; model 43.1% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,bucky irving,rush_yds,69.5,Under,prizepicks,,0.5021,-7.38,4,,0.5692,0 sharp book(s) at line; fair 50.2% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,rush_yds,16.5,Over,prizepicks,,0.4978,-8.17,1,pinnacle,,no books at exact line; 1 sharp book(s) at line; fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,baker mayfield,rush_yds,16.5,Under,prizepicks,,0.5022,-7.37,1,pinnacle,,no books at exact line; 1 sharp book(s) at line; fair 50.2% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,rush_yds,14.5,Over,prizepicks,,0.5,-7.77,9,"fanduel,pinnacle",0.6382,fair 50.0% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,kenny gainwell,rush_yds,14.5,Under,prizepicks,,0.5,-7.77,9,"fanduel,pinnacle",0.3618,fair 50.0% < BE+1; model 36.2% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,khalil herbert,rush_yds,8.5,Over,prizepicks,,0.5042,-6.99,5,,,0 sharp book(s) at line; fair 50.4% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,khalil herbert,rush_yds,8.5,Under,prizepicks,,0.4958,-8.54,5,,,0 sharp book(s) at line; fair 49.6% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,sean tucker,rush_yds,6.5,Over,prizepicks,,0.4889,-9.81,3,"fanduel,pinnacle",0.7533,fair 48.9% < BE+1
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,TB,sean tucker,rush_yds,6.5,Under,prizepicks,,0.5111,-5.73,3,"fanduel,pinnacle",0.2467,fair 51.1% < BE+1; model 24.7% < 54.2%
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,rush_yds,2.5,Over,prizepicks,,0.5215,-3.8,4,"fanduel,pinnacle",,fair 52.1% < BE+1; not in model universe
+fail,PrizePicks,Atlanta Falcons @ Tampa Bay Buccaneers,ATL,mike penix,rush_yds,2.5,Under,prizepicks,,0.4785,-11.73,4,"fanduel,pinnacle",,fair 47.9% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,pass_yds,270.5,Over,prizepicks,,0.5,-7.77,1,,0.5287,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 52.9% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,pass_yds,270.5,Under,prizepicks,,0.5,-7.77,1,,0.4713,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 47.1% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,pass_yds,258.5,Over,prizepicks,,0.4752,-12.35,1,pinnacle,0.2635,no books at exact line; 1 sharp book(s) at line; fair 47.5% < BE+1; model 26.3% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,pass_yds,258.5,Under,prizepicks,,0.5248,-3.18,1,pinnacle,0.7365,no books at exact line; 1 sharp book(s) at line; fair 52.5% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,ceedee lamb,reception_yds,84.5,Over,prizepicks,,0.5,-7.77,4,,0.5375,0 sharp book(s) at line; fair 50.0% < BE+1; model 53.8% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,ceedee lamb,reception_yds,84.5,Under,prizepicks,,0.5,-7.77,4,,0.4625,0 sharp book(s) at line; fair 50.0% < BE+1; model 46.2% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,trey mcbride,reception_yds,72.5,Over,prizepicks,,0.5,-7.77,3,,0.4063,0 sharp book(s) at line; fair 50.0% < BE+1; model 40.6% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,trey mcbride,reception_yds,72.5,Under,prizepicks,,0.5,-7.77,3,,0.5937,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,george pickens,reception_yds,65.5,Over,prizepicks,,0.5,-7.77,4,"fanduel,pinnacle",0.535,fair 50.0% < BE+1; model 53.5% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,george pickens,reception_yds,65.5,Under,prizepicks,,0.5,-7.77,4,"fanduel,pinnacle",0.465,fair 50.0% < BE+1; model 46.5% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,mike wilson,reception_yds,58.5,Over,prizepicks,,0.5,-7.77,2,fanduel,0.4662,1 sharp book(s) at line; fair 50.0% < BE+1; model 46.6% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,mike wilson,reception_yds,58.5,Under,prizepicks,,0.5,-7.77,2,fanduel,0.5338,1 sharp book(s) at line; fair 50.0% < BE+1; model 53.4% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,kendrick bourne,reception_yds,38.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.261,fair 50.0% < BE+1; model 26.1% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,kendrick bourne,reception_yds,38.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.739,fair 50.0% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,ryan flournoy,reception_yds,37.5,Over,prizepicks,,0.5,-7.77,4,fanduel,0.5007,1 sharp book(s) at line; fair 50.0% < BE+1; model 50.1% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,ryan flournoy,reception_yds,37.5,Under,prizepicks,,0.5,-7.77,4,fanduel,0.4993,1 sharp book(s) at line; fair 50.0% < BE+1; model 49.9% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,elijah higgins,reception_yds,17.5,Over,prizepicks,,0.4905,-9.51,7,"fanduel,pinnacle",0.5211,fair 49.1% < BE+1; model 52.1% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,elijah higgins,reception_yds,17.5,Under,prizepicks,,0.5095,-6.02,7,"fanduel,pinnacle",0.4789,fair 50.9% < BE+1; model 47.9% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,jake ferguson,reception_yds,17.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,jake ferguson,reception_yds,17.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,brevyn spann ford,reception_yds,14.5,Over,prizepicks,,0.5,-7.77,4,pinnacle,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,brevyn spann ford,reception_yds,14.5,Under,prizepicks,,0.5,-7.77,4,pinnacle,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,reception_yds,11.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,reception_yds,11.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,reggie virgil,reception_yds,11.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,reggie virgil,reception_yds,11.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,reception_yds,10.5,Over,prizepicks,,0.5052,-6.81,5,"fanduel,pinnacle",,fair 50.5% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,reception_yds,10.5,Under,prizepicks,,0.4948,-8.72,5,"fanduel,pinnacle",,fair 49.5% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,tyler allgeier,reception_yds,6.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,bam knight,reception_yds,2.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,rush_yds,76.5,Over,prizepicks,,0.4985,-8.05,4,"fanduel,pinnacle",0.603,fair 49.8% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,javonte williams,rush_yds,76.5,Under,prizepicks,,0.5015,-7.48,4,"fanduel,pinnacle",0.397,fair 50.2% < BE+1; model 39.7% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,rush_yds,45.5,Over,prizepicks,,0.5,-7.77,1,,0.6226,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jeremiyah love,rush_yds,45.5,Under,prizepicks,,0.5,-7.77,1,,0.3774,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 37.7% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,tyler goodson,rush_yds,19.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,tyler goodson,rush_yds,19.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,bam knight,rush_yds,19.5,Over,prizepicks,,0.4939,-8.9,2,pinnacle,0.699,1 sharp book(s) at line; fair 49.4% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,bam knight,rush_yds,19.5,Under,prizepicks,,0.5061,-6.63,2,pinnacle,0.301,1 sharp book(s) at line; fair 50.6% < BE+1; model 30.1% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,tyler allgeier,rush_yds,13.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.7958,fair 50.0% < BE+1
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,tyler allgeier,rush_yds,13.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.2042,fair 50.0% < BE+1; model 20.4% < 54.2%
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,rush_yds,10.5,Over,prizepicks,,0.487,-10.17,3,"fanduel,pinnacle",,fair 48.7% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,ARI,jacoby brissett,rush_yds,10.5,Under,prizepicks,,0.513,-5.37,3,"fanduel,pinnacle",,fair 51.3% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,rush_yds,8.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Arizona Cardinals @ Dallas Cowboys,DAL,dak prescott,rush_yds,8.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,kirk cousins,pass_yds,233.5,Over,prizepicks,,,,0,,0.5603,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,kirk cousins,pass_yds,233.5,Under,prizepicks,,,,0,,0.4397,no books at exact line; 0 sharp book(s) at line; model 44.0% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,geno smith,pass_yds,225.5,Over,prizepicks,,0.5043,-6.97,3,"fanduel,pinnacle",0.4519,fair 50.4% < BE+1; model 45.2% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,geno smith,pass_yds,225.5,Under,prizepicks,,0.4957,-8.56,3,"fanduel,pinnacle",0.5481,fair 49.6% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,brock bowers,reception_yds,69.5,Over,prizepicks,,0.5,-7.77,3,,0.4326,0 sharp book(s) at line; fair 50.0% < BE+1; model 43.3% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,brock bowers,reception_yds,69.5,Under,prizepicks,,0.5,-7.77,3,,0.5674,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,garrett wilson,reception_yds,63.5,Over,prizepicks,,0.5,-7.77,4,"fanduel,pinnacle",0.4767,fair 50.0% < BE+1; model 47.7% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,garrett wilson,reception_yds,63.5,Under,prizepicks,,0.5,-7.77,4,"fanduel,pinnacle",0.5233,fair 50.0% < BE+1; model 52.3% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,tre tucker,reception_yds,48.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.5736,fair 50.0% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,tre tucker,reception_yds,48.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.4264,fair 50.0% < BE+1; model 42.6% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,omar cooper,reception_yds,41.5,Over,prizepicks,,0.5042,-6.99,5,"fanduel,pinnacle",0.5287,fair 50.4% < BE+1; model 52.9% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,omar cooper,reception_yds,41.5,Under,prizepicks,,0.4958,-8.54,5,"fanduel,pinnacle",0.4713,fair 49.6% < BE+1; model 47.1% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,reception_yds,28.5,Over,prizepicks,,0.4905,-9.51,1,,0.5652,no books at exact line; 0 sharp book(s) at line; fair 49.1% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,reception_yds,28.5,Under,prizepicks,,0.5095,-6.02,1,,0.4348,no books at exact line; 0 sharp book(s) at line; fair 50.9% < BE+1; model 43.5% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,adonai mitchell,reception_yds,25.5,Over,prizepicks,,0.5,-7.77,3,,0.7244,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,adonai mitchell,reception_yds,25.5,Under,prizepicks,,0.5,-7.77,3,,0.2756,0 sharp book(s) at line; fair 50.0% < BE+1; model 27.6% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,mike mayer,reception_yds,25.5,Over,prizepicks,,0.5082,-6.25,4,"fanduel,pinnacle",0.5793,fair 50.8% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,mike mayer,reception_yds,25.5,Under,prizepicks,,0.4918,-9.28,4,"fanduel,pinnacle",0.4207,fair 49.2% < BE+1; model 42.1% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,mason taylor,reception_yds,22.5,Over,prizepicks,,0.5011,-7.57,4,"fanduel,pinnacle",0.6645,fair 50.1% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,mason taylor,reception_yds,22.5,Under,prizepicks,,0.4989,-7.97,4,"fanduel,pinnacle",0.3355,fair 49.9% < BE+1; model 33.6% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,jalen nailor,reception_yds,17.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,jalen nailor,reception_yds,17.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,kenyon sadiq,reception_yds,16.5,Over,prizepicks,,0.5052,-6.81,5,fanduel,,1 sharp book(s) at line; fair 50.5% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,kenyon sadiq,reception_yds,16.5,Under,prizepicks,,0.4948,-8.72,5,fanduel,,1 sharp book(s) at line; fair 49.5% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,reception_yds,16.5,Over,prizepicks,,0.4924,-9.16,4,,,0 sharp book(s) at line; fair 49.2% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,reception_yds,16.5,Under,prizepicks,,0.5076,-6.37,4,,,0 sharp book(s) at line; fair 50.8% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,,jack bech,reception_yds,9.5,Over,prizepicks,,0.5051,-6.83,4,fanduel,,1 sharp book(s) at line; fair 50.5% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,,jack bech,reception_yds,9.5,Under,prizepicks,,0.4949,-8.7,4,fanduel,,1 sharp book(s) at line; fair 49.5% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,,isaiah davis,reception_yds,3.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,,isaiah williams,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,rush_yds,79.5,Over,prizepicks,,0.5,-7.77,4,,0.4784,0 sharp book(s) at line; fair 50.0% < BE+1; model 47.8% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,braelon allen,rush_yds,79.5,Under,prizepicks,,0.5,-7.77,4,,0.5216,0 sharp book(s) at line; fair 50.0% < BE+1; model 52.2% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,rush_yds,49.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.5622,fair 50.0% < BE+1
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,ashton jeanty,rush_yds,49.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.4378,fair 50.0% < BE+1; model 43.8% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,mike washington,rush_yds,31.5,Over,prizepicks,,0.5011,-7.57,4,"fanduel,pinnacle",0.5148,fair 50.1% < BE+1; model 51.5% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,mike washington,rush_yds,31.5,Under,prizepicks,,0.4989,-7.97,4,"fanduel,pinnacle",0.4852,fair 49.9% < BE+1; model 48.5% < 54.2%
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,,isaiah davis,rush_yds,10.5,Over,prizepicks,,0.492,-9.24,3,fanduel,,1 sharp book(s) at line; fair 49.2% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,,isaiah davis,rush_yds,10.5,Under,prizepicks,,0.508,-6.29,3,fanduel,,1 sharp book(s) at line; fair 50.8% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,geno smith,rush_yds,6.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,NYJ,geno smith,rush_yds,6.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,kirk cousins,rush_yds,0.5,Over,prizepicks,,0.4694,-13.41,5,"fanduel,pinnacle",,fair 46.9% < BE+1; not in model universe
+fail,PrizePicks,Las Vegas Raiders @ New York Jets,LV,kirk cousins,rush_yds,0.5,Under,prizepicks,,0.5306,-2.12,5,"fanduel,pinnacle",,fair 53.1% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,pass_yds,272.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.4753,fair 50.0% < BE+1; model 47.5% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,pass_yds,272.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.5247,fair 50.0% < BE+1; model 52.5% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,pass_yds,192.5,Over,prizepicks,,0.4908,-9.46,2,pinnacle,0.5221,1 sharp book(s) at line; fair 49.1% < BE+1; model 52.2% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,pass_yds,192.5,Under,prizepicks,,0.5092,-6.08,2,pinnacle,0.4779,1 sharp book(s) at line; fair 50.9% < BE+1; model 47.8% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,ja marr chase,reception_yds,83.5,Over,prizepicks,,0.5,-7.77,4,,0.4322,0 sharp book(s) at line; fair 50.0% < BE+1; model 43.2% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,ja marr chase,reception_yds,83.5,Under,prizepicks,,0.5,-7.77,4,,0.5678,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,tee higgins,reception_yds,70.5,Over,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",0.3858,fair 50.0% < BE+1; model 38.6% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,tee higgins,reception_yds,70.5,Under,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",0.6142,fair 50.0% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,wan dale robinson,reception_yds,48.5,Over,prizepicks,,0.4957,-8.56,3,"fanduel,pinnacle",0.3511,fair 49.6% < BE+1; model 35.1% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,wan dale robinson,reception_yds,48.5,Under,prizepicks,,0.5043,-6.97,3,"fanduel,pinnacle",0.6489,fair 50.4% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,elic ayomanor,reception_yds,33.5,Over,prizepicks,,0.4979,-8.15,5,fanduel,0.3835,1 sharp book(s) at line; fair 49.8% < BE+1; model 38.4% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,elic ayomanor,reception_yds,33.5,Under,prizepicks,,0.5021,-7.38,5,fanduel,0.6165,1 sharp book(s) at line; fair 50.2% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,mike gesicki,reception_yds,22.5,Over,prizepicks,,0.5022,-7.37,6,"fanduel,pinnacle",0.4271,fair 50.2% < BE+1; model 42.7% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,mike gesicki,reception_yds,22.5,Under,prizepicks,,0.4978,-8.17,6,"fanduel,pinnacle",0.5729,fair 49.8% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,calvin ridley,reception_yds,22.5,Over,prizepicks,,0.4974,-8.25,4,"fanduel,pinnacle",0.3895,fair 49.7% < BE+1; model 38.9% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,calvin ridley,reception_yds,22.5,Under,prizepicks,,0.5026,-7.28,4,"fanduel,pinnacle",0.6105,fair 50.3% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,gunnar helm,reception_yds,21.5,Over,prizepicks,,0.5,-7.77,8,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,gunnar helm,reception_yds,21.5,Under,prizepicks,,0.5,-7.77,8,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,reception_yds,20.5,Over,prizepicks,,0.508,-6.29,1,,0.576,no books at exact line; 0 sharp book(s) at line; fair 50.8% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,reception_yds,20.5,Under,prizepicks,,0.492,-9.24,1,,0.424,no books at exact line; 0 sharp book(s) at line; fair 49.2% < BE+1; model 42.4% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,reception_yds,12.5,Over,prizepicks,,0.5,-7.77,3,fanduel,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,reception_yds,12.5,Under,prizepicks,,0.5,-7.77,3,fanduel,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,dohnte meyers,reception_yds,12.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.5663,fair 50.0% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,dohnte meyers,reception_yds,12.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",0.4337,fair 50.0% < BE+1; model 43.4% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,dan bellinger,reception_yds,9.5,Over,prizepicks,,0.5021,-7.38,5,,,0 sharp book(s) at line; fair 50.2% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,dan bellinger,reception_yds,9.5,Under,prizepicks,,0.4979,-8.15,5,,,0 sharp book(s) at line; fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,,chimere dike,reception_yds,9.5,,prizepicks,,0.5,-7.77,2,fanduel,,1 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,drew sample,reception_yds,8.5,Over,prizepicks,,0.5026,-7.29,6,"fanduel,pinnacle",,fair 50.3% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,drew sample,reception_yds,8.5,Under,prizepicks,,0.4974,-8.24,6,"fanduel,pinnacle",,fair 49.7% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,reception_yds,7.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,reception_yds,7.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,reception_yds,7.5,Over,prizepicks,,0.5101,-5.9,7,pinnacle,,1 sharp book(s) at line; fair 51.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,reception_yds,7.5,Under,prizepicks,,0.4899,-9.63,7,pinnacle,,1 sharp book(s) at line; fair 49.0% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,rush_yds,65.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.5389,fair 50.0% < BE+1; model 53.9% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,tony pollard,rush_yds,65.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.4611,fair 50.0% < BE+1; model 46.1% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,rush_yds,57.5,Over,prizepicks,,0.5,-7.77,1,fanduel,0.617,no books at exact line; 1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,chase brown,rush_yds,57.5,Under,prizepicks,,0.5,-7.77,1,fanduel,0.383,no books at exact line; 1 sharp book(s) at line; fair 50.0% < BE+1; model 38.3% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,rush_yds,23.5,Over,prizepicks,,0.5,-7.77,5,fanduel,0.4923,1 sharp book(s) at line; fair 50.0% < BE+1; model 49.2% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,samaje perine,rush_yds,23.5,Under,prizepicks,,0.5,-7.77,5,fanduel,0.5077,1 sharp book(s) at line; fair 50.0% < BE+1; model 50.8% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,rush_yds,12.5,Over,prizepicks,,0.491,-9.42,6,pinnacle,0.6658,1 sharp book(s) at line; fair 49.1% < BE+1
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,mike carter,rush_yds,12.5,Under,prizepicks,,0.509,-6.11,6,pinnacle,0.3342,1 sharp book(s) at line; fair 50.9% < BE+1; model 33.4% < 54.2%
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,rush_yds,8.5,Over,prizepicks,,0.5095,-6.02,3,,,0 sharp book(s) at line; fair 50.9% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,TEN,cam ward,rush_yds,8.5,Under,prizepicks,,0.4905,-9.51,3,,,0 sharp book(s) at line; fair 49.1% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,rush_yds,5.5,Over,prizepicks,,0.5011,-7.57,6,"fanduel,pinnacle",,fair 50.1% < BE+1; not in model universe
+fail,PrizePicks,Tennessee Titans @ Cincinnati Bengals,CIN,joe burrow,rush_yds,5.5,Under,prizepicks,,0.4989,-7.97,6,"fanduel,pinnacle",,fair 49.9% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,pass_yds,218.5,Over,prizepicks,,0.4821,-11.08,2,pinnacle,0.4,1 sharp book(s) at line; fair 48.2% < BE+1; model 40.0% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,pass_yds,218.5,Under,prizepicks,,0.5179,-4.46,2,pinnacle,0.6,1 sharp book(s) at line; fair 51.8% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,pass_yds,210.5,Over,prizepicks,,0.4752,-12.35,1,pinnacle,0.4279,no books at exact line; 1 sharp book(s) at line; fair 47.5% < BE+1; model 42.8% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,pass_yds,210.5,Under,prizepicks,,0.5248,-3.18,1,pinnacle,0.5721,no books at exact line; 1 sharp book(s) at line; fair 52.5% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,dk metcalf,reception_yds,54.5,Over,prizepicks,,0.4797,-11.51,1,,0.5312,no books at exact line; 0 sharp book(s) at line; fair 48.0% < BE+1; model 53.1% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,dk metcalf,reception_yds,54.5,Under,prizepicks,,0.5203,-4.02,1,,0.4688,no books at exact line; 0 sharp book(s) at line; fair 52.0% < BE+1; model 46.9% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,denzel boston,reception_yds,49.5,Over,prizepicks,,0.5,-7.77,1,,0.4617,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 46.2% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,denzel boston,reception_yds,49.5,Under,prizepicks,,0.5,-7.77,1,,0.5383,no books at exact line; 0 sharp book(s) at line; fair 50.0% < BE+1; model 53.8% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,kc concepcion,reception_yds,46.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.4405,fair 50.0% < BE+1; model 44.1% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,kc concepcion,reception_yds,46.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.5595,fair 50.0% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,germie bernard,reception_yds,43.5,Over,prizepicks,,0.4989,-7.97,6,"fanduel,pinnacle",0.4679,fair 49.9% < BE+1; model 46.8% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,germie bernard,reception_yds,43.5,Under,prizepicks,,0.5011,-7.57,6,"fanduel,pinnacle",0.5321,fair 50.1% < BE+1; model 53.2% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,harold fannin,reception_yds,34.5,Over,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.6567,fair 50.0% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,harold fannin,reception_yds,34.5,Under,prizepicks,,0.5,-7.77,5,"fanduel,pinnacle",0.3433,fair 50.0% < BE+1; model 34.3% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,pat freiermuth,reception_yds,24.5,Over,prizepicks,,0.5085,-6.19,6,"fanduel,pinnacle",0.5034,fair 50.9% < BE+1; model 50.3% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,pat freiermuth,reception_yds,24.5,Under,prizepicks,,0.4915,-9.34,6,"fanduel,pinnacle",0.4966,fair 49.1% < BE+1; model 49.7% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,reception_yds,22.5,Over,prizepicks,,0.4958,-8.54,6,"fanduel,pinnacle",0.5581,fair 49.6% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,reception_yds,22.5,Under,prizepicks,,0.5042,-6.99,6,"fanduel,pinnacle",0.4419,fair 50.4% < BE+1; model 44.2% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,jerry jeudy,reception_yds,21.5,Over,prizepicks,,0.5046,-6.92,7,"fanduel,pinnacle",0.557,fair 50.5% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,jerry jeudy,reception_yds,21.5,Under,prizepicks,,0.4954,-8.61,7,"fanduel,pinnacle",0.443,fair 49.5% < BE+1; model 44.3% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,darnell washington,reception_yds,21.5,Over,prizepicks,,,,0,,0.455,no books at exact line; 0 sharp book(s) at line; model 45.5% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,darnell washington,reception_yds,21.5,Under,prizepicks,,,,0,,0.545,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,reception_yds,16.5,Over,prizepicks,,0.4899,-9.63,7,pinnacle,,1 sharp book(s) at line; fair 49.0% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,reception_yds,16.5,Under,prizepicks,,0.5101,-5.9,7,pinnacle,,1 sharp book(s) at line; fair 51.0% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,reception_yds,14.5,Over,prizepicks,,0.5,-7.77,3,fanduel,0.6035,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,reception_yds,14.5,Under,prizepicks,,0.5,-7.77,3,fanduel,0.3965,1 sharp book(s) at line; fair 50.0% < BE+1; model 39.6% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,reception_yds,9.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,reception_yds,9.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,rush_yds,65.5,Over,prizepicks,,,,0,,0.6845,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,jaylen warren,rush_yds,65.5,Under,prizepicks,,,,0,,0.3155,no books at exact line; 0 sharp book(s) at line; model 31.6% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,rush_yds,46.5,Over,prizepicks,,0.5,-7.77,3,,0.7169,0 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,quinshon judkins,rush_yds,46.5,Under,prizepicks,,0.5,-7.77,3,,0.2831,0 sharp book(s) at line; fair 50.0% < BE+1; model 28.3% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,rush_yds,29.5,Over,prizepicks,,0.5306,-2.12,1,,0.7202,no books at exact line; 0 sharp book(s) at line; fair 53.1% < BE+1
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,rico dowdle,rush_yds,29.5,Under,prizepicks,,0.4694,-13.41,1,,0.2798,no books at exact line; 0 sharp book(s) at line; fair 46.9% < BE+1; model 28.0% < 54.2%
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,rush_yds,25.5,Over,prizepicks,,0.5015,-7.48,4,"fanduel,pinnacle",,fair 50.2% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,deshaun watson,rush_yds,25.5,Under,prizepicks,,0.4985,-8.05,4,"fanduel,pinnacle",,fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,rush_yds,11.5,Over,prizepicks,,0.5095,-6.02,7,"fanduel,pinnacle",,fair 50.9% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,CLE,dylan sampson,rush_yds,11.5,Under,prizepicks,,0.4905,-9.51,7,"fanduel,pinnacle",,fair 49.1% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,rush_yds,0.5,Over,prizepicks,,0.4935,-8.96,5,"fanduel,pinnacle",,fair 49.4% < BE+1; not in model universe
+fail,PrizePicks,Cleveland Browns @ Pittsburgh Steelers,PIT,aaron rodgers,rush_yds,0.5,Under,prizepicks,,0.5065,-6.57,5,"fanduel,pinnacle",,fair 50.6% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,pass_yds,247.5,Over,prizepicks,,0.5098,-5.96,2,"fanduel,pinnacle",0.4518,fair 51.0% < BE+1; model 45.2% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,pass_yds,247.5,Under,prizepicks,,0.4902,-9.57,2,"fanduel,pinnacle",0.5482,fair 49.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,pass_yds,239.5,Over,prizepicks,,0.5,-7.77,2,,,0 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,pass_yds,239.5,Under,prizepicks,,0.5,-7.77,2,,,0 sharp book(s) at line; fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,zay flowers,reception_yds,88.5,Over,prizepicks,,,,0,,0.4632,no books at exact line; 0 sharp book(s) at line; model 46.3% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,zay flowers,reception_yds,88.5,Under,prizepicks,,,,0,,0.5368,no books at exact line; 0 sharp book(s) at line; model 53.7% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,dj moore,reception_yds,55.5,Over,prizepicks,,0.505,-6.84,1,,0.2461,no books at exact line; 0 sharp book(s) at line; fair 50.5% < BE+1; model 24.6% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,dj moore,reception_yds,55.5,Under,prizepicks,,0.495,-8.69,1,,0.7539,no books at exact line; 0 sharp book(s) at line; fair 49.5% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,khalil shakir,reception_yds,41.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.4499,fair 50.0% < BE+1; model 45.0% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,khalil shakir,reception_yds,41.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.5501,fair 50.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,dalton kincaid,reception_yds,41.5,Over,prizepicks,,0.5203,-4.02,1,,0.4356,no books at exact line; 0 sharp book(s) at line; fair 52.0% < BE+1; model 43.6% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,dalton kincaid,reception_yds,41.5,Under,prizepicks,,0.4797,-11.51,1,,0.5644,no books at exact line; 0 sharp book(s) at line; fair 48.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,ja kobi lane,reception_yds,31.5,Over,prizepicks,,0.5,-7.77,3,,0.4635,0 sharp book(s) at line; fair 50.0% < BE+1; model 46.4% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,ja kobi lane,reception_yds,31.5,Under,prizepicks,,0.5,-7.77,3,,0.5365,0 sharp book(s) at line; fair 50.0% < BE+1; model 53.6% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,keon coleman,reception_yds,29.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.649,fair 50.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,keon coleman,reception_yds,29.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.351,fair 50.0% < BE+1; model 35.1% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,mark andrews,reception_yds,27.5,Over,prizepicks,,0.5032,-7.17,2,"fanduel,pinnacle",0.5902,fair 50.3% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,mark andrews,reception_yds,27.5,Under,prizepicks,,0.4968,-8.37,2,"fanduel,pinnacle",0.4098,fair 49.7% < BE+1; model 41.0% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,rashod bateman,reception_yds,25.5,Over,prizepicks,,0.5,-7.77,4,,0.491,0 sharp book(s) at line; fair 50.0% < BE+1; model 49.1% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,rashod bateman,reception_yds,25.5,Under,prizepicks,,0.5,-7.77,4,,0.509,0 sharp book(s) at line; fair 50.0% < BE+1; model 50.9% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,reception_yds,14.5,Over,prizepicks,,0.4979,-8.15,2,,0.5903,0 sharp book(s) at line; fair 49.8% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,reception_yds,14.5,Under,prizepicks,,0.5021,-7.38,2,,0.4097,0 sharp book(s) at line; fair 50.2% < BE+1; model 41.0% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,reception_yds,10.5,Over,prizepicks,,0.5063,-6.61,4,pinnacle,,1 sharp book(s) at line; fair 50.6% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,reception_yds,10.5,Under,prizepicks,,0.4937,-8.93,4,pinnacle,,1 sharp book(s) at line; fair 49.4% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,james cook,reception_yds,9.5,Over,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.5931,fair 50.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,james cook,reception_yds,9.5,Under,prizepicks,,0.5,-7.77,7,"fanduel,pinnacle",0.4069,fair 50.0% < BE+1; model 40.7% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,josh cuevas,reception_yds,9.5,Over,prizepicks,,0.4899,-9.63,7,pinnacle,0.5875,1 sharp book(s) at line; fair 49.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,josh cuevas,reception_yds,9.5,Under,prizepicks,,0.5101,-5.9,7,pinnacle,0.4125,1 sharp book(s) at line; fair 51.0% < BE+1; model 41.2% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,josh palmer,reception_yds,8.5,Over,prizepicks,,,,0,,0.6696,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,josh palmer,reception_yds,8.5,Under,prizepicks,,,,0,,0.3304,no books at exact line; 0 sharp book(s) at line; model 33.0% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,dawson knox,reception_yds,7.5,Over,prizepicks,,0.5,-7.77,8,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,dawson knox,reception_yds,7.5,Under,prizepicks,,0.5,-7.77,8,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,reception_yds,6.5,Over,prizepicks,,0.5061,-6.65,6,"fanduel,pinnacle",,fair 50.6% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,reception_yds,6.5,Under,prizepicks,,0.4939,-8.89,6,"fanduel,pinnacle",,fair 49.4% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,,matt hibner,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,james cook,rush_yds,83.5,Over,prizepicks,,0.5,-7.77,5,fanduel,0.5454,1 sharp book(s) at line; fair 50.0% < BE+1
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,james cook,rush_yds,83.5,Under,prizepicks,,0.5,-7.77,5,fanduel,0.4546,1 sharp book(s) at line; fair 50.0% < BE+1; model 45.5% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,rush_yds,78.5,Over,prizepicks,,0.5022,-7.37,2,"fanduel,pinnacle",0.4886,fair 50.2% < BE+1; model 48.9% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,derrick henry,rush_yds,78.5,Under,prizepicks,,0.4978,-8.17,2,"fanduel,pinnacle",0.5114,fair 49.8% < BE+1; model 51.1% < 54.2%
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,rush_yds,35.5,Over,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,josh allen,rush_yds,35.5,Under,prizepicks,,0.5,-7.77,3,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,rush_yds,24.5,Over,prizepicks,,0.5102,-5.89,2,fanduel,,1 sharp book(s) at line; fair 51.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,lamar jackson,rush_yds,24.5,Under,prizepicks,,0.4898,-9.64,2,fanduel,,1 sharp book(s) at line; fair 49.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,rush_yds,9.5,Over,prizepicks,,0.4974,-8.24,6,fanduel,,1 sharp book(s) at line; fair 49.7% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BAL,justice hill,rush_yds,9.5,Under,prizepicks,,0.5026,-7.29,6,fanduel,,1 sharp book(s) at line; fair 50.3% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,ray davis,rush_yds,4.5,Over,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,ray davis,rush_yds,4.5,Under,prizepicks,,0.5,-7.77,6,"fanduel,pinnacle",,fair 50.0% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,rush_yds,1.5,Over,prizepicks,,0.4979,-8.15,3,,,0 sharp book(s) at line; fair 49.8% < BE+1; not in model universe
+fail,PrizePicks,Baltimore Ravens @ Buffalo Bills,BUF,ty johnson,rush_yds,1.5,Under,prizepicks,,0.5021,-7.38,3,,,0 sharp book(s) at line; fair 50.2% < BE+1; not in model universe

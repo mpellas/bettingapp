@@ -1,0 +1,54 @@
+{
+ "created_at_utc": "2026-10-25T10:22:21+00:00",
+ "created_at_pt": "2026-10-25T03:22:21-07:00",
+ "season": 2026,
+ "week": 7,
+ "champion_hash": "aa4d70b859",
+ "config_hash": "37b5a34d8c",
+ "code_version": "6ddb05f9",
+ "pregame_code_sha1": "40b08d1852",
+ "data_version": "a7b92b8c",
+ "data_cutoff": "2026-10-22",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-10-08",
+ "lookback_games": 2,
+ "mode": "snapshot (D lines)",
+ "n_rows_built": 210,
+ "n_void_lines": 2,
+ "void_reasons": {
+  "no player row: player's last team (NYJ) is not in this game": 1,
+  "no player row: player's last team (HOU) is not in this game": 1
+ },
+ "n_predictions": {
+  "pass_yds": 28,
+  "rush_yds": 80,
+  "rec_yds": 166
+ },
+ "d_lines_file": "data/lines/snap_2026_wk7_D.csv",
+ "d_lines_sha256": "7f8159581725f72122e2c02cfe5d64c7e415cb2b8763ee2979eedfdd662d9b54",
+ "d_captured_at_utc": {
+  "401873009": "2026-10-25T10:21:56+00:00",
+  "401873010": "2026-10-22T16:28:09+00:00",
+  "401873011": "2026-10-25T10:21:56+00:00",
+  "401873012": "2026-10-25T10:21:56+00:00",
+  "401873013": "2026-10-25T10:21:56+00:00",
+  "401873014": "2026-10-25T10:21:56+00:00",
+  "401873015": "2026-10-25T10:21:56+00:00",
+  "401873016": "2026-10-25T10:21:56+00:00",
+  "401873017": "2026-10-25T10:21:56+00:00",
+  "401873018": "2026-10-25T10:21:56+00:00",
+  "401873019": "2026-10-25T10:21:56+00:00",
+  "401873020": "2026-10-25T10:21:56+00:00",
+  "401873021": "2026-10-25T10:21:56+00:00",
+  "401873022": "2026-10-25T10:21:56+00:00"
+ },
+ "n_with_line_D": 274,
+ "sha256_parquet": "782c66d780b9987beaaaf3f9bbc1a22a58742765d8f277cf45a04fd026f72578",
+ "sha256_csv": "d1973af2c0e2a31ccde682ba9a1d876939abbfe4cd6e4a1c2f609da769af27e4",
+ "files": [
+  "data/predictions/2026_wk07/pregame_20261025T102221Z.parquet",
+  "data/predictions/2026_wk07/pregame_20261025T102221Z.csv"
+ ],
+ "void_report": "data/predictions/2026_wk07/pregame_20261025T102221Z_voids.csv",
+ "sha256_voids": "c14e0d4ca57601f5c06627896aa666fb30b19222984f9c5701bbb4b2dbe561b7"
+}

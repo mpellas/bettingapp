@@ -1,0 +1,2 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261026,Kasperi Kapanen,Detroit Red Wings at Edmonton Oilers,UNDER,1.5,8477953,2026020187,401892584,5b70654c977b6cc9a110ad8c04c57cac,offered,1.5,-115,True,105,False,-110,1.5,-110,1.5,True,2026-10-26T15:18:18-07:00,20261026_D_1516_picks.xlsx

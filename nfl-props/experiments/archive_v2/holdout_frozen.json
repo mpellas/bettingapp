@@ -1,0 +1,458 @@
+{
+  "policy_sha1": "c6e4aba2a15a01dbeda7bca75c49c97184932226",
+  "champion_hash": "557e6ab3e4",
+  "champion_model": {
+    "feature_set": "full",
+    "use_snaps": true,
+    "use_market_proj": true,
+    "dist": "empirical",
+    "retrain_every_weeks": 4,
+    "n_folds": 3,
+    "lgbm": {
+      "n_estimators": 400,
+      "learning_rate": 0.03,
+      "num_leaves": 7,
+      "min_child_samples": 50,
+      "colsample_bytree": 0.8,
+      "reg_lambda": 1.0
+    }
+  },
+  "scored_at": "2026-10-04T13:45:13-07:00",
+  "forced": false,
+  "real_espn_uncertain_timing": {
+    "report": "reports/holdout_2025_real_espn_uncertain_timing/report.md",
+    "run_id": "r0021",
+    "label": "ESPN BET lines of uncertain timing (2025 REG weeks 1-13; ESPN timestamps are last-update times, 99.3% after kickoff)",
+    "n_lines": 2363,
+    "logloss_raw": 0.7092503551319818,
+    "logloss": 0.6909818063527421,
+    "logloss_market": 0.6911822451159149,
+    "brier": 0.24890833828636705,
+    "brier_market": 0.24902818941489546,
+    "mae_model": 28.167709108445063,
+    "mae_naive_ewma": 29.861480146122357,
+    "mae_market_proxy": 29.695678795234254,
+    "mae_line": 27.22661870503597,
+    "crps_model": 19.791044513260513,
+    "n_bets": 18,
+    "hit_rate": 0.5,
+    "flat_roi": -0.06704728443858882,
+    "kelly_roi": -0.18088488134435743,
+    "final_bankroll": 980.7959761510605,
+    "max_drawdown": -0.023147885159400184,
+    "per_market": {
+      "pass_yds": {
+        "n_lines": 317,
+        "logloss_raw": 0.7147598265135647,
+        "logloss": 0.6895352703254795,
+        "logloss_market": 0.6895352703254795,
+        "brier": 0.24851036687864939,
+        "brier_market": 0.24851036687864939,
+        "mae_model": 60.25173621066642,
+        "mae_naive_ewma": 64.61659736267164,
+        "mae_market_proxy": 64.68596703622975,
+        "mae_line": 55.44952681388013,
+        "crps_model": 43.1208700840854,
+        "n_bets": 0,
+        "hit_rate": NaN,
+        "flat_roi": NaN,
+        "kelly_roi": NaN,
+        "roi_ci95_game_clustered": [
+          NaN,
+          NaN
+        ],
+        "n_games_bet": 0,
+        "ll_gain_raw_vs_market": {
+          "gain_nats_per_line": -0.025224556188085362,
+          "ci95": [
+            -0.045173643941115275,
+            -0.006125068874815079
+          ],
+          "p_gain_pos": 0.006,
+          "n_games": 184,
+          "n_lines": 317
+        },
+        "ll_gain_stacked_vs_market": {
+          "gain_nats_per_line": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ],
+          "p_gain_pos": 0.0,
+          "n_games": 184,
+          "n_lines": 317
+        }
+      },
+      "rec_yds": {
+        "n_lines": 1487,
+        "logloss_raw": 0.7033148897957275,
+        "logloss": 0.6907459396891538,
+        "logloss_market": 0.6914714953960076,
+        "brier": 0.24869586202049276,
+        "brier_market": 0.24908856772118898,
+        "mae_model": 22.92673301473577,
+        "mae_naive_ewma": 24.312446943953862,
+        "mae_market_proxy": 24.09417211179156,
+        "mae_line": 22.39172831203766,
+        "crps_model": 15.901522730887397,
+        "n_bets": 0,
+        "hit_rate": NaN,
+        "flat_roi": NaN,
+        "kelly_roi": NaN,
+        "roi_ci95_game_clustered": [
+          NaN,
+          NaN
+        ],
+        "n_games_bet": 0,
+        "ll_gain_raw_vs_market": {
+          "gain_nats_per_line": -0.011843394399719969,
+          "ci95": [
+            -0.02175033051321866,
+            -0.002185887141593524
+          ],
+          "p_gain_pos": 0.0085,
+          "n_games": 193,
+          "n_lines": 1487
+        },
+        "ll_gain_stacked_vs_market": {
+          "gain_nats_per_line": 0.0007255557068540403,
+          "ci95": [
+            -0.00047248422659348704,
+            0.001964506270009839
+          ],
+          "p_gain_pos": 0.88225,
+          "n_games": 193,
+          "n_lines": 1487
+        }
+      },
+      "rush_yds": {
+        "n_lines": 559,
+        "logloss_raw": 0.7219149965041611,
+        "logloss": 0.6924295445448679,
+        "logloss_market": 0.6913467815060219,
+        "brier": 0.24969923120873125,
+        "brier_market": 0.24916122555538128,
+        "mae_model": 24.755279839666862,
+        "mae_naive_ewma": 25.835099636819347,
+        "mae_market_proxy": 25.680436864224166,
+        "mae_line": 24.083184257602863,
+        "crps_model": 17.511723741219686,
+        "n_bets": 18,
+        "hit_rate": 0.5,
+        "flat_roi": -0.06704728443858882,
+        "kelly_roi": -0.18088488134435743,
+        "roi_ci95_game_clustered": [
+          -0.45439045183290705,
+          0.34237300541648363
+        ],
+        "n_games_bet": 17,
+        "ll_gain_raw_vs_market": {
+          "gain_nats_per_line": -0.030568214998139207,
+          "ci95": [
+            -0.05407607175259222,
+            -0.007505417172289523
+          ],
+          "p_gain_pos": 0.0045,
+          "n_games": 193,
+          "n_lines": 559
+        },
+        "ll_gain_stacked_vs_market": {
+          "gain_nats_per_line": -0.0010827630388460289,
+          "ci95": [
+            -0.004169405722066505,
+            0.0020309025332654745
+          ],
+          "p_gain_pos": 0.25525,
+          "n_games": 193,
+          "n_lines": 559
+        }
+      }
+    },
+    "per_season_logloss_raw": {
+      "2025": 0.7092503551319818
+    },
+    "roi_ci95_game_clustered": [
+      -0.45439045183290705,
+      0.34237300541648363
+    ],
+    "n_games_bet": 17,
+    "ll_gain_raw_vs_market": {
+      "gain_nats_per_line": -0.018068110016067066,
+      "ci95": [
+        -0.026895331310185306,
+        -0.009129618423485973
+      ],
+      "p_gain_pos": 0.0,
+      "n_games": 193,
+      "n_lines": 2363
+    },
+    "ll_gain_stacked_vs_market": {
+      "gain_nats_per_line": 0.00020043876317266972,
+      "ci95": [
+        -0.0008760599289954593,
+        0.00125638749039864
+      ],
+      "p_gain_pos": 0.65575,
+      "n_games": 193,
+      "n_lines": 2363
+    },
+    "stacker_coefs_last": {
+      "rec_yds": {
+        "t": 202513,
+        "n": 1366,
+        "a": -0.07077547390214614,
+        "b": 0.9662410989046307,
+        "c": 0.036022449168352226
+      },
+      "rush_yds": {
+        "t": 202513,
+        "n": 509,
+        "a": -0.10115928605068285,
+        "b": 0.9995497303735573,
+        "c": 0.011807837908667062
+      }
+    },
+    "first_bettable_week_by_market": {
+      "rec_yds": 4,
+      "rush_yds": 8
+    }
+  },
+  "sim": {
+    "report": "reports/holdout_2025_sim/report.md",
+    "run_id": "r0022",
+    "label": "simulated_sharp (history 2019-2024 sim)",
+    "n_lines": 3721,
+    "logloss_raw": 0.7073462538872218,
+    "logloss": 0.6923520459477461,
+    "logloss_market": 0.6931471805599452,
+    "brier": 0.2496050736704721,
+    "brier_market": 0.25,
+    "mae_model": 28.167709108445063,
+    "mae_naive_ewma": 29.861480146122357,
+    "mae_market_proxy": 29.695678795234254,
+    "mae_line": 26.248723461435098,
+    "crps_model": 19.791044513260513,
+    "n_bets": 220,
+    "hit_rate": 0.5727272727272728,
+    "flat_roi": 0.09338842975206615,
+    "kelly_roi": 0.11729359646778237,
+    "final_bankroll": 1444.4575211033032,
+    "max_drawdown": -0.14587094064462303,
+    "per_market": {
+      "pass_yds": {
+        "n_lines": 478,
+        "logloss_raw": 0.7716327863177984,
+        "logloss": 0.6932477858765839,
+        "logloss_market": 0.6931471805599453,
+        "brier": 0.25004961501875245,
+        "brier_market": 0.25,
+        "mae_model": 60.25173621066642,
+        "mae_naive_ewma": 64.61659736267164,
+        "mae_market_proxy": 64.68596703622975,
+        "mae_line": 52.63389121338912,
+        "crps_model": 43.1208700840854,
+        "n_bets": 9,
+        "hit_rate": 0.5555555555555556,
+        "flat_roi": 0.06060606060606065,
+        "kelly_roi": 0.10559800275909705,
+        "roi_ci95_game_clustered": [
+          -0.5227272727272727,
+          0.6704545454545455
+        ],
+        "n_games_bet": 8,
+        "ll_gain_raw_vs_market": {
+          "gain_nats_per_line": -0.07848560575785328,
+          "ci95": [
+            -0.1160034241580592,
+            -0.04168118025971208
+          ],
+          "p_gain_pos": 0.0,
+          "n_games": 267,
+          "n_lines": 478
+        },
+        "ll_gain_stacked_vs_market": {
+          "gain_nats_per_line": -0.00010060531663850692,
+          "ci95": [
+            -0.0032339854602692866,
+            0.002962714342342511
+          ],
+          "p_gain_pos": 0.4675,
+          "n_games": 267,
+          "n_lines": 478
+        }
+      },
+      "rec_yds": {
+        "n_lines": 2335,
+        "logloss_raw": 0.7001588884059998,
+        "logloss": 0.6925571256329074,
+        "logloss_market": 0.6931471805599453,
+        "brier": 0.24970882164373567,
+        "brier_market": 0.25,
+        "mae_model": 22.92673301473577,
+        "mae_naive_ewma": 24.312446943953862,
+        "mae_market_proxy": 24.09417211179156,
+        "mae_line": 21.808779443254817,
+        "crps_model": 15.901522730887397,
+        "n_bets": 195,
+        "hit_rate": 0.5692307692307692,
+        "flat_roi": 0.08671328671328678,
+        "kelly_roi": 0.11028121917643263,
+        "roi_ci95_game_clustered": [
+          -0.04056068297185044,
+          0.2121212121212122
+        ],
+        "n_games_bet": 141,
+        "ll_gain_raw_vs_market": {
+          "gain_nats_per_line": -0.007011707846054493,
+          "ci95": [
+            -0.014019939730328808,
+            -0.00045677998476709105
+          ],
+          "p_gain_pos": 0.01725,
+          "n_games": 272,
+          "n_lines": 2335
+        },
+        "ll_gain_stacked_vs_market": {
+          "gain_nats_per_line": 0.0005900549270378263,
+          "ci95": [
+            -0.0012698834884877746,
+            0.0023903256508756446
+          ],
+          "p_gain_pos": 0.748,
+          "n_games": 272,
+          "n_lines": 2335
+        }
+      },
+      "rush_yds": {
+        "n_lines": 908,
+        "logloss_raw": 0.691986711923387,
+        "logloss": 0.6913531200107017,
+        "logloss_market": 0.6931471805599452,
+        "brier": 0.24910425617922927,
+        "brier_market": 0.25,
+        "mae_model": 24.755279839666862,
+        "mae_naive_ewma": 25.835099636819347,
+        "mae_market_proxy": 25.680436864224166,
+        "mae_line": 23.776431718061673,
+        "crps_model": 17.511723741219686,
+        "n_bets": 16,
+        "hit_rate": 0.625,
+        "flat_roi": 0.19318181818181823,
+        "kelly_roi": 0.2105094579523949,
+        "roi_ci95_game_clustered": [
+          -0.28409090909090906,
+          0.6545454545454547
+        ],
+        "n_games_bet": 15,
+        "ll_gain_raw_vs_market": {
+          "gain_nats_per_line": 0.0011604686365583642,
+          "ci95": [
+            -0.011634840477090099,
+            0.013933425770282212
+          ],
+          "p_gain_pos": 0.5785,
+          "n_games": 272,
+          "n_lines": 908
+        },
+        "ll_gain_stacked_vs_market": {
+          "gain_nats_per_line": 0.0017940605492435323,
+          "ci95": [
+            -0.0003918313118159548,
+            0.0040846262772995245
+          ],
+          "p_gain_pos": 0.94625,
+          "n_games": 272,
+          "n_lines": 908
+        }
+      }
+    },
+    "per_season_logloss_raw": {
+      "2025": 0.7073462538872218
+    },
+    "roi_ci95_game_clustered": [
+      -0.023047375160051176,
+      0.2157545128213937
+    ],
+    "n_games_bet": 155,
+    "ll_gain_raw_vs_market": {
+      "gain_nats_per_line": -0.014199073327276582,
+      "ci95": [
+        -0.02160251219642998,
+        -0.006960904555062898
+      ],
+      "p_gain_pos": 0.0,
+      "n_games": 272,
+      "n_lines": 3721
+    },
+    "ll_gain_stacked_vs_market": {
+      "gain_nats_per_line": 0.0007951346121991954,
+      "ci95": [
+        -0.0005478263691657523,
+        0.0021167401930166133
+      ],
+      "p_gain_pos": 0.891,
+      "n_games": 272,
+      "n_lines": 3721
+    },
+    "stacker_coefs_last": {
+      "pass_yds": {
+        "t": 202518,
+        "n": 3204,
+        "a": 0.04754923791150009,
+        "b": 1.0,
+        "c": -0.08562773283908968
+      },
+      "rec_yds": {
+        "t": 202518,
+        "n": 16429,
+        "a": 0.02010671729185339,
+        "b": 1.0,
+        "c": 0.2552519112756999
+      },
+      "rush_yds": {
+        "t": 202518,
+        "n": 6257,
+        "a": 0.04779073384494976,
+        "b": 1.0,
+        "c": 0.13996082236310814
+      }
+    },
+    "first_bettable_week_by_market": {
+      "pass_yds": 1,
+      "rec_yds": 1,
+      "rush_yds": 1
+    }
+  },
+  "sim_vs_real_lines": {
+    "pass_yds": {
+      "n_overlap": 317,
+      "mae_sim_line": 52.22870662460568,
+      "mae_real_line": 55.44952681388013,
+      "mae_model_mean": 57.74381913211551,
+      "over_rate_sim": 0.5236593059936908,
+      "over_rate_real": 0.4921135646687697,
+      "mean_sim_minus_real": -4.634069400630914,
+      "corr_sim_real": 0.4756557401292427
+    },
+    "rec_yds": {
+      "n_overlap": 1487,
+      "mae_sim_line": 22.47511768661735,
+      "mae_real_line": 22.39172831203766,
+      "mae_model_mean": 23.408838408611253,
+      "over_rate_sim": 0.49630127774041694,
+      "over_rate_real": 0.4741089441829186,
+      "mean_sim_minus_real": -2.718897108271688,
+      "corr_sim_real": 0.8715639988170727
+    },
+    "rush_yds": {
+      "n_overlap": 559,
+      "mae_sim_line": 24.975849731663686,
+      "mae_real_line": 24.083184257602863,
+      "mae_model_mean": 25.722090987346217,
+      "over_rate_sim": 0.5134168157423972,
+      "over_rate_real": 0.4561717352415027,
+      "mean_sim_minus_real": -4.64221824686941,
+      "corr_sim_real": 0.8450725172635434
+    }
+  }
+}

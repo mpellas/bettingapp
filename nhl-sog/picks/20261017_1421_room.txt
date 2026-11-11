@@ -1,0 +1,20 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots window pass 2:21 PM PT — St. Louis Blues at Nashville Predators, puck drop 5:00 PM PT.
+
+DraftKings list: nothing qualifies.
+
+Fliff check (3):
+1. Steven Stamkos OVER 2.5 (St. Louis Blues at Nashville Predators) — DK +100, Fliff at +117 or better — model +2.7 pts vs no-vig; recent +6.6 pts
+   evidence: Steven Stamkos O2.5: agrees 4 of 7 (champion +2.7 pts; challenger +4.5 pts; shrunk form +6.2 pts; on PP1); against: no-vig moved 1.4 pts away from side since open
+   Fliff price: not offered yet (no Fliff shots market posted for this game)
+2. Roman Josi OVER 2.5 (St. Louis Blues at Nashville Predators) — DK +115, Fliff at +132 or better — model +2.8 pts vs no-vig; recent +5.7 pts
+   evidence: Roman Josi O2.5: agrees 4 of 7 (champion +2.8 pts; challenger +6.2 pts; shrunk form +6.7 pts; on PP1); nothing against
+   Fliff price: not offered yet (no Fliff shots market posted for this game)
+3. Matthew Wood OVER 1.5 (St. Louis Blues at Nashville Predators) — DK +105, Fliff at +121 or better — model +3.8 pts vs no-vig; recent +2.8 pts
+   evidence: Matthew Wood O1.5: agrees 3 of 7 (champion +3.8 pts; challenger +5.9 pts; shrunk form +2.4 pts); against: opponent allows -7% to F_3rd; no-vig moved 1.4 pts away from side since open
+   Fliff price: not offered yet (no Fliff shots market posted for this game)
+
+Correlation: all three are Nashville OVERS in the same game (Stamkos, Josi, Wood) — same-direction, same-team; don't treat as independent.
+
+Spreadsheet: /workspace/nhl-sog/sheets/20261017_D_1421_picks.xlsx (also in room attachments). Fliff credits today: 9 of 15 used.

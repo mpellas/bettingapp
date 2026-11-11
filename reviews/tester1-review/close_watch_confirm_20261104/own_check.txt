@@ -1,0 +1,19 @@
+2026020236 UTA @ TOR 2026-11-04T00:00:00Z espn 401892633 Utah Mammoth at Toronto Maple Leafs snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892639 Vegas Golden Knights at Pittsburgh Penguins snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892635 Detroit Red Wings at Tampa Bay Lightning snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892634 Winnipeg Jets at Montreal Canadiens snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892641 Colorado Avalanche at Columbus Blue Jackets snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892638 Minnesota Wild at Philadelphia Flyers snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892633 Utah Mammoth at Toronto Maple Leafs snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892640 Dallas Stars at Washington Capitals snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020237 WPG @ MTL 2026-11-04T00:00:00Z espn 401892637 St. Louis Blues at New York Rangers snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020238 DET @ TBL 2026-11-04T00:00:00Z espn 401892635 Detroit Red Wings at Tampa Bay Lightning snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020240 STL @ NYR 2026-11-04T00:00:00Z espn 401892637 St. Louis Blues at New York Rangers snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020241 MIN @ PHI 2026-11-04T00:00:00Z espn 401892638 Minnesota Wild at Philadelphia Flyers snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020242 VGK @ PIT 2026-11-04T00:00:00Z espn 401892639 Vegas Golden Knights at Pittsburgh Penguins snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020243 DAL @ WSH 2026-11-04T00:00:00Z espn 401892640 Dallas Stars at Washington Capitals snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020244 COL @ CBJ 2026-11-04T00:00:00Z espn 401892641 Colorado Avalanche at Columbus Blue Jackets snaps 15 in_window [2.6, 2.6, 6.8, 10.9, 15.2, 19.5, 23.7, 27.8] nearest 2.6 PASS
+2026020239 EDM @ NJD 2026-11-04T00:30:00Z espn 401892636 Edmonton Oilers at New Jersey Devils snaps 18 in_window [4.0, 4.0, 8.1, 12.2, 16.2, 20.3, 24.4, 28.4] nearest 4.0 PASS
+2026020245 CAR @ NSH 2026-11-04T01:00:00Z espn 401892642 Carolina Hurricanes at Nashville Predators snaps 19 in_window [1.5, 1.5, 5.6, 9.7, 13.7, 17.8, 21.8, 25.9, 30.0] nearest 1.5 PASS
+2026020246 ANA @ VAN 2026-11-04T02:00:00Z espn 401892643 Anaheim Ducks at Vancouver Canucks snaps 13 in_window [3.9, 3.9, 7.9, 12.0, 17.2, 23.2, 27.9] nearest 3.9 PASS
+games 11 with close 18

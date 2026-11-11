@@ -1,0 +1,8 @@
+Fliff check: Kasperi Kapanen UNDER 1.5 (DK -125, Fliff at -110 or better) - model +8.1 pts vs no-vig; recent +5.4 pts
+   evidence: Kasperi Kapanen U1.5: agrees 2 of 7 (champion +8.1 pts; challenger +5.1 pts); against: shrunk form -5.3 pts; no-vig moved 2.4 pts away from side since open
+Fliff check: Kirill Kaprizov UNDER 3.5 (DK -140, Fliff at -121 or better) - model +8.5 pts vs no-vig; recent +9.1 pts
+   evidence: Kirill Kaprizov U3.5: agrees 4 of 7 (champion +8.5 pts; challenger +7.2 pts; shrunk form +6.0 pts; opponent allows -4% to F_top6+PP1); against: on PP1; no-vig moved 3.3 pts away from side since open
+Fliff check: Alex Formenton UNDER 1.5 (DK -135, Fliff at -115 or better) - model +3.1 pts vs no-vig; recent +4.5 pts
+   evidence: Alex Formenton U1.5: agrees 5 of 7 (champion +3.1 pts; challenger +2.3 pts; shrunk form +2.1 pts; f3 line, no PP; no-vig moved 4.0 pts toward side since open); nothing against
+Fliff check: Maxim Shabanov UNDER 1.5 (DK -175, Fliff at -145 or better) - model +9.0 pts vs no-vig; recent +12.7 pts
+   evidence: Maxim Shabanov U1.5: agrees 4 of 7 (champion +9.0 pts; challenger +8.8 pts; shrunk form +9.5 pts; opponent allows -4% to F_top6+PP1); against: on PP1; no-vig moved 1.5 pts away from side since open

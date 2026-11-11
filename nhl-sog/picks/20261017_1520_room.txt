@@ -1,0 +1,32 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots pass 3:20 PM PT. Only new game since the last pass: Boston Bruins at Los Angeles Kings, puck drop 6:00 PM PT. Every other game today was already posted.
+
+DraftKings list: nothing qualifies (no side has positive blended EV at DraftKings).
+
+Fliff check (4):
+1. JJ Peterka, Boston Bruins at Los Angeles Kings (6:00 PM PT), UNDER 1.5 shots on goal. DK +100, no-vig 46.5%, model 51.6%, recent expected shots 1.74, recent form 48.1%, shrunk 51.6%. Fliff at +114 or better.
+   Role: history F_top6, today 2nd line and PP2. LA allows 1.01x to that slot; LA shots allowed 26.4 a game (1.4 below league).
+   evidence: agrees 4 of 7 (champion +5.0 pts; challenger +4.3 pts; shrunk form +5.0 pts; TOI last 5 down 1.8 min vs season); nothing against
+   Fliff price: not offered on Fliff yet
+2. Charlie McAvoy, Boston Bruins at Los Angeles Kings (6:00 PM PT), UNDER 1.5 shots on goal. DK -105, no-vig 48.0%, model 52.5%, recent expected shots 1.47, recent form 56.7%, shrunk 52.4%. Fliff at +108 or better.
+   Role: history D+PP1, today top pair and PP1. LA allows 0.96x to that slot; LA shots allowed 26.4 a game (1.4 below league).
+   evidence: agrees 5 of 7 (champion +4.5 pts; challenger +4.2 pts; shrunk form +4.4 pts; TOI last 5 down 0.5 min vs season; opponent allows 4% less to D+PP1); against: on PP1; no-vig moved 4.1 pts away from side since open
+   Fliff price: not offered on Fliff yet
+3. Adrian Kempe, Boston Bruins at Los Angeles Kings (6:00 PM PT), OVER 2.5 shots on goal. DK -165, no-vig 57.8%, model 61.5%, recent expected shots 3.48, recent form 67.6%, shrunk 59.5%. Fliff at -138 or better. PrizePicks: power2, power3, flex3–flex6.
+   Role: history F_top6+PP1, today 1st line and PP1. Boston allows 1.04x to that slot; Boston shots allowed 28.2 a game (0.3 above league).
+   evidence: agrees 6 of 7 (champion +3.7 pts; challenger +4.5 pts; shrunk form +1.7 pts; opponent allows 4% more to F_top6+PP1; on PP1; no-vig moved 3.0 pts toward side since open); nothing against
+   Fliff price: not offered on Fliff yet
+4. David Pastrnak, Boston Bruins at Los Angeles Kings (6:00 PM PT), OVER 3.5 shots on goal. DK +115, no-vig 43.0%, model 45.3%, recent expected shots 3.73, recent form 51.2%, shrunk 40.8%. Fliff at +132 or better.
+   Role: history F_top6+PP1, today 1st line and PP1. LA allows 1.00x to that slot; LA shots allowed 26.4 a game (1.4 below league).
+   evidence: agrees 2 of 7 (champion +2.2 pts; on PP1); against: challenger -0.6 pts; shrunk form -2.2 pts
+   Fliff price: not offered on Fliff yet
+
+Correlation: all four are in the same game. Peterka and McAvoy are both Bruins UNDERS, and Kempe and Pastrnak are both OVERS, so play one or two at most rather than treating them as independent.
+
+Vetoes: 3 sides skipped. Pavel Zacha, both sides (day-to-day), and Elias Lindholm, over skipped (demoted, history F_top6+PP1, today 3rd line and PP1).
+Skipped, before noon PT: New Jersey Devils at Washington Capitals, 10:00 AM PT.
+Rosters checked against ESPN: all four players are on the Bruins or Kings.
+
+Spreadsheet: /workspace/nhl-sog/sheets/20261017_D_1520_picks.xlsx (colors only show in Excel or Google Sheets). Its puck-drop column shows 6:00 PM PT on every row because this pass has only one game.
+Fliff credits today: 10 of 15 used; 223 left on the account.

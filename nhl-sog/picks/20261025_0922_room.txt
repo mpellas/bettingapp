@@ -1,0 +1,5 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+NHL 9:22 AM PT pass Oct 25: only FLA at CHI (12:00 PM PT) posted. DraftKings list: none.
+Fliff check: Roman Kantserov, Florida Panthers at Chicago Blackhawks (12:00 PM PT), UNDER 1.5 SOG. DK +100; shop-at Fliff +115 or better; no-vig 46.2%, model 54.2%, recent 53.2% (mu 1.58), shrunk 45.4%. Role F_top6+PP1, today L1/PP1. FLA slot ratio 0.94, SA r20 25.35 (league ~27.8). Evidence agrees 4 of 7. Fliff: not offered yet.
+Vetoes: role 2 (Lundell, Nazar overs; demotion), lineup 0. Pre-noon: none.
+Sheet: /workspace/nhl-sog/sheets/20261025_D_0922_picks.xlsx. Credits 1 of 10 today, 112 left.

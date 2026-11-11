@@ -1,0 +1,16 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS.** NHL shots on goal, Mon Nov 9 3:37 PM PT window pass (paper only), new game scored: New York Islanders at San Jose Sharks (7:00 PM PT). No DraftKings sides. One Fliff check side, Emil Heineman (Sharks) under 1.5, was priced on Fliff at -115, worse than the +109 shop-at (DK -105), so it is not official. Fliff credits: 1 used this pass (2 of 10 today). Rangers at Oilers and Flyers at Canucks were already posted and left unchanged.
+Spreadsheet: `/workspace/nhl-sog/sheets/20261109_D_1537_picks.xlsx`.
+
+**Majority of tests** (informational only, off the card until they clear every gate). 8 sides at 4 or more of 7 (sheet rows meeting the rule: 8). All are inside the price band. Counts shown as "N of 7; N of 12 with new tests".
+- Emil Heineman (San Jose Sharks), Islanders at Sharks, UNDER 1.5: 4 of 7; 6 of 12. Shop-at Fliff +109 or better; Fliff -115, DK -105. Not on card: Fliff price worse than shop-at. New for: under 1.5 hit 10 of 16 (62%), 6 of 10 last 10 vs no-vig 48%; attempts -20%. New against: game total 6.5.
+- Matthew Schaefer (New York Islanders), Islanders at Sharks, OVER 3.5: 5 of 7; 6 of 12. Shop-at Fliff +138 or better (DK +120). Skipped: model not above no-vig; no positive EV at DK. New for: game total 6.5.
+- Jacob Trouba, Islanders at Sharks, UNDER 1.5: 4 of 7; 6 of 12. Shop-at Fliff +124 or better (DK +110). Skipped: role promotion (history D, today d2/PP1), under skipped; no positive EV at DK. New for: under 1.5 hit 13 of 19 (68%), 7 of 10 last 10 vs no-vig 45%; attempts -26%. New against: game total 6.5. (Team not listed on sheet.)
+- Mason Marchment, Islanders at Sharks, OVER 1.5: 4 of 7; 6 of 12. Shop-at -100 or better (DK -115). Skipped: role demotion (top-6 PP1 to f2/PP2), over skipped; no positive EV at DK. New for: attempts +9%, SOG/att regression +41%, game total 6.5.
+- Simon Holmstrom (New York Islanders), Islanders at Sharks, OVER 1.5: 4 of 7; 6 of 12. Shop-at -122 or better (DK -145). Skipped: model not above no-vig; no positive EV at DK. New for: attempts +45%, game total 6.5.
+- Brayden Schenn, Islanders at Sharks, OVER 1.5: 4 of 7; 5 of 12. Shop-at -102 or better (DK -120). Skipped: recent form does not beat no-vig; no positive EV at DK. New for: game total 6.5.
+- Tyler Toffoli, Islanders at Sharks, OVER 1.5: 4 of 7; 5 of 12. Shop-at -119 or better (DK -140). Skipped: role demotion (off PP1), over skipped; no positive EV at DK. New against: attempts -13%.
+- Victor Eklund (San Jose Sharks), Islanders at Sharks, UNDER 1.5: 4 of 7; 4 of 12. Shop-at -100 or better (DK -115). Skipped: role promotion (f2/PP1), under skipped; no positive EV at DK. New against: game total 6.5.
+
+Outside price band: none. Note: player teams other than Heineman, Schaefer, Holmstrom, Eklund are not recorded on the sheet; Trouba, Marchment, Schenn, Toffoli teams should be checked on the roster.

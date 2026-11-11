@@ -1,0 +1,22 @@
+/workspace/nhl-sog/shadow/backtest_evidence_proxy.py:33: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  sc = ['s_chal', 's_shr', 's_toi', 's_opp']; te = te.copy(); te['agree'] = (te[sc] == 1).sum(1); te['against'] = (te[sc] == -1).sum(1)
+/workspace/nhl-sog/shadow/backtest_evidence_proxy.py:33: Pandas4Warning: Starting with pandas version 4.0 all arguments of sum will be keyword-only.
+  sc = ['s_chal', 's_shr', 's_toi', 's_opp']; te = te.copy(); te['agree'] = (te[sc] == 1).sum(1); te['against'] = (te[sc] == -1).sum(1)
+2025-26 proxy: 46669 player-games, 1312 games; k champ 20.56, k chal 16.44; overs 35%
+| agreeing signals (of 4) | n | games | hit | champion P(side) | hit - P (pts) |
+|---|---|---|---|---|---|
+| 0 | 9911 | 1305 | 0.586 | 0.602 | -1.65 [-2.57, -0.67] |
+| 1 | 16027 | 1312 | 0.595 | 0.598 | -0.29 [-1.01, +0.47] |
+| 2 | 12014 | 1312 | 0.592 | 0.591 | +0.16 [-0.73, +1.06] |
+| 3 | 6947 | 1308 | 0.605 | 0.588 | +1.70 [+0.55, +2.82] |
+| 4 | 1770 | 973 | 0.614 | 0.588 | +2.62 [+0.29, +4.84] |
+| agree >= 3 | 8717 | 1310 | 0.607 | 0.588 | +1.88 [+0.85, +2.88] |
+| agree <= 2 | 37952 | 1312 | 0.592 | 0.597 | -0.50 [-0.98, -0.04] |
+| net (agree - against) >= 2 | 10508 | 1312 | 0.598 | 0.586 | +1.19 [+0.19, +2.12] |
+| net <= -1 | 21587 | 1312 | 0.592 | 0.601 | -0.88 [-1.52, -0.24] |
+
+per signal: hit - P when + / 0 / -
+  s_chal  + n=15769 +1.19 [+0.44, +1.97] | 0 n=13170 -0.40 [-1.23, +0.41] | - n=17730 -0.91 [-1.59, -0.17]
+  s_shr   + n=18067 +0.48 [-0.18, +1.20] | 0 n=2815 +0.08 [-1.74, +1.89] | - n=25787 -0.45 [-1.06, +0.12]
+  s_toi   + n=15697 +0.51 [-0.26, +1.27] | 0 n=14119 -0.34 [-1.08, +0.46] | - n=16853 -0.35 [-1.08, +0.38]
+  s_opp   + n=18443 +0.95 [+0.22, +1.66] | 0 n=9427 -1.25 [-2.26, -0.25] | - n=18799 -0.45 [-1.16, +0.28]

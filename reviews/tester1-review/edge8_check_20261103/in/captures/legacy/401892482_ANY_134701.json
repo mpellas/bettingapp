@@ -1,0 +1,1765 @@
+{
+ "event": "401892482",
+ "name": "Seattle Kraken at Washington Capitals",
+ "start_utc": "2026-10-11T21:00Z",
+ "captured_utc": "2026-10-11T13:47:01.882569+00:00",
+ "tag": "ANY",
+ "minutes_to_start": 433.0,
+ "n_sog_props": 110,
+ "props": [
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "2.5",
+   "american": "-135",
+   "american_open": "-135",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "2.5",
+   "american": "+100",
+   "american_open": "+100",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5032",
+   "player": "Jordan Eberle",
+   "line": "1.5",
+   "american": "+100",
+   "american_open": "+115",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5032",
+   "player": "Jordan Eberle",
+   "line": "1.5",
+   "american": "-140",
+   "american_open": "-160",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "2.5",
+   "american": "+135",
+   "american_open": "+130",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "2.5",
+   "american": "-180",
+   "american_open": "-175",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "2.5",
+   "american": "+105",
+   "american_open": "+105",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "2.5",
+   "american": "-140",
+   "american_open": "-145",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "1.5",
+   "american": "-165",
+   "american_open": "-175",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "1.5",
+   "american": "+120",
+   "american_open": "+130",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "2.5",
+   "american": "+125",
+   "american_open": "+130",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:39Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "2.5",
+   "american": "-170",
+   "american_open": "-175",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:39Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "1.5",
+   "american": "-170",
+   "american_open": "+135",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "1.5",
+   "american": "+125",
+   "american_open": "-185",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "1.5",
+   "american": "-160",
+   "american_open": "-165",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "1.5",
+   "american": "+115",
+   "american_open": "+120",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "1.5",
+   "american": "-140",
+   "american_open": "-155",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "1.5",
+   "american": "+100",
+   "american_open": "+115",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "2.5",
+   "american": "-130",
+   "american_open": "-135",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "2.5",
+   "american": "-105",
+   "american_open": "+100",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4062251",
+   "player": "Jordan Kyrou",
+   "line": "1.5",
+   "american": "-170",
+   "american_open": "-170",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4062251",
+   "player": "Jordan Kyrou",
+   "line": "1.5",
+   "american": "+125",
+   "american_open": "+125",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "1.5",
+   "american": "-160",
+   "american_open": "-150",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "1.5",
+   "american": "+120",
+   "american_open": "+110",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "2.5",
+   "american": "+110",
+   "american_open": "-125",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "2.5",
+   "american": "-145",
+   "american_open": "-110",
+   "target": 2.5,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "1.5",
+   "american": "-180",
+   "american_open": "-185",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "1.5",
+   "american": "+130",
+   "american_open": "+135",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "1.5",
+   "american": "-130",
+   "american_open": "-145",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "1.5",
+   "american": "-105",
+   "american_open": "+110",
+   "target": 1.5,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "1+",
+   "american": "-1800",
+   "american_open": "-135",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "2+",
+   "american": "-390",
+   "american_open": "-135",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "3+",
+   "american": "-135",
+   "american_open": "-135",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "4+",
+   "american": "+170",
+   "american_open": "-135",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "5+",
+   "american": "+370",
+   "american_open": "-135",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "6+",
+   "american": "+800",
+   "american_open": "-135",
+   "target": 6.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3101",
+   "player": "Alex Ovechkin",
+   "line": "7+",
+   "american": "+1700",
+   "american_open": "-135",
+   "target": 7.0,
+   "lastUpdated": "2026-10-11T10:40Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5032",
+   "player": "Jordan Eberle",
+   "line": "1+",
+   "american": "-425",
+   "american_open": "+115",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5032",
+   "player": "Jordan Eberle",
+   "line": "2+",
+   "american": "+100",
+   "american_open": "+115",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5032",
+   "player": "Jordan Eberle",
+   "line": "3+",
+   "american": "+310",
+   "american_open": "+115",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5032",
+   "player": "Jordan Eberle",
+   "line": "4+",
+   "american": "+850",
+   "american_open": "+115",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "1+",
+   "american": "-900",
+   "american_open": "+130",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "2+",
+   "american": "-200",
+   "american_open": "+130",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "3+",
+   "american": "+135",
+   "american_open": "+130",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "4+",
+   "american": "+340",
+   "american_open": "+130",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "5+",
+   "american": "+800",
+   "american_open": "+130",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2970615",
+   "player": "Tom Wilson",
+   "line": "6+",
+   "american": "+1900",
+   "american_open": "+130",
+   "target": 6.0,
+   "lastUpdated": "2026-10-11T10:23Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "1+",
+   "american": "-1200",
+   "american_open": "+105",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "2+",
+   "american": "-265",
+   "american_open": "+105",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "3+",
+   "american": "+105",
+   "american_open": "+105",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "4+",
+   "american": "+245",
+   "american_open": "+105",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "5+",
+   "american": "+550",
+   "american_open": "+105",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114766",
+   "player": "Alex Tuch",
+   "line": "6+",
+   "american": "+1200",
+   "american_open": "+105",
+   "target": 6.0,
+   "lastUpdated": "2026-10-11T10:18Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "1+",
+   "american": "-700",
+   "american_open": "+160",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "2+",
+   "american": "-165",
+   "american_open": "+160",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "3+",
+   "american": "+170",
+   "american_open": "+160",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "4+",
+   "american": "+425",
+   "american_open": "+160",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114777",
+   "player": "Jared McCann",
+   "line": "5+",
+   "american": "+1100",
+   "american_open": "+160",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "1+",
+   "american": "-1000",
+   "american_open": "+130",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "2+",
+   "american": "-215",
+   "american_open": "+130",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "3+",
+   "american": "+125",
+   "american_open": "+130",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "4+",
+   "american": "+320",
+   "american_open": "+130",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "5+",
+   "american": "+700",
+   "american_open": "+130",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115032",
+   "player": "Brandon Montour",
+   "line": "6+",
+   "american": "+1600",
+   "american_open": "+130",
+   "target": 6.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "1+",
+   "american": "-750",
+   "american_open": "+135",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "2+",
+   "american": "-170",
+   "american_open": "+135",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "3+",
+   "american": "+160",
+   "american_open": "+135",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "4+",
+   "american": "+400",
+   "american_open": "+135",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3899933",
+   "player": "Dylan Strome",
+   "line": "5+",
+   "american": "+950",
+   "american_open": "+135",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "1+",
+   "american": "-700",
+   "american_open": "-165",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "2+",
+   "american": "-160",
+   "american_open": "-165",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "3+",
+   "american": "+175",
+   "american_open": "-165",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "4+",
+   "american": "+450",
+   "american_open": "-165",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3904189",
+   "player": "Vince Dunn",
+   "line": "5+",
+   "american": "+1100",
+   "american_open": "-165",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:57Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "1+",
+   "american": "-575",
+   "american_open": "-155",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "2+",
+   "american": "-135",
+   "american_open": "-155",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "3+",
+   "american": "+220",
+   "american_open": "-155",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "4+",
+   "american": "+550",
+   "american_open": "-155",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024833",
+   "player": "Pierre-Luc Dubois",
+   "line": "5+",
+   "american": "+1400",
+   "american_open": "-155",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "2+",
+   "american": "-370",
+   "american_open": "-135",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "3+",
+   "american": "-130",
+   "american_open": "-135",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "4+",
+   "american": "+185",
+   "american_open": "-135",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "5+",
+   "american": "+400",
+   "american_open": "-135",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "6+",
+   "american": "+900",
+   "american_open": "-135",
+   "target": 6.0,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4024950",
+   "player": "Jakob Chychrun",
+   "line": "7+",
+   "american": "+1900",
+   "american_open": "-135",
+   "target": 7.0,
+   "lastUpdated": "2026-10-11T10:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4062251",
+   "player": "Jordan Kyrou",
+   "line": "1+",
+   "american": "-750",
+   "american_open": "+170",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4062251",
+   "player": "Jordan Kyrou",
+   "line": "2+",
+   "american": "-170",
+   "american_open": "+170",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4062251",
+   "player": "Jordan Kyrou",
+   "line": "3+",
+   "american": "+170",
+   "american_open": "+170",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4062251",
+   "player": "Jordan Kyrou",
+   "line": "5+",
+   "american": "+1100",
+   "american_open": "+170",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "1+",
+   "american": "-700",
+   "american_open": "-150",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "2+",
+   "american": "-160",
+   "american_open": "-150",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "3+",
+   "american": "+175",
+   "american_open": "-150",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "4+",
+   "american": "+450",
+   "american_open": "-150",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4874741",
+   "player": "Mackie Samoskevich",
+   "line": "5+",
+   "american": "+1100",
+   "american_open": "-150",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:38Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "1+",
+   "american": "-1200",
+   "american_open": "-125",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "2+",
+   "american": "-260",
+   "american_open": "-125",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "3+",
+   "american": "+110",
+   "american_open": "-125",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "4+",
+   "american": "+260",
+   "american_open": "-125",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "5+",
+   "american": "+550",
+   "american_open": "-125",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5048894",
+   "player": "Bobby McMann",
+   "line": "6+",
+   "american": "+1300",
+   "american_open": "-125",
+   "target": 6.0,
+   "lastUpdated": "2026-10-11T10:37Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "1+",
+   "american": "-800",
+   "american_open": "+150",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "2+",
+   "american": "-180",
+   "american_open": "+150",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "3+",
+   "american": "+155",
+   "american_open": "+150",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "4+",
+   "american": "+380",
+   "american_open": "+150",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149172",
+   "player": "Ryan Leonard",
+   "line": "5+",
+   "american": "+950",
+   "american_open": "+150",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "1+",
+   "american": "-550",
+   "american_open": "-145",
+   "target": 1.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "2+",
+   "american": "-130",
+   "american_open": "-145",
+   "target": 2.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "3+",
+   "american": "+225",
+   "american_open": "-145",
+   "target": 3.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "4+",
+   "american": "+600",
+   "american_open": "-145",
+   "target": 4.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5216918",
+   "player": "Cole Hutson",
+   "line": "5+",
+   "american": "+1500",
+   "american_open": "-145",
+   "target": 5.0,
+   "lastUpdated": "2026-10-11T10:19Z"
+  }
+ ],
+ "lineups": {
+  "Washington Capitals": {
+   "updatedAt": "2026-10-09T22:39:58.335Z",
+   "source": "Tom Gulitti",
+   "players": [
+    {
+     "name": "Alex Tuch",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Pierre-Luc Dubois",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tom Wilson",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex Ovechkin",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dylan Strome",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Anthony Beauvillier",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Aliaksei Protas",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ilya Protas",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Kyrou",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Boone Jenner",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Justin Sourdif",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Leonard",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jakob Chychrun",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Timothy Liljegren",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Martin Fehervary",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vincent Desharnais",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Cole Hutson",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dylan McIlrath",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Logan Thompson",
+     "positionIdentifier": "g1",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Charlie Lindgren",
+     "positionIdentifier": "g2",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tom Wilson",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dylan Strome",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Pierre-Luc Dubois",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex Ovechkin",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jakob Chychrun",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex Tuch",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ilya Protas",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Leonard",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Cole Hutson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Kyrou",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Rasmus Sandin",
+     "positionIdentifier": "ir1",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "out",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matt Roy",
+     "positionIdentifier": "ir2",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "dtd",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Aliaksei Protas",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tom Wilson",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Martin Fehervary",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vincent Desharnais",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Boone Jenner",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex Tuch",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jakob Chychrun",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Timothy Liljegren",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    }
+   ]
+  },
+  "Seattle Kraken": {
+   "updatedAt": "2026-10-09T20:29:21.503Z",
+   "source": "Geoff Baker",
+   "players": [
+    {
+     "name": "Jared McCann",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matty Beniers",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Mackie Samoskevich",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bobby McMann",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Chandler Stephenson",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Eberle",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kaapo Kakko",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Berkly Catton",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Shane Wright",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Meyers",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Frederick Gaudreau",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Winterton",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vince Dunn",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Adam Larsson",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryker Evans",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Brandon Montour",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Joshua Mahura",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ville Ottavainen",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Philipp Grubauer",
+     "positionIdentifier": "g1",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Joey Daccord",
+     "positionIdentifier": "g2",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kaapo Kakko",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Shane Wright",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Berkly Catton",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matty Beniers",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Brandon Montour",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Eberle",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bobby McMann",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jared McCann",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Chandler Stephenson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vince Dunn",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jacob Melanson",
+     "positionIdentifier": "ir2",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "ir",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Lindgren",
+     "positionIdentifier": "ir3",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "out",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Frederick Gaudreau",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Winterton",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryker Evans",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Adam Larsson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Chandler Stephenson",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Matty Beniers",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Vince Dunn",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Brandon Montour",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,9 @@
+Fliff check: Travis Sanheim OVER 1.5 (DK +115, Fliff at +129 or better) - model +6.4 pts vs no-vig; recent +11.3 pts
+   last 5: 4 of 5 over 1.5 (shots 2,3,1,4,2); model 49.8%, recent form 54.7% (shot rate last 10 x TOI last 5)
+   evidence: Travis Sanheim O1.5: agrees 4 of 7 (champion +6.4 pts; challenger +2.1 pts; shrunk form +3.9 pts; no-vig moved 2.8 pts toward side since open); against: opponent allows -4% to D
+Fliff check: Trevor Zegras OVER 1.5 (DK -125, Fliff at -107 or better) - model +7.4 pts vs no-vig; recent +26.6 pts
+   last 5: 5 of 5 over 1.5 (shots 5,3,4,3,3); model 58.9%, recent form 78.1% (shot rate last 10 x TOI last 5)
+   evidence: Trevor Zegras O1.5: agrees 4 of 7 (champion +7.4 pts; challenger +8.9 pts; shrunk form +10.3 pts; on PP1); nothing against
+Fliff check: Aliaksei Protas UNDER 1.5 (DK -120, Fliff at -103 or better) - model +7.5 pts vs no-vig; recent +12.0 pts
+   last 5: 3 of 5 under 1.5 (shots 2,1,0,1,4); model 58.0%, recent form 62.5% (shot rate last 10 x TOI last 5)
+   evidence: Aliaksei Protas U1.5: agrees 5 of 7 (champion +7.5 pts; challenger +5.2 pts; shrunk form +2.6 pts; opponent allows -3% to F_top6; no-vig moved 1.0 pts toward side since open); nothing against

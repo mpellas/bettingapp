@@ -1,0 +1,2 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261025,Roman Kantserov,Florida Panthers at Chicago Blackhawks,UNDER,1.5,8484390,2026020180,401892578,e13d36d055361cb7f59a37b7e5dca489,not offered on Fliff (no Fliff shots market posted for this game yet),,,False,115,False,100,1.5,100,1.5,,2026-10-25T09:21:56-07:00,20261025_D_0922_picks.xlsx

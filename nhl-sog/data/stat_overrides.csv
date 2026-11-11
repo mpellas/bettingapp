@@ -1,0 +1,4 @@
+gameId,playerId,field,old,new,source,date
+2026020129,8479323,shots,2,3,api-web.nhle.com/v1/gamecenter/2026020129/boxscore (Fox),2026-10-19
+2026020129,8482073,shots,3,4,api-web.nhle.com/v1/gamecenter/2026020129/boxscore (Schneider),2026-10-19
+2026020181,8481601,shots,2,1,api-web.nhle.com/v1/gamecenter/2026020181/boxscore (Holmstrom),2026-10-26

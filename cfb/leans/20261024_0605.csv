@@ -1,0 +1,31 @@
+level,event_id,odds_id,game,kickoff_pt,kickoff_utc,market,side,line,label,ev_side,dk_price,dk_fair,fliff_price,fliff_be,edge_pts,gap_req,worst_fliff,qualifies
+Power 4,401856728,1f2a24570e2ca6de4516eae60b021507,LSU Tigers @ Auburn Tigers,9:00 AM,2026-10-24T16:00:00Z,total,over,51.5,OVER 51.5,OVER 51.5,-110,0.5,-115,0.5349,-3.49,3.0,113,False
+Power 4,401856728,1f2a24570e2ca6de4516eae60b021507,LSU Tigers @ Auburn Tigers,9:00 AM,2026-10-24T16:00:00Z,total,under,51.5,UNDER 51.5,UNDER 51.5,-110,0.5,-120,0.5455,-4.55,3.0,113,False
+Power 4,401858270,bbbabc2490914e9a4d1e619a32461b1f,California Golden Bears @ SMU Mustangs,9:00 AM,2026-10-24T16:00:00Z,spread,away,18.5,California Golden Bears +18.5,CAL +18.5,-108,0.4957,-115,0.5349,-3.92,3.0,115,False
+Power 4,401858270,bbbabc2490914e9a4d1e619a32461b1f,California Golden Bears @ SMU Mustangs,9:00 AM,2026-10-24T16:00:00Z,spread,home,-18.5,SMU Mustangs -18.5,SMU -18.5,-112,0.5043,-115,0.5349,-3.06,3.0,111,False
+Power 4,401858270,bbbabc2490914e9a4d1e619a32461b1f,California Golden Bears @ SMU Mustangs,9:00 AM,2026-10-24T16:00:00Z,total,over,55.5,OVER 55.5,OVER 55.5,-105,0.4892,-115,0.5349,-4.57,3.0,118,False
+Power 4,401858270,bbbabc2490914e9a4d1e619a32461b1f,California Golden Bears @ SMU Mustangs,9:00 AM,2026-10-24T16:00:00Z,total,under,55.5,UNDER 55.5,UNDER 55.5,-115,0.5108,-120,0.5455,-3.46,3.0,108,False
+Power 4,401856840,7a2b82b534f197acfe4913fcdaa86792,Texas Tech Red Raiders @ Cincinnati Bearcats,9:00 AM,2026-10-24T16:00:00Z,spread,home,11.5,Cincinnati Bearcats +11.5,CIN +11.5,-110,0.5,-115,0.5349,-3.49,3.0,113,False
+Power 4,401856840,7a2b82b534f197acfe4913fcdaa86792,Texas Tech Red Raiders @ Cincinnati Bearcats,9:00 AM,2026-10-24T16:00:00Z,spread,away,-11.5,Texas Tech Red Raiders -11.5,TTU -11.5,-110,0.5,-115,0.5349,-3.49,3.0,113,False
+Group of 5,401862809,f8b869953172e3a19c4cf347b05c1ee8,Rice Owls @ Florida Atlantic Owls,9:00 AM,2026-10-24T16:00:00Z,spread,home,-8.5,Florida Atlantic Owls -8.5,FAU -8.5,-108,0.4957,-110,0.5238,-2.81,5.0,125,False
+Group of 5,401862809,f8b869953172e3a19c4cf347b05c1ee8,Rice Owls @ Florida Atlantic Owls,9:00 AM,2026-10-24T16:00:00Z,spread,away,8.5,Rice Owls +8.5,RICE +8.5,-112,0.5043,-120,0.5455,-4.11,5.0,121,False
+Group of 5,401862809,f8b869953172e3a19c4cf347b05c1ee8,Rice Owls @ Florida Atlantic Owls,9:00 AM,2026-10-24T16:00:00Z,total,over,53.5,OVER 53.5,OVER 53.5,-115,0.5108,-120,0.5455,-3.46,5.0,117,False
+Group of 5,401862809,f8b869953172e3a19c4cf347b05c1ee8,Rice Owls @ Florida Atlantic Owls,9:00 AM,2026-10-24T16:00:00Z,total,under,53.5,UNDER 53.5,UNDER 53.5,-105,0.4892,-115,0.5349,-4.57,5.0,128,False
+Power 4,401858496,259f3312084b229ac2b74d414d36869f,Indiana Hoosiers @ Michigan Wolverines,9:00 AM,2026-10-24T16:00:00Z,spread,away,-7.5,Indiana Hoosiers -7.5,IU -7.5,-105,0.4892,-115,0.5349,-4.57,3.0,118,False
+Power 4,401858496,259f3312084b229ac2b74d414d36869f,Indiana Hoosiers @ Michigan Wolverines,9:00 AM,2026-10-24T16:00:00Z,spread,home,7.5,Michigan Wolverines +7.5,MICH +7.5,-115,0.5108,-120,0.5455,-3.46,3.0,108,False
+Power 4,401858496,259f3312084b229ac2b74d414d36869f,Indiana Hoosiers @ Michigan Wolverines,9:00 AM,2026-10-24T16:00:00Z,total,over,42.5,OVER 42.5,OVER 42.5,-115,0.5108,-120,0.5455,-3.46,3.0,108,False
+Power 4,401858496,259f3312084b229ac2b74d414d36869f,Indiana Hoosiers @ Michigan Wolverines,9:00 AM,2026-10-24T16:00:00Z,total,under,42.5,UNDER 42.5,UNDER 42.5,-105,0.4892,-115,0.5349,-4.57,3.0,118,False
+Power 4,401858274,2d125f14eca5c6eb1417f126cafde7c0,Pittsburgh Panthers @ Miami Hurricanes,9:00 AM,2026-10-24T16:00:00Z,total,over,48.5,OVER 48.5,OVER 48.5,-112,0.5043,-120,0.5455,-4.11,3.0,111,False
+Power 4,401858274,2d125f14eca5c6eb1417f126cafde7c0,Pittsburgh Panthers @ Miami Hurricanes,9:00 AM,2026-10-24T16:00:00Z,total,under,48.5,UNDER 48.5,UNDER 48.5,-108,0.4957,-115,0.5349,-3.92,3.0,115,False
+Group of 5,401866450,1388547b792afa0aa6769aa1b7645b28,Western Michigan Broncos @ Toledo Rockets,9:00 AM,2026-10-24T16:00:00Z,spread,home,-2.5,Toledo Rockets -2.5,TOL -2.5,-118,0.5174,-125,0.5556,-3.82,5.0,114,False
+Group of 5,401866450,1388547b792afa0aa6769aa1b7645b28,Western Michigan Broncos @ Toledo Rockets,9:00 AM,2026-10-24T16:00:00Z,spread,away,2.5,Western Michigan Broncos +2.5,WMU +2.5,-102,0.4826,-105,0.5122,-2.96,5.0,132,False
+Group of 5,401866450,1388547b792afa0aa6769aa1b7645b28,Western Michigan Broncos @ Toledo Rockets,9:00 AM,2026-10-24T16:00:00Z,total,over,47.5,OVER 47.5,OVER 47.5,-110,0.5,-120,0.5455,-4.55,5.0,123,False
+Group of 5,401866450,1388547b792afa0aa6769aa1b7645b28,Western Michigan Broncos @ Toledo Rockets,9:00 AM,2026-10-24T16:00:00Z,total,under,47.5,UNDER 47.5,UNDER 47.5,-110,0.5,-115,0.5349,-3.49,5.0,123,False
+Group of 5,401866446,e7321bb418f765df74afd2851bd0fade,Akron Zips @ Kent State Golden Flashes,10:00 AM,2026-10-24T17:00:00Z,total,over,47.5,OVER 47.5,OVER 47.5,-115,0.5108,-120,0.5455,-3.46,5.0,117,False
+Group of 5,401866446,e7321bb418f765df74afd2851bd0fade,Akron Zips @ Kent State Golden Flashes,10:00 AM,2026-10-24T17:00:00Z,total,under,47.5,UNDER 47.5,UNDER 47.5,-105,0.4892,-115,0.5349,-4.57,5.0,128,False
+Power 4,401856834,ba6abfebaef34d88099fa6dc6640dc08,Baylor Bears @ Kansas Jayhawks,10:00 AM,2026-10-24T17:00:00Z,spread,away,-1.5,Baylor Bears -1.5,BAY -1.5,100,0.4783,-110,0.5238,-4.55,3.0,124,False
+Power 4,401856834,ba6abfebaef34d88099fa6dc6640dc08,Baylor Bears @ Kansas Jayhawks,10:00 AM,2026-10-24T17:00:00Z,spread,home,1.5,Kansas Jayhawks +1.5,KU +1.5,-120,0.5217,-125,0.5556,-3.38,3.0,104,False
+Power 4,401856834,ba6abfebaef34d88099fa6dc6640dc08,Baylor Bears @ Kansas Jayhawks,10:00 AM,2026-10-24T17:00:00Z,total,over,53.5,OVER 53.5,OVER 53.5,-105,0.4892,-115,0.5349,-4.57,3.0,118,False
+Power 4,401856834,ba6abfebaef34d88099fa6dc6640dc08,Baylor Bears @ Kansas Jayhawks,10:00 AM,2026-10-24T17:00:00Z,total,under,53.5,UNDER 53.5,UNDER 53.5,-115,0.5108,-120,0.5455,-3.46,3.0,108,False
+Group of 5,401866476,7b91563277082145d844f94b9ef1a8a6,Miami (OH) RedHawks @ Central Michigan Chippewas,10:00 AM,2026-10-24T17:00:00Z,spread,home,3.5,Central Michigan Chippewas +3.5,CMU +3.5,-110,0.5,-115,0.5349,-3.49,5.0,123,False
+Group of 5,401866476,7b91563277082145d844f94b9ef1a8a6,Miami (OH) RedHawks @ Central Michigan Chippewas,10:00 AM,2026-10-24T17:00:00Z,spread,away,-3.5,Miami (OH) RedHawks -3.5,M-OH -3.5,-110,0.5,-120,0.5455,-4.55,5.0,123,False

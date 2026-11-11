@@ -1,0 +1,6 @@
+Fliff check: Artemi Panarin OVER 2.5 (DK -120, Fliff at -103 or better) - model +7.4 pts vs no-vig; recent +15.2 pts
+   last 5: 4 of 5 over 2.5 (shots 4,3,3,0,7); model 57.9%, recent form 65.7% (shot rate last 10 x TOI last 5)
+   evidence: Artemi Panarin O2.5: agrees 4 of 7 (champion +7.4 pts; challenger +8.1 pts; shrunk form +7.0 pts; on PP1); nothing against
+Fliff check: Thomas Chabot OVER 1.5 (DK -140, Fliff at -118 or better) - model +5.9 pts vs no-vig; recent +3.6 pts
+   last 5: 2 of 5 over 1.5 (shots 2,1,0,1,2); model 59.7%, recent form 57.4% (shot rate last 10 x TOI last 5)
+   evidence: Thomas Chabot O1.5: agrees 4 of 7 (champion +5.9 pts; challenger +7.3 pts; shrunk form +3.9 pts; opponent allows +3% to D); against: TOI last 5 23.0 vs this season 25.1 (-2.1 min); last 30 incl. last season 24.1 (reference only); no-vig moved 1.2 pts away from side since open

@@ -1,0 +1,21 @@
+level,event_id,odds_id,game,kickoff_pt,kickoff_utc,market,side,line,label,ev_side,dk_price,dk_fair,fliff_price,fliff_be,edge_pts,gap_req,worst_fliff,qualifies
+Group of 5,401866445,11430b210e5b57c938e1c95a9db5ffb2,Ohio Bobcats @ Sacramento State Hornets,7:00 PM,2026-10-18T02:00:00Z,spread,away,-16.5,Ohio Bobcats -16.5,OHIO -16.5,-118,0.5174,-125,0.5556,-3.82,5.0,114,False
+Group of 5,401866445,11430b210e5b57c938e1c95a9db5ffb2,Ohio Bobcats @ Sacramento State Hornets,7:00 PM,2026-10-18T02:00:00Z,spread,home,16.5,Sacramento State Hornets +16.5,SAC +16.5,-102,0.4826,-110,0.5238,-4.12,5.0,132,False
+Group of 5,401866445,11430b210e5b57c938e1c95a9db5ffb2,Ohio Bobcats @ Sacramento State Hornets,7:00 PM,2026-10-18T02:00:00Z,total,over,46.5,OVER 46.5,OVER 46.5,-110,0.5,-120,0.5455,-4.55,5.0,123,False
+Group of 5,401866445,11430b210e5b57c938e1c95a9db5ffb2,Ohio Bobcats @ Sacramento State Hornets,7:00 PM,2026-10-18T02:00:00Z,total,under,46.5,UNDER 46.5,UNDER 46.5,-110,0.5,-115,0.5349,-3.49,5.0,123,False
+Power 4,401856833,9f43906997c18b956105dded3134ef1f,Utah Utes @ Colorado Buffaloes,7:15 PM,2026-10-18T02:15:00Z,spread,home,15.5,Colorado Buffaloes +15.5,COLO +15.5,-108,0.4957,-115,0.5349,-3.92,3.0,115,False
+Power 4,401856833,9f43906997c18b956105dded3134ef1f,Utah Utes @ Colorado Buffaloes,7:15 PM,2026-10-18T02:15:00Z,spread,away,-15.5,Utah Utes -15.5,UTAH -15.5,-112,0.5043,-115,0.5349,-3.06,3.0,111,False
+Power 4,401856833,9f43906997c18b956105dded3134ef1f,Utah Utes @ Colorado Buffaloes,7:15 PM,2026-10-18T02:15:00Z,total,over,49.5,OVER 49.5,OVER 49.5,-110,0.5,-115,0.5349,-3.49,3.0,113,False
+Power 4,401856833,9f43906997c18b956105dded3134ef1f,Utah Utes @ Colorado Buffaloes,7:15 PM,2026-10-18T02:15:00Z,total,under,49.5,UNDER 49.5,UNDER 49.5,-110,0.5,-120,0.5455,-4.55,3.0,113,False
+Power 4,401858269,b5e637cf502d6d5f408af440ea2d591d,Wake Forest Demon Deacons @ California Golden Bears,7:30 PM,2026-10-18T02:30:00Z,total,over,54.5,OVER 54.5,OVER 54.5,-105,0.4892,-115,0.5349,-4.57,3.0,118,False
+Power 4,401858269,b5e637cf502d6d5f408af440ea2d591d,Wake Forest Demon Deacons @ California Golden Bears,7:30 PM,2026-10-18T02:30:00Z,total,under,54.5,UNDER 54.5,UNDER 54.5,-115,0.5108,-120,0.5455,-3.46,3.0,108,False
+Group of 5,401860904,917d8eb9ffc25af2925d0e7e8c91a0f4,Fresno State Bulldogs @ San Diego State Aztecs,7:30 PM,2026-10-18T02:30:00Z,total,over,45.5,OVER 45.5,OVER 45.5,-108,0.4957,-115,0.5349,-3.92,5.0,125,False
+Group of 5,401860904,917d8eb9ffc25af2925d0e7e8c91a0f4,Fresno State Bulldogs @ San Diego State Aztecs,7:30 PM,2026-10-18T02:30:00Z,total,under,45.5,UNDER 45.5,UNDER 45.5,-112,0.5043,-120,0.5455,-4.11,5.0,121,False
+Group of 5,401864521,dd062699e8f42bd17509cfba1952e286,New Mexico Lobos @ Hawaii Rainbow Warriors,7:30 PM,2026-10-18T02:30:00Z,spread,home,14.5,Hawaii Rainbow Warriors +14.5,HAW +14.5,-108,0.4957,-115,0.5349,-3.92,5.0,125,False
+Group of 5,401864521,dd062699e8f42bd17509cfba1952e286,New Mexico Lobos @ Hawaii Rainbow Warriors,7:30 PM,2026-10-18T02:30:00Z,spread,away,-14.5,New Mexico Lobos -14.5,UNM -14.5,-112,0.5043,-120,0.5455,-4.11,5.0,121,False
+Group of 5,401864521,dd062699e8f42bd17509cfba1952e286,New Mexico Lobos @ Hawaii Rainbow Warriors,7:30 PM,2026-10-18T02:30:00Z,total,over,46.5,OVER 46.5,OVER 46.5,-108,0.4957,-115,0.5349,-3.92,5.0,125,False
+Group of 5,401864521,dd062699e8f42bd17509cfba1952e286,New Mexico Lobos @ Hawaii Rainbow Warriors,7:30 PM,2026-10-18T02:30:00Z,total,under,46.5,UNDER 46.5,UNDER 46.5,-112,0.5043,-120,0.5455,-4.11,5.0,121,False
+Power 4,401858492,5d147fefd2182aa2f5573ac03700a775,Nebraska Cornhuskers @ Oregon Ducks,8:00 PM,2026-10-18T03:00:00Z,spread,away,6.5,Nebraska Cornhuskers +6.5,NEB +6.5,-102,0.4826,-110,0.5238,-4.12,3.0,121,False
+Power 4,401858492,5d147fefd2182aa2f5573ac03700a775,Nebraska Cornhuskers @ Oregon Ducks,8:00 PM,2026-10-18T03:00:00Z,spread,home,-6.5,Oregon Ducks -6.5,ORE -6.5,-118,0.5174,-125,0.5556,-3.82,3.0,106,False
+Power 4,401858492,5d147fefd2182aa2f5573ac03700a775,Nebraska Cornhuskers @ Oregon Ducks,8:00 PM,2026-10-18T03:00:00Z,total,over,51.5,OVER 51.5,OVER 51.5,-110,0.5,-115,0.5349,-3.49,3.0,113,False
+Power 4,401858492,5d147fefd2182aa2f5573ac03700a775,Nebraska Cornhuskers @ Oregon Ducks,8:00 PM,2026-10-18T03:00:00Z,total,under,51.5,UNDER 51.5,UNDER 51.5,-110,0.5,-120,0.5455,-4.55,3.0,113,False

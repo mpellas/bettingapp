@@ -1,0 +1,40 @@
+           record        pre_noon      slice  sides    WL  u_shop  u_dk
+        as-posted   with pre-noon        All     74 41-33    4.45 -0.59
+        as-posted   with pre-noon  Oct 18-24     42 25-17    5.61  2.55
+        as-posted   with pre-noon Post-floor     21 11-10   -0.51 -1.84
+        as-posted   with pre-noon     Oct 17     26 12-14   -2.58 -4.10
+        as-posted excl 4 pre-noon        All     70 38-32    2.96 -1.73
+        as-posted excl 4 pre-noon  Oct 18-24     42 25-17    5.61  2.55
+        as-posted excl 4 pre-noon Post-floor     21 11-10   -0.51 -1.84
+        as-posted excl 4 pre-noon     Oct 17     22  9-13   -4.07 -5.24
+       final-card   with pre-noon        All     44 23-21    0.19 -2.66
+       final-card   with pre-noon  Oct 18-24     20  13-7    5.05  3.46
+       final-card   with pre-noon Post-floor      8   3-5   -2.24 -2.62
+       final-card   with pre-noon     Oct 17     24 10-14   -4.86 -6.12
+       final-card excl 4 pre-noon        All     40 20-20   -1.30 -3.80
+       final-card excl 4 pre-noon  Oct 18-24     20  13-7    5.05  3.46
+       final-card excl 4 pre-noon Post-floor      8   3-5   -2.24 -2.62
+       final-card excl 4 pre-noon     Oct 17     20  7-13   -6.36 -7.26
+          skipped   with pre-noon        All     30 18-12    4.26  2.07
+          skipped   with pre-noon  Oct 18-24     22 12-10    0.56 -0.91
+          skipped   with pre-noon Post-floor     13   8-5    1.72  0.77
+          skipped   with pre-noon     Oct 17      2   2-0    2.28  2.02
+          skipped excl 4 pre-noon        All     30 18-12    4.26  2.07
+          skipped excl 4 pre-noon  Oct 18-24     22 12-10    0.56 -0.91
+          skipped excl 4 pre-noon Post-floor     13   8-5    1.72  0.77
+          skipped excl 4 pre-noon     Oct 17      2   2-0    2.28  2.02
+pre-noon excluded                  4 NJD@WSH      4   3-1    1.49  1.14
+bucket
+final-card        44
+tester-skipped    24
+Oct25 NO BETS      6
+Name: count, dtype: int64
+             list               player  hit      u_dk    u_shop
+54  20261020_1513          Kaapo Kakko    1  0.606061  0.714286
+56  20261020_1548  Shayne Gostisbehere    0 -1.000000 -1.000000
+57  20261024_0922         Jesper Bratt    0 -1.000000 -1.000000
+58  20261024_0922      Alex Laferriere    1  0.909091  1.040000
+59  20261024_1307        Tyler Toffoli    1  0.869565  1.010000
+60  20261024_1307           Tom Wilson    0 -1.000000 -1.000000
+62  20261024_1307        Sebastian Aho    0 -1.000000 -1.000000
+66  20261024_1609        Emmitt Finnie    0 -1.000000 -1.000000

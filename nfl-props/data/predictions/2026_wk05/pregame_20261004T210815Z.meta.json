@@ -1,0 +1,29 @@
+{
+ "created_at_utc": "2026-10-04T21:08:15+00:00",
+ "created_at_pt": "2026-10-04T14:08:15-07:00",
+ "season": 2026,
+ "week": 5,
+ "champion_hash": "557e6ab3e4",
+ "config_hash": "3c3d57ca3c",
+ "code_version": "80a0dd3f",
+ "pregame_code_sha1": "3ca37cdb37",
+ "data_version": "5ac3b1cc",
+ "data_cutoff": "2026-10-08",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-10-08",
+ "lookback_games": 2,
+ "n_candidates": 433,
+ "n_predictions": {
+  "pass_yds": 30,
+  "rush_yds": 51,
+  "rec_yds": 142
+ },
+ "d_lines_file": null,
+ "n_with_line_D": 0,
+ "sha256_parquet": "990c8eea658cd1f2f597f96909a5d919b28afb5f729e430171847721a62c55cd",
+ "sha256_csv": "9b661688c5495ff50790966e9fc07e3f120f67605b36bf3656c9abb2ab306878",
+ "files": [
+  "data/predictions/2026_wk05/pregame_20261004T210815Z.parquet",
+  "data/predictions/2026_wk05/pregame_20261004T210815Z.csv"
+ ]
+}

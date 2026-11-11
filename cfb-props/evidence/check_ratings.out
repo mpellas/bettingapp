@@ -1,0 +1,3 @@
+prior-season weight 0.15: 239 FBS-vs-FBS games, weeks 3-7: margin MAE 12.58 vs naive 15.90 (diff -3.32 [-4.50, -2.20]); total MAE 12.90 vs naive 13.31 (diff -0.41 [-1.21, +0.36])
+prior-season weight 0.5: 239 FBS-vs-FBS games, weeks 3-7: margin MAE 12.50 vs naive 15.89 (diff -3.39 [-4.70, -2.15]); total MAE 13.25 vs naive 13.30 (diff -0.06 [-0.85, +0.68])
+prior-season weight 1.0: 239 FBS-vs-FBS games, weeks 3-7: margin MAE 12.80 vs naive 15.89 (diff -3.08 [-4.50, -1.74]); total MAE 13.55 vs naive 13.30 (diff +0.25 [-0.58, +1.06])

@@ -1,0 +1,13 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+Both official lists are empty. NHL shots on goal, Mon Nov 9 9:12 AM PT line-capture pass (run 9:20 AM PT): DraftKings has no D-window shots-on-goal captures yet for today's 3 games — New York Rangers at Edmonton Oilers (5:00 PM PT), Philadelphia Flyers at Vancouver Canucks (6:30 PM PT), and New York Islanders at San Jose Sharks (7:00 PM PT). First puck drop is about 7.5 hours out; D snapshots are saved 150–210 minutes before puck drop. No earlier pass today scored them. Paper only. Later window passes and the 3:12 PM PT line-capture pass will pick them up when lines land in the D window.
+
+DraftKings list: none.
+
+Fliff check: none.
+Fliff credits: 0 this pass (both official lists empty, so no Fliff pull); 0 of 10 used today.
+
+Vetoes: 0 lineup, 0 stale-lineup, 0 role (no sides were scored, so no vetoes were applied).
+No spreadsheet was built (no picks or GATE file; no D-window lines to score), so there is no path and the Excel/Google Sheets color note does not apply.
+
+Majority of tests: list unavailable — no sides were scored this pass (no DraftKings D-window SOG captures yet), so there is no scored evidence to read. New tests unavailable.

@@ -1,0 +1,24 @@
+status,source,game,team,player,market,line,side,book,price,fair_prob,ev_pct,n_books,sharps,model_p,reason
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,hunter henry,reception_yds,45.5,Under,draftkings,-112.0,0.5,-5.36,5,fanduel,0.6368,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,demario douglas,reception_yds,39.5,Under,draftkings,-109.0,0.4945,-5.17,6,pinnacle,0.6612,1 sharp book(s) at line; EV -5.17% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,eli raridon,reception_yds,25.5,Under,draftkings,-112.0,0.5,-5.36,2,,0.5512,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,rhamondre stevenson,reception_yds,25.5,Under,draftkings,-112.0,0.5,-5.36,2,,0.6055,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,MIA,ollie gordon,rush_yds,63.5,Under,draftkings,-112.0,0.5,-5.36,2,,0.5984,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,rhamondre stevenson,rush_yds,60.5,Under,draftkings,-114.0,0.5021,-5.74,2,,0.7483,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,eli raridon,reception_yds,26.5,Under,fliff,-120.0,0.5019,-7.99,2,,0.5512,0 sharp book(s) at line; EV -7.99% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,drake maye,pass_yds,235.5,Over,fliff,-120.0,0.5,-8.33,1,,0.5685,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,New England Patriots @ Miami Dolphins,NE,corey kiner,rush_yds,35.5,Under,fliff,-120.0,0.5,-8.33,1,,0.6689,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LAC,justin herbert,pass_yds,207.5,Under,draftkings,-113.0,0.5011,-5.55,2,,0.5936,0 sharp book(s) at line; EV -5.55% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LAC,ladd mcconkey,reception_yds,48.5,Under,draftkings,-113.0,0.5021,-5.36,1,,0.7935,no books at exact line; 0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LA,tyler higbee,reception_yds,35.5,Under,draftkings,-114.0,0.5,-6.14,3,,0.6097,0 sharp book(s) at line; EV -6.14% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LA,kyren williams,rush_yds,59.5,Over,draftkings,-115.0,0.5032,-5.93,4,,0.6028,0 sharp book(s) at line; EV -5.93% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LAC,kimani vidal,rush_yds,22.5,Under,draftkings,-112.0,0.5,-5.36,5,fanduel,0.5577,1 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LAC,keaton mitchell,rush_yds,15.5,Under,draftkings,-114.0,0.5021,-5.74,4,,0.5546,0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Los Angeles Chargers @ Los Angeles Rams,LA,matt stafford,pass_yds,249.5,Over,fliff,-120.0,0.5031,-7.77,3,,0.6798,0 sharp book(s) at line; EV -7.77% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,DEN,bo nix,pass_yds,211.5,Over,draftkings,-112.0,0.5,-5.36,2,,0.557,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,KC,travis kelce,reception_yds,46.5,Under,draftkings,-113.0,0.5,-5.75,6,"fanduel,pinnacle",0.5735,EV -5.75% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,DEN,courtland sutton,reception_yds,36.5,Under,draftkings,-115.0,0.5063,-5.34,3,,0.5796,0 sharp book(s) at line; EV -5.34% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,KC,xavier worthy,reception_yds,30.5,Over,draftkings,-113.0,0.5,-5.75,3,,0.5783,0 sharp book(s) at line; EV -5.75% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,KC,ken walker,rush_yds,87.5,Under,draftkings,-113.0,0.5,-5.75,4,,0.6089,0 sharp book(s) at line; EV -5.75% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,DEN,j k dobbins,rush_yds,30.5,Over,draftkings,-109.0,0.494,-5.27,4,fanduel,0.626,1 sharp book(s) at line; EV -5.27% < 2
+fail,DK/Fliff,Kansas City Chiefs @ Denver Broncos,DEN,bo nix,pass_yds,207.5,Over,fliff,-120.0,0.5,-8.33,2,,0.557,0 sharp book(s) at line; EV -8.33% < 2

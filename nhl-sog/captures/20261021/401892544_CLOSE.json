@@ -1,0 +1,15 @@
+{
+ "event": "401892544",
+ "name": "Winnipeg Jets at St. Louis Blues",
+ "start_utc": "2026-10-21T00:00Z",
+ "window_min": [
+  0,
+  30
+ ],
+ "legacy_no_archive": false,
+ "n_snapshots": 4,
+ "n_in_window": 0,
+ "status": "NO_IN_WINDOW_SNAPSHOT",
+ "closed": [],
+ "pulled_before_close": []
+}

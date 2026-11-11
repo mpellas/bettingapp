@@ -1,0 +1,43 @@
+key,n_books,n_sharp,sharps
+"('7d664fbcd39350e559d83c0068ba7169', 'sam darnold', 'pass_yds', 240.5)",2,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'caleb williams', 'pass_yds', 227.5)",4,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'jaxon smith njigba', 'reception_yds', 100.5)",3,1,pinnacle
+"('7d664fbcd39350e559d83c0068ba7169', 'luther burden', 'reception_yds', 53.5)",4,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'colston loveland', 'reception_yds', 43.5)",3,1,pinnacle
+"('7d664fbcd39350e559d83c0068ba7169', 'rome odunze', 'reception_yds', 40.5)",4,1,pinnacle
+"('7d664fbcd39350e559d83c0068ba7169', 'aj barner', 'reception_yds', 29.5)",6,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'cooper kupp', 'reception_yds', 29.5)",8,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'tory horton', 'reception_yds', 23.5)",4,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'd andre swift', 'reception_yds', 21.5)",5,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'kalif raymond', 'reception_yds', 17.5)",5,1,pinnacle
+"('7d664fbcd39350e559d83c0068ba7169', 'sam roush', 'reception_yds', 9.5)",5,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'zach charbonnet', 'reception_yds', 7.5)",8,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'jadarian price', 'reception_yds', 4.5)",2,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'eric saubert', 'reception_yds', 0.5)",3,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'd andre swift', 'rush_yds', 58.5)",4,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'jadarian price', 'rush_yds', 29.5)",3,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'zach charbonnet', 'rush_yds', 28.5)",4,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'caleb williams', 'rush_yds', 24.5)",6,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'emanuel wilson', 'rush_yds', 19.5)",3,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'roschon johnson', 'rush_yds', 9.5)",3,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'sam darnold', 'rush_yds', 4.5)",7,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'luther burden', 'rush_yds', 3.5)",6,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'sam darnold', 'pass_yds', 238.5)",2,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'caleb williams', 'pass_yds', 224.5)",2,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'colston loveland', 'reception_yds', 42.5)",3,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'kalif raymond', 'reception_yds', 18.5)",3,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'jaxon smith njigba', 'reception_yds', 99.5)",2,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'roschon johnson', 'reception_yds', 3.5)",4,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'luther burden', 'reception_yds', 52.5)",2,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'emanuel wilson', 'rush_yds', 20.5)",5,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'jadarian price', 'rush_yds', 28.5)",5,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'zach charbonnet', 'rush_yds', 27.5)",3,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'd andre swift', 'rush_yds', 59.5)",5,2,"fanduel,pinnacle"
+"('7d664fbcd39350e559d83c0068ba7169', 'roschon johnson', 'rush_yds', 10.5)",3,1,fanduel
+"('7d664fbcd39350e559d83c0068ba7169', 'd andre swift', 'reception_yds', 20.5)",3,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'tory horton', 'reception_yds', 22.5)",2,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'aj barner', 'reception_yds', 30.5)",2,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'sam darnold', 'pass_yds', 239.5)",3,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'caleb williams', 'pass_yds', 228.5)",2,1,pinnacle
+"('7d664fbcd39350e559d83c0068ba7169', 'rome odunze', 'reception_yds', 39.5)",2,0,
+"('7d664fbcd39350e559d83c0068ba7169', 'caleb williams', 'rush_yds', 23.5)",2,0,

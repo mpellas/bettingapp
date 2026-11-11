@@ -1,0 +1,17 @@
+**NO BETS** this pass. NHL shots on goal, Wed Nov 4 3:30 PM window pass (fired 3:31, run 3:31 PM PT), DraftKings lines captured 3:31 PM PT. Two games in the window, both 7:00 PM PT (208 min out at run time): San Jose at Los Angeles and Calgary at Seattle. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 37 lines.
+
+Fliff check (5 sides cleared every gate except price; all worse than shop-at, so none qualify):
+- Jacob Trouba (San Jose) over 1.5 (San Jose at Los Angeles), 4 of 7 agree, champion +6.5 pts. Fliff +100 and DK +100, worse than +114 shop-at.
+- Quinton Byfield (Los Angeles) under 2.5 (San Jose at Los Angeles), 4 of 7 agree, champion +7.8 pts. Fliff -155 and DK -130, worse than -112 shop-at.
+- Brandt Clarke (Los Angeles) under 1.5 (San Jose at Los Angeles), 3 of 7 agree, champion +5.6 pts. Fliff +105 and DK +115, worse than +130 shop-at. Its 17.6-pt no-vig move went away from the side, so it isn't counted as a signal.
+- Frederick Gaudreau (Seattle) under 1.5 (Calgary at Seattle), 4 of 7 agree, champion +6.2 pts. Fliff -170 and DK -170, worse than -143 shop-at.
+- Matt Coronato (Calgary) under 2.5 (Calgary at Seattle), 3 of 7 agree, champion +9.1 pts. Fliff -140 and DK -145, worse than -123 shop-at.
+Correlation note: Byfield and Clarke are both Kings unders in the same game, so they'd move together if either ever qualified.
+Fliff credits: 2 this pass (1 per game); 2 of 10 used today.
+
+Lineups: Los Angeles (12:31 PM PT) and Seattle (11:45 AM PT) DailyFaceoff lineups are fresh. San Jose (Nov 3 7:10 AM PT) and Calgary (Nov 3 7:08 AM PT) are older than 12 hours, so the last-game NHL.com fallback was used for their 19 players; none were skipped for staleness.
+Vetoes: 1 injury veto (Adrian Kempe, Los Angeles, day-to-day), 6 demotions vetoing overs only (Stenberg, San Jose; Frost and Sharangovich, Calgary; Montour, Samoskevich and Catton, Seattle), 8 promotions vetoing unders only (Perry, Los Angeles; Toffoli and Misa, San Jose; Strome, Calgary; Eberle, Beniers, McMann and Wood, Seattle), 1 slot veto on an under (Nemec, listed with Calgary).
+Spreadsheet: /workspace/nhl-sog/sheets/20261104_D_1531_picks.xlsx (colors only show in Excel or Google Sheets).
+All of today's games are now scored.

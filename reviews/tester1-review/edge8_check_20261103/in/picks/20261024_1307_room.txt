@@ -1,0 +1,42 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 1:00 PM PT window pass (Sat Oct 24), lines captured 1:07 PM PT. Seven games, all 4:00 PM PT: San Jose Sharks at Boston Bruins, New York Rangers at Ottawa Senators, Nashville Predators at Pittsburgh Penguins, Buffalo Sabres at Washington Capitals, Vegas Golden Knights at Columbus Blue Jackets, Carolina Hurricanes at St. Louis Blues, Toronto Maple Leafs at Edmonton Oilers.
+
+DraftKings list: none. No side has positive blended EV at DraftKings.
+
+Fliff check (5):
+1. Tyler Toffoli, San Jose Sharks at Boston Bruins (4:00 PM PT), OVER 1.5 shots on goal
+   DK -115, no-vig 49.5%, model 58.0%, recent form 64.4% (shot rate last 10 x TOI last 5), shrunk 58.1% (info only). Worst Fliff price: +101. PrizePicks: not offered.
+   Last 5: 2 of 5 over 1.5 (shots 3, 0, 2, 1, 1).
+   Role: history slot 3rd-line forward; today line 3 and PP2 (no change). BOS allows 1.117x league to that slot; BOS allows 27.4 shots per game over last 20.
+   Evidence: agrees 5 of 7 (champion +8.5 pts; challenger +9.1 pts; shrunk form +8.6 pts; opponent allows +12% to his slot; no-vig moved 1.0 pt toward the over since open); nothing against.
+   Fliff: no Fliff shots market posted for this game yet.
+2. Tom Wilson, Buffalo Sabres at Washington Capitals (4:00 PM PT), UNDER 2.5 shots on goal
+   DK -200, no-vig 62.0%, model 71.8%, recent form 65.2% (shot rate last 10 x TOI last 5), shrunk 71.9% (info only). Worst Fliff price: -166. PrizePicks: power2, power3, flex3-flex6.
+   Last 5: 2 of 5 under 2.5 (shots 3, 0, 5, 1, 3).
+   Role: history slot top-6 forward on PP1; today line 1 and PP1 (no change). BUF allows 1.017x league to that slot; BUF allows 25.9 shots per game over last 20.
+   Evidence: agrees 4 of 7 (champion +9.8 pts; challenger +9.0 pts; shrunk form +9.9 pts; no-vig moved 23.2 pts toward the under since open); against: he's on PP1.
+   Fliff: no Fliff shots market posted for this game yet.
+3. Mattias Samuelsson, Buffalo Sabres at Washington Capitals (4:00 PM PT), UNDER 1.5 shots on goal
+   DK -140, no-vig 53.8%, model 64.7%, recent form 56.7% (shot rate last 10 x TOI last 5), shrunk 54.6% (info only). Worst Fliff price: -119. PrizePicks: flex5, flex6.
+   Last 5: 2 of 5 under 1.5 (shots 2, 0, 3, 2, 0).
+   Role: history slot defenseman; today pair 1, no PP (no change). WSH allows 0.959x league to that slot; WSH allows 28.5 shots per game over last 20.
+   Evidence: agrees 5 of 7 (champion +10.8 pts; challenger +11.9 pts; shrunk form +0.7 pts; opponent allows -4% to his slot; no-vig moved 1.4 pts toward the under since open); against: TOI last 5 26.4 vs this season 23.3 (+3.1 min).
+   Fliff: no Fliff shots market posted for this game yet.
+4. Sebastian Aho, Carolina Hurricanes at St. Louis Blues (4:00 PM PT), OVER 2.5 shots on goal
+   DK +100, no-vig 46.2%, model 53.1%, recent form 63.1% (shot rate last 10 x TOI last 5), shrunk 60.9% (info only). Worst Fliff price: +116. PrizePicks: not offered.
+   Last 5: 4 of 5 over 2.5 (shots 3, 0, 3, 4, 3).
+   Role: history slot top-6 forward on PP1; today line 1 and PP1 (no change). STL allows 0.985x league to that slot; STL allows 28.3 shots per game over last 20.
+   Evidence: agrees 5 of 7 (champion +7.0 pts; challenger +7.2 pts; shrunk form +14.7 pts; TOI last 5 21.2 vs this season 20.1 (+1.1 min); on PP1); against: no-vig moved 3.8 pts away from the over since open.
+   Fliff: no Fliff shots market posted for this game yet.
+5. Darren Raddysh, Toronto Maple Leafs at Edmonton Oilers (4:00 PM PT), UNDER 2.5 shots on goal
+   DK -135, no-vig 53.5%, model 64.2%, recent form 61.4% (shot rate last 10 x TOI last 5), shrunk 39.5% (info only). Worst Fliff price: -117. PrizePicks: not offered.
+   Last 5: 2 of 5 under 2.5 (shots 3, 3, 5, 1, 2).
+   Role: history slot defenseman on PP1; today pair 1 and PP1 (no change). EDM allows 0.951x league to that slot; EDM allows 25.8 shots per game over last 20.
+   Evidence: agrees 4 of 7 (champion +10.8 pts; challenger +9.4 pts; opponent allows -5% to his slot; no-vig moved 1.0 pt toward the under since open); against: shrunk form -13.9 pts, and he's on PP1.
+   Fliff: Fliff -150, worse than the -117 shop-at price. Skip on Fliff.
+Fliff credits: 5 of 10 used today; 153 left on the account.
+
+Also passed every check but missed the top 5 by edge: Alex Tuch UNDER 2.5 (BUF at WSH) and William Karlsson UNDER 1.5 (VGK at CBJ).
+Vetoes: 19 sides skipped by the lineup check and 10 by the role check (28 players flagged for a role change; Mason Marchment, mixed change, both sides vetoed). 22 more sides were skipped for falling under the 5-point edge floor.
+Spreadsheet: /workspace/nhl-sog/sheets/20261024_D_1307_picks.xlsx (colors only show in Excel or Google Sheets).

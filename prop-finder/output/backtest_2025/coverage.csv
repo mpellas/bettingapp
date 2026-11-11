@@ -1,0 +1,20 @@
+item,value
+NFL games (weeks 2-18 projected),256
+NFL games with ESPN BET historical props (weeks 1-13),193
+"NFL main O/U lines parsed (all weeks, opening line present)",8626
+NFL real lines matched to a projection (weeks 2-13),7147
+NFL real-line bets graded (win/loss),7095
+NFL real-line voids (no stat row: inactive/DNP),52
+NFL players projected (unique),373
+NFL player-stat projections,22120
+"FBS games (weeks 2-16, >=1 FBS team)",792
+FBS games with implied totals (CFBD /lines),792
+FBS games where ESPN serves historical prop items,304
+"FBS prop items (alternate-ladder rungs, unpriced)",54347
+FBS priced main O/U lines found,0
+FBS players projected (unique),2456
+FBS player-stat projections,85288
+FBS projections with a 2024 prior,66458
+FBS projections for 2024->2025 school movers,24385
+"CFBD network calls (all time, data/cfbd/calls.log)",52
+CFBD calls remaining this month (from /info),953

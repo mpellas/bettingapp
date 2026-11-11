@@ -1,0 +1,372 @@
+{
+  "champion": {
+    "data": {
+      "first_season": 2015,
+      "last_season": 2025
+    },
+    "periods": {
+      "validation_seasons": [
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "selection_seasons": [
+        2023,
+        2024
+      ],
+      "holdout_season": 2025
+    },
+    "markets": [
+      "pass_yds",
+      "rush_yds",
+      "rec_yds"
+    ],
+    "universe": {
+      "min_proj": 20.0
+    },
+    "model": {
+      "feature_set": "full",
+      "use_snaps": true,
+      "use_market_proj": true,
+      "dist": "empirical",
+      "retrain_every_weeks": 4,
+      "n_folds": 3,
+      "lgbm": {
+        "n_estimators": 400,
+        "learning_rate": 0.03,
+        "num_leaves": 7,
+        "min_child_samples": 50,
+        "colsample_bytree": 0.8,
+        "reg_lambda": 1.0
+      }
+    },
+    "lines": {
+      "source": "simulated",
+      "csv_path": "data/lines/real_lines.csv",
+      "sim": {
+        "ref_share": 0.5,
+        "reference": {
+          "feature_set": "full",
+          "first_season": 2017,
+          "lgbm": {}
+        },
+        "info_weight": 0.0,
+        "target_mae_ratio": {
+          "pass_yds": 0.82,
+          "rush_yds": 0.93,
+          "rec_yds": 0.93
+        },
+        "noise_frac": 0.01,
+        "seed": 7,
+        "price": -110
+      }
+    },
+    "betting": {
+      "prob_method": "stacker",
+      "stacker_lambda": 50.0,
+      "stacker_min_n": 300,
+      "market_blend": 0.0,
+      "edge_threshold": 0.04,
+      "kelly_fraction": 0.25,
+      "max_bet_frac": 0.02,
+      "max_game_frac": 0.04,
+      "max_team_frac": 0.03,
+      "max_bets_per_game": 3,
+      "max_bets_per_player": 1,
+      "max_week_exposure": 0.2,
+      "start_bankroll": 1000.0
+    },
+    "improve": {
+      "candidates_per_iteration": 4,
+      "min_val_seasons_better": 3,
+      "alpha": 0.05,
+      "betting_grid": {
+        "market_blend": [
+          0.0,
+          0.25,
+          0.5,
+          0.75,
+          0.9,
+          1.0
+        ],
+        "edge_threshold": [
+          0.03,
+          0.04,
+          0.05,
+          0.06,
+          0.08
+        ],
+        "kelly_fraction": [
+          0.1,
+          0.25
+        ]
+      },
+      "min_validation_bets": 100,
+      "no_bet_if_negative": true
+    },
+    "diagnostic_policy": {
+      "prob_method": "stacker",
+      "edge_threshold": 0.04,
+      "kelly_fraction": 0.25
+    }
+  },
+  "champion_hash": "557e6ab3e4",
+  "betting": {
+    "market_blend": 0.9,
+    "val_logloss_best_blend": 0.692709004424788,
+    "model_adds_nothing": false,
+    "edge_threshold": 0.04,
+    "kelly_fraction": 0.25,
+    "val_log_growth": 0.5467593185974424,
+    "no_bet": false,
+    "stacker_model_weight_end": {
+      "pass_yds": -0.05067308278193572,
+      "rec_yds": 0.2508844096395508,
+      "rush_yds": 0.03247428004616149
+    }
+  },
+  "val": {
+    "n_lines": 15020,
+    "logloss_raw": 0.7104153882236747,
+    "logloss": 0.6924010643585853,
+    "logloss_market": 0.6931471805599453,
+    "brier": 0.24962751105044798,
+    "brier_market": 0.25,
+    "mae_model": 28.95910691758197,
+    "mae_naive_ewma": 30.5164418673956,
+    "mae_market_proxy": 30.282805247888604,
+    "mae_line": 27.334420772303595,
+    "crps_model": 20.51023656751229,
+    "n_bets": 348,
+    "hit_rate": 0.5890804597701149,
+    "flat_roi": 0.12460815047021949,
+    "kelly_roi": 0.12208192727808244,
+    "final_bankroll": 1727.645188548349,
+    "max_drawdown": -0.10583609539151063,
+    "per_market": {
+      "pass_yds": {
+        "n_lines": 1823,
+        "logloss_raw": 0.7722147909869302,
+        "logloss": 0.6941310799493983,
+        "logloss_market": 0.6931471805599452,
+        "brier": 0.25049101111325023,
+        "brier_market": 0.25,
+        "mae_model": 61.72101267483372,
+        "mae_naive_ewma": 64.4779059902951,
+        "mae_market_proxy": 64.09977985860168,
+        "mae_line": 53.672792100932526,
+        "crps_model": 44.766909709606814,
+        "n_bets": 11,
+        "hit_rate": 0.45454545454545453,
+        "flat_roi": -0.13223140495867766,
+        "kelly_roi": -0.19348271918206505
+      },
+      "rec_yds": {
+        "n_lines": 9614,
+        "logloss_raw": 0.6986988829477259,
+        "logloss": 0.6919673550533701,
+        "logloss_market": 0.6931471805599453,
+        "brier": 0.2494111510774446,
+        "brier_market": 0.25,
+        "mae_model": 24.04994416903743,
+        "mae_naive_ewma": 25.492885360330195,
+        "mae_market_proxy": 25.232512300616275,
+        "mae_line": 23.34501768254629,
+        "crps_model": 16.820651746097678,
+        "n_bets": 337,
+        "hit_rate": 0.5934718100890207,
+        "flat_roi": 0.13299163744267606,
+        "kelly_roi": 0.12961456687317113
+      },
+      "rush_yds": {
+        "n_lines": 3583,
+        "logloss_raw": 0.7104104120823284,
+        "logloss": 0.6926845873388495,
+        "logloss_market": 0.6931471805599454,
+        "brier": 0.24976871232478956,
+        "brier_market": 0.25,
+        "mae_model": 25.46252206383853,
+        "mae_naive_ewma": 26.716476241629763,
+        "mae_market_proxy": 26.628094580778985,
+        "mae_line": 24.63815238626849,
+        "crps_model": 18.068638279776252,
+        "n_bets": 0,
+        "hit_rate": NaN,
+        "flat_roi": NaN,
+        "kelly_roi": NaN
+      }
+    },
+    "per_season_logloss_raw": {
+      "2019": 0.7181679430897223,
+      "2020": 0.7095512040465092,
+      "2021": 0.704749227361992,
+      "2022": 0.7098435983330067
+    }
+  },
+  "sel": {
+    "n_lines": 7339,
+    "logloss_raw": 0.7114290978269977,
+    "logloss": 0.6919854731689672,
+    "logloss_market": 0.6931471805599452,
+    "brier": 0.24942005134031678,
+    "brier_market": 0.25,
+    "mae_model": 28.652578592448833,
+    "mae_naive_ewma": 30.343461089511848,
+    "mae_market_proxy": 30.101828499206288,
+    "mae_line": 26.946927374301676,
+    "crps_model": 20.248758344626694,
+    "n_bets": 456,
+    "hit_rate": 0.5372807017543859,
+    "flat_roi": 0.02571770334928234,
+    "kelly_roi": 0.02580141007577655,
+    "final_bankroll": 1156.0009927095982,
+    "max_drawdown": -0.22909684426814067,
+    "per_market": {
+      "pass_yds": {
+        "n_lines": 928,
+        "logloss_raw": 0.7840851238189909,
+        "logloss": 0.6913969546593827,
+        "logloss_market": 0.6931471805599452,
+        "brier": 0.24912525846337025,
+        "brier_market": 0.25,
+        "mae_model": 61.114055613710526,
+        "mae_naive_ewma": 65.00425265669601,
+        "mae_market_proxy": 65.67985750234263,
+        "mae_line": 52.24568965517241,
+        "crps_model": 43.74887464751351,
+        "n_bets": 10,
+        "hit_rate": 0.5,
+        "flat_roi": -0.045454545454545414,
+        "kelly_roi": -0.06328096649659855
+      },
+      "rec_yds": {
+        "n_lines": 4595,
+        "logloss_raw": 0.7010089427283298,
+        "logloss": 0.6917120439238187,
+        "logloss_market": 0.6931471805599453,
+        "brier": 0.24928382254008438,
+        "brier_market": 0.25,
+        "mae_model": 23.857385779440982,
+        "mae_naive_ewma": 25.424126133460465,
+        "mae_market_proxy": 24.966161477940297,
+        "mae_line": 23.175734494015234,
+        "crps_model": 16.765801150288045,
+        "n_bets": 429,
+        "hit_rate": 0.5384615384615384,
+        "flat_roi": 0.02797202797202802,
+        "kelly_roi": 0.026546627080212597
+      },
+      "rush_yds": {
+        "n_lines": 1816,
+        "logloss_raw": 0.700666884477774,
+        "logloss": 0.6929780681900862,
+        "logloss_market": 0.6931471805599452,
+        "brier": 0.24991539226921217,
+        "brier_market": 0.25,
+        "mae_model": 24.197545718021665,
+        "mae_naive_ewma": 25.078664585497073,
+        "mae_market_proxy": 24.915693613637313,
+        "mae_line": 23.56112334801762,
+        "crps_model": 17.052767363848687,
+        "n_bets": 17,
+        "hit_rate": 0.5294117647058824,
+        "flat_roi": 0.010695187165775444,
+        "kelly_roi": 0.06803914728553886
+      }
+    },
+    "per_season_logloss_raw": {
+      "2023": 0.7086297311952273,
+      "2024": 0.7142414634297436
+    }
+  },
+  "history": [
+    {
+      "iteration": 0,
+      "event": "initial champion",
+      "run_id": "r0001",
+      "config_hash": "63785e6609"
+    },
+    {
+      "iteration": 1,
+      "best_candidate_run": "r0005",
+      "changes": [
+        "model.lgbm.min_child_samples=200"
+      ],
+      "val_raw_ll_challenger": 0.7119330455991508,
+      "val_raw_ll_champion": 0.7132157314957985,
+      "val_seasons_better": "2/4",
+      "n_candidates_tried": 4,
+      "event": "no challenger (better in only 2/4 validation seasons)",
+      "promoted": false
+    },
+    {
+      "iteration": 2,
+      "best_candidate_run": "r0008",
+      "changes": [
+        "model.lgbm.num_leaves=7"
+      ],
+      "val_raw_ll_challenger": 0.7104153882236747,
+      "val_raw_ll_champion": 0.7132157314957985,
+      "val_seasons_better": "4/4",
+      "n_candidates_tried": 8,
+      "sel_raw_ll_challenger": 0.7114290978269977,
+      "sel_raw_ll_champion": 0.7129184494974863,
+      "sel_gain": 0.0014893516704884199,
+      "sel_se": 0.0007783616124641176,
+      "z_adj": 1.6448536269514722,
+      "m_tests": 1,
+      "margin": 0.0012802909213414,
+      "boot_p_gain_pos": 0.97025,
+      "promoted": true,
+      "event": "PROMOTED"
+    },
+    {
+      "iteration": 3,
+      "best_candidate_run": "r0014",
+      "changes": [
+        "model.use_snaps=False"
+      ],
+      "val_raw_ll_challenger": 0.7113579388584182,
+      "val_raw_ll_champion": 0.7104153882236747,
+      "val_seasons_better": "1/4",
+      "n_candidates_tried": 12,
+      "event": "no challenger (no candidate beat the champion on validation)",
+      "promoted": false
+    },
+    {
+      "iteration": 4,
+      "best_candidate_run": "r0017",
+      "changes": [
+        "model.lgbm.n_estimators=200",
+        "model.use_market_proj=False"
+      ],
+      "val_raw_ll_challenger": 0.7089220016516921,
+      "val_raw_ll_champion": 0.7104153882236747,
+      "val_seasons_better": "4/4",
+      "n_candidates_tried": 16,
+      "sel_raw_ll_challenger": 0.7101752922824005,
+      "sel_raw_ll_champion": 0.7114290978269977,
+      "sel_gain": 0.0012538055445973208,
+      "sel_se": 0.0006976024695717918,
+      "z_adj": 1.959963984540054,
+      "m_tests": 2,
+      "margin": 0.0013672757158869108,
+      "boot_p_gain_pos": 0.96,
+      "promoted": false,
+      "event": "challenger rejected on selection seasons"
+    }
+  ],
+  "iteration": 4,
+  "n_candidates_tried": 16,
+  "n_promotion_tests": 2,
+  "rule": "v2: raw-prob LL, val-season consistency, SE margin, Bonferroni",
+  "holdout_evaluations": [
+    {
+      "config_hash": "557e6ab3e4",
+      "policy_sha1": "c6e4aba2a15a01dbeda7bca75c49c97184932226",
+      "timestamp": "2026-10-04T13:45:13-07:00",
+      "frozen_file": "/workspace/nfl-props/experiments/holdout_frozen.json"
+    }
+  ]
+}

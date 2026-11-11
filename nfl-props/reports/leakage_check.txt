@@ -1,0 +1,8 @@
+== current features ==
+[PASS] cutoff 2019-11-10: 29,840 rows checked (269 on the cutoff day itself), 0 feature values changed; post-cutoff feature values changed by scramble: 2,969,371
+[PASS] cutoff 2022-09-11: 47,150 rows checked (349 on the cutoff day itself), 0 feature values changed; post-cutoff feature values changed by scramble: 1,830,653
+[PASS] cutoff 2024-12-22: 67,057 rows checked (295 on the cutoff day itself), 0 feature values changed; post-cutoff feature values changed by scramble: 515,396
+[PASS] max |corr(feature, passing_yards)| = 0.919 (naive_pass_yds)
+[PASS] max |corr(feature, rushing_yards)| = 0.763 (mkt_proj_rush_yds)
+[PASS] max |corr(feature, receiving_yards)| = 0.661 (p_receiving_yards_ewm6)
+OVERALL: PASS

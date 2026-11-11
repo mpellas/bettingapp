@@ -1,0 +1,32 @@
+season,week,event_id,game_id,player_id,player_name,market,line_D,line_C,void_reason,void_detail,stage
+2026,7,401873010,2026_07_NE_CHI,00-0039851,Drake Maye,pass_yds,247.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0039918,Caleb Williams,pass_yds,246.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0036275,D'Andre Swift,rush_yds,61.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0039021,Roschon Johnson,rush_yds,26.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040556,Corey Kiner,rush_yds,13.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0039851,Drake Maye,rush_yds,29.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0039918,Caleb Williams,rush_yds,18.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040734,TreVeyon Henderson,rush_yds,25.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0036875,Rhamondre Stevenson,rush_yds,42.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0032464,Kalif Raymond,rec_yds,25.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0033090,Hunter Henry,rec_yds,35.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0035676,A.J. Brown,rec_yds,69.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0036290,Cole Kmet,rec_yds,9.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0036275,D'Andre Swift,rec_yds,20.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0039021,Roschon Johnson,rec_yds,7.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0038621,DeMario Douglas,rec_yds,39.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0039919,Rome Odunze,rec_yds,44.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040734,TreVeyon Henderson,rec_yds,3.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0036875,Rhamondre Stevenson,rec_yds,18.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040131,Kyle Williams,rec_yds,19.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040735,Luther Burden III,rec_yds,58.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040563,Efton Chism III,rec_yds,17.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0040126,Colston Loveland,rec_yds,45.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873010,2026_07_NE_CHI,00-0041395,Eli Raridon,rec_yds,14.5,,no pregame prediction file created before kickoff,,track
+2026,7,401873013,2026_07_CLE_TEN,00-0039032,Tyjae Spears,rush_yds,9.5,,pulled_before_close,pulled between 2026-10-25T08:26:27-07:00 (last seen) and 2026-10-25T08:44:33-07:00 (first missing),track
+2026,7,401873013,2026_07_CLE_TEN,00-0039032,Tyjae Spears,rec_yds,11.5,,pulled_before_close,pulled between 2026-10-25T08:26:27-07:00 (last seen) and 2026-10-25T08:44:33-07:00 (first missing),track
+2026,7,401873017,2026_07_SF_ATL,00-0036906,Khalil Herbert,rush_yds,7.5,7.5,no player row: player's last team (NYJ) is not in this game,,pregame
+2026,7,401873017,2026_07_SF_ATL,00-0034775,Christian Kirk,rec_yds,23.5,24.5,no player row: player's last team (HOU) is not in this game,,pregame
+2026,7,401873017,2026_07_SF_ATL,00-0035208,Olamide Zaccheaus,rec_yds,7.5,,pulled_before_close,pulled between 2026-10-25T08:26:27-07:00 (last seen) and 2026-10-25T08:44:33-07:00 (first missing),track
+2026,7,401873018,2026_07_TB_CAR,00-0036265,AJ Dillon,rush_yds,11.5,,pulled_before_close,pulled between 2026-10-25T08:44:33-07:00 (last seen) and 2026-10-25T08:59:36-07:00 (first missing),track
+2026,7,401873022,2026_07_KC_SEA,00-0039793,AJ Barner,rec_yds,25.5,,pulled_before_close,pulled between 2026-10-25T17:14:15-07:00 (last seen) and 2026-10-25T17:17:30-07:00 (first missing),track

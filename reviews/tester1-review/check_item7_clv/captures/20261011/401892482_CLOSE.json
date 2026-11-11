@@ -1,0 +1,15 @@
+{
+ "event": "401892482",
+ "name": "Seattle Kraken at Washington Capitals",
+ "start_utc": "2026-10-11T21:00Z",
+ "window_min": [
+  0,
+  30
+ ],
+ "legacy_no_archive": true,
+ "n_snapshots": 2,
+ "n_in_window": 0,
+ "status": "NO_IN_WINDOW_SNAPSHOT",
+ "closed": [],
+ "pulled_before_close": []
+}

@@ -1,0 +1,2 @@
+event_id,game,kickoff_utc,status,flag,note,logged_at
+401873023,CAR @ GB,2026-10-30T00:15:00+00:00,STATUS_FINAL,STALE_SNAPSHOT,decision snapshot 23h before kickoff (outage); graded normally by track.py,2026-10-31T12:52:20+00:00

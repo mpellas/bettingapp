@@ -1,0 +1,353 @@
+time,game,odds_event,level,book,market,side,price,model_fair,edge_pts,thr,min_games,clears
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,draftkings,spreads,Arizona Wildcats +3.5,-108,+0.3,3.2,3,7,True
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,draftkings,spreads,Texas Tech Red Raiders -3.5,-112,-0.3,-3.2,3,7,False
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,draftkings,totals,**OVER** 54.5,-110,53.3,-1.2,3,7,False
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,draftkings,totals,**UNDER** 54.5,-110,53.3,1.2,3,7,False
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,fliff,spreads,Arizona Wildcats +3.5,-115,+0.3,3.2,3,7,True
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,fliff,spreads,Texas Tech Red Raiders -3.5,-120,-0.3,-3.2,3,7,False
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,fliff,totals,**OVER** 54.5,-120,53.3,-1.2,3,7,False
+Sat 9:00 AM PT,Arizona @ Texas Tech,Arizona Wildcats @ Texas Tech Red Raiders,P4,fliff,totals,**UNDER** 54.5,-115,53.3,1.2,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,draftkings,spreads,Boston College Eagles +7,-110,+8.9,-1.9,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,draftkings,spreads,Duke Blue Devils -7,-110,-8.9,1.9,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,draftkings,totals,**OVER** 48.5,-110,48.6,0.1,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,draftkings,totals,**UNDER** 48.5,-110,48.6,-0.1,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,fliff,spreads,Boston College Eagles +6.5,-105,+8.9,-2.4,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,fliff,spreads,Duke Blue Devils -6.5,-130,-8.9,2.4,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,fliff,totals,**OVER** 48.5,-120,48.6,0.1,3,7,False
+Sat 9:00 AM PT,Boston College @ Duke,Boston College Eagles @ Duke Blue Devils,P4,fliff,totals,**UNDER** 48.5,-115,48.6,-0.1,3,7,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,draftkings,spreads,Bowling Green Falcons +14,-112,+14.0,0.0,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,draftkings,spreads,Western Michigan Broncos -14,-108,-14.0,-0.0,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,draftkings,totals,**OVER** 44.5,-115,48.1,3.6,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,draftkings,totals,**UNDER** 44.5,-105,48.1,-3.6,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,fliff,spreads,Bowling Green Falcons +13.5,-110,+14.0,-0.5,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,fliff,spreads,Western Michigan Broncos -13.5,-125,-14.0,0.5,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,fliff,totals,**OVER** 44.5,-125,48.1,3.6,5,8,False
+Sat 9:00 AM PT,Bowling Green @ Western Michigan,Bowling Green Falcons @ Western Michigan Broncos,G5,fliff,totals,**UNDER** 44.5,-110,48.1,-3.6,5,8,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,draftkings,spreads,California Golden Bears +9.5,-108,+9.0,0.5,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,draftkings,spreads,NC State Wolfpack -9.5,-112,-9.0,-0.5,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,draftkings,totals,**OVER** 56.5,-112,57.9,1.4,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,draftkings,totals,**UNDER** 56.5,-108,57.9,-1.4,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,fliff,spreads,California Golden Bears +9.5,-120,+9.0,0.5,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,fliff,spreads,NC State Wolfpack -9.5,-115,-9.0,-0.5,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,fliff,totals,**OVER** 56.5,-120,57.9,1.4,3,7,False
+Sat 9:00 AM PT,California @ NC State,California Golden Bears @ NC State Wolfpack,P4,fliff,totals,**UNDER** 56.5,-115,57.9,-1.4,3,7,False
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,draftkings,spreads,Illinois Fighting Illini -2.5,-112,-9.8,7.3,3,7,True
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,draftkings,spreads,Maryland Terrapins +2.5,-108,+9.8,-7.3,3,7,False
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,draftkings,totals,**OVER** 53.5,-112,57.7,4.2,3,7,True
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,draftkings,totals,**UNDER** 53.5,-108,57.7,-4.2,3,7,False
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,fliff,spreads,Illinois Fighting Illini -2.5,-120,-9.8,7.3,3,7,True
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,fliff,spreads,Maryland Terrapins +2.5,-110,+9.8,-7.3,3,7,False
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,fliff,totals,**OVER** 53.5,-120,57.7,4.2,3,7,True
+Sat 9:00 AM PT,Illinois @ Maryland,Illinois Fighting Illini @ Maryland Terrapins,P4,fliff,totals,**UNDER** 53.5,-115,57.7,-4.2,3,7,False
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,draftkings,spreads,Iowa Hawkeyes -2.5,-115,-0.9,-1.6,3,7,False
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,draftkings,spreads,Wisconsin Badgers +2.5,-105,+0.9,1.6,3,7,False
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,draftkings,totals,**OVER** 36.5,-108,42.3,5.8,3,7,True
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,draftkings,totals,**UNDER** 36.5,-112,42.3,-5.8,3,7,False
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,fliff,spreads,Iowa Hawkeyes -2.5,-120,-0.9,-1.6,3,7,False
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,fliff,spreads,Wisconsin Badgers +2.5,-110,+0.9,1.6,3,7,False
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,fliff,totals,**OVER** 36.5,-115,42.3,5.8,3,7,True
+Sat 9:00 AM PT,Wisconsin @ Iowa,Wisconsin Badgers @ Iowa Hawkeyes,P4,fliff,totals,**UNDER** 36.5,-120,42.3,-5.8,3,7,False
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,draftkings,spreads,Navy Midshipmen +30.5,-102,+22.4,8.1,5,7,True
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,draftkings,spreads,Notre Dame Fighting Irish -30.5,-118,-22.4,-8.1,5,7,False
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,draftkings,totals,**OVER** 56.5,-108,56.1,-0.4,5,7,False
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,draftkings,totals,**UNDER** 56.5,-112,56.1,0.4,5,7,False
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,fliff,spreads,Navy Midshipmen +30.5,-115,+22.4,8.1,5,7,True
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,fliff,spreads,Notre Dame Fighting Irish -30.5,-120,-22.4,-8.1,5,7,False
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,fliff,totals,**OVER** 56.5,-120,56.1,-0.4,5,7,False
+Sat 9:00 AM PT,Notre Dame @ Navy,Notre Dame Fighting Irish @ Navy Midshipmen,G5,fliff,totals,**UNDER** 56.5,-115,56.1,0.4,5,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,draftkings,spreads,SMU Mustangs -9.5,-110,-8.8,-0.7,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,draftkings,spreads,Syracuse Orange +9.5,-110,+8.8,0.7,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,draftkings,totals,**OVER** 58.5,-108,57.0,-1.5,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,draftkings,totals,**UNDER** 58.5,-112,57.0,1.5,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,fliff,spreads,SMU Mustangs -9.5,-115,-8.8,-0.7,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,fliff,spreads,Syracuse Orange +9.5,-115,+8.8,0.7,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,fliff,totals,**OVER** 58.5,-115,57.0,-1.5,3,7,False
+Sat 9:00 AM PT,SMU @ Syracuse,SMU Mustangs @ Syracuse Orange,P4,fliff,totals,**UNDER** 58.5,-120,57.0,1.5,3,7,False
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,draftkings,spreads,South Florida Bulls -7.5,-112,-12.0,4.5,5,7,False
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,draftkings,spreads,UAB Blazers +7.5,-108,+12.0,-4.5,5,7,False
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,draftkings,totals,**OVER** 41.5,-112,47.0,5.5,5,7,True
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,draftkings,totals,**UNDER** 41.5,-108,47.0,-5.5,5,7,False
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,fliff,spreads,South Florida Bulls -7.5,-115,-12.0,4.5,5,7,False
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,fliff,spreads,UAB Blazers +7.5,-115,+12.0,-4.5,5,7,False
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,fliff,totals,**OVER** 41.5,-120,47.0,5.5,5,7,True
+Sat 9:00 AM PT,UAB @ South Florida,UAB Blazers @ South Florida Bulls,G5,fliff,totals,**UNDER** 41.5,-115,47.0,-5.5,5,7,False
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,draftkings,spreads,Michigan Wolverines -16.5,-110,-8.4,-8.1,3,7,False
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,draftkings,spreads,Rutgers Scarlet Knights +16.5,-110,+8.4,8.1,3,7,True
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,draftkings,totals,**OVER** 46.5,-108,51.2,4.7,3,7,True
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,draftkings,totals,**UNDER** 46.5,-112,51.2,-4.7,3,7,False
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,fliff,spreads,Michigan Wolverines -15.5,-120,-8.4,-7.1,3,7,False
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,fliff,spreads,Rutgers Scarlet Knights +15.5,-110,+8.4,7.1,3,7,True
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,fliff,totals,**OVER** 46.5,-115,51.2,4.7,3,7,True
+Sat 9:30 AM PT,Michigan @ Rutgers,Michigan Wolverines @ Rutgers Scarlet Knights,P4,fliff,totals,**UNDER** 46.5,-120,51.2,-4.7,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,draftkings,spreads,Auburn Tigers +11.5,-110,+9.7,1.8,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,draftkings,spreads,Ole Miss Rebels -11.5,-110,-9.7,-1.8,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,draftkings,totals,**OVER** 57.5,-118,54.1,-3.4,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,draftkings,totals,**UNDER** 57.5,-102,54.1,3.4,3,7,True
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,fliff,spreads,Auburn Tigers +11.5,-115,+9.7,1.8,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,fliff,spreads,Ole Miss Rebels -11.5,-115,-9.7,-1.8,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,fliff,totals,**OVER** 57.5,-125,54.1,-3.4,3,7,False
+Sat 9:45 AM PT,Auburn @ Ole Miss,Auburn Tigers @ Ole Miss Rebels,P4,fliff,totals,**UNDER** 57.5,-110,54.1,3.4,3,7,True
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,draftkings,spreads,Marshall Thundering Herd -3,-102,+1.8,-4.8,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,draftkings,spreads,Old Dominion Monarchs +3,-118,-1.8,4.8,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,draftkings,totals,**OVER** 46.5,-115,46.1,-0.4,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,draftkings,totals,**UNDER** 46.5,-105,46.1,0.4,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,fliff,spreads,Marshall Thundering Herd -2.5,-125,+1.8,-4.3,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,fliff,spreads,Old Dominion Monarchs +2.5,-105,-1.8,4.3,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,fliff,totals,**OVER** 46.5,-115,46.1,-0.4,5,7,False
+Sat 10:00 AM PT,Marshall @ Old Dominion,Marshall Thundering Herd @ Old Dominion Monarchs,G5,fliff,totals,**UNDER** 46.5,-120,46.1,0.4,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,draftkings,spreads,Coastal Carolina Chanticleers +4,-112,+5.8,-1.8,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,draftkings,spreads,Georgia State Panthers -4,-108,-5.8,1.8,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,draftkings,totals,**OVER** 55.5,-112,57.3,1.8,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,draftkings,totals,**UNDER** 55.5,-108,57.3,-1.8,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,fliff,spreads,Coastal Carolina Chanticleers +3.5,-115,+5.8,-2.3,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,fliff,spreads,Georgia State Panthers -3.5,-120,-5.8,2.3,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,fliff,totals,**OVER** 55.5,-120,57.3,1.8,5,7,False
+Sat 11:00 AM PT,Coastal Carolina @ Georgia State,Coastal Carolina Chanticleers @ Georgia State Panthers,G5,fliff,totals,**UNDER** 55.5,-115,57.3,-1.8,5,7,False
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,draftkings,spreads,Colorado Buffaloes -3,-108,+5.1,-8.1,3,7,False
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,draftkings,spreads,Kansas State Wildcats +3,-112,-5.1,8.1,3,7,True
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,draftkings,totals,**OVER** 46.5,-115,51.5,5.0,3,7,True
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,draftkings,totals,**UNDER** 46.5,-105,51.5,-5.0,3,7,False
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,fliff,spreads,Colorado Buffaloes -2.5,-130,+5.1,-7.6,3,7,False
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,fliff,spreads,Kansas State Wildcats +2.5,-105,-5.1,7.6,3,7,True
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,fliff,totals,**OVER** 46.5,-120,51.5,5.0,3,7,True
+Sat 11:00 AM PT,Kansas State @ Colorado,Kansas State Wildcats @ Colorado Buffaloes,P4,fliff,totals,**UNDER** 46.5,-115,51.5,-5.0,3,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,draftkings,spreads,Air Force Falcons +1.5,-118,+0.4,1.1,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,draftkings,spreads,UConn Huskies -1.5,-102,-0.4,-1.1,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,draftkings,totals,**OVER** 52.5,-105,55.4,2.9,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,draftkings,totals,**UNDER** 52.5,-115,55.4,-2.9,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,fliff,spreads,Air Force Falcons +1.5,-120,+0.4,1.1,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,fliff,spreads,UConn Huskies -1.5,-110,-0.4,-1.1,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,fliff,totals,**OVER** 52.5,-115,55.4,2.9,5,7,False
+Sat 12:00 PM PT,UConn @ Air Force,UConn Huskies @ Air Force Falcons,G5,fliff,totals,**UNDER** 52.5,-120,55.4,-2.9,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,draftkings,spreads,East Carolina Pirates -4.5,-110,-4.4,-0.1,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,draftkings,spreads,Temple Owls +4.5,-110,+4.4,0.1,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,draftkings,totals,**OVER** 50.5,-108,52.7,2.2,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,draftkings,totals,**UNDER** 50.5,-112,52.7,-2.2,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,fliff,spreads,East Carolina Pirates -4.5,-115,-4.4,-0.1,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,fliff,spreads,Temple Owls +4.5,-115,+4.4,0.1,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,fliff,totals,**OVER** 50.5,-115,52.7,2.2,5,7,False
+Sat 12:00 PM PT,Temple @ East Carolina,Temple Owls @ East Carolina Pirates,G5,fliff,totals,**UNDER** 50.5,-120,52.7,-2.2,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,draftkings,spreads,Louisiana Tech Bulldogs -6,-112,-3.6,-2.4,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,draftkings,spreads,South Alabama Jaguars +6,-108,+3.6,2.4,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,draftkings,totals,**OVER** 58.5,-108,58.5,-0.0,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,draftkings,totals,**UNDER** 58.5,-112,58.5,0.0,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,fliff,spreads,Louisiana Tech Bulldogs -5.5,-125,-3.6,-1.9,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,fliff,spreads,South Alabama Jaguars +5.5,-105,+3.6,1.9,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,fliff,totals,**OVER** 58.5,-115,58.5,-0.0,5,7,False
+Sat 12:00 PM PT,Louisiana Tech @ South Alabama,Louisiana Tech Bulldogs @ South Alabama Jaguars,G5,fliff,totals,**UNDER** 58.5,-120,58.5,0.0,5,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,draftkings,spreads,Louisville Cardinals -23.5,-108,-20.7,-2.8,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,draftkings,spreads,Stanford Cardinal +23.5,-112,+20.7,2.8,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,draftkings,totals,**OVER** 60.5,-108,58.2,-2.3,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,draftkings,totals,**UNDER** 60.5,-112,58.2,2.3,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,fliff,spreads,Louisville Cardinals -22.5,-120,-20.7,-1.8,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,fliff,spreads,Stanford Cardinal +22.5,-115,+20.7,1.8,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,fliff,totals,**OVER** 60.5,-115,58.2,-2.3,3,7,False
+Sat 12:15 PM PT,Stanford @ Louisville,Stanford Cardinal @ Louisville Cardinals,P4,fliff,totals,**UNDER** 60.5,-120,58.2,2.3,3,7,False
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,draftkings,spreads,Arizona State Sun Devils +16.5,-112,+14.2,2.3,3,7,False
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,draftkings,spreads,BYU Cougars -16.5,-108,-14.2,-2.3,3,7,False
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,draftkings,totals,**OVER** 48.5,-102,55.2,6.7,3,7,True
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,draftkings,totals,**UNDER** 48.5,-118,55.2,-6.7,3,7,False
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,fliff,spreads,Arizona State Sun Devils +16.5,-115,+14.2,2.3,3,7,False
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,fliff,spreads,BYU Cougars -16.5,-115,-14.2,-2.3,3,7,False
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,fliff,totals,**OVER** 48.5,-115,55.2,6.7,3,7,True
+Sat 12:30 PM PT,Arizona State @ BYU,Arizona State Sun Devils @ BYU Cougars,P4,fliff,totals,**UNDER** 48.5,-120,55.2,-6.7,3,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,draftkings,spreads,Colorado State Rams +7.5,-115,+4.8,2.7,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,draftkings,spreads,Utah State Aggies -7.5,-105,-4.8,-2.7,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,draftkings,totals,**OVER** 61.5,-108,59.9,-1.6,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,draftkings,totals,**UNDER** 61.5,-112,59.9,1.6,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,fliff,spreads,Colorado State Rams +7.5,-120,+4.8,2.7,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,fliff,spreads,Utah State Aggies -7.5,-115,-4.8,-2.7,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,fliff,totals,**OVER** 61.5,-120,59.9,-1.6,5,7,False
+Sat 12:30 PM PT,Colorado State @ Utah State,Colorado State Rams @ Utah State Aggies,G5,fliff,totals,**UNDER** 61.5,-115,59.9,1.6,5,7,False
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,draftkings,spreads,Florida Gators +11.5,-108,+7.6,3.9,3,7,True
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,draftkings,spreads,Georgia Bulldogs -11.5,-112,-7.6,-3.9,3,7,False
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,draftkings,totals,**OVER** 56.5,-108,60.7,4.2,3,7,True
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,draftkings,totals,**UNDER** 56.5,-112,60.7,-4.2,3,7,False
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,fliff,spreads,Florida Gators +11.5,-115,+7.6,3.9,3,7,True
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,fliff,spreads,Georgia Bulldogs -11.5,-120,-7.6,-3.9,3,7,False
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,fliff,totals,**OVER** 56.5,-120,60.7,4.2,3,7,True
+Sat 12:30 PM PT,Florida @ Georgia,Florida Gators @ Georgia Bulldogs,P4,fliff,totals,**UNDER** 56.5,-115,60.7,-4.2,3,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,draftkings,spreads,Florida International Panthers +14,-112,+13.4,0.6,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,draftkings,spreads,Liberty Flames -14,-108,-13.4,-0.6,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,draftkings,totals,**OVER** 45.5,-102,43.7,-1.8,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,draftkings,totals,**UNDER** 45.5,-118,43.7,1.8,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,fliff,spreads,Florida International Panthers +13.5,-110,+13.4,0.1,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,fliff,spreads,Liberty Flames -13.5,-125,-13.4,-0.1,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,fliff,totals,**OVER** 44.5,-125,43.7,-0.8,5,7,False
+Sat 12:30 PM PT,Florida International @ Liberty,Florida International Panthers @ Liberty Flames,G5,fliff,totals,**UNDER** 44.5,-110,43.7,0.8,5,7,False
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,draftkings,spreads,Indiana Hoosiers -20.5,-112,-21.4,0.9,3,7,False
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,draftkings,spreads,Minnesota Golden Gophers +20.5,-108,+21.4,-0.9,3,7,False
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,draftkings,totals,**OVER** 40.5,-120,45.3,4.8,3,7,True
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,draftkings,totals,**UNDER** 40.5,100,45.3,-4.8,3,7,False
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,fliff,spreads,Indiana Hoosiers -20.5,-115,-21.4,0.9,3,7,False
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,fliff,spreads,Minnesota Golden Gophers +20.5,-115,+21.4,-0.9,3,7,False
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,fliff,totals,**OVER** 41.5,-110,45.3,3.8,3,7,True
+Sat 12:30 PM PT,Minnesota @ Indiana,Minnesota Golden Gophers @ Indiana Hoosiers,P4,fliff,totals,**UNDER** 41.5,-125,45.3,-3.8,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,draftkings,spreads,Kansas Jayhawks +6.5,-110,+5.7,0.8,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,draftkings,spreads,TCU Horned Frogs -6.5,-110,-5.7,-0.8,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,draftkings,totals,**OVER** 45.5,-110,46.4,0.9,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,draftkings,totals,**UNDER** 45.5,-110,46.4,-0.9,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,fliff,spreads,Kansas Jayhawks +6.5,-120,+5.7,0.8,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,fliff,spreads,TCU Horned Frogs -6.5,-110,-5.7,-0.8,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,fliff,totals,**OVER** 45.5,-115,46.4,0.9,3,7,False
+Sat 12:30 PM PT,Kansas @ TCU,Kansas Jayhawks @ TCU Horned Frogs,P4,fliff,totals,**UNDER** 45.5,-120,46.4,-0.9,3,7,False
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,draftkings,spreads,North Dakota State Bison -24.5,-105,-27.6,3.1,5,7,False
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,draftkings,spreads,UTEP Miners +24.5,-115,+27.6,-3.1,5,7,False
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,draftkings,totals,**OVER** 42.5,-115,48.3,5.8,5,7,True
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,draftkings,totals,**UNDER** 42.5,-105,48.3,-5.8,5,7,False
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,fliff,spreads,North Dakota State Bison -24.5,-110,-27.6,3.1,5,7,False
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,fliff,spreads,UTEP Miners +24.5,-125,+27.6,-3.1,5,7,False
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,fliff,totals,**OVER** 42.5,-120,48.3,5.8,5,7,True
+Sat 12:30 PM PT,UTEP @ North Dakota State,UTEP Miners @ North Dakota State Bison,G5,fliff,totals,**UNDER** 42.5,-115,48.3,-5.8,5,7,False
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,draftkings,spreads,Northwestern Wildcats +3.5,-102,-2.0,5.5,3,7,True
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,draftkings,spreads,Oregon Ducks -3.5,-118,+2.0,-5.5,3,7,False
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,draftkings,totals,**OVER** 47.5,-115,50.2,2.7,3,7,False
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,draftkings,totals,**UNDER** 47.5,-105,50.2,-2.7,3,7,False
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,fliff,spreads,Northwestern Wildcats +3.5,-110,-2.0,5.5,3,7,True
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,fliff,spreads,Oregon Ducks -3.5,-125,+2.0,-5.5,3,7,False
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,fliff,totals,**OVER** 47.5,-125,50.2,2.7,3,7,False
+Sat 12:30 PM PT,Northwestern @ Oregon,Northwestern Wildcats @ Oregon Ducks,P4,fliff,totals,**UNDER** 47.5,-110,50.2,-2.7,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,draftkings,spreads,Cincinnati Bearcats +7,-105,+8.2,-1.2,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,draftkings,spreads,Utah Utes -7,-115,-8.2,1.2,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,draftkings,totals,**OVER** 56.5,-110,56.5,0.0,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,draftkings,totals,**UNDER** 56.5,-110,56.5,-0.0,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,fliff,spreads,Cincinnati Bearcats +7.5,-125,+8.2,-0.7,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,fliff,spreads,Utah Utes -7.5,-110,-8.2,0.7,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,fliff,totals,**OVER** 56.5,-115,56.5,0.0,3,7,False
+Sat 12:45 PM PT,Utah @ Cincinnati,Utah Utes @ Cincinnati Bearcats,P4,fliff,totals,**UNDER** 56.5,-120,56.5,-0.0,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,draftkings,spreads,Virginia Cavaliers +12.5,-108,+10.4,2.1,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,draftkings,spreads,Wake Forest Demon Deacons -12.5,-112,-10.4,-2.1,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,draftkings,totals,**OVER** 47.5,-115,48.9,1.4,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,draftkings,totals,**UNDER** 47.5,-105,48.9,-1.4,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,fliff,spreads,Virginia Cavaliers +12.5,-115,+10.4,2.1,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,fliff,spreads,Wake Forest Demon Deacons -12.5,-120,-10.4,-2.1,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,fliff,totals,**OVER** 47.5,-125,48.9,1.4,3,7,False
+Sat 12:45 PM PT,Virginia @ Wake Forest,Virginia Cavaliers @ Wake Forest Demon Deacons,P4,fliff,totals,**UNDER** 47.5,-110,48.9,-1.4,3,7,False
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,draftkings,spreads,Nevada Wolf Pack +22.5,-112,+16.9,5.6,5,7,True
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,draftkings,spreads,UCLA Bruins -22.5,-108,-16.9,-5.6,5,7,False
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,draftkings,totals,**OVER** 43.5,-115,48.8,5.3,5,7,True
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,draftkings,totals,**UNDER** 43.5,-105,48.8,-5.3,5,7,False
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,fliff,spreads,Nevada Wolf Pack +22.5,-115,+16.9,5.6,5,7,True
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,fliff,spreads,UCLA Bruins -22.5,-115,-16.9,-5.6,5,7,False
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,fliff,totals,**OVER** 43.5,-120,48.8,5.3,5,7,True
+Sat 1:15 PM PT,Nevada @ UCLA,Nevada Wolf Pack @ UCLA Bruins,G5,fliff,totals,**UNDER** 43.5,-115,48.8,-5.3,5,7,False
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,draftkings,spreads,Oklahoma Sooners -3.5,-105,-0.8,-2.7,3,7,False
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,draftkings,spreads,South Carolina Gamecocks +3.5,-115,+0.8,2.7,3,7,False
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,draftkings,totals,**OVER** 44.5,-108,49.2,4.7,3,7,True
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,draftkings,totals,**UNDER** 44.5,-112,49.2,-4.7,3,7,False
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,fliff,spreads,Oklahoma Sooners -3.5,-110,-0.8,-2.7,3,7,False
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,fliff,spreads,South Carolina Gamecocks +3.5,-125,+0.8,2.7,3,7,False
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,fliff,totals,**OVER** 44.5,-115,49.2,4.7,3,7,True
+Sat 1:15 PM PT,South Carolina @ Oklahoma,South Carolina Gamecocks @ Oklahoma Sooners,P4,fliff,totals,**UNDER** 44.5,-120,49.2,-4.7,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,draftkings,spreads,Penn State Nittany Lions -10,-115,-8.4,-1.6,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,draftkings,spreads,Purdue Boilermakers +10,-105,+8.4,1.6,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,draftkings,totals,**OVER** 54.5,-108,55.8,1.3,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,draftkings,totals,**UNDER** 54.5,-112,55.8,-1.3,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,fliff,spreads,Penn State Nittany Lions -10.5,-115,-8.4,-2.1,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,fliff,spreads,Purdue Boilermakers +10.5,-115,+8.4,2.1,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,fliff,totals,**OVER** 54.5,-120,55.8,1.3,3,7,False
+Sat 1:15 PM PT,Purdue @ Penn State,Purdue Boilermakers @ Penn State Nittany Lions,P4,fliff,totals,**UNDER** 54.5,-115,55.8,-1.3,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,draftkings,spreads,Clemson Tigers +6,-108,+6.4,-0.4,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,draftkings,spreads,Florida State Seminoles -6,-112,-6.4,0.4,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,draftkings,totals,**OVER** 49.5,-112,50.4,0.9,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,draftkings,totals,**UNDER** 49.5,-108,50.4,-0.9,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,fliff,spreads,Clemson Tigers +6.5,-120,+6.4,0.1,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,fliff,spreads,Florida State Seminoles -6.5,-110,-6.4,-0.1,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,fliff,totals,**OVER** 49.5,-120,50.4,0.9,3,7,False
+Sat 4:00 PM PT,Clemson @ Florida State,Clemson Tigers @ Florida State Seminoles,P4,fliff,totals,**UNDER** 49.5,-115,50.4,-0.9,3,7,False
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,draftkings,spreads,Iowa State Cyclones +9.5,-108,+3.6,5.9,3,7,True
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,draftkings,spreads,Oklahoma State Cowboys -9.5,-112,-3.6,-5.9,3,7,False
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,draftkings,totals,**OVER** 58.5,-102,56.0,-2.5,3,7,False
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,draftkings,totals,**UNDER** 58.5,-118,56.0,2.5,3,7,False
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,fliff,spreads,Iowa State Cyclones +10.5,-130,+3.6,6.9,3,7,True
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,fliff,spreads,Oklahoma State Cowboys -10.5,100,-3.6,-6.9,3,7,False
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,fliff,totals,**OVER** 57.5,-125,56.0,-1.5,3,7,False
+Sat 4:00 PM PT,Oklahoma State @ Iowa State,Oklahoma State Cowboys @ Iowa State Cyclones,P4,fliff,totals,**UNDER** 57.5,-110,56.0,1.5,3,7,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,draftkings,spreads,San Diego State Aztecs -2.5,-115,-0.9,-1.6,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,draftkings,spreads,Washington State Cougars +2.5,-105,+0.9,1.6,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,draftkings,totals,**OVER** 47.5,-115,52.5,5.0,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,draftkings,totals,**UNDER** 47.5,-105,52.5,-5.0,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,fliff,spreads,San Diego State Aztecs -2.5,-120,-0.9,-1.6,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,fliff,spreads,Washington State Cougars +2.5,-110,+0.9,1.6,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,fliff,totals,**OVER** 47.5,-125,52.5,5.0,5,8,False
+Sat 4:00 PM PT,Washington State @ San Diego State,Washington State Cougars @ San Diego State Aztecs,G5,fliff,totals,**UNDER** 47.5,-110,52.5,-5.0,5,8,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,draftkings,spreads,Georgia Tech Yellow Jackets +7.5,-110,+10.2,-2.7,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,draftkings,spreads,Pittsburgh Panthers -7.5,-110,-10.2,2.7,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,draftkings,totals,**OVER** 54.5,-115,56.5,2.0,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,draftkings,totals,**UNDER** 54.5,-105,56.5,-2.0,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,fliff,spreads,Georgia Tech Yellow Jackets +7.5,-115,+10.2,-2.7,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,fliff,spreads,Pittsburgh Panthers -7.5,-115,-10.2,2.7,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,fliff,totals,**OVER** 54.5,-120,56.5,2.0,3,7,False
+Sat 4:30 PM PT,Georgia Tech @ Pittsburgh,Georgia Tech Yellow Jackets @ Pittsburgh Panthers,P4,fliff,totals,**UNDER** 54.5,-115,56.5,-2.0,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,draftkings,spreads,Miami Hurricanes -14,-112,-15.2,1.2,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,draftkings,spreads,North Carolina Tar Heels +14,-108,+15.2,-1.2,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,draftkings,totals,**OVER** 53.5,-108,54.4,0.9,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,draftkings,totals,**UNDER** 53.5,-112,54.4,-0.9,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,fliff,spreads,Miami Hurricanes -13.5,-125,-15.2,1.7,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,fliff,spreads,North Carolina Tar Heels +13.5,-110,+15.2,-1.7,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,fliff,totals,**OVER** 53.5,-115,54.4,0.9,3,7,False
+Sat 4:30 PM PT,Miami @ North Carolina,Miami Hurricanes @ North Carolina Tar Heels,P4,fliff,totals,**UNDER** 53.5,-120,54.4,-0.9,3,7,False
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,draftkings,spreads,Mississippi State Bulldogs +20.5,-108,+12.4,8.1,3,7,True
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,draftkings,spreads,Texas Longhorns -20.5,-112,-12.4,-8.1,3,7,False
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,draftkings,totals,**OVER** 50.5,-115,53.7,3.2,3,7,True
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,draftkings,totals,**UNDER** 50.5,-105,53.7,-3.2,3,7,False
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,fliff,spreads,Mississippi State Bulldogs +20.5,-115,+12.4,8.1,3,7,True
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,fliff,spreads,Texas Longhorns -20.5,-115,-12.4,-8.1,3,7,False
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,fliff,totals,**OVER** 50.5,-120,53.7,3.2,3,7,True
+Sat 4:30 PM PT,Mississippi State @ Texas,Mississippi State Bulldogs @ Texas Longhorns,P4,fliff,totals,**UNDER** 50.5,-115,53.7,-3.2,3,7,False
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,draftkings,spreads,Ohio State Buckeyes -6.5,-112,-10.4,3.9,3,7,True
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,draftkings,spreads,USC Trojans +6.5,-108,+10.4,-3.9,3,7,False
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,draftkings,totals,**OVER** 50.5,-120,55.3,4.8,3,7,True
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,draftkings,totals,**UNDER** 50.5,100,55.3,-4.8,3,7,False
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,fliff,spreads,Ohio State Buckeyes -6.5,-115,-10.4,3.9,3,7,True
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,fliff,spreads,USC Trojans +6.5,-120,+10.4,-3.9,3,7,False
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,fliff,totals,**OVER** 51.5,-110,55.3,3.8,3,7,True
+Sat 4:30 PM PT,Ohio State @ USC,Ohio State Buckeyes @ USC Trojans,P4,fliff,totals,**UNDER** 51.5,-125,55.3,-3.8,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,fliff,spreads,Arkansas Razorbacks +10.5,-125,+8.5,2.0,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,fliff,spreads,Missouri Tigers -10.5,-110,-8.5,-2.0,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,fliff,totals,**OVER** 48.5,-115,49.1,0.6,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,fliff,totals,**UNDER** 48.5,-120,49.1,-0.6,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,draftkings,spreads,Arkansas Razorbacks +10,-108,+8.5,1.5,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,draftkings,spreads,Missouri Tigers -10,-112,-8.5,-1.5,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,draftkings,totals,**OVER** 48.5,-110,49.1,0.6,3,7,False
+Sat 4:45 PM PT,Missouri @ Arkansas,Missouri Tigers @ Arkansas Razorbacks,P4,draftkings,totals,**UNDER** 48.5,-110,49.1,-0.6,3,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,draftkings,spreads,Army Black Knights +6,-110,+1.1,4.9,5,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,draftkings,spreads,Memphis Tigers -6,-110,-1.1,-4.9,5,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,draftkings,totals,**OVER** 59.5,-112,58.4,-1.1,5,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,draftkings,totals,**UNDER** 59.5,-108,58.4,1.1,5,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,fliff,spreads,Army Black Knights +6.5,-120,+1.1,5.4,5,7,True
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,fliff,spreads,Memphis Tigers -6.5,-110,-1.1,-5.4,5,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,fliff,totals,**OVER** 59.5,-120,58.4,-1.1,5,7,False
+Sat 5:00 PM PT,Army @ Memphis,Army Black Knights @ Memphis Tigers,G5,fliff,totals,**UNDER** 59.5,-115,58.4,1.1,5,7,False
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,fliff,spreads,Nebraska Cornhuskers -7.5,-115,-12.3,4.8,3,7,True
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,fliff,spreads,Washington Huskies +7.5,-115,+12.3,-4.8,3,7,False
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,fliff,totals,**OVER** 50.5,-115,51.6,1.1,3,7,False
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,fliff,totals,**UNDER** 50.5,-120,51.6,-1.1,3,7,False
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,draftkings,spreads,Nebraska Cornhuskers -7.5,-110,-12.3,4.8,3,7,True
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,draftkings,spreads,Washington Huskies +7.5,-110,+12.3,-4.8,3,7,False
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,draftkings,totals,**OVER** 49.5,-115,51.6,2.1,3,7,False
+Sat 5:00 PM PT,Washington @ Nebraska,Washington Huskies @ Nebraska Cornhuskers,P4,draftkings,totals,**UNDER** 49.5,-105,51.6,-2.1,3,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,draftkings,spreads,Boise State Broncos -10.5,-110,-7.9,-2.6,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,draftkings,spreads,Texas State Bobcats +10.5,-110,+7.9,2.6,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,draftkings,totals,**OVER** 63.5,-110,59.5,-4.0,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,draftkings,totals,**UNDER** 63.5,-110,59.5,4.0,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,fliff,spreads,Boise State Broncos -10.5,-120,-7.9,-2.6,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,fliff,spreads,Texas State Bobcats +10.5,-115,+7.9,2.6,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,fliff,totals,**OVER** 63.5,-120,59.5,-4.0,5,7,False
+Sat 7:00 PM PT,Texas State @ Boise State,Texas State Bobcats @ Boise State Broncos,G5,fliff,totals,**UNDER** 63.5,-115,59.5,4.0,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,draftkings,spreads,Northern Illinois Huskies +21.5,-108,+20.7,0.8,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,draftkings,spreads,UNLV Rebels -21.5,-112,-20.7,-0.8,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,draftkings,totals,**OVER** 54.5,-110,52.3,-2.2,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,draftkings,totals,**UNDER** 54.5,-110,52.3,2.2,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,fliff,spreads,Northern Illinois Huskies +21.5,-115,+20.7,0.8,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,fliff,spreads,UNLV Rebels -21.5,-120,-20.7,-0.8,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,fliff,totals,**OVER** 54.5,-115,52.3,-2.2,5,7,False
+Sat 7:30 PM PT,Northern Illinois @ UNLV,Northern Illinois Huskies @ UNLV Rebels,G5,fliff,totals,**UNDER** 54.5,-120,52.3,2.2,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,fliff,spreads,Fresno State Bulldogs +5.5,-110,+7.8,-2.3,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,fliff,spreads,Oregon State Beavers -5.5,-125,-7.8,2.3,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,fliff,totals,**OVER** 58.5,-115,55.3,-3.2,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,fliff,totals,**UNDER** 58.5,-120,55.3,3.2,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,draftkings,spreads,Fresno State Bulldogs +6,-110,+7.8,-1.8,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,draftkings,spreads,Oregon State Beavers -6,-110,-7.8,1.8,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,draftkings,totals,**OVER** 58.5,-105,55.3,-3.2,5,7,False
+Sat 8:00 PM PT,Oregon State @ Fresno State,Oregon State Beavers @ Fresno State Bulldogs,G5,draftkings,totals,**UNDER** 58.5,-115,55.3,3.2,5,7,False

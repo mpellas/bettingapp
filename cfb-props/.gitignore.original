@@ -1,0 +1,7 @@
+lines/raw/
+lines/logs/
+raw/
+raw_*/
+__pycache__/
+evidence/cache/
+evidence/out/

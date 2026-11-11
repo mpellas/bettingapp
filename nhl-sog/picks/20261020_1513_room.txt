@@ -1,0 +1,25 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots pass 3:12 PM PT, one new game since the 3:08 PM PT window pass: Detroit Red Wings at Seattle Kraken (6:40 PM PT). Games already posted earlier today (the 4:00, 5:00 and 6:00 PM PT games) are not repeated. Carolina Hurricanes at Vancouver Canucks (7:00 PM PT) and Tampa Bay Lightning at Vegas Golden Knights (7:30 PM PT) have no DraftKings lines captured yet, so they are left for a later pass.
+
+DraftKings list: nothing qualifies. None of the 15 lines has a side with positive blended EV at DraftKings.
+
+Fliff check (3), all Detroit Red Wings at Seattle Kraken, puck drop 6:40 PM PT. Fliff has posted all three, and all three are priced worse than the shop-at price right now (Fliff price pulled 3:15 PM PT), so skip them on Fliff unless Fliff improves to the shop-at price:
+1. Kaapo Kakko (SEA, F) UNDER 1.5 shots on goal, Detroit Red Wings at Seattle Kraken (6:40 PM PT). DK -165, Fliff at -140 or better (Fliff now -170, skip). PrizePicks: power2, power3, flex3, flex4, flex5, flex6.
+   No-vig 57.8%, model 69.6% (+11.8 pts); recent expected shots 1.18, recent form 67.0% (+9.2 pts); shrunk form 76.0% (info only).
+   Role: history F_3rd, today f3/pp2 (no role change flagged); TOI last 5 13.7 min vs 14.3 over the last 30, PP TOI last 5 2.3 vs 1.7; opp_slot_ratio 1.005 (Detroit allows about average to this slot); Detroit allows 27.2 shots per game over the last 20, 0.6 below league average.
+   Evidence: Kaapo Kakko U1.5: agrees 3 of 7 (champion +11.8 pts; challenger +10.4 pts; shrunk form +18.2 pts); nothing against.
+2. Vince Dunn (SEA, D) UNDER 2.5 shots on goal, Detroit Red Wings at Seattle Kraken (6:40 PM PT). DK -155, Fliff at -133 or better (Fliff now -175, skip). PrizePicks: power3, flex4, flex5, flex6.
+   No-vig 56.7%, model 65.3% (+8.7 pts); recent expected shots 1.80, recent form 73.1% (+16.4 pts); shrunk form 58.9% (info only).
+   Role: history D+PP1, today d1/pp1 (no role change flagged); TOI last 5 24.2 min vs 21.2 over the last 30, PP TOI last 5 2.7 vs 2.3; opp_slot_ratio 0.996; Detroit allows 27.2 shots per game over the last 20, 0.6 below league average.
+   Evidence: Vince Dunn U2.5: agrees 4 of 7 (champion +8.7 pts; challenger +7.9 pts; shrunk form +2.3 pts; no-vig moved 5.6 pts toward side since open). Against: TOI last 5 24.2 vs this season 23.1 (+1.1 min); on PP1.
+3. Mackie Samoskevich (SEA, F) UNDER 1.5 shots on goal, Detroit Red Wings at Seattle Kraken (6:40 PM PT). DK +130, Fliff at +146 or better (Fliff now +125, skip). PrizePicks: none.
+   No-vig 40.3%, model 48.6% (+8.3 pts); recent expected shots 1.37, recent form 60.2% (+19.8 pts); shrunk form 46.1% (info only).
+   Role: history F_top6, today f2 with no PP (no role change flagged); TOI last 5 15.7 min vs 15.1 over the last 30, PP TOI last 5 1.0 vs 1.7; opp_slot_ratio 1.006; Detroit allows 27.2 shots per game over the last 20, 0.6 below league average.
+   Evidence: Mackie Samoskevich U1.5: agrees 3 of 7 (champion +8.3 pts; challenger +3.8 pts; shrunk form +5.8 pts). Against: no-vig moved 21.5 pts away from side since open (DK opened the under at -195, now +130), the biggest market move against any pick today.
+Correlation: all three are Seattle unders in the same game, so a quiet Seattle offense helps all three and a busy one hurts all three. Play one or two at most.
+
+Vetoes in this game: 7 sides skipped by the lineup and role checks (Copp both sides, mixed role change; Larkin, Arvidsson and Raymond overs, demoted off PP1; Finnie and Brandsegg-Nygard unders, promoted to PP1).
+Skipped, before noon PT: none today.
+Spreadsheet: /workspace/nhl-sog/sheets/20261020_D_1513_picks.xlsx (the colors only work in Excel or Google Sheets).
+Fliff credits today: 7 of 10 used.

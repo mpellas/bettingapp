@@ -1,0 +1,25 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 9:12 AM PT pass (Sat Oct 24). Only one game is eligible right now: Los Angeles Kings at New Jersey Devils (12:30 PM PT). The 4 PM, 6 PM and 7 PM games don't have lines captured yet and will come in later passes.
+
+DraftKings list: none. No side has positive blended EV at DraftKings.
+
+Fliff check (2):
+1. Jesper Bratt, Los Angeles Kings at New Jersey Devils (12:30 PM PT), OVER 1.5 shots on goal
+   DK -190, no-vig 61.1%, model 69.0%, recent expected shots 2.52, recent form 71.6%, shrunk 62.5% (info only). Worst Fliff price: -159. PrizePicks: power2, power3, flex3-flex6.
+   Last 5: 4 of 5 over 1.5 (shots 2, 0, 3, 2, 2).
+   Role: history slot top-6 forward on PP1; today line 1 and PP1 (no change). LA allows 1.013x league to that slot; LA allows 27.2 shots per game over last 20 vs league 27.8.
+   Evidence: agrees 4 of 7 (champion +7.9 pts; challenger +5.0 pts; shrunk form +1.4 pts; on PP1); nothing against.
+   Fliff: not offered on Fliff yet (no shots market posted for this game).
+2. Alex Laferriere, Los Angeles Kings at New Jersey Devils (12:30 PM PT), UNDER 2.5 shots on goal
+   DK -110, no-vig 48.5%, model 60.1%, recent expected shots 2.22, recent form 61.8%, shrunk 51.5% (info only). Worst Fliff price: +104. PrizePicks: not offered.
+   Last 5: 4 of 5 under 2.5 (shots 2, 2, 2, 3, 2).
+   Role: history slot top-6 forward on PP1; today line 1 and PP1 (no change). NJ allows 0.955x league to that slot; NJ allows 25.9 shots per game over last 20 vs league 27.8.
+   Evidence: agrees 5 of 7 (champion +11.6 pts; challenger +5.4 pts; shrunk form +3.0 pts; opponent allows -5% to his slot; no-vig moved 1.0 pt toward the under since open); against: TOI last 5 20.2 vs this season 18.8 (+1.4 min), and he's on PP1.
+   Fliff: not offered on Fliff yet (no shots market posted for this game).
+Fliff credits: 1 of 10 used today; 161 left on the account.
+
+Vetoes: 0 sides skipped by the lineup veto, 2 by the role check (Trevor Moore, demoted to line 3 with no PP, over skipped; Evan Rodrigues, demoted to line 3 and PP2, over skipped).
+Skipped, before noon PT: Anaheim Ducks at Philadelphia Flyers, 10:00 AM PT.
+No live list ran Oct 23 (box outage), so there was nothing to grade for yesterday.
+Spreadsheet: /workspace/nhl-sog/sheets/20261024_D_0922_picks.xlsx (colors only show in Excel or Google Sheets).

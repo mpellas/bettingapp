@@ -1,0 +1,18 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 3:12 PM PT pass (Sat Oct 24), lines captured 3:12 PM PT. One new game since the 1:00 PM window pass: Tampa Bay Lightning at Utah Mammoth (6:00 PM PT). The other eight games were already posted earlier today and stay unchanged.
+
+DraftKings list: none. No side has positive blended EV at DraftKings.
+
+Fliff check (1):
+1. Barrett Hayton, Tampa Bay Lightning at Utah Mammoth (6:00 PM PT), UNDER 1.5 shots on goal
+   DK +105, no-vig 45.2%, model 52.7%, recent expected shots 1.67, recent form 50.3% (shot rate last 10 x TOI last 5), shrunk 44.1% (info only). Worst Fliff price: +120. PrizePicks: not offered.
+   Last 5: 2 of 5 under 1.5 (shots 2, 1, 1, 2, 3).
+   Role: history slot 3rd-line forward; today line 3 and PP2 (no change). TB allows 0.984x league to that slot; TB allows 24.8 shots per game over last 20 (about 3.0 below league).
+   Evidence: agrees 2 of 7 (champion +7.5 pts; challenger +7.0 pts); against: shrunk form -1.1 pts. Thinner support than this morning's picks, so treat it as a small play at most.
+   Fliff: no Fliff shots market posted for this game yet.
+Fliff credits: 6 of 10 used today; 150 left on the account.
+
+Vetoes: 0 sides skipped by the lineup check and 0 by the role check. 2 more sides fell under the 5-point edge floor.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261024_D_1512_picks.xlsx (colors only show in Excel or Google Sheets).

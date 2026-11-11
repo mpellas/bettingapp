@@ -1,0 +1,420 @@
+player,market,side,book,line,price,fair_prob,new,new_why,old
+sam darnold,pass_yds,Over,draftkings,240.5,-111.0,0.4995,0,novig dp=+0.1,-1
+sam darnold,pass_yds,Under,draftkings,240.5,-112.0,0.5005,0,novig dp=-0.1,-1
+caleb williams,pass_yds,Over,draftkings,227.5,-113.0,0.5,0,novig dp=-0.2,-1
+caleb williams,pass_yds,Under,draftkings,227.5,-111.0,0.5,0,novig dp=+0.2,-1
+jaxon smith njigba,reception_yds,Over,draftkings,100.5,-114.0,0.5,0,novig dp=-0.4,-1
+jaxon smith njigba,reception_yds,Under,draftkings,100.5,-110.0,0.5,0,novig dp=+0.4,-1
+luther burden,reception_yds,Over,draftkings,53.5,-113.0,0.5011,0,no other book,0
+luther burden,reception_yds,Under,draftkings,53.5,-111.0,0.4989,0,no other book,0
+colston loveland,reception_yds,Over,draftkings,43.5,-110.0,0.5,0,novig dp=+0.4,-1
+colston loveland,reception_yds,Under,draftkings,43.5,-114.0,0.5,0,novig dp=-0.4,-1
+rome odunze,reception_yds,Over,draftkings,40.5,-110.0,0.5,0,novig dp=+0.4,-1
+rome odunze,reception_yds,Under,draftkings,40.5,-114.0,0.5,0,novig dp=-0.4,-1
+aj barner,reception_yds,Over,draftkings,29.5,-115.0,0.5032,0,novig dp=-0.3,-1
+aj barner,reception_yds,Under,draftkings,29.5,-109.0,0.4968,0,novig dp=+0.3,-1
+cooper kupp,reception_yds,Over,draftkings,29.5,-109.0,0.5,0,no other book,0
+cooper kupp,reception_yds,Under,draftkings,29.5,-115.0,0.5,0,no other book,0
+tory horton,reception_yds,Over,draftkings,23.5,-110.0,0.5,0,novig dp=+0.4,-1
+tory horton,reception_yds,Under,draftkings,23.5,-114.0,0.5,0,novig dp=-0.4,-1
+d andre swift,reception_yds,Over,draftkings,21.5,-113.0,0.5,0,novig dp=-0.2,-1
+d andre swift,reception_yds,Under,draftkings,21.5,-111.0,0.5,0,novig dp=+0.2,-1
+kalif raymond,reception_yds,Over,draftkings,17.5,-109.0,0.4937,0,no other book,0
+kalif raymond,reception_yds,Under,draftkings,17.5,-115.0,0.5063,0,no other book,0
+sam roush,reception_yds,Over,draftkings,9.5,-108.0,0.4916,0,no other book,0
+sam roush,reception_yds,Under,draftkings,9.5,-116.0,0.5084,0,no other book,0
+zach charbonnet,reception_yds,Over,draftkings,7.5,-112.0,0.5,0,no other book,0
+zach charbonnet,reception_yds,Under,draftkings,7.5,-112.0,0.5,0,no other book,0
+jadarian price,reception_yds,Over,draftkings,4.5,-118.0,0.5063,0,no other book,0
+jadarian price,reception_yds,Under,draftkings,4.5,-106.0,0.4937,0,no other book,0
+roschon johnson,reception_yds,Over,draftkings,2.5,-108.0,0.4916,0,no other book,0
+roschon johnson,reception_yds,Under,draftkings,2.5,-116.0,0.5084,0,no other book,0
+eric saubert,reception_yds,Over,draftkings,0.5,-112.0,0.5,0,no other book,0
+eric saubert,reception_yds,Under,draftkings,0.5,-112.0,0.5,0,no other book,0
+d andre swift,rush_yds,Over,draftkings,58.5,-114.0,0.5015,0,novig dp=-0.3,-1
+d andre swift,rush_yds,Under,draftkings,58.5,-110.0,0.4985,0,novig dp=+0.3,-1
+jadarian price,rush_yds,Over,draftkings,29.5,-111.0,0.4979,0,novig dp=+0.0,-1
+jadarian price,rush_yds,Under,draftkings,29.5,-113.0,0.5021,0,novig dp=-0.0,-1
+zach charbonnet,rush_yds,Over,draftkings,28.5,-115.0,0.5032,0,no other book,0
+zach charbonnet,rush_yds,Under,draftkings,28.5,-109.0,0.4968,0,no other book,0
+caleb williams,rush_yds,Over,draftkings,24.5,-115.0,0.5022,0,novig dp=-0.4,-1
+caleb williams,rush_yds,Under,draftkings,24.5,-109.0,0.4978,0,novig dp=+0.4,-1
+emanuel wilson,rush_yds,Over,draftkings,19.5,-110.0,0.4958,0,novig dp=+0.0,-1
+emanuel wilson,rush_yds,Under,draftkings,19.5,-114.0,0.5042,0,novig dp=-0.0,-1
+roschon johnson,rush_yds,Over,draftkings,9.5,-116.0,0.5101,0,no other book,0
+roschon johnson,rush_yds,Under,draftkings,9.5,-108.0,0.4899,0,no other book,0
+sam darnold,rush_yds,Over,draftkings,4.5,-118.0,0.5101,0,no other book,0
+sam darnold,rush_yds,Under,draftkings,4.5,-107.0,0.4899,0,no other book,0
+luther burden,rush_yds,Over,draftkings,3.5,-115.0,0.485,0,no other book,0
+luther burden,rush_yds,Under,draftkings,3.5,-109.0,0.515,0,no other book,0
+colston loveland,reception_yds,Over,fliff,42.5,-125.0,0.5,0,novig dp=-0.9,-1
+colston loveland,reception_yds,Under,fliff,42.5,-115.0,0.5,0,novig dp=+0.9,-1
+emanuel wilson,rush_yds,Over,fliff,20.5,-120.0,0.5,0,novig dp=+0.0,-1
+emanuel wilson,rush_yds,Under,fliff,20.5,-120.0,0.5,0,novig dp=+0.0,-1
+jadarian price,rush_yds,Over,fliff,28.5,-120.0,0.5,0,novig dp=+0.0,-1
+jadarian price,rush_yds,Under,fliff,28.5,-120.0,0.5,0,novig dp=+0.0,-1
+d andre swift,rush_yds,Over,fliff,59.5,-120.0,0.5,0,novig dp=+0.0,-1
+d andre swift,rush_yds,Under,fliff,59.5,-120.0,0.5,0,novig dp=+0.0,-1
+d andre swift,reception_yds,Over,fliff,20.5,-120.0,0.5,0,novig dp=+0.0,-1
+d andre swift,reception_yds,Under,fliff,20.5,-120.0,0.5,0,novig dp=+0.0,-1
+tory horton,reception_yds,Over,fliff,22.5,-125.0,0.5073,0,novig dp=-0.2,-1
+tory horton,reception_yds,Under,fliff,22.5,-115.0,0.4927,0,novig dp=+0.2,-1
+aj barner,reception_yds,Over,fliff,30.5,-115.0,0.4948,0,novig dp=+0.4,-1
+aj barner,reception_yds,Under,fliff,30.5,-125.0,0.5052,0,novig dp=-0.4,-1
+sam darnold,pass_yds,Over,fliff,239.5,-120.0,0.5,0,novig dp=+0.0,-1
+sam darnold,pass_yds,Under,fliff,239.5,-120.0,0.5,0,novig dp=+0.0,-1
+caleb williams,pass_yds,Over,fliff,226.5,-120.0,0.5,0,novig dp=+0.0,-1
+caleb williams,pass_yds,Under,fliff,226.5,-120.0,0.5,0,novig dp=+0.0,-1
+jaxon smith njigba,reception_yds,Over,fliff,101.5,-120.0,0.5,0,novig dp=+0.0,-1
+jaxon smith njigba,reception_yds,Under,fliff,101.5,-120.0,0.5,0,novig dp=+0.0,-1
+rome odunze,reception_yds,Over,fliff,39.5,-120.0,0.5,0,novig dp=+0.0,-1
+rome odunze,reception_yds,Under,fliff,39.5,-120.0,0.5,0,novig dp=+0.0,-1
+caleb williams,rush_yds,Over,fliff,23.5,-125.0,0.5246,1,novig dp=+2.0,-1
+caleb williams,rush_yds,Under,fliff,23.5,-120.0,0.4754,-1,novig dp=-2.0,-1
+trevor lawrence,pass_yds,Over,prizepicks,240.5,,,0,no other book,0
+trevor lawrence,pass_yds,Under,prizepicks,240.5,,,0,no other book,0
+dan jones,pass_yds,Over,prizepicks,192.5,,,0,no other book,0
+dan jones,pass_yds,Under,prizepicks,192.5,,,0,no other book,0
+parker washington,reception_yds,Over,prizepicks,67.5,,,0,no other book,0
+parker washington,reception_yds,Under,prizepicks,67.5,,,0,no other book,0
+brenton strange,reception_yds,Over,prizepicks,41.5,,,0,no other book,0
+brenton strange,reception_yds,Under,prizepicks,41.5,,,0,no other book,0
+tyler warren,reception_yds,Over,prizepicks,40.5,,,0,no other book,0
+tyler warren,reception_yds,Under,prizepicks,40.5,,,0,no other book,0
+keenan allen,reception_yds,Over,prizepicks,37.5,,,0,no other book,0
+keenan allen,reception_yds,Under,prizepicks,37.5,,,0,no other book,0
+jakobi meyers,reception_yds,Over,prizepicks,35.5,,,0,no other book,0
+jakobi meyers,reception_yds,Under,prizepicks,35.5,,,0,no other book,0
+josh downs,reception_yds,Over,prizepicks,32.5,,,0,no other book,0
+josh downs,reception_yds,Under,prizepicks,32.5,,,0,no other book,0
+laquon treadwell,reception_yds,Over,prizepicks,23.5,,,0,no other book,0
+laquon treadwell,reception_yds,Under,prizepicks,23.5,,,0,no other book,0
+jonathan taylor,reception_yds,Over,prizepicks,14.5,,,0,no other book,0
+jonathan taylor,reception_yds,Under,prizepicks,14.5,,,0,no other book,0
+bhayshul tuten,reception_yds,Over,prizepicks,14.5,,,0,no other book,0
+bhayshul tuten,reception_yds,Under,prizepicks,14.5,,,0,no other book,0
+josh cameron,reception_yds,Over,prizepicks,13.5,,,0,no other book,0
+josh cameron,reception_yds,Under,prizepicks,13.5,,,0,no other book,0
+travis hunter,reception_yds,Over,prizepicks,13.5,,,0,no other book,0
+travis hunter,reception_yds,Under,prizepicks,13.5,,,0,no other book,0
+brian thomas,reception_yds,Over,prizepicks,10.5,,,0,no other book,0
+brian thomas,reception_yds,Under,prizepicks,10.5,,,0,no other book,0
+nate boerkircher,reception_yds,Over,prizepicks,8.5,,,0,no other book,0
+nate boerkircher,reception_yds,Under,prizepicks,8.5,,,0,no other book,0
+ashton dulin,reception_yds,Over,prizepicks,3.5,,,0,no other book,0
+ashton dulin,reception_yds,Under,prizepicks,3.5,,,0,no other book,0
+seth mcgowan,reception_yds,,prizepicks,0.5,,,0,no other book,0
+will mallory,reception_yds,,prizepicks,0.5,,,0,no other book,0
+bhayshul tuten,rush_yds,Over,prizepicks,67.5,,,0,no other book,0
+bhayshul tuten,rush_yds,Under,prizepicks,67.5,,,0,no other book,0
+jonathan taylor,rush_yds,Over,prizepicks,50.5,,,0,no other book,0
+jonathan taylor,rush_yds,Under,prizepicks,50.5,,,0,no other book,0
+chris rodriguez,rush_yds,Over,prizepicks,32.5,,,0,no other book,0
+chris rodriguez,rush_yds,Under,prizepicks,32.5,,,0,no other book,0
+seth mcgowan,rush_yds,Over,prizepicks,24.5,,,0,no other book,0
+seth mcgowan,rush_yds,Under,prizepicks,24.5,,,0,no other book,0
+trevor lawrence,rush_yds,Over,prizepicks,11.5,,,0,no other book,0
+trevor lawrence,rush_yds,Under,prizepicks,11.5,,,0,no other book,0
+dan jones,rush_yds,Over,prizepicks,7.5,,,0,no other book,0
+dan jones,rush_yds,Under,prizepicks,7.5,,,0,no other book,0
+jared goff,pass_yds,Over,prizepicks,257.5,,,0,no other book,0
+jared goff,pass_yds,Under,prizepicks,257.5,,,0,no other book,0
+kyler murray,pass_yds,Over,prizepicks,224.5,,,0,no other book,0
+kyler murray,pass_yds,Under,prizepicks,224.5,,,0,no other book,0
+amon ra st brown,reception_yds,Over,prizepicks,77.5,,,0,no other book,0
+amon ra st brown,reception_yds,Under,prizepicks,77.5,,,0,no other book,0
+justin jefferson,reception_yds,Over,prizepicks,76.5,,,0,no other book,0
+justin jefferson,reception_yds,Under,prizepicks,76.5,,,0,no other book,0
+jameson williams,reception_yds,Over,prizepicks,51.5,,,0,no other book,0
+jameson williams,reception_yds,Under,prizepicks,51.5,,,0,no other book,0
+sam laporta,reception_yds,Over,prizepicks,45.5,,,0,no other book,0
+sam laporta,reception_yds,Under,prizepicks,45.5,,,0,no other book,0
+t j hockenson,reception_yds,Over,prizepicks,42.5,,,0,no other book,0
+t j hockenson,reception_yds,Under,prizepicks,42.5,,,0,no other book,0
+jordan addison,reception_yds,Over,prizepicks,38.5,,,0,no other book,0
+jordan addison,reception_yds,Under,prizepicks,38.5,,,0,no other book,0
+jahmyr gibbs,reception_yds,Over,prizepicks,30.5,,,0,no other book,0
+jahmyr gibbs,reception_yds,Under,prizepicks,30.5,,,0,no other book,0
+isaac teslaa,reception_yds,Over,prizepicks,17.5,,,0,no other book,0
+isaac teslaa,reception_yds,Under,prizepicks,17.5,,,0,no other book,0
+jauan jennings,reception_yds,Over,prizepicks,12.5,,,0,no other book,0
+jauan jennings,reception_yds,Under,prizepicks,12.5,,,0,no other book,0
+aaron jones,reception_yds,Over,prizepicks,9.5,,,0,no other book,0
+aaron jones,reception_yds,Under,prizepicks,9.5,,,0,no other book,0
+jordan mason,reception_yds,,prizepicks,3.5,,,0,no other book,0
+brock wright,reception_yds,,prizepicks,3.5,,,0,no other book,0
+jahmyr gibbs,rush_yds,Over,prizepicks,86.5,,,0,no other book,0
+jahmyr gibbs,rush_yds,Under,prizepicks,86.5,,,0,no other book,0
+jordan mason,rush_yds,Over,prizepicks,49.5,,,0,no other book,0
+jordan mason,rush_yds,Under,prizepicks,49.5,,,0,no other book,0
+aaron jones,rush_yds,Over,prizepicks,27.5,,,0,no other book,0
+aaron jones,rush_yds,Under,prizepicks,27.5,,,0,no other book,0
+kyler murray,rush_yds,Over,prizepicks,24.5,,,0,no other book,0
+kyler murray,rush_yds,Under,prizepicks,24.5,,,0,no other book,0
+sione vaki,rush_yds,Over,prizepicks,4.5,,,0,no other book,0
+sione vaki,rush_yds,Under,prizepicks,4.5,,,0,no other book,0
+jared goff,rush_yds,Over,prizepicks,0.5,,,0,no other book,0
+jared goff,rush_yds,Under,prizepicks,0.5,,,0,no other book,0
+mike penix,pass_yds,Over,prizepicks,229.5,,,0,no other book,0
+mike penix,pass_yds,Under,prizepicks,229.5,,,0,no other book,0
+baker mayfield,pass_yds,Over,prizepicks,214.5,,,0,no other book,0
+baker mayfield,pass_yds,Under,prizepicks,214.5,,,0,no other book,0
+drake london,reception_yds,Over,prizepicks,79.5,,,0,no other book,0
+drake london,reception_yds,Under,prizepicks,79.5,,,0,no other book,0
+chris godwin,reception_yds,Over,prizepicks,41.5,,,0,no other book,0
+chris godwin,reception_yds,Under,prizepicks,41.5,,,0,no other book,0
+kyle pitts,reception_yds,Over,prizepicks,35.5,,,0,no other book,0
+kyle pitts,reception_yds,Under,prizepicks,35.5,,,0,no other book,0
+cade otton,reception_yds,Over,prizepicks,33.5,,,0,no other book,0
+cade otton,reception_yds,Under,prizepicks,33.5,,,0,no other book,0
+bijan robinson,reception_yds,Over,prizepicks,31.5,,,0,no other book,0
+bijan robinson,reception_yds,Under,prizepicks,31.5,,,0,no other book,0
+tez johnson,reception_yds,Over,prizepicks,31.5,,,0,no other book,0
+tez johnson,reception_yds,Under,prizepicks,31.5,,,0,no other book,0
+ted hurst,reception_yds,Over,prizepicks,30.5,,,0,no other book,0
+ted hurst,reception_yds,Under,prizepicks,30.5,,,0,no other book,0
+jahan dotson,reception_yds,Over,prizepicks,22.5,,,0,no other book,0
+jahan dotson,reception_yds,Under,prizepicks,22.5,,,0,no other book,0
+bucky irving,reception_yds,Over,prizepicks,16.5,,,0,no other book,0
+bucky irving,reception_yds,Under,prizepicks,16.5,,,0,no other book,0
+kenny gainwell,reception_yds,Over,prizepicks,11.5,,,0,no other book,0
+kenny gainwell,reception_yds,Under,prizepicks,11.5,,,0,no other book,0
+zachariah branch,reception_yds,Over,prizepicks,8.5,,,0,no other book,0
+zachariah branch,reception_yds,Under,prizepicks,8.5,,,0,no other book,0
+olamide zaccheaus,reception_yds,,prizepicks,8.5,,,0,no other book,0
+austin hooper,reception_yds,Over,prizepicks,5.5,,,0,no other book,0
+austin hooper,reception_yds,Under,prizepicks,5.5,,,0,no other book,0
+bijan robinson,rush_yds,Over,prizepicks,80.5,,,0,no other book,0
+bijan robinson,rush_yds,Under,prizepicks,80.5,,,0,no other book,0
+bucky irving,rush_yds,Over,prizepicks,69.5,,,0,no other book,0
+bucky irving,rush_yds,Under,prizepicks,69.5,,,0,no other book,0
+baker mayfield,rush_yds,Over,prizepicks,16.5,,,0,no other book,0
+baker mayfield,rush_yds,Under,prizepicks,16.5,,,0,no other book,0
+kenny gainwell,rush_yds,Over,prizepicks,14.5,,,0,no other book,0
+kenny gainwell,rush_yds,Under,prizepicks,14.5,,,0,no other book,0
+khalil herbert,rush_yds,Over,prizepicks,8.5,,,0,no other book,0
+khalil herbert,rush_yds,Under,prizepicks,8.5,,,0,no other book,0
+sean tucker,rush_yds,Over,prizepicks,6.5,,,0,no other book,0
+sean tucker,rush_yds,Under,prizepicks,6.5,,,0,no other book,0
+mike penix,rush_yds,Over,prizepicks,2.5,,,0,no other book,0
+mike penix,rush_yds,Under,prizepicks,2.5,,,0,no other book,0
+dak prescott,pass_yds,Over,prizepicks,270.5,,,0,no other book,0
+dak prescott,pass_yds,Under,prizepicks,270.5,,,0,no other book,0
+jacoby brissett,pass_yds,Over,prizepicks,258.5,,,0,no other book,0
+jacoby brissett,pass_yds,Under,prizepicks,258.5,,,0,no other book,0
+ceedee lamb,reception_yds,Over,prizepicks,84.5,,,0,no other book,0
+ceedee lamb,reception_yds,Under,prizepicks,84.5,,,0,no other book,0
+trey mcbride,reception_yds,Over,prizepicks,72.5,,,0,no other book,0
+trey mcbride,reception_yds,Under,prizepicks,72.5,,,0,no other book,0
+george pickens,reception_yds,Over,prizepicks,65.5,,,0,no other book,0
+george pickens,reception_yds,Under,prizepicks,65.5,,,0,no other book,0
+mike wilson,reception_yds,Over,prizepicks,58.5,,,0,no other book,0
+mike wilson,reception_yds,Under,prizepicks,58.5,,,0,no other book,0
+kendrick bourne,reception_yds,Over,prizepicks,38.5,,,0,no other book,0
+kendrick bourne,reception_yds,Under,prizepicks,38.5,,,0,no other book,0
+ryan flournoy,reception_yds,Over,prizepicks,37.5,,,0,no other book,0
+ryan flournoy,reception_yds,Under,prizepicks,37.5,,,0,no other book,0
+elijah higgins,reception_yds,Over,prizepicks,17.5,,,0,no other book,0
+elijah higgins,reception_yds,Under,prizepicks,17.5,,,0,no other book,0
+jake ferguson,reception_yds,Over,prizepicks,17.5,,,0,no other book,0
+jake ferguson,reception_yds,Under,prizepicks,17.5,,,0,no other book,0
+brevyn spann ford,reception_yds,Over,prizepicks,14.5,,,0,no other book,0
+brevyn spann ford,reception_yds,Under,prizepicks,14.5,,,0,no other book,0
+javonte williams,reception_yds,Over,prizepicks,11.5,,,0,no other book,0
+javonte williams,reception_yds,Under,prizepicks,11.5,,,0,no other book,0
+reggie virgil,reception_yds,Over,prizepicks,11.5,,,0,no other book,0
+reggie virgil,reception_yds,Under,prizepicks,11.5,,,0,no other book,0
+jeremiyah love,reception_yds,Over,prizepicks,10.5,,,0,no other book,0
+jeremiyah love,reception_yds,Under,prizepicks,10.5,,,0,no other book,0
+tyler allgeier,reception_yds,,prizepicks,6.5,,,0,no other book,0
+bam knight,reception_yds,,prizepicks,2.5,,,0,no other book,0
+javonte williams,rush_yds,Over,prizepicks,76.5,,,0,no other book,0
+javonte williams,rush_yds,Under,prizepicks,76.5,,,0,no other book,0
+jeremiyah love,rush_yds,Over,prizepicks,45.5,,,0,no other book,0
+jeremiyah love,rush_yds,Under,prizepicks,45.5,,,0,no other book,0
+tyler goodson,rush_yds,Over,prizepicks,19.5,,,0,no other book,0
+tyler goodson,rush_yds,Under,prizepicks,19.5,,,0,no other book,0
+bam knight,rush_yds,Over,prizepicks,19.5,,,0,no other book,0
+bam knight,rush_yds,Under,prizepicks,19.5,,,0,no other book,0
+tyler allgeier,rush_yds,Over,prizepicks,13.5,,,0,no other book,0
+tyler allgeier,rush_yds,Under,prizepicks,13.5,,,0,no other book,0
+jacoby brissett,rush_yds,Over,prizepicks,10.5,,,0,no other book,0
+jacoby brissett,rush_yds,Under,prizepicks,10.5,,,0,no other book,0
+dak prescott,rush_yds,Over,prizepicks,8.5,,,0,no other book,0
+dak prescott,rush_yds,Under,prizepicks,8.5,,,0,no other book,0
+kirk cousins,pass_yds,Over,prizepicks,233.5,,,0,no other book,0
+kirk cousins,pass_yds,Under,prizepicks,233.5,,,0,no other book,0
+geno smith,pass_yds,Over,prizepicks,225.5,,,0,no other book,0
+geno smith,pass_yds,Under,prizepicks,225.5,,,0,no other book,0
+brock bowers,reception_yds,Over,prizepicks,69.5,,,0,no other book,0
+brock bowers,reception_yds,Under,prizepicks,69.5,,,0,no other book,0
+garrett wilson,reception_yds,Over,prizepicks,63.5,,,0,no other book,0
+garrett wilson,reception_yds,Under,prizepicks,63.5,,,0,no other book,0
+tre tucker,reception_yds,Over,prizepicks,48.5,,,0,no other book,0
+tre tucker,reception_yds,Under,prizepicks,48.5,,,0,no other book,0
+omar cooper,reception_yds,Over,prizepicks,41.5,,,0,no other book,0
+omar cooper,reception_yds,Under,prizepicks,41.5,,,0,no other book,0
+ashton jeanty,reception_yds,Over,prizepicks,28.5,,,0,no other book,0
+ashton jeanty,reception_yds,Under,prizepicks,28.5,,,0,no other book,0
+adonai mitchell,reception_yds,Over,prizepicks,25.5,,,0,no other book,0
+adonai mitchell,reception_yds,Under,prizepicks,25.5,,,0,no other book,0
+mike mayer,reception_yds,Over,prizepicks,25.5,,,0,no other book,0
+mike mayer,reception_yds,Under,prizepicks,25.5,,,0,no other book,0
+mason taylor,reception_yds,Over,prizepicks,22.5,,,0,no other book,0
+mason taylor,reception_yds,Under,prizepicks,22.5,,,0,no other book,0
+jalen nailor,reception_yds,Over,prizepicks,17.5,,,0,no other book,0
+jalen nailor,reception_yds,Under,prizepicks,17.5,,,0,no other book,0
+kenyon sadiq,reception_yds,Over,prizepicks,16.5,,,0,no other book,0
+kenyon sadiq,reception_yds,Under,prizepicks,16.5,,,0,no other book,0
+braelon allen,reception_yds,Over,prizepicks,16.5,,,0,no other book,0
+braelon allen,reception_yds,Under,prizepicks,16.5,,,0,no other book,0
+jack bech,reception_yds,Over,prizepicks,9.5,,,0,no other book,0
+jack bech,reception_yds,Under,prizepicks,9.5,,,0,no other book,0
+isaiah davis,reception_yds,,prizepicks,3.5,,,0,no other book,0
+isaiah williams,reception_yds,,prizepicks,0.5,,,0,no other book,0
+braelon allen,rush_yds,Over,prizepicks,79.5,,,0,no other book,0
+braelon allen,rush_yds,Under,prizepicks,79.5,,,0,no other book,0
+ashton jeanty,rush_yds,Over,prizepicks,49.5,,,0,no other book,0
+ashton jeanty,rush_yds,Under,prizepicks,49.5,,,0,no other book,0
+mike washington,rush_yds,Over,prizepicks,31.5,,,0,no other book,0
+mike washington,rush_yds,Under,prizepicks,31.5,,,0,no other book,0
+isaiah davis,rush_yds,Over,prizepicks,10.5,,,0,no other book,0
+isaiah davis,rush_yds,Under,prizepicks,10.5,,,0,no other book,0
+geno smith,rush_yds,Over,prizepicks,6.5,,,0,no other book,0
+geno smith,rush_yds,Under,prizepicks,6.5,,,0,no other book,0
+kirk cousins,rush_yds,Over,prizepicks,0.5,,,0,no other book,0
+kirk cousins,rush_yds,Under,prizepicks,0.5,,,0,no other book,0
+joe burrow,pass_yds,Over,prizepicks,272.5,,,0,no other book,0
+joe burrow,pass_yds,Under,prizepicks,272.5,,,0,no other book,0
+cam ward,pass_yds,Over,prizepicks,192.5,,,0,no other book,0
+cam ward,pass_yds,Under,prizepicks,192.5,,,0,no other book,0
+ja marr chase,reception_yds,Over,prizepicks,83.5,,,0,no other book,0
+ja marr chase,reception_yds,Under,prizepicks,83.5,,,0,no other book,0
+tee higgins,reception_yds,Over,prizepicks,70.5,,,0,no other book,0
+tee higgins,reception_yds,Under,prizepicks,70.5,,,0,no other book,0
+wan dale robinson,reception_yds,Over,prizepicks,48.5,,,0,no other book,0
+wan dale robinson,reception_yds,Under,prizepicks,48.5,,,0,no other book,0
+elic ayomanor,reception_yds,Over,prizepicks,33.5,,,0,no other book,0
+elic ayomanor,reception_yds,Under,prizepicks,33.5,,,0,no other book,0
+mike gesicki,reception_yds,Over,prizepicks,22.5,,,0,no other book,0
+mike gesicki,reception_yds,Under,prizepicks,22.5,,,0,no other book,0
+calvin ridley,reception_yds,Over,prizepicks,22.5,,,0,no other book,0
+calvin ridley,reception_yds,Under,prizepicks,22.5,,,0,no other book,0
+gunnar helm,reception_yds,Over,prizepicks,21.5,,,0,no other book,0
+gunnar helm,reception_yds,Under,prizepicks,21.5,,,0,no other book,0
+chase brown,reception_yds,Over,prizepicks,20.5,,,0,no other book,0
+chase brown,reception_yds,Under,prizepicks,20.5,,,0,no other book,0
+tony pollard,reception_yds,Over,prizepicks,12.5,,,0,no other book,0
+tony pollard,reception_yds,Under,prizepicks,12.5,,,0,no other book,0
+dohnte meyers,reception_yds,Over,prizepicks,12.5,,,0,no other book,0
+dohnte meyers,reception_yds,Under,prizepicks,12.5,,,0,no other book,0
+dan bellinger,reception_yds,Over,prizepicks,9.5,,,0,no other book,0
+dan bellinger,reception_yds,Under,prizepicks,9.5,,,0,no other book,0
+chimere dike,reception_yds,,prizepicks,9.5,,,0,no other book,0
+drew sample,reception_yds,Over,prizepicks,8.5,,,0,no other book,0
+drew sample,reception_yds,Under,prizepicks,8.5,,,0,no other book,0
+samaje perine,reception_yds,Over,prizepicks,7.5,,,0,no other book,0
+samaje perine,reception_yds,Under,prizepicks,7.5,,,0,no other book,0
+mike carter,reception_yds,Over,prizepicks,7.5,,,0,no other book,0
+mike carter,reception_yds,Under,prizepicks,7.5,,,0,no other book,0
+tony pollard,rush_yds,Over,prizepicks,65.5,,,0,no other book,0
+tony pollard,rush_yds,Under,prizepicks,65.5,,,0,no other book,0
+chase brown,rush_yds,Over,prizepicks,57.5,,,0,no other book,0
+chase brown,rush_yds,Under,prizepicks,57.5,,,0,no other book,0
+samaje perine,rush_yds,Over,prizepicks,23.5,,,0,no other book,0
+samaje perine,rush_yds,Under,prizepicks,23.5,,,0,no other book,0
+mike carter,rush_yds,Over,prizepicks,12.5,,,0,no other book,0
+mike carter,rush_yds,Under,prizepicks,12.5,,,0,no other book,0
+cam ward,rush_yds,Over,prizepicks,8.5,,,0,no other book,0
+cam ward,rush_yds,Under,prizepicks,8.5,,,0,no other book,0
+joe burrow,rush_yds,Over,prizepicks,5.5,,,0,no other book,0
+joe burrow,rush_yds,Under,prizepicks,5.5,,,0,no other book,0
+aaron rodgers,pass_yds,Over,prizepicks,218.5,,,0,no other book,0
+aaron rodgers,pass_yds,Under,prizepicks,218.5,,,0,no other book,0
+deshaun watson,pass_yds,Over,prizepicks,210.5,,,0,no other book,0
+deshaun watson,pass_yds,Under,prizepicks,210.5,,,0,no other book,0
+dk metcalf,reception_yds,Over,prizepicks,54.5,,,0,no other book,0
+dk metcalf,reception_yds,Under,prizepicks,54.5,,,0,no other book,0
+denzel boston,reception_yds,Over,prizepicks,49.5,,,0,no other book,0
+denzel boston,reception_yds,Under,prizepicks,49.5,,,0,no other book,0
+kc concepcion,reception_yds,Over,prizepicks,46.5,,,0,no other book,0
+kc concepcion,reception_yds,Under,prizepicks,46.5,,,0,no other book,0
+germie bernard,reception_yds,Over,prizepicks,43.5,,,0,no other book,0
+germie bernard,reception_yds,Under,prizepicks,43.5,,,0,no other book,0
+harold fannin,reception_yds,Over,prizepicks,34.5,,,0,no other book,0
+harold fannin,reception_yds,Under,prizepicks,34.5,,,0,no other book,0
+pat freiermuth,reception_yds,Over,prizepicks,24.5,,,0,no other book,0
+pat freiermuth,reception_yds,Under,prizepicks,24.5,,,0,no other book,0
+jaylen warren,reception_yds,Over,prizepicks,22.5,,,0,no other book,0
+jaylen warren,reception_yds,Under,prizepicks,22.5,,,0,no other book,0
+jerry jeudy,reception_yds,Over,prizepicks,21.5,,,0,no other book,0
+jerry jeudy,reception_yds,Under,prizepicks,21.5,,,0,no other book,0
+darnell washington,reception_yds,Over,prizepicks,21.5,,,0,no other book,0
+darnell washington,reception_yds,Under,prizepicks,21.5,,,0,no other book,0
+dylan sampson,reception_yds,Over,prizepicks,16.5,,,0,no other book,0
+dylan sampson,reception_yds,Under,prizepicks,16.5,,,0,no other book,0
+rico dowdle,reception_yds,Over,prizepicks,14.5,,,0,no other book,0
+rico dowdle,reception_yds,Under,prizepicks,14.5,,,0,no other book,0
+quinshon judkins,reception_yds,Over,prizepicks,9.5,,,0,no other book,0
+quinshon judkins,reception_yds,Under,prizepicks,9.5,,,0,no other book,0
+jaylen warren,rush_yds,Over,prizepicks,65.5,,,0,no other book,0
+jaylen warren,rush_yds,Under,prizepicks,65.5,,,0,no other book,0
+quinshon judkins,rush_yds,Over,prizepicks,46.5,,,0,no other book,0
+quinshon judkins,rush_yds,Under,prizepicks,46.5,,,0,no other book,0
+rico dowdle,rush_yds,Over,prizepicks,29.5,,,0,no other book,0
+rico dowdle,rush_yds,Under,prizepicks,29.5,,,0,no other book,0
+deshaun watson,rush_yds,Over,prizepicks,25.5,,,0,no other book,0
+deshaun watson,rush_yds,Under,prizepicks,25.5,,,0,no other book,0
+dylan sampson,rush_yds,Over,prizepicks,11.5,,,0,no other book,0
+dylan sampson,rush_yds,Under,prizepicks,11.5,,,0,no other book,0
+aaron rodgers,rush_yds,Over,prizepicks,0.5,,,0,no other book,0
+aaron rodgers,rush_yds,Under,prizepicks,0.5,,,0,no other book,0
+josh allen,pass_yds,Over,prizepicks,247.5,,,0,no other book,0
+josh allen,pass_yds,Under,prizepicks,247.5,,,0,no other book,0
+lamar jackson,pass_yds,Over,prizepicks,239.5,,,0,no other book,0
+lamar jackson,pass_yds,Under,prizepicks,239.5,,,0,no other book,0
+zay flowers,reception_yds,Over,prizepicks,88.5,,,0,no other book,0
+zay flowers,reception_yds,Under,prizepicks,88.5,,,0,no other book,0
+dj moore,reception_yds,Over,prizepicks,55.5,,,0,no other book,0
+dj moore,reception_yds,Under,prizepicks,55.5,,,0,no other book,0
+khalil shakir,reception_yds,Over,prizepicks,41.5,,,0,no other book,0
+khalil shakir,reception_yds,Under,prizepicks,41.5,,,0,no other book,0
+dalton kincaid,reception_yds,Over,prizepicks,41.5,,,0,no other book,0
+dalton kincaid,reception_yds,Under,prizepicks,41.5,,,0,no other book,0
+ja kobi lane,reception_yds,Over,prizepicks,31.5,,,0,no other book,0
+ja kobi lane,reception_yds,Under,prizepicks,31.5,,,0,no other book,0
+keon coleman,reception_yds,Over,prizepicks,29.5,,,0,no other book,0
+keon coleman,reception_yds,Under,prizepicks,29.5,,,0,no other book,0
+mark andrews,reception_yds,Over,prizepicks,27.5,,,0,no other book,0
+mark andrews,reception_yds,Under,prizepicks,27.5,,,0,no other book,0
+rashod bateman,reception_yds,Over,prizepicks,25.5,,,0,no other book,0
+rashod bateman,reception_yds,Under,prizepicks,25.5,,,0,no other book,0
+ty johnson,reception_yds,Over,prizepicks,14.5,,,0,no other book,0
+ty johnson,reception_yds,Under,prizepicks,14.5,,,0,no other book,0
+justice hill,reception_yds,Over,prizepicks,10.5,,,0,no other book,0
+justice hill,reception_yds,Under,prizepicks,10.5,,,0,no other book,0
+james cook,reception_yds,Over,prizepicks,9.5,,,0,no other book,0
+james cook,reception_yds,Under,prizepicks,9.5,,,0,no other book,0
+josh cuevas,reception_yds,Over,prizepicks,9.5,,,0,no other book,0
+josh cuevas,reception_yds,Under,prizepicks,9.5,,,0,no other book,0
+josh palmer,reception_yds,Over,prizepicks,8.5,,,0,no other book,0
+josh palmer,reception_yds,Under,prizepicks,8.5,,,0,no other book,0
+dawson knox,reception_yds,Over,prizepicks,7.5,,,0,no other book,0
+dawson knox,reception_yds,Under,prizepicks,7.5,,,0,no other book,0
+derrick henry,reception_yds,Over,prizepicks,6.5,,,0,no other book,0
+derrick henry,reception_yds,Under,prizepicks,6.5,,,0,no other book,0
+matt hibner,reception_yds,,prizepicks,0.5,,,0,no other book,0
+james cook,rush_yds,Over,prizepicks,83.5,,,0,no other book,0
+james cook,rush_yds,Under,prizepicks,83.5,,,0,no other book,0
+derrick henry,rush_yds,Over,prizepicks,78.5,,,0,no other book,0
+derrick henry,rush_yds,Under,prizepicks,78.5,,,0,no other book,0
+josh allen,rush_yds,Over,prizepicks,35.5,,,0,no other book,0
+josh allen,rush_yds,Under,prizepicks,35.5,,,0,no other book,0
+lamar jackson,rush_yds,Over,prizepicks,24.5,,,0,no other book,0
+lamar jackson,rush_yds,Under,prizepicks,24.5,,,0,no other book,0
+justice hill,rush_yds,Over,prizepicks,9.5,,,0,no other book,0
+justice hill,rush_yds,Under,prizepicks,9.5,,,0,no other book,0
+ray davis,rush_yds,Over,prizepicks,4.5,,,0,no other book,0
+ray davis,rush_yds,Under,prizepicks,4.5,,,0,no other book,0
+ty johnson,rush_yds,Over,prizepicks,1.5,,,0,no other book,0
+ty johnson,rush_yds,Under,prizepicks,1.5,,,0,no other book,0

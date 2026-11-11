@@ -1,0 +1,6 @@
+game_id,player,player_id,market,line,side,team,opp,pos,mkt_p,model_p,book,price,ev_pct,in_final_list
+2026_06_BUF_LV,Ray Davis,00-0039875,rush_yds,7.5,Over,BUF,LV,RB,0.5703,,prizepicks,PP std,1,True
+2026_06_CAR_PHI,Darren Waller,00-0031610,reception_yds,26.5,Under,CAR,PHI,TE,0.5646,,prizepicks,PP std,1,True
+2026_06_ARI_LA,Tyler Higbee,00-0033110,reception_yds,34.5,Under,LA,ARI,TE,0.5628,,prizepicks,PP std,1,True
+2026_06_DAL_GB,Dak Prescott,00-0033077,rush_yds,10.5,Under,DAL,GB,QB,0.5597,,prizepicks,PP std,1,True
+2026_06_LAC_KC,Omarion Hampton,00-0040666,reception_yds,6.5,Under,LAC,KC,RB,0.5569,,prizepicks,PP std,1,True

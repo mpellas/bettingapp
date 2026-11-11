@@ -1,0 +1,9 @@
+status,source,game,team,player,market,line,side,book,price,fair_prob,ev_pct,n_books,sharps,model_p,reason
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,CHI,caleb williams,pass_yds,227.5,Under,draftkings,-111.0,0.5,-4.95,4,,0.5531,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,SEA,jaxon smith njigba,reception_yds,100.5,Under,draftkings,-110.0,0.5,-4.55,3,pinnacle,0.7303,1 sharp book(s) at line; EV -4.55% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,CHI,luther burden,reception_yds,53.5,Under,draftkings,-111.0,0.4989,-5.16,4,,0.609,0 sharp book(s) at line; EV -5.16% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,SEA,jadarian price,rush_yds,29.5,Under,draftkings,-113.0,0.5021,-5.36,3,,0.6743,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,SEA,emanuel wilson,rush_yds,19.5,Over,draftkings,-110.0,0.4958,-5.35,3,,0.8968,0 sharp book(s) at line; EV -5.35% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,SEA,emanuel wilson,rush_yds,20.5,Over,fliff,-120.0,0.5,-8.33,5,"fanduel,pinnacle",0.8968,EV -8.33% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,SEA,jadarian price,rush_yds,28.5,Under,fliff,-120.0,0.5,-8.33,5,"fanduel,pinnacle",0.6743,EV -8.33% < 2
+fail,DK/Fliff,Chicago Bears @ Seattle Seahawks,SEA,jaxon smith njigba,reception_yds,101.5,Under,fliff,-120.0,0.5,-8.33,1,,0.7303,no books at exact line; 0 sharp book(s) at line; EV -8.33% < 2

@@ -1,0 +1,13 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Sat Oct 31 1:30 PM window pass (fired 1:31, run 1:32 PM PT), DraftKings lines captured 1:32 PM PT. One game in the window: Columbus Blue Jackets at Dallas Stars, 5:00 PM PT (208 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (13 lines up; best is -5.9%, Rantanen over 1.5, which is also vetoed by a role demotion).
+
+Fliff check: none. No side cleared the 5-point edge floor, so no Fliff lookup was needed.
+Correlation note: nothing listed, so nothing to correlate.
+Fliff credits: 0 this pass; 4 of 10 used today.
+
+Vetoes: 1 role-check veto (Rantanen over dropped, demoted from PP1 to PP2 today), 0 slot vetoes.
+Lineup ages at run time: Dallas DailyFaceoff lineup is about 27 hours old (Oct 30, 10:26 AM PT) and Columbus about 30.5 hours (Oct 30, 6:56 AM PT), so every side in this game would be skipped under the 12-hour rule anyway. No ESPN injury flags on the list.
+Spreadsheet: /workspace/nhl-sog/sheets/20261031_D_1332_picks.xlsx (colors only show in Excel or Google Sheets).

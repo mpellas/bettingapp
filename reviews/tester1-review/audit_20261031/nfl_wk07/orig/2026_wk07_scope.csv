@@ -1,0 +1,287 @@
+player_id,player_name,market,line_D,pred_file,in_scope,out_of_scope,void,status,public_proj,is_proj_starter,position,n_prior_games,scope_reason
+00-0033077,Dak Prescott,pass_yds,263.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,273.20427440969144,1.0,QB,23,in scope
+00-0038400,Tanner McKee,pass_yds,198.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,142.39010617946852,1.0,QB,5,in scope
+00-0033077,Dak Prescott,rush_yds,11.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,False,True,False,pending,9.77273056154285,1.0,QB,23,QB rushing (always out of scope)
+00-0034844,Saquon Barkley,rush_yds,61.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,63.61595305255583,0.0,RB,21,in scope
+00-0037258,Dameon Pierce,rush_yds,16.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,20.01059454643157,0.0,RB,7,in scope
+00-0036997,Javonte Williams,rush_yds,64.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,55.46812672663462,0.0,RB,22,in scope
+00-0037120,Tyler Goodson,rush_yds,12.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,False,True,False,pending,4.989943814237666,0.0,RB,13,public projection < 20 yds
+00-0038400,Tanner McKee,rush_yds,5.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,False,True,False,pending,1.2049763314042692,1.0,QB,5,QB rushing (always out of scope)
+00-0034351,Dallas Goedert,rec_yds,49.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,44.5747190040932,0.0,TE,20,in scope
+00-0034844,Saquon Barkley,rec_yds,14.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,False,True,False,pending,7.947258259455086,0.0,RB,21,public projection < 20 yds
+00-0035662,Marquise Brown,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,28.40628376826148,0.0,WR,17,in scope
+00-0036358,CeeDee Lamb,rec_yds,80.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,82.76269622555756,0.0,WR,19,in scope
+00-0038041,Jake Ferguson,rec_yds,18.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,20.693426324319024,0.0,TE,23,in scope
+00-0039530,Brevyn Spann-Ford,rec_yds,13.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,False,True,False,pending,12.665832120640683,0.0,TE,22,public projection < 20 yds
+00-0036997,Javonte Williams,rec_yds,12.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,False,True,False,pending,12.912867586961783,0.0,RB,22,public projection < 20 yds
+00-0037247,George Pickens,rec_yds,63.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,78.20761838008998,0.0,WR,23,in scope
+00-0040024,Darius Cooper,rec_yds,39.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,23.348035994969933,0.0,WR,13,in scope
+00-0040867,Makai Lemon,rec_yds,40.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,25.567515288068233,0.0,WR,6,in scope
+00-0039410,Ryan Flournoy,rec_yds,35.5,data/predictions/2026_wk07/pregame_20261026T211616Z.parquet,True,False,False,pending,42.165907745840386,0.0,WR,21,in scope
+00-0039851,Drake Maye,pass_yds,247.5,,False,False,True,void,,,,27,void (out of scope)
+00-0039918,Caleb Williams,pass_yds,246.5,,False,False,True,void,,,,22,void (out of scope)
+00-0036275,D'Andre Swift,rush_yds,61.5,,False,False,True,void,,,,24,void (out of scope)
+00-0039021,Roschon Johnson,rush_yds,26.5,,False,False,True,void,,,,10,void (out of scope)
+00-0040556,Corey Kiner,rush_yds,13.5,,False,False,True,void,,,,10,void (out of scope)
+00-0039851,Drake Maye,rush_yds,29.5,,False,False,True,void,,,,27,void (out of scope)
+00-0039918,Caleb Williams,rush_yds,18.5,,False,False,True,void,,,,22,void (out of scope)
+00-0040734,TreVeyon Henderson,rush_yds,25.5,,False,False,True,void,,,,26,void (out of scope)
+00-0036875,Rhamondre Stevenson,rush_yds,42.5,,False,False,True,void,,,,24,void (out of scope)
+00-0032464,Kalif Raymond,rec_yds,25.5,,False,False,True,void,,,,21,void (out of scope)
+00-0033090,Hunter Henry,rec_yds,35.5,,False,False,True,void,,,,27,void (out of scope)
+00-0035676,A.J. Brown,rec_yds,69.5,,False,False,True,void,,,,18,void (out of scope)
+00-0036290,Cole Kmet,rec_yds,9.5,,False,False,True,void,,,,24,void (out of scope)
+00-0036275,D'Andre Swift,rec_yds,20.5,,False,False,True,void,,,,24,void (out of scope)
+00-0039021,Roschon Johnson,rec_yds,7.5,,False,False,True,void,,,,10,void (out of scope)
+00-0038621,DeMario Douglas,rec_yds,39.5,,False,False,True,void,,,,26,void (out of scope)
+00-0039919,Rome Odunze,rec_yds,44.5,,False,False,True,void,,,,20,void (out of scope)
+00-0040734,TreVeyon Henderson,rec_yds,3.5,,False,False,True,void,,,,26,void (out of scope)
+00-0036875,Rhamondre Stevenson,rec_yds,18.5,,False,False,True,void,,,,24,void (out of scope)
+00-0040131,Kyle Williams,rec_yds,19.5,,False,False,True,void,,,,23,void (out of scope)
+00-0040735,Luther Burden III,rec_yds,58.5,,False,False,True,void,,,,23,void (out of scope)
+00-0040563,Efton Chism III,rec_yds,17.5,,False,False,True,void,,,,15,void (out of scope)
+00-0040126,Colston Loveland,rec_yds,45.5,,False,False,True,void,,,,24,void (out of scope)
+00-0041395,Eli Raridon,rec_yds,14.5,,False,False,True,void,,,,5,void (out of scope)
+00-0023459,Aaron Rodgers,pass_yds,230.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,243.9717793928906,1.0,QB,23,in scope
+00-0040743,Tyler Shough,pass_yds,221.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,222.02300968425143,1.0,QB,17,in scope
+00-0023459,Aaron Rodgers,rush_yds,1.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,3.4690886395754172,1.0,QB,23,QB rushing (always out of scope)
+00-0033906,Alvin Kamara,rush_yds,17.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,31.88464543995701,0.0,RB,16,in scope
+00-0036139,Rico Dowdle,rush_yds,29.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,37.57986083488876,0.0,RB,21,in scope
+00-0040743,Tyler Shough,rush_yds,14.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,18.757110833723132,1.0,QB,17,QB rushing (always out of scope)
+00-0037228,Jaylen Warren,rush_yds,63.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,72.23274443883918,0.0,RB,23,in scope
+00-0038551,Kendre Miller,rush_yds,36.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,32.853998746542835,0.0,RB,12,in scope
+00-0041326,CJ Donaldson,rush_yds,10.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,18.16940001701966,0.0,RB,6,public projection < 20 yds
+00-0033906,Alvin Kamara,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,19.233955467424224,0.0,RB,16,public projection < 20 yds
+00-0036040,Juwan Johnson,rec_yds,31.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,40.44426005678816,0.0,TE,23,in scope
+00-0035644,Noah Fant,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,13.417669259916845,0.0,TE,18,public projection < 20 yds
+00-0036139,Rico Dowdle,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,14.063657711995068,0.0,RB,21,public projection < 20 yds
+00-0035640,DK Metcalf,rec_yds,57.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,59.44970374319702,0.0,WR,22,in scope
+00-0037239,Chris Olave,rec_yds,75.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,82.68068457559326,0.0,WR,22,in scope
+00-0036894,Pat Freiermuth,rec_yds,30.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,28.971662880190152,0.0,TE,22,in scope
+00-0038558,Darnell Washington,rec_yds,24.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,25.419222262137648,0.0,TE,19,in scope
+00-0039424,Devaughn Vele,rec_yds,42.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,42.62962306319337,0.0,WR,15,in scope
+00-0037228,Jaylen Warren,rec_yds,26.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,37.00493320471342,0.0,RB,23,in scope
+00-0038551,Kendre Miller,rec_yds,3.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,3.95354789912053,0.0,RB,12,public projection < 20 yds
+00-0041489,Germie Bernard,rec_yds,53.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,True,False,False,settled,50.05189183449329,0.0,WR,5,in scope
+00-0041067,Bryce Lance,rec_yds,12.5,data/predictions/2026_wk07/pregame_20261025T102221Z.parquet,False,True,False,settled,8.578024671180268,0.0,WR,6,public projection < 20 yds
+00-0036442,Joe Burrow,pass_yds,259.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,274.57450027770557,1.0,QB,13,in scope
+00-0035993,Tyler Huntley,pass_yds,197.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,137.2408442707939,1.0,QB,8,in scope
+00-0032764,Derrick Henry,rush_yds,83.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,96.25157184659822,0.0,RB,23,in scope
+00-0033526,Samaje Perine,rush_yds,27.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,27.48578233977131,0.0,RB,20,in scope
+00-0036442,Joe Burrow,rush_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,8.83934785185728,1.0,QB,13,QB rushing (always out of scope)
+00-0035993,Tyler Huntley,rush_yds,24.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,26.763425271223543,1.0,QB,8,QB rushing (always out of scope)
+00-0038597,Chase Brown,rush_yds,41.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,53.25444662679759,0.0,RB,22,in scope
+00-0032764,Derrick Henry,rec_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.321615287105386,0.0,RB,23,public projection < 20 yds
+00-0034829,Mike Gesicki,rec_yds,21.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,28.19505275346105,0.0,TE,16,in scope
+00-0034753,Mark Andrews,rec_yds,29.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,26.33388970597654,0.0,TE,23,in scope
+00-0033526,Samaje Perine,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.586279216253983,0.0,RB,20,public projection < 20 yds
+00-0034975,Justice Hill,rec_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,12.152823339788796,0.0,RB,16,public projection < 20 yds
+00-0036410,Tee Higgins,rec_yds,64.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,76.36074025750843,0.0,WR,20,in scope
+00-0036550,Rashod Bateman,rec_yds,18.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,32.47845553568004,0.0,WR,19,in scope
+00-0038597,Chase Brown,rec_yds,20.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,28.810393998301816,0.0,RB,22,in scope
+00-0036900,Ja'Marr Chase,rec_yds,82.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,73.47715274282285,0.0,WR,21,in scope
+00-0040785,Dohnte Meyers,rec_yds,13.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,31.25770102569158,0.0,WR,5,in scope
+00-0039064,Zay Flowers,rec_yds,63.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,87.12207774630748,0.0,WR,22,in scope
+00-0040870,Ja'Kobi Lane,rec_yds,23.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,29.26328260505493,0.0,WR,2,in scope
+00-0040887,Josh Cuevas,rec_yds,5.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,21.19935964353677,0.0,TE,4,in scope
+00-0033537,Deshaun Watson,pass_yds,210.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,177.42514715349822,1.0,QB,6,in scope
+00-0040676,Cam Ward,pass_yds,182.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,153.26433428654462,1.0,QB,23,in scope
+00-0033537,Deshaun Watson,rush_yds,29.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,28.081391056931974,1.0,QB,6,QB rushing (always out of scope)
+00-0035261,Tony Pollard,rush_yds,67.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,61.43593147090391,0.0,RB,23,in scope
+00-0039032,Tyjae Spears,rush_yds,9.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,False,True,void,11.53719163768244,0.0,RB,19,void (out of scope)
+00-0040784,Quinshon Judkins,rush_yds,46.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,45.67887849728324,0.0,RB,19,in scope
+00-0040676,Cam Ward,rush_yds,9.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.459612146485759,1.0,QB,23,QB rushing (always out of scope)
+00-0035261,Tony Pollard,rec_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,5.230479097851715,0.0,RB,23,public projection < 20 yds
+00-0036407,Jerry Jeudy,rec_yds,23.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,32.928381518332365,0.0,WR,22,in scope
+00-0039032,Tyjae Spears,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,False,True,void,13.456178248520107,0.0,RB,19,void (out of scope)
+00-0038117,Wan'Dale Robinson,rec_yds,35.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,39.48092017748722,0.0,WR,22,in scope
+00-0040784,Quinshon Judkins,rec_yds,12.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,17.54864376103319,0.0,RB,19,public projection < 20 yds
+00-0040584,Gunnar Helm,rec_yds,13.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.870461225609953,0.0,TE,21,public projection < 20 yds
+00-0041037,Denzel Boston,rec_yds,52.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,48.55688839322988,0.0,WR,6,in scope
+00-0041547,KC Concepcion,rec_yds,39.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,29.164619325285994,0.0,WR,6,in scope
+00-0041438,Carnell Tate,rec_yds,52.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,55.6876246867368,0.0,WR,6,in scope
+00-0040170,Elic Ayomanor,rec_yds,16.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,21.118584976781857,0.0,WR,22,in scope
+00-0040162,Dylan Sampson,rec_yds,9.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,14.059060610732892,0.0,RB,16,public projection < 20 yds
+00-0040663,Harold Fannin Jr.,rec_yds,28.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,27.974608786746966,0.0,TE,22,in scope
+00-0035228,Kyler Murray,pass_yds,207.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,210.60874771042148,1.0,QB,9,in scope
+00-0035710,Daniel Jones,pass_yds,189.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,206.82925393256684,1.0,QB,19,in scope
+00-0033293,Aaron Jones,rush_yds,38.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,78.31104261952798,0.0,RB,17,in scope
+00-0035228,Kyler Murray,rush_yds,26.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,30.74005159981472,1.0,QB,9,QB rushing (always out of scope)
+00-0035710,Daniel Jones,rush_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,12.52871098017905,1.0,QB,19,QB rushing (always out of scope)
+00-0037525,Jordan Mason,rush_yds,49.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,50.771598704985635,0.0,RB,17,in scope
+00-0041125,Seth McGowan,rush_yds,14.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,17.34453444850591,0.0,RB,6,public projection < 20 yds
+00-0030279,Keenan Allen,rec_yds,41.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,44.23365045237232,0.0,WR,23,in scope
+00-0033293,Aaron Jones,rec_yds,14.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,16.723485238550605,0.0,RB,17,public projection < 20 yds
+00-0032951,Laquon Treadwell,rec_yds,19.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,20.059963765828776,0.0,WR,12,in scope
+00-0036259,Jauan Jennings,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,20.91074270864354,0.0,WR,21,in scope
+00-0035229,T.J. Hockenson,rec_yds,35.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,39.87979073612947,0.0,TE,20,in scope
+00-0036223,Jonathan Taylor,rec_yds,18.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,25.639245286881632,0.0,RB,23,in scope
+00-0036322,Justin Jefferson,rec_yds,74.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,65.34593209784224,0.0,WR,21,in scope
+00-0038394,Will Mallory,rec_yds,20.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,8.697628345022244,0.0,TE,2,public projection < 20 yds
+00-0038994,Jordan Addison,rec_yds,38.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,43.84887468918193,0.0,WR,18,in scope
+00-0038997,Josh Downs,rec_yds,50.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,40.8951135399284,0.0,WR,22,in scope
+00-0030565,Geno Smith,pass_yds,221.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,212.33382251891896,1.0,QB,21,in scope
+00-0038128,Malik Willis,pass_yds,184.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,131.17076570808527,1.0,QB,9,in scope
+00-0030565,Geno Smith,rush_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,5.3503645836933105,1.0,QB,21,QB rushing (always out of scope)
+00-0038128,Malik Willis,rush_yds,32.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,35.15376033502085,1.0,QB,9,QB rushing (always out of scope)
+00-0039874,Jaylen Wright,rush_yds,16.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,16.478278847684297,0.0,RB,13,public projection < 20 yds
+00-0040198,Ollie Gordon II,rush_yds,59.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,41.91455441956653,0.0,RB,21,in scope
+00-0037252,Greg Dulcich,rec_yds,20.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,27.486690217846576,0.0,TE,13,in scope
+00-0039880,Malik Washington,rec_yds,41.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,38.393172944709875,0.0,WR,22,in scope
+00-0037740,Garrett Wilson,rec_yds,65.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,62.320200729000504,0.0,WR,13,in scope
+00-0039890,Adonai Mitchell,rec_yds,26.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,39.58303174823773,0.0,WR,18,in scope
+00-0040198,Ollie Gordon II,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,2.1067916020294146,0.0,RB,21,public projection < 20 yds
+00-0041511,Omar Cooper Jr.,rec_yds,31.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,70.62319835694728,0.0,WR,2,in scope
+00-0040736,Mason Taylor,rec_yds,17.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,22.75316345143059,0.0,TE,16,in scope
+00-0041523,Caleb Douglas,rec_yds,34.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,50.88297610314508,0.0,WR,2,in scope
+00-0041525,Chris Bell,rec_yds,19.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,15.245780617002572,0.0,WR,5,public projection < 20 yds
+00-0041032,Kenyon Sadiq,rec_yds,18.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,22.045665807156563,0.0,TE,6,in scope
+00-0039163,C.J. Stroud,pass_yds,255.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,285.7841784278086,1.0,QB,22,in scope
+00-0039923,J.J. McCarthy,pass_yds,203.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,151.86991529678897,0.0,QB,12,QB not projected starter
+00-0039384,Tyrone Tracy Jr.,rush_yds,22.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,24.248473810664663,0.0,RB,21,in scope
+00-0040583,Woody Marks,rush_yds,63.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,45.7620423077362,0.0,RB,24,in scope
+00-0039163,C.J. Stroud,rush_yds,9.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,10.500926991706615,1.0,QB,22,QB rushing (always out of scope)
+00-0039923,J.J. McCarthy,rush_yds,23.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,15.530446904136284,0.0,QB,12,QB rushing (always out of scope)
+00-0040715,Cam Skattebo,rush_yds,35.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,43.64327432102648,0.0,RB,13,in scope
+00-0034383,Dalton Schultz,rec_yds,27.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,42.693602471065866,0.0,TE,25,in scope
+00-0034981,Foster Moreau,rec_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,10.696286342164939,0.0,TE,13,public projection < 20 yds
+00-0036309,Darnell Mooney,rec_yds,17.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,18.64859488522517,0.0,WR,21,public projection < 20 yds
+00-0035250,Devin Singletary,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,11.448708149030956,0.0,RB,20,public projection < 20 yds
+00-0036554,Nico Collins,rec_yds,68.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,79.07342718168131,0.0,WR,20,in scope
+00-0039384,Tyrone Tracy Jr.,rec_yds,9.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,15.77799123293452,0.0,RB,21,public projection < 20 yds
+00-0037838,Isaiah Likely,rec_yds,49.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,56.87566519827633,0.0,TE,18,in scope
+00-0038977,Tank Dell,rec_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,60.020265149347416,0.0,WR,0,in scope
+00-0038608,Kayshon Boutte,rec_yds,9.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,32.3016660756542,0.0,WR,24,in scope
+00-0040583,Woody Marks,rec_yds,15.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,14.791514853484923,0.0,RB,24,public projection < 20 yds
+00-0039849,Marvin Harrison Jr.,rec_yds,29.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,34.137270631644036,0.0,WR,17,in scope
+00-0040138,Jaylin Noel,rec_yds,27.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,52.41986576426435,0.0,WR,25,in scope
+00-0039337,Malik Nabers,rec_yds,68.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,92.3594528742827,0.0,WR,10,in scope
+00-0041042,Malachi Fields,rec_yds,20.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,26.18744321501453,0.0,WR,6,in scope
+00-0038618,Xavier Hutchinson,rec_yds,13.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,37.80633012739719,0.0,WR,24,in scope
+00-0039917,Michael Penix Jr.,pass_yds,230.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,229.02144007509375,1.0,QB,13,in scope
+00-0037834,Brock Purdy,pass_yds,242.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,253.95726936716994,1.0,QB,17,in scope
+00-0033280,Christian McCaffrey,rush_yds,57.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,64.71573056212432,0.0,RB,25,in scope
+00-0036906,Khalil Herbert,rush_yds,7.5,,False,False,True,void,,,,5,void (out of scope)
+00-0039917,Michael Penix Jr.,rush_yds,2.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,3.9088183627759836,1.0,QB,13,QB rushing (always out of scope)
+00-0037834,Brock Purdy,rush_yds,19.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,24.52818492375642,1.0,QB,17,QB rushing (always out of scope)
+00-0038542,Bijan Robinson,rush_yds,90.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,100.05319684932519,0.0,RB,23,in scope
+00-0041052,Kaelon Black,rush_yds,27.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,27.09163482379824,0.0,RB,6,in scope
+00-0029892,Kyle Juszczyk,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,15.452242390393145,0.0,FB,22,public projection < 20 yds
+00-0031236,Brandin Cooks,rec_yds,24.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,20.309442577275433,0.0,WR,18,in scope
+00-0033288,George Kittle,rec_yds,71.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,61.27028115688046,0.0,TE,18,in scope
+00-0032392,Austin Hooper,rec_yds,2.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,8.723471407421279,0.0,TE,20,public projection < 20 yds
+00-0033280,Christian McCaffrey,rec_yds,47.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,39.53502576987453,0.0,RB,25,in scope
+00-0034775,Christian Kirk,rec_yds,23.5,,False,False,True,void,,,,13,void (out of scope)
+00-0035208,Olamide Zaccheaus,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,False,True,void,6.0600111695818955,0.0,WR,22,void (out of scope)
+00-0036970,Kyle Pitts,rec_yds,32.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,44.271734052320575,0.0,TE,23,in scope
+00-0037741,Jahan Dotson,rec_yds,27.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,40.056174155033965,0.0,WR,22,in scope
+00-0037238,Drake London,rec_yds,84.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,89.87508932709159,0.0,WR,18,in scope
+00-0038542,Bijan Robinson,rec_yds,29.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,24.455690810848168,0.0,RB,23,in scope
+00-0040172,Jordan Watkins,rec_yds,23.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,15.14683661076698,0.0,WR,4,public projection < 20 yds
+00-0041044,Zachariah Branch,rec_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,10.22225759164955,0.0,WR,6,public projection < 20 yds
+00-0034855,Baker Mayfield,pass_yds,215.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,211.16489375803937,0.0,QB,20,QB not projected starter
+00-0039150,Bryce Young,pass_yds,255.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,276.8933279103925,1.0,QB,22,in scope
+00-0034855,Baker Mayfield,rush_yds,16.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,21.889361775757042,0.0,QB,20,QB rushing (always out of scope)
+00-0036265,AJ Dillon,rush_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,False,True,void,13.525757833463993,0.0,RB,10,void (out of scope)
+00-0036555,Chuba Hubbard,rush_yds,67.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,75.89303202016583,0.0,RB,21,in scope
+00-0036919,Kenny Gainwell,rush_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,16.825818101329265,0.0,RB,24,public projection < 20 yds
+00-0038951,Sean Tucker,rush_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,13.165551952081236,0.0,RB,19,public projection < 20 yds
+00-0039361,Bucky Irving,rush_yds,65.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,73.89276512196584,0.0,RB,16,in scope
+00-0039150,Bryce Young,rush_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.532552296825838,1.0,QB,22,QB rushing (always out of scope)
+00-0031610,Darren Waller,rec_yds,22.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,30.158643837763353,0.0,TE,14,in scope
+00-0033921,Chris Godwin Jr.,rec_yds,46.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,39.949783284164816,0.0,WR,15,in scope
+00-0036555,Chuba Hubbard,rec_yds,15.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,13.338360381065936,0.0,RB,21,public projection < 20 yds
+00-0038129,Cade Otton,rec_yds,39.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,30.58742191254703,0.0,TE,21,in scope
+00-0036919,Kenny Gainwell,rec_yds,12.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,17.403029026464264,0.0,RB,24,public projection < 20 yds
+00-0037005,Tommy Tremble,rec_yds,15.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,25.157285397811712,0.0,TE,21,in scope
+00-0037614,John Metchie III,rec_yds,12.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,23.620057026000513,0.0,WR,17,in scope
+00-0039361,Bucky Irving,rec_yds,17.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,12.72194295066837,0.0,RB,16,public projection < 20 yds
+00-0040237,Tez Johnson,rec_yds,28.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,22.215702935996234,0.0,WR,21,in scope
+00-0040124,Tetairoa McMillan,rec_yds,71.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,89.38978653839538,0.0,WR,23,in scope
+00-0039491,Jalen Coker,rec_yds,68.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,70.2657939821272,0.0,WR,16,in scope
+00-0041048,Ted Hurst III,rec_yds,38.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,26.75296947894023,0.0,WR,5,in scope
+00-0033119,Jacoby Brissett,pass_yds,227.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,219.17244782951735,1.0,QB,20,in scope
+00-0039732,Bo Nix,pass_yds,218.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,195.57554317628285,1.0,QB,24,in scope
+00-0033119,Jacoby Brissett,rush_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,10.2977409657785,1.0,QB,20,QB rushing (always out of scope)
+00-0036158,J.K. Dobbins,rush_yds,50.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,57.048681143185036,0.0,RB,16,in scope
+00-0037263,Tyler Allgeier,rush_yds,30.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,26.912330836979546,0.0,RB,23,in scope
+00-0039732,Bo Nix,rush_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,12.485707580265489,1.0,QB,24,QB rushing (always out of scope)
+00-0037157,Bam Knight,rush_yds,38.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,29.5997913530775,0.0,RB,15,in scope
+00-0040730,RJ Harvey,rush_yds,14.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,24.25945524552811,0.0,RB,24,in scope
+00-0041496,Jonah Coleman,rush_yds,18.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,22.53423908958263,0.0,RB,2,in scope
+00-0033307,Kendrick Bourne,rec_yds,34.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,31.735235415948857,0.0,WR,20,in scope
+00-0033881,Evan Engram,rec_yds,20.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,25.36525463778425,0.0,TE,24,in scope
+00-0034348,Courtland Sutton,rec_yds,35.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,31.189804237174542,0.0,WR,25,in scope
+00-0036422,Adam Trautman,rec_yds,0.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,3.4939043825544185,0.0,TE,16,public projection < 20 yds
+00-0036158,J.K. Dobbins,rec_yds,4.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,5.678745921773563,0.0,RB,16,public projection < 20 yds
+00-0038559,Michael Wilson,rec_yds,48.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,55.32612053446445,0.0,WR,23,in scope
+00-0037744,Trey McBride,rec_yds,62.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,60.73718427453452,0.0,TE,23,in scope
+00-0036613,Jaylen Waddle,rec_yds,52.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,40.38426891461627,0.0,WR,22,in scope
+00-0037263,Tyler Allgeier,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,7.882984118086124,0.0,RB,23,public projection < 20 yds
+00-0039041,Elijah Higgins,rec_yds,12.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,23.835891745191024,0.0,TE,22,in scope
+00-0039868,Troy Franklin,rec_yds,15.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,17.06265144590996,0.0,WR,22,public projection < 20 yds
+00-0040730,RJ Harvey,rec_yds,26.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,31.062831256346737,0.0,RB,24,in scope
+00-0038976,Marvin Mims Jr.,rec_yds,16.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,22.157788637890214,0.0,WR,21,in scope
+00-0038640,Jalen Brooks,rec_yds,16.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,10.845126048684971,0.0,WR,10,public projection < 20 yds
+00-0033106,Jared Goff,pass_yds,281.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,325.91103893377897,1.0,QB,22,in scope
+00-0036264,Jordan Love,pass_yds,289.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,274.0005935516334,1.0,QB,22,in scope
+00-0033106,Jared Goff,rush_yds,0.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,2.6337879709333745,1.0,QB,22,QB rushing (always out of scope)
+00-0036264,Jordan Love,rush_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,6.066853132392771,1.0,QB,22,QB rushing (always out of scope)
+00-0035700,Josh Jacobs,rush_yds,47.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,54.70434059599196,0.0,RB,16,in scope
+00-0038098,Pierre Strong,rush_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,14.582361820885927,0.0,RB,2,public projection < 20 yds
+00-0039811,MarShawn Lloyd,rush_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,18.837061026871748,0.0,RB,6,public projection < 20 yds
+00-0039139,Jahmyr Gibbs,rush_yds,95.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,94.29558598306019,0.0,RB,22,in scope
+00-0039364,Sione Vaki,rush_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,7.063150700602908,0.0,RB,13,public projection < 20 yds
+00-0035700,Josh Jacobs,rec_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,11.650115022533187,0.0,RB,16,public projection < 20 yds
+00-0038124,Christian Watson,rec_yds,77.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,79.56828582776251,0.0,WR,17,in scope
+00-0038098,Pierre Strong,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,14.068094265346053,0.0,RB,2,public projection < 20 yds
+00-0036963,Amon-Ra St. Brown,rec_yds,84.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,85.56564190044627,0.0,WR,22,in scope
+00-0037240,Jameson Williams,rec_yds,53.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,68.92761832314288,0.0,WR,22,in scope
+00-0039139,Jahmyr Gibbs,rec_yds,42.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,49.84130171692946,0.0,RB,22,in scope
+00-0039065,Sam LaPorta,rec_yds,49.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,69.96835414097264,0.0,TE,14,in scope
+00-0040009,Savion Williams,rec_yds,25.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,12.872771157561875,0.0,WR,13,public projection < 20 yds
+00-0038996,Tucker Kraft,rec_yds,50.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,47.956904143286145,0.0,TE,14,in scope
+00-0040667,Matthew Golden,rec_yds,73.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,74.13042200796689,0.0,WR,21,in scope
+00-0040669,Isaac TeSlaa,rec_yds,24.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,35.585082531100106,0.0,WR,19,in scope
+00-0026498,Matthew Stafford,pass_yds,266.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,324.5491977927674,1.0,QB,26,in scope
+00-0029604,Kirk Cousins,pass_yds,240.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,258.6771997598368,1.0,QB,16,in scope
+00-0029604,Kirk Cousins,rush_yds,1.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,0.15799384743981623,1.0,QB,16,QB rushing (always out of scope)
+00-0039738,Blake Corum,rush_yds,35.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,38.61121463677747,0.0,RB,26,in scope
+00-0037840,Kyren Williams,rush_yds,69.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,68.19100832020985,0.0,RB,26,in scope
+00-0040122,Ashton Jeanty,rush_yds,55.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,49.03578828027285,0.0,RB,23,in scope
+00-0033110,Tyler Higbee,rec_yds,35.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,44.42711292438215,0.0,TE,18,in scope
+00-0036244,Colby Parkinson,rec_yds,21.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,24.86814655685138,0.0,TE,22,in scope
+00-0036849,Tutu Atwell,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,13.099485303911864,0.0,WR,11,public projection < 20 yds
+00-0039075,Puka Nacua,rec_yds,83.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,116.12380364777304,0.0,WR,23,in scope
+00-0039074,Davis Allen,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.570631624126582,0.0,TE,21,public projection < 20 yds
+00-0038563,Tre Tucker,rec_yds,42.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,56.38479258334106,0.0,WR,23,in scope
+00-0039066,Michael Mayer,rec_yds,31.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,45.03581460830975,0.0,TE,19,in scope
+00-0039738,Blake Corum,rec_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,16.934275091272543,0.0,RB,26,public projection < 20 yds
+00-0037840,Kyren Williams,rec_yds,26.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,32.25424325259596,0.0,RB,26,in scope
+00-0039338,Brock Bowers,rec_yds,71.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,75.89741295025532,0.0,TE,16,in scope
+00-0039751,Jordan Whittington,rec_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,5.128578088348141,0.0,WR,20,public projection < 20 yds
+00-0040590,Konata Mumpfield,rec_yds,21.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,16.86789270167231,0.0,WR,18,public projection < 20 yds
+00-0040122,Ashton Jeanty,rec_yds,26.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,37.468848719370385,0.0,RB,23,in scope
+00-0033873,Patrick Mahomes,pass_yds,221.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,243.56851719626033,1.0,QB,19,in scope
+00-0034869,Sam Darnold,pass_yds,227.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,230.2999223775353,0.0,QB,25,QB not projected starter
+00-0033873,Patrick Mahomes,rush_yds,17.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,16.234032946661824,1.0,QB,19,QB rushing (always out of scope)
+00-0034869,Sam Darnold,rush_yds,3.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,8.064181272442907,0.0,QB,25,QB rushing (always out of scope)
+00-0037745,Velus Jones Jr.,rush_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,7.7180396826243385,0.0,RB,8,public projection < 20 yds
+00-0039299,George Holani,rush_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,13.326619637137089,0.0,RB,18,public projection < 20 yds
+00-0038134,Kenneth Walker III,rush_yds,79.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,109.39737429560174,0.0,RB,25,in scope
+00-0041013,Emmett Johnson,rush_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,9.91850921850883,0.0,RB,5,public projection < 20 yds
+00-0038797,Emanuel Wilson,rush_yds,52.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,46.77597709874473,0.0,RB,24,in scope
+00-0030506,Travis Kelce,rec_yds,44.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,46.91218396508094,0.0,TE,22,in scope
+00-0033908,Cooper Kupp,rec_yds,24.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,35.3611652344519,0.0,WR,25,in scope
+00-0037545,Rashid Shaheed,rec_yds,24.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,33.23650860874434,0.0,WR,27,in scope
+00-0036637,Noah Gray,rec_yds,16.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,21.718431587073134,0.0,TE,19,in scope
+00-0039299,George Holani,rec_yds,8.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,10.514399577816636,0.0,RB,18,public projection < 20 yds
+00-0038543,Jaxon Smith-Njigba,rec_yds,95.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,109.63587558670264,0.0,WR,26,in scope
+00-0038134,Kenneth Walker III,rec_yds,22.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,18.364393043876973,0.0,RB,25,public projection < 20 yds
+00-0039793,AJ Barner,rec_yds,25.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,True,void,24.623554545135107,0.0,TE,26,void (in scope)
+00-0040648,Tory Horton,rec_yds,11.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,15.401664795654563,0.0,WR,11,public projection < 20 yds
+00-0039894,Xavier Worthy,rec_yds,50.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,True,False,False,settled,43.288858763167646,0.0,WR,19,in scope
+00-0038797,Emanuel Wilson,rec_yds,7.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,7.704238284509271,0.0,RB,24,public projection < 20 yds
+00-0040890,Cyrus Allen,rec_yds,6.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,7.772697970623043,0.0,WR,3,public projection < 20 yds
+00-0040646,Jalen Royals,rec_yds,21.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,7.298415541540954,0.0,WR,7,public projection < 20 yds
+00-0040298,Andrew Armstrong,rec_yds,10.5,data/predictions/2026_wk07/pregame_20261025T165819Z.parquet,False,True,False,settled,12.383036371367549,0.0,WR,1,fewer than 2 prior games (universe rule p_n_prior >= 2)

@@ -1,0 +1,2222 @@
+{
+ "event": "401892496",
+ "name": "Pittsburgh Penguins at Chicago Blackhawks",
+ "home": "Chicago Blackhawks",
+ "away": "Pittsburgh Penguins",
+ "start_utc": "2026-10-14T00:00Z",
+ "captured_utc": "2026-10-13T22:24:40.688584+00:00",
+ "tag": "ADHOC",
+ "minutes_to_start": 95.3,
+ "book": "DraftKings (ESPN provider 100)",
+ "sog_lines": [
+  {
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": 2.5,
+   "over": "-105",
+   "under": "-125",
+   "over_open": "+120",
+   "under_open": "-160",
+   "nv_over": 0.4797,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": 2.5,
+   "over": "+100",
+   "under": "-135",
+   "over_open": "+115",
+   "under_open": "-155",
+   "nv_over": 0.4653,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": 1.5,
+   "over": "-135",
+   "under": "+100",
+   "over_open": "-135",
+   "under_open": "+100",
+   "nv_over": 0.5347,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": 2.5,
+   "over": "-120",
+   "under": "-110",
+   "over_open": "-105",
+   "under_open": "-135",
+   "nv_over": 0.5101,
+   "side_method": "order_fallback",
+   "order_matches": true
+  },
+  {
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": 2.5,
+   "over": "+110",
+   "under": "-150",
+   "over_open": "-120",
+   "under_open": "-115",
+   "nv_over": 0.4425,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": 2.5,
+   "over": "-120",
+   "under": "-110",
+   "over_open": "-110",
+   "under_open": "-120",
+   "nv_over": 0.5101,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": 2.5,
+   "over": "+105",
+   "under": "-145",
+   "over_open": "+135",
+   "under_open": "-185",
+   "nv_over": 0.4518,
+   "side_method": "order_fallback",
+   "order_matches": true
+  },
+  {
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": 1.5,
+   "over": "-130",
+   "under": "-105",
+   "over_open": "-135",
+   "under_open": "+100",
+   "nv_over": 0.5246,
+   "side_method": "order_fallback",
+   "order_matches": true
+  },
+  {
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": 1.5,
+   "over": "+130",
+   "under": "-175",
+   "over_open": "+125",
+   "under_open": "-170",
+   "nv_over": 0.4059,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": 1.5,
+   "over": "-135",
+   "under": "+100",
+   "over_open": "-120",
+   "under_open": "-115",
+   "nv_over": 0.5347,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": 1.5,
+   "over": "-115",
+   "under": "-120",
+   "over_open": "-115",
+   "under_open": "-120",
+   "nv_over": 0.4951,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": 2.5,
+   "over": "+130",
+   "under": "-175",
+   "over_open": "+120",
+   "under_open": "-165",
+   "nv_over": 0.4059,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": 3.5,
+   "over": "+115",
+   "under": "-155",
+   "over_open": "+125",
+   "under_open": "-165",
+   "nv_over": 0.4335,
+   "side_method": "order_fallback",
+   "order_matches": true
+  },
+  {
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": 2.5,
+   "over": "+130",
+   "under": "-180",
+   "over_open": "+120",
+   "under_open": "-165",
+   "nv_over": 0.4035,
+   "side_method": "milestone",
+   "order_matches": true
+  },
+  {
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": 2.5,
+   "over": "+130",
+   "under": "-175",
+   "over_open": "+130",
+   "under_open": "-175",
+   "nv_over": 0.4059,
+   "side_method": "order_fallback",
+   "order_matches": true
+  },
+  {
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": 1.5,
+   "over": "-150",
+   "under": "+110",
+   "over_open": "-120",
+   "under_open": "-115",
+   "nv_over": 0.5575,
+   "side_method": "order_fallback",
+   "order_matches": true
+  }
+ ],
+ "raw": [
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-105",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-125",
+   "american_open": "-160",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "+100",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-135",
+   "american_open": "-155",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-135",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "+100",
+   "american_open": "+100",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-120",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-110",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "+110",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-150",
+   "american_open": "-115",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-120",
+   "american_open": "-110",
+   "lastUpdated": "2026-10-13T17:12Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-110",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:12Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "+105",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-145",
+   "american_open": "-185",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-130",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-105",
+   "american_open": "+100",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "+130",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T17:45Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-175",
+   "american_open": "-170",
+   "lastUpdated": "2026-10-13T17:45Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-135",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "+100",
+   "american_open": "-115",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-115",
+   "american_open": "-115",
+   "lastUpdated": "2026-10-14T00:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-120",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-14T00:20Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "+130",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-175",
+   "american_open": "-165",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "3.5",
+   "target": 3.5,
+   "american": "+115",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T17:13Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "3.5",
+   "target": 3.5,
+   "american": "-155",
+   "american_open": "-165",
+   "lastUpdated": "2026-10-13T17:13Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "+130",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T17:12Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-180",
+   "american_open": "-165",
+   "lastUpdated": "2026-10-13T17:12Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "+130",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "2.5",
+   "target": 2.5,
+   "american": "-175",
+   "american_open": "-175",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "-150",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Total Shots on Goal",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "1.5",
+   "target": 1.5,
+   "american": "+110",
+   "american_open": "-115",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1400",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-295",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "3+",
+   "target": 3.0,
+   "american": "-105",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+225",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+500",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3114",
+   "player": "Sidney Crosby",
+   "nhl_id": 8471675,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1100",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1400",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-275",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+100",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+240",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+550",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3124",
+   "player": "Evgeni Malkin",
+   "nhl_id": 8471215,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1200",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-600",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-135",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+220",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+550",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3539",
+   "player": "Kris Letang",
+   "nhl_id": 8471724,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+1500",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T20:58Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1800",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-350",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "3+",
+   "target": 3.0,
+   "american": "-125",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+200",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+450",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3735",
+   "player": "Patrick Kane",
+   "nhl_id": 8474141,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1000",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1200",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-255",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+110",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+265",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+600",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5164",
+   "player": "Erik Karlsson",
+   "nhl_id": 8474578,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1300",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1800",
+   "american_open": "-125",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-340",
+   "american_open": "-125",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "3+",
+   "target": 3.0,
+   "american": "-120",
+   "american_open": "-125",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+195",
+   "american_open": "-125",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+450",
+   "american_open": "-125",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2562629",
+   "player": "Rickard Rakell",
+   "nhl_id": 8476483,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+950",
+   "american_open": "-125",
+   "lastUpdated": "2026-10-13T11:30Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1200",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-255",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+110",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+260",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+600",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "2591155",
+   "player": "Bryan Rust",
+   "nhl_id": 8475810,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1400",
+   "american_open": "+135",
+   "lastUpdated": "2026-10-13T11:29Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-550",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-125",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+235",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+600",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3042056",
+   "player": "Tyler Bertuzzi",
+   "nhl_id": 8477479,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+1600",
+   "american_open": "-135",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-310",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T17:45Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": "2+",
+   "target": 2.0,
+   "american": "+130",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T17:45Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+380",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T17:45Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3115033",
+   "player": "Ryan Donato",
+   "nhl_id": 8477987,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+1100",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T17:45Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-575",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-135",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+225",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+600",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "3942061",
+   "player": "Tommy Novak",
+   "nhl_id": 8478438,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+1500",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T17:46Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-500",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-115",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+260",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+700",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T11:22Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4565225",
+   "player": "Bowen Byram",
+   "nhl_id": 8481524,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+1800",
+   "american_open": "-105",
+   "lastUpdated": "2026-10-13T18:00Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1000",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-225",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+130",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+320",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+750",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "4697404",
+   "player": "Egor Chinakhov",
+   "nhl_id": 8482475,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1700",
+   "american_open": "+120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-3000",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-575",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "3+",
+   "target": 3.0,
+   "american": "-195",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+120",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+250",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+500",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "7+",
+   "target": 7.0,
+   "american": "+1000",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-13T11:19Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149125",
+   "player": "Connor Bedard",
+   "nhl_id": 8484144,
+   "line": "8+",
+   "target": 8.0,
+   "american": "+2000",
+   "american_open": "+125",
+   "lastUpdated": "2026-10-14T00:52Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-900",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-210",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+130",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+320",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+750",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:20Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5149231",
+   "player": "Roman Kantserov",
+   "nhl_id": 8484390,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1800",
+   "american_open": "+115",
+   "lastUpdated": "2026-10-13T11:48Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-1000",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-210",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+135",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+320",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+750",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291935",
+   "player": "Anton Frondell",
+   "nhl_id": 8485391,
+   "line": "6+",
+   "target": 6.0,
+   "american": "+1800",
+   "american_open": "+130",
+   "lastUpdated": "2026-10-13T11:21Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "1+",
+   "target": 1.0,
+   "american": "-650",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "2+",
+   "target": 2.0,
+   "american": "-155",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "3+",
+   "target": 3.0,
+   "american": "+190",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "4+",
+   "target": 4.0,
+   "american": "+475",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  },
+  {
+   "type": "Shots on Goal Milestones",
+   "espn_id": "5291947",
+   "player": "Ben Kindel",
+   "nhl_id": 8485414,
+   "line": "5+",
+   "target": 5.0,
+   "american": "+1200",
+   "american_open": "-120",
+   "lastUpdated": "2026-10-13T11:31Z"
+  }
+ ],
+ "lineups": {
+  "Chicago Blackhawks": {
+   "updatedAt": "2026-10-13T18:08:43.758Z",
+   "source": "Ben Pope",
+   "players": [
+    {
+     "name": "Roman Kantserov",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Connor Bedard",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Patrick Kane",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tyler Bertuzzi",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Anton Frondell",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Teuvo Teravainen",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Cole Smith",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Greene",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Greenway",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Oliver Moore",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dominic Toninato",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Donato",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bowen Byram",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Artyom Levshunov",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex Vlasic",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ian Cole",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Wyatt Kaiser",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Sam Rinzel",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Spencer Knight",
+     "positionIdentifier": "g1",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Arvid Soderblom",
+     "positionIdentifier": "g2",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tyler Bertuzzi",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Roman Kantserov",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Patrick Kane",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Connor Bedard",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bowen Byram",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Donato",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ryan Greene",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Anton Frondell",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Oliver Moore",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Sam Rinzel",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Andrew Mangiapane",
+     "positionIdentifier": "ir2",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "out",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Frank Nazar",
+     "positionIdentifier": "ir3",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "out",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Oliver Moore",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Cole Smith",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Alex Vlasic",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ian Cole",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Dominic Toninato",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Jordan Greenway",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Wyatt Kaiser",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Artyom Levshunov",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    }
+   ]
+  },
+  "Pittsburgh Penguins": {
+   "updatedAt": "2026-10-12T15:42:53.346Z",
+   "source": "@PensInsideScoop",
+   "players": [
+    {
+     "name": "Rickard Rakell",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Sidney Crosby",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Bryan Rust",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Egor Chinakhov",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tommy Novak",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Evgeni Malkin",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Andrei Kuzmenko",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Kindel",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ville Koivunen",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Connor Dewar",
+     "positionIdentifier": "lw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Blake Lizotte",
+     "positionIdentifier": "c",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Nicholas Robertson",
+     "positionIdentifier": "rw",
+     "groupIdentifier": "f4",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Declan Carlile",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Erik Karlsson",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d1",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Samuel Girard",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kaedan Korczak",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d2",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Spencer Stastney",
+     "positionIdentifier": "ld",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kris Letang",
+     "positionIdentifier": "rd",
+     "groupIdentifier": "d3",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Sergei Murashov",
+     "positionIdentifier": "g1",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Arturs Silovs",
+     "positionIdentifier": "g2",
+     "groupIdentifier": "g",
+     "categoryIdentifier": "ev",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Kindel",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Evgeni Malkin",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Rickard Rakell",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Erik Karlsson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Sidney Crosby",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp1",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Andrei Kuzmenko",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ville Koivunen",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Egor Chinakhov",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kris Letang",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Tommy Novak",
+     "positionIdentifier": "sk5",
+     "groupIdentifier": "pp2",
+     "categoryIdentifier": "pp",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Justin Brazeau",
+     "positionIdentifier": "ir1",
+     "groupIdentifier": "ir",
+     "categoryIdentifier": "oi",
+     "injuryStatus": "dtd",
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Blake Lizotte",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Connor Dewar",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Samuel Girard",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Kris Letang",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk1",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Ben Kindel",
+     "positionIdentifier": "sk1",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Rickard Rakell",
+     "positionIdentifier": "sk2",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Spencer Stastney",
+     "positionIdentifier": "sk3",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    },
+    {
+     "name": "Erik Karlsson",
+     "positionIdentifier": "sk4",
+     "groupIdentifier": "pk2",
+     "categoryIdentifier": "pk",
+     "injuryStatus": null,
+     "gameTimeDecision": false
+    }
+   ]
+  }
+ }
+}

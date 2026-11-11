@@ -1,0 +1,6 @@
+Fliff check: Vasily Podkolzin UNDER 1.5 (DK +110, Fliff at +125 or better) - model +7.9 pts vs no-vig; recent +14.5 pts
+   last 5: 2 of 5 under 1.5 (shots 3,1,1,2,2); model 52.1%, recent form 58.8% (shot rate last 10 x TOI last 5)
+   evidence: Vasily Podkolzin U1.5: agrees 4 of 7 (champion +7.9 pts; challenger +8.3 pts; TOI last 5 17.5 vs this season 18.6 (-1.1 min); last 30 incl. last season 17.4 (reference only); no-vig moved 4.7 pts toward side since open); against: shrunk form -5.4 pts
+Fliff check: Pavel Dorofeyev UNDER 2.5 (DK +110, Fliff at +125 or better) - model +7.5 pts vs no-vig; recent +5.0 pts
+   last 5: 3 of 5 under 2.5 (shots 2,5,2,4,1); model 51.8%, recent form 49.3% (shot rate last 10 x TOI last 5)
+   evidence: Pavel Dorofeyev U2.5: agrees 3 of 7 (champion +7.5 pts; challenger +7.5 pts; opponent allows -3% to F_top6+PP1); against: on PP1; no-vig moved 1.3 pts away from side since open

@@ -1,0 +1,13 @@
+date,pass_pt,player,game,side,line,call,result
+20261017,13:18,Mika Zibanejad,New York Rangers at Columbus Blue Jackets,UNDER,2.5,favorite,W
+20261017,13:18,Noah Dobson,Buffalo Sabres at Montreal Canadiens,UNDER,2.5,favorite,L
+20261017,14:21,Roman Josi,St. Louis Blues at Nashville Predators,OVER,2.5,favorite,L
+20261017,15:23,Adrian Kempe,Boston Bruins at Los Angeles Kings,OVER,2.5,favorite,L
+20261017,16:19,Mark Stone,Pittsburgh Penguins at Vegas Golden Knights,UNDER,2.5,favorite,W
+20261017,16:19,Bryan Rust,Pittsburgh Penguins at Vegas Golden Knights,UNDER,1.5,skip,W
+20261017,16:19,Connor McDavid,Edmonton Oilers at Utah Mammoth,UNDER,3.5,skip,W
+20261018,12:33 catchup,Matthew Knies,Columbus Blue Jackets at Minnesota Wild,UNDER,1.5,favorite,W
+20261018,12:33 catchup,Maxim Shabanov,Columbus Blue Jackets at Minnesota Wild,UNDER,1.5,conditional - condition mostly met 13:03 (2 projections show 3rd line); play only paired with Knies; split stake,
+20261018,13:58,Sebastian Aho,Carolina Hurricanes at Calgary Flames,OVER,2.5,favorite,W
+20261018,13:58,Nikolaj Ehlers,Carolina Hurricanes at Calgary Flames,UNDER,2.5,skip,L (skip correct)
+2026-10-19,15:18,Anders Lee,PIT@UTA,OVER,1.5,"flagged ice time as down (used mostly last-season last-30 baseline); retracted",miss (data error)

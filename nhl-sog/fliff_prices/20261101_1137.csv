@@ -1,0 +1,3 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261101,Vasily Podkolzin,Edmonton Oilers at New York Rangers,UNDER,1.5,8481617,2026020230,401892627,d8dd95fa4fc001a1ea9f6629a8c8ffee,offered,1.5,110,True,125,False,110,1.5,110,1.5,True,2026-11-01T11:37:32-08:00,20261101_1137_post.txt
+20261101,Pavel Dorofeyev,Edmonton Oilers at New York Rangers,UNDER,2.5,8481604,2026020230,401892627,d8dd95fa4fc001a1ea9f6629a8c8ffee,offered,2.5,105,True,125,False,110,2.5,110,2.5,True,2026-11-01T11:37:32-08:00,20261101_1137_post.txt

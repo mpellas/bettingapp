@@ -1,0 +1,2 @@
+game,team,player,market,line,side,book,price,fair_excl,ev_excl,n_other_books,sharps,model_p,gates,actual,result,units,pull
+Minnesota Vikings @ Detroit Lions,MIN,aaron jones,rush_yds,29.5,Under,draftkings,-114,0.540791402051783,1.516982490422425,3,pinnacle,0.2076727818921938,EV0,22.0,win,0.8771929824561403,20261101T1709

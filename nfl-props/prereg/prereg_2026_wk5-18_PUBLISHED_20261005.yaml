@@ -1,0 +1,172 @@
+# PUBLISHED / BINDING pre-registration: 2026 NFL REG weeks 5-18 out-of-sample paper track.
+# Published by yinzerduck via Yinzer at 2026-10-05T13:50:20.135281-07:00.
+# Document sha1 (of this file's bytes as committed): SEE FOOTER — do not edit after publish.
+# Frozen code commit: de029ac361a28973aba1689606ca27fdf8a83736
+# Candidate this was promoted from: prereg_2026_wk5-18_CANDIDATE.yaml sha1 3aaa9b2bbf70a3ccf7b134e0db428d20b7a37b7e
+# STATUS: BINDING. Any later change requires a NEW pre-registration with its own sha1.
+version: 1
+scope: {season: 2026, game_type: REG, weeks: [5, 18]}
+frozen_procedure:
+  git_commit: de029ac361a28973aba1689606ca27fdf8a83736            # full commit of the frozen code tree (scripts/update_prereg_hashes.py fills it); pins
+                                 # everything incl. config.py/metrics.py; this YAML is committed in a LATER commit that
+                                 # may touch only prereg/, data/ (captures, predictions, track) and reports/
+  code_version: 6ddb05f9                    # nflprops.backtest.code_version(CODE_FILES)
+  feature_version: v2-asof
+  champion_config_hash: aa4d70b859          # experiments/champion.json sha1 697bb75346b3d59c39fba828d713e73151bcb175
+  champion_note: "v3 CRPS loop (16 candidates, 2 tests, 0 promotions) kept the v2 model settings (num_leaves 7)"
+  file_sha1:   # convenience cross-check; git_commit is authoritative (filled by scripts/update_prereg_hashes.py)
+    src/nflprops/pregame.py: 40b08d185252c64a690ffaa9f3ad0d3327127c47
+    src/nflprops/track.py: 0b5414dceb0585c3a469c6ef439ef7a609554a02
+    src/nflprops/snapshot.py: 2d06165adb64738cfc1790f08a8672a9f6fba345
+    src/nflprops/snaplines.py: 93470638c3f3eced086488288adb15d0e3b887db
+    src/nflprops/calibration.py: 3d85cda6f1627f106e770d36108adbb73c3a6edc
+    src/nflprops/betting.py: b56e7a22d7baa79c3339f398f1b774917cb8d45d
+    src/nflprops/config.py: 991a29a69a1ead3ecff5ef7ec4cbe6dca5ea9cc1
+    src/nflprops/metrics.py: 9387b4b1823a387ce2a094ac108ceac7737ab9d2
+    src/nflprops/features.py: f0ed1ba312d2a30014fa406325d7ba0321e4fd96
+    src/nflprops/model.py: 194f353faeb0371854467b437fad2ced3e9c1bdd
+    src/nflprops/data.py: 7ac4109a04ed15bf6eb78fd26da85d342dc379a0
+    configs/default.yaml: 59e36382a8dacd5b374139f0e8c95ce445fb8d53
+    experiments/champion.json: 697bb75346b3d59c39fba828d713e73151bcb175
+    scripts/snapshot_loop.sh: 5e5d837ef34192835211c98b6655654592141df9
+    scripts/snapshot_supervisor.sh: 7fe2ab8c0a5f5908877a76fc20b3a1c75ebc29f9
+  live_rows: "nflprops.pregame: one row per D-snapshot line, features from data before the week's first game day only"
+  retraining: "as the walk-forward: distribution fit before season start, mean model refit every 4 weeks on data before the block"
+  data_refresh: "nflprops.data refreshes current season/schedules/players when > 12 h old; downloads logged with sha256; data_version recorded in every prediction file"
+markets: [pass_yds, rush_yds, rec_yds]       # full-game incl. OT only
+line_source:
+  primary: "ESPN core API propBets, provider 100 (DraftKings): open.target, current.target (no prices)"
+  prices: "NONE. No paid source (The Odds API not used). -110/-110 assumed and flagged per line; decision_rule.break_even_without_prices (hit-rate bar) applies"
+  snapshots_per_game:
+    D_decision: >-
+      Decision window = captures with captured_at <= (kickoff reported in that capture - 3 h). Captures with ZERO
+      pass/rush/rec yards lines for the game (empty passes) are skipped; D is taken from the LAST capture in the
+      window that has lines. Only if no capture in the window has lines is there no D (capture failure). If the chosen
+      D is < 3 h before the ACTUAL kickoff, every line of that game is VOID 'kickoff_moved' (never re-pick an older D).
+    C_close: >-
+      Close window = [actual kickoff - 30 min, actual kickoff). Empty passes are skipped the same way; C is the LAST
+      capture in the window that has lines. Only if no capture in the window has lines (or there is no capture in the
+      window) does the game have no C: every line is VOID 'no closing snapshot C' (capture failure). Line by line
+      there is no fallback: a D line missing from that last non-empty capture is VOID 'pulled_before_close', even if
+      earlier captures had it.
+    O_open: "ESPN open.target as recorded in the first capture that has the prop"
+  storage: "data/snapshots/<PT date>/: raw JSON per event/provider/page, UTC capture time in filename, never overwritten, daily MANIFEST.sha256, manifest_log.txt, capture_log.jsonl"
+  capture_schedule: >-
+    scripts/snapshot_supervisor.sh (single instance via flock) runs scripts/snapshot_loop.sh: a pass every 10 min, every
+    3 min while any game kicks off within 45 min; games within 60 min of kickoff re-captured if last capture >= 2 min
+    old, others if >= 9 min old. The supervisor restarts the worker if it dies or logs/snapshot_loop.log has no new
+    "=== <time> ===" entry for > 20 min (empty passes are normal). Both scripts are pinned by git_commit/file_sha1.
+    Running since 2026-10-04 15:04:59 PT (supervisor events in logs/snapshot_supervisor.log).
+    Wake-and-capture check-ins (Grok Bot scheduled routines, NOT cron on the box) pad D (~3 h before each kickoff)
+    and C (~ every 10 min in the last 30 min): Mon/Thu MNF/TNF at 2:10 PM PT (D) and 4:47 / 4:58 / 5:09 PM PT (C);
+    Sundays at ~6:55 AM, 10:00 AM, 10:20 AM, 2:15 PM PT (D for the day's slots) and before 10:00 AM / 1:05-1:25 PM /
+    5:20 PM PT kickoffs (C).
+data_checks:
+  kickoff_time: >-
+    actual kickoff = the EARLIEST kickoff reported for the event by any capture or by the nflverse schedule. D = the
+    last NON-EMPTY capture at or before (kickoff reported in that capture - 3 h), i.e. the real-time decision (empty
+    decision-window captures skipped); if D is < 3 h before the actual kickoff, VOID all of that game's lines with
+    reason 'kickoff_moved' (never re-pick an older D). C is measured against the actual kickoff (last non-empty close
+    capture).
+  duplicate_lines: >-
+    if a snapshot has > 1 distinct line for a (player_id, market) (ESPN/DraftKings items carry no main-line flag),
+    VOID all of them with reason 'duplicate_line' (at D: all those lines; at C: the line gets 'duplicate_line at C').
+    Never keep the first row arbitrarily.
+  pre_freeze_check: >-
+    pregame --check on 2026 week 4 in SNAPSHOT mode (snap_2026_wk4_D.csv) against the post-game build once nflverse
+    posts the week-4 stats for the SNF/MNF games; result file reports/pregame_asof_check_2026_wk04.json
+  pre_freeze_check_result_sha256: 39e99ad3ed9d69055cd1627532dd2f5f406c9a087b993f4caaf532b4dabd55ed   # reports/pregame_asof_check_2026_wk04.json
+  dress_rehearsal_2026_wk4: "SNF 401872978: 26 captures; D 14:05:15 PT (194.8 min pre-kick); C 17:18:47 PT (1.2 min pre-kick); 18 of 19 D lines with valid C; 1 VOID: Chuba Hubbard rush_yds 66.5, reason pulled_before_close, pulled between 17:03:28 PT (last seen) and 17:06:35 PT (first missing); 0 duplicate/kickoff_moved voids"
+universe:
+  definition: "every pass/rush/rec yards line in the D snapshot; fixed at D; never filtered by who played"
+  model_scope: "public projection >= 20 yds and QB projected starter, as-of features; QB rushing outside scope. Out-of-scope lines are predicted, listed in data/track/<S>_wkWW_out_of_scope.csv, excluded from the primary metric and bets"
+  voids: "VOID with reason: kickoff_moved; duplicate_line (D or C); no matching player row; no pregame prediction created before kickoff; pulled_before_close; no closing snapshot C (capture failure); player inactive/DNP (completed game, no stat row and no offensive snap). Weekly report data/track/<S>_wkWW_voids.csv; pulled_before_close reported on its own line, split into model OVER picks and UNDER picks; only capture failures count in the data kill rule; never silently removed"
+  void_sensitivity: "primary metric and bet ROI reported two ways: voids excluded, and voids counted as zero"
+tracks:
+  paper:   # PRIMARY, confirmatory
+    scored: "every non-void, in-scope universe line"
+    primary_metric: >-
+      z-CLV = sign(P_model(over | line_D) - 0.5) * (line_C - line_D) / sd, sd = (q84 - q16)/2 of the champion
+      predictive distribution. Mean over lines, 95% GAME-clustered bootstrap (4000 resamples, seed 0).
+      Secondary: correlation between logit(P_model(over|line_D)) and the standardized move.
+    secondary_metrics:
+      - "PIT / CRPS of the predictive distribution vs actuals"
+      - "hit rate of the model side vs line_C"
+      - "hit rate of the model side vs line_D on top-20% |lean| (PRIMARY without-prices break-even bar)"
+      - "hit rate of the model side vs line_D on the full board (DIAGNOSTIC only; 53.5% / LB>50%)"
+      - "blanket unders: always-under hit rate at line_D on every scored line (control)"
+  bet:     # SECONDARY, descriptive only (notional 1000 units)
+    probabilities: "hierarchical stacker (calibration.hier_stacked_probs): a_m~N(0,0.02^2), b~N(1,0.1^2) shared, c_m~N(c0,0.05^2), c0~N(0,0.1^2); history = 2025 ESPN BET lines (sha1 224fdae2f5bdaaa787312ba3ee0c4946dae82190, training history only) + strictly earlier settled 2026 weeks; no min_n"
+    edge_threshold: 0.04
+    require_positive_ev: true
+    staking: {kelly_fraction: 0.25, max_bet_frac: 0.02, max_game_frac: 0.04, max_bets_per_game: 3,
+              max_team_frac: 0.03, max_bets_per_player: 1, max_week_exposure: 0.20}
+    voided_bets: >-
+      DraftKings rules: a bet placed at D on a line later pulled (or whose close capture failed) stands if the player
+      recorded a snap or any stat and is settled on the actual stat result; it is refunded (profit 0) only if he did
+      not play (inactive/DNP). ROI reported with refunds excluded and with refunds counted as zero.
+    expected_bets: "very few or none (stacker c ~0.03-0.05 +- 0.08 on 2025 history; p_mkt = 0.5 without prices)"
+decision_rule:
+  evaluation: >-
+    python -m nflprops.track final --season 2026 --weeks 5-18 pools the weekly tracked lines and writes
+    data/track/2026_final_wk05-18.json (nflprops.track.evaluate); the weekly summaries carry the same evaluation for
+    that week only (decision_this_week_only), descriptive.
+  success: >-
+    ALL of: (1) signal check: paper D-to-C z-CLV mean > 0 with one-sided game-clustered p < 0.05; (2) raw-model LL
+    gain vs ln(2) at line_C not worse than 0 (CI upper bound >= 0; summary field ll_gain_vs_ln2_at_C); (3) the
+    break-even bar: break_even_with_prices if it applies, otherwise break_even_without_prices. Label FAIL when the
+    model fails the primary 53.5% strong-lean bar or fails to beat the matched market×side control (skill not shown).
+    PROVISIONAL only when every skill bar passes but prices are still missing (and/or adverse_case fails: PROVISIONAL
+    with "fails adverse-case sensitivity"). A pass on both skill and prices is PASS.
+  break_even_with_prices: >-
+    applies instead of the without-prices bar only if real (captured, not assumed) DraftKings prices exist at D and C
+    for >= 80% of scored lines and the D prices are not one flat pair on every line (flat -110/-110 or -115/-115
+    everywhere = no prices). q_side = no-vig closing probability of the model's side at line_D (no-vig P(over line_C)
+    at C, shifted to line_D with the champion predictive CDF). Pass: mean q_side >= mean break-even of the captured D
+    price on the model's side AND lower 95% game-clustered bound of mean q_side > 0.500 (track summary field
+    break_even_with_prices). Unchanged.
+  break_even_without_prices: >-
+    PRIMARY: within each week, take the top 20% of scored (non-void, in-scope, settled, non-push) lines by absolute
+    raw lean abs_lean = |mu - line_D| / sd (sd = (q84-q16)/2); for the final analysis, select top 20% within each week
+    then pool. Hit rate of the model's side at line_D against actual stats on that group: point estimate >= 53.5% AND
+    game-clustered 95% bootstrap lower bound > 50%. Over/under counts in that group are reported (side_counts); there
+    is no minimum side-share floor. Also requires matched_control (below). PROVISIONAL only when skill bars pass but
+    prices are missing. The D-to-C z-CLV test stays as the signal check.
+  matched_control: >-
+    Tester1 matched baseline (blanket side rate PER MARKET on all scored lines, pushes excluded): under_share(market)
+    = share with actual < line_D; over_share = 1 - under_share. Do NOT group by model_side (that would compare strong
+    leans to the model's weaker leans on the same side). Each strong-lean line gets Δ = hit - blanket_rate(market,
+    side). Pass: game-clustered 95% bootstrap lower bound on mean(Δ) > 0. If it fails, overall label is FAIL (skill
+    not shown vs the market's side rate). Summary field break_even_main.matched_control (market_side_rates). No 25%
+    over/under floor.
+  blanket_unders: >-
+    Always-under at line_D on every scored line (hit if actual < line_D; pushes excluded). Same CIs; reported bar =
+    53.5% point estimate AND game-clustered 95% lower bound > 50%. Own scored result in weekly and final summaries
+    (field blanket_unders). Does NOT void the model's PASS when it also passes.
+  hit_rate_full_board_diagnostic: >-
+    Model-side hit rate at line_D on every scored line: 53.5% / LB>50%. DIAGNOSTIC only — reported
+    (hit_rate_full_board_diagnostic), not part of the success rule.
+  adverse_case: >-
+    pre-registered sensitivity for in-scope lines VOID 'pulled_before_close': pulled lines on the model's OVER picks
+    get z-CLV = -0.25 SD (fixed), pulled UNDER picks get 0, both added to the z-CLV sample. Hit rate: a pulled line is
+    scored at line_D against the player's actual stats if he played, and is void if he did not; the without-prices
+    adverse bar uses the same top-20% |lean| selection on the adverse board (including those pulled lines). The
+    success rule is re-run on these values (summary fields signal_z_clv_adverse, break_even_adverse, adverse_passes);
+    weekly and final summaries report it.
+  failure: "main z-CLV CI upper bound < +0.01 or point estimate <= 0 -> no betting (summary field failure_rule_triggered)"
+kill_criteria:
+  data: >-
+    a week with > 20% of started-game universe lines VOID 'no closing snapshot C' (capture failures; summary field
+    share_started_no_C_capture_failure) is flagged; two flagged weeks -> stop and fix capture. 'pulled_before_close'
+    is reported on its own line (n_pulled_before_close, share_started_pulled_before_close), split by the
+    model's side (n_pulled_before_close_by_model_side: over / under picks), and is NOT counted in this threshold.
+  futility_week11: "paper z-CLV point estimate < 0 and upper 95% bound < +0.02 -> stop bet track; paper continues"
+  bet_drawdown: "notional drawdown > 25% -> stop bet track"
+  integrity: "edit to any file above, or a scored week whose pregame file / D capture was not hashed pre-kickoff -> week excluded and reported"
+reporting: "all weeks reported, including excluded ones; times in PT; nothing re-tuned on 2026 data during tracking"
+
+published:
+  at_pt: 2026-10-05T13:50:20.135281-07:00
+  by: yinzerduck
+  promoted_from_candidate_sha1: 3aaa9b2bbf70a3ccf7b134e0db428d20b7a37b7e
+  git_commit_pinned: de029ac361a28973aba1689606ca27fdf8a83736

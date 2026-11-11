@@ -1,0 +1,82 @@
+ALL per-pass rows 241-241-0 Fliff -34.57u DK -21.86u (n=482, ungraded 0)
+UNIQUE 160-160-0 Fliff -23.11u DK -14.55u (n=320, ungraded 0)
+bucket qualified 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+bucket 0-1 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+bucket 1-2 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+bucket 2-3 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+bucket 3-5 1-0-0 Fliff +0.80u DK +0.91u (n=1, ungraded 0)
+bucket >5 159-160-0 Fliff -23.91u DK -15.46u (n=319, ungraded 0)
+Power 4 85-85-0 Fliff -12.02u DK -7.67u (n=170, ungraded 0) | edge max -0.95
+    3-5 1-0-0 Fliff +0.80u DK +0.91u (n=1, ungraded 0)
+    >5 84-85-0 Fliff -12.82u DK -8.58u (n=169, ungraded 0)
+Group of 5 70-70-0 Fliff -10.40u DK -6.42u (n=140, ungraded 0) | edge max -1.72
+    >5 70-70-0 Fliff -10.40u DK -6.42u (n=140, ungraded 0)
+FCS 5-5-0 Fliff -0.68u DK -0.46u (n=10, ungraded 0) | edge max -2.81
+    >5 5-5-0 Fliff -0.68u DK -0.46u (n=10, ungraded 0)
+threshold 2/4 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+   per-pass 2/4 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+threshold 1/3 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+   per-pass 1/3 0-0-0 Fliff +0.00u DK +0.00u (n=0, ungraded 0)
+edge dist {'count': 320.0, 'mean': -3.88, 'std': 0.69, 'min': -6.99, '25%': -4.47, '50%': -3.92, '75%': -3.46, 'max': -0.95}
+            pass_       level  games  sides  spreads  totals
+0   20261017_0738         FCS      2      6        2       4
+1   20261017_0738     Power 4      9     28       10      18
+2   20261017_0744         FCS      2      6        2       4
+3   20261017_0744  Group of 5      6     20        8      12
+4   20261017_0744     Power 4      9     26        8      18
+5   20261017_1137  Group of 5     10     28       10      18
+6   20261017_1137     Power 4      8     22        8      14
+7   20261017_1339         FCS      1      4        2       2
+8   20261017_1339  Group of 5      7     22        8      14
+9   20261017_1339     Power 4      8     28       12      16
+10  20261017_1533         FCS      1      4        2       2
+11  20261017_1533  Group of 5      6     16        6      10
+12  20261017_1533     Power 4      8     26       10      16
+13  20261017_1731  Group of 5      3     10        4       6
+14  20261017_1731     Power 4      3     10        4       6
+15  20261024_0605  Group of 5      4     12        6       6
+16  20261024_0605     Power 4      6     18        8      10
+17  20261024_1102  Group of 5     11     44       22      22
+18  20261024_1102     Power 4      9     36       18      18
+19  20261024_1301  Group of 5      8     32       16      16
+20  20261024_1301     Power 4      7     28       14      14
+21  20261024_1500  Group of 5      4     16        8       8
+22  20261024_1500     Power 4      8     32       16      16
+23  20261024_1702  Group of 5      1      4        2       2
+24  20261024_1702     Power 4      1      4        2       2
+---- finer buckets (short = gap_req - edge)
+FCS (7, 8] 1-0-0 Fliff +0.91u DK +0.93u (n=1, ungraded 0)
+FCS (8, 9] 3-2-0 Fliff +0.54u DK +0.67u (n=5, ungraded 0)
+FCS (9, 99] 1-3-0 Fliff -2.13u DK -2.05u (n=4, ungraded 0)
+Group of 5 (6, 7] 1-1-0 Fliff -0.20u DK -0.07u (n=2, ungraded 0)
+Group of 5 (7, 8] 2-8-0 Fliff -6.25u DK -4.31u (n=10, ungraded 0)
+Group of 5 (8, 9] 36-30-0 Fliff +1.00u DK +2.70u (n=66, ungraded 0)
+Group of 5 (9, 99] 31-31-0 Fliff -4.96u DK -4.74u (n=62, ungraded 0)
+Power 4 (3, 4] 1-0-0 Fliff +0.80u DK +0.91u (n=1, ungraded 0)
+Power 4 (5, 6] 4-1-0 Fliff +2.64u DK +2.65u (n=5, ungraded 0)
+Power 4 (6, 7] 52-47-0 Fliff -2.28u DK -0.11u (n=99, ungraded 0)
+Power 4 (7, 8] 27-34-0 Fliff -11.06u DK -8.99u (n=61, ungraded 0)
+Power 4 (8, 9] 1-2-0 Fliff -1.13u DK -1.13u (n=3, ungraded 0)
+Power 4 (9, 99] 0-1-0 Fliff -1.00u DK -1.00u (n=1, ungraded 0)
+better-priced side of each pair 86-74-0 Fliff +0.24u DK +5.79u (n=160, ungraded 0)
+               dk  fliff  both  events
+pass_                                 
+20261017_0738  70     59    59      72
+20261017_0744  70     59    59      72
+20261017_1137  56     52    52      56
+20261017_1339  42     36    36      42
+20261017_1533  39     35    35      39
+20261017_1731  26     22    22      26
+20261024_0605  56     47    47      63
+20261024_1102  45     45    45      49
+20261024_1301  36     36    36      40
+20261024_1500  33     33    33      40
+20261024_1702  18     21    18      25
+                     espn_games  priced_games
+day      level                               
+20261017 FCS                 58           3.0
+         Group of 5          22          22.0
+         Power 4             27          26.0
+20261024 FCS                 53           0.0
+         Group of 5          19          19.0
+         Power 4             25          23.0

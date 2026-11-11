@@ -1,0 +1,9 @@
+Fliff check: Alex Newhook UNDER 1.5 (DK -120, Fliff at -105 or better) - model +5.1 pts vs no-vig; recent +18.5 pts
+   last 5: 4 of 5 under 1.5 (shots 1,0,0,1,2); model 56.2%, recent form 69.5% (shot rate last 10 x TOI last 5)
+   evidence: Alex Newhook U1.5: agrees 4 of 7 (champion +5.1 pts; challenger +4.0 pts; shrunk form +8.8 pts; no-vig moved 3.0 pts toward side since open); nothing against
+Fliff check: Morgan Rielly UNDER 1.5 (DK -115, Fliff at +101 or better) - model +7.4 pts vs no-vig; recent +14.7 pts
+   last 5: 4 of 5 under 1.5 (shots 0,3,0,1,0); model 56.9%, recent form 64.2% (shot rate last 10 x TOI last 5)
+   evidence: Morgan Rielly U1.5: agrees 3 of 7 (champion +7.4 pts; challenger +2.4 pts; shrunk form +11.9 pts); against: no-vig moved 1.0 pts away from side since open
+Fliff check: Darren Raddysh UNDER 2.5 (DK -135, Fliff at -116 or better) - model +6.1 pts vs no-vig; recent +13.6 pts
+   last 5: 4 of 5 under 2.5 (shots 1,2,0,3,1); model 59.6%, recent form 67.1% (shot rate last 10 x TOI last 5)
+   evidence: Darren Raddysh U2.5: agrees 3 of 7 (champion +6.1 pts; challenger +5.0 pts; no-vig moved 4.0 pts toward side since open); against: shrunk form -4.8 pts; opponent allows +4% to D+PP1; on PP1

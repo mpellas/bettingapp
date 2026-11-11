@@ -1,0 +1,35 @@
+event_id,odds_id,game,kickoff_pt,kickoff_utc,market,side,line,label,ev_side,dk_price,dk_fair,fliff_price,fliff_be,edge_pts,worst_fliff,qualifies
+401858267,0372910f02d1b4d9cbfef5b35bbfe439,Pittsburgh Panthers @ Boston College Eagles,9:00 AM,2026-10-17T16:00:00Z,total,over,42.5,OVER 42.5,OVER 42.5,-115,0.5108,-120,0.5455,-3.46,108,False
+401858267,0372910f02d1b4d9cbfef5b35bbfe439,Pittsburgh Panthers @ Boston College Eagles,9:00 AM,2026-10-17T16:00:00Z,total,under,42.5,UNDER 42.5,UNDER 42.5,-105,0.4892,-115,0.5349,-4.57,118,False
+401858261,bdcdf3154bdeea4c2920375945d3f010,Charleston Southern Buccaneers @ Clemson Tigers,9:00 AM,2026-10-17T16:00:00Z,total,over,55.5,OVER 55.5,OVER 55.5,-102,0.4826,-110,0.5238,-4.12,121,False
+401858261,bdcdf3154bdeea4c2920375945d3f010,Charleston Southern Buccaneers @ Clemson Tigers,9:00 AM,2026-10-17T16:00:00Z,total,under,55.5,UNDER 55.5,UNDER 55.5,-118,0.5174,-125,0.5556,-3.82,106,False
+401856829,c67bc7b2b2b6bf3571ece5117facad42,Cincinnati Bearcats @ West Virginia Mountaineers,9:00 AM,2026-10-17T16:00:00Z,spread,away,1.5,Cincinnati Bearcats +1.5,CIN +1.5,-112,0.5043,-120,0.5455,-4.11,111,False
+401856829,c67bc7b2b2b6bf3571ece5117facad42,Cincinnati Bearcats @ West Virginia Mountaineers,9:00 AM,2026-10-17T16:00:00Z,spread,home,-1.5,West Virginia Mountaineers -1.5,WVU -1.5,-108,0.4957,-115,0.5349,-3.92,115,False
+401856829,c67bc7b2b2b6bf3571ece5117facad42,Cincinnati Bearcats @ West Virginia Mountaineers,9:00 AM,2026-10-17T16:00:00Z,total,over,63.5,OVER 63.5,OVER 63.5,-108,0.4957,-120,0.5455,-4.98,115,False
+401856829,c67bc7b2b2b6bf3571ece5117facad42,Cincinnati Bearcats @ West Virginia Mountaineers,9:00 AM,2026-10-17T16:00:00Z,total,under,63.5,UNDER 63.5,UNDER 63.5,-112,0.5043,-115,0.5349,-3.06,111,False
+401856724,490b66058b6c826a08589c471698ce50,Florida Gators @ Texas Longhorns,9:00 AM,2026-10-17T16:00:00Z,spread,away,11.5,Florida Gators +11.5,FLA +11.5,-108,0.4957,-115,0.5349,-3.92,115,False
+401856724,490b66058b6c826a08589c471698ce50,Florida Gators @ Texas Longhorns,9:00 AM,2026-10-17T16:00:00Z,spread,home,-11.5,Texas Longhorns -11.5,TEX -11.5,-112,0.5043,-115,0.5349,-3.06,111,False
+401856724,490b66058b6c826a08589c471698ce50,Florida Gators @ Texas Longhorns,9:00 AM,2026-10-17T16:00:00Z,total,over,50.5,OVER 50.5,OVER 50.5,-115,0.5108,-125,0.5556,-4.47,108,False
+401856724,490b66058b6c826a08589c471698ce50,Florida Gators @ Texas Longhorns,9:00 AM,2026-10-17T16:00:00Z,total,under,50.5,UNDER 50.5,UNDER 50.5,-105,0.4892,-110,0.5238,-3.46,118,False
+401858488,685a8722f297502fa85e4cd8c7e54b1c,Ohio State Buckeyes @ Indiana Hoosiers,9:00 AM,2026-10-17T16:00:00Z,spread,home,2.5,Indiana Hoosiers +2.5,IU +2.5,-105,0.4892,-105,0.5122,-2.3,118,False
+401858488,685a8722f297502fa85e4cd8c7e54b1c,Ohio State Buckeyes @ Indiana Hoosiers,9:00 AM,2026-10-17T16:00:00Z,spread,away,-2.5,Ohio State Buckeyes -2.5,OSU -2.5,-115,0.5108,-130,0.5652,-5.44,108,False
+401858488,685a8722f297502fa85e4cd8c7e54b1c,Ohio State Buckeyes @ Indiana Hoosiers,9:00 AM,2026-10-17T16:00:00Z,total,over,49.5,OVER 49.5,OVER 49.5,-110,0.5,-125,0.5556,-5.56,113,False
+401858488,685a8722f297502fa85e4cd8c7e54b1c,Ohio State Buckeyes @ Indiana Hoosiers,9:00 AM,2026-10-17T16:00:00Z,total,under,49.5,UNDER 49.5,UNDER 49.5,-110,0.5,-110,0.5238,-2.38,113,False
+401856830,9e8578b415e664eea71185131401e537,Kansas Jayhawks @ Kansas State Wildcats,9:00 AM,2026-10-17T16:00:00Z,spread,away,3.5,Kansas Jayhawks +3.5,KU +3.5,-118,0.5174,-120,0.5455,-2.81,106,False
+401856830,9e8578b415e664eea71185131401e537,Kansas Jayhawks @ Kansas State Wildcats,9:00 AM,2026-10-17T16:00:00Z,spread,home,-3.5,Kansas State Wildcats -3.5,KSU -3.5,-102,0.4826,-110,0.5238,-4.12,121,False
+401856830,9e8578b415e664eea71185131401e537,Kansas Jayhawks @ Kansas State Wildcats,9:00 AM,2026-10-17T16:00:00Z,total,over,55.5,OVER 55.5,OVER 55.5,-105,0.4892,-110,0.5238,-3.46,118,False
+401856830,9e8578b415e664eea71185131401e537,Kansas Jayhawks @ Kansas State Wildcats,9:00 AM,2026-10-17T16:00:00Z,total,under,55.5,UNDER 55.5,UNDER 55.5,-115,0.5108,-125,0.5556,-4.47,108,False
+401856720,04c740fce71d3f3b8a4bdc4ea69f1281,Mississippi State Bulldogs @ LSU Tigers,9:00 AM,2026-10-17T16:00:00Z,spread,home,-17.5,LSU Tigers -17.5,LSU -17.5,-115,0.5108,-120,0.5455,-3.46,108,False
+401856720,04c740fce71d3f3b8a4bdc4ea69f1281,Mississippi State Bulldogs @ LSU Tigers,9:00 AM,2026-10-17T16:00:00Z,spread,away,17.5,Mississippi State Bulldogs +17.5,MSST +17.5,-105,0.4892,-110,0.5238,-3.46,118,False
+401856720,04c740fce71d3f3b8a4bdc4ea69f1281,Mississippi State Bulldogs @ LSU Tigers,9:00 AM,2026-10-17T16:00:00Z,total,over,55.5,OVER 55.5,OVER 55.5,-112,0.5043,-120,0.5455,-4.11,111,False
+401856720,04c740fce71d3f3b8a4bdc4ea69f1281,Mississippi State Bulldogs @ LSU Tigers,9:00 AM,2026-10-17T16:00:00Z,total,under,55.5,UNDER 55.5,UNDER 55.5,-108,0.4957,-115,0.5349,-3.92,115,False
+401858491,fc01e4b9ad4f39e975b7e1fd9ad124d1,Northwestern Wildcats @ Michigan State Spartans,9:00 AM,2026-10-17T16:00:00Z,total,over,49.5,OVER 49.5,OVER 49.5,-110,0.5,-120,0.5455,-4.55,113,False
+401858491,fc01e4b9ad4f39e975b7e1fd9ad124d1,Northwestern Wildcats @ Michigan State Spartans,9:00 AM,2026-10-17T16:00:00Z,total,under,49.5,UNDER 49.5,UNDER 49.5,-110,0.5,-115,0.5349,-3.49,113,False
+401858268,0763e3ed7ed8d646756e5849bac67b8d,Virginia Cavaliers @ SMU Mustangs,9:00 AM,2026-10-17T16:00:00Z,total,over,51.5,OVER 51.5,OVER 51.5,-115,0.5108,-120,0.5455,-3.46,108,False
+401858268,0763e3ed7ed8d646756e5849bac67b8d,Virginia Cavaliers @ SMU Mustangs,9:00 AM,2026-10-17T16:00:00Z,total,under,51.5,UNDER 51.5,UNDER 51.5,-105,0.4892,-115,0.5349,-4.57,118,False
+401858489,eb7db3ae999676aa80dd5cf7dfa32c1a,Rutgers Scarlet Knights @ Maryland Terrapins,9:30 AM,2026-10-17T16:30:00Z,total,over,55.5,OVER 55.5,OVER 55.5,-112,0.5043,-120,0.5455,-4.11,111,False
+401858489,eb7db3ae999676aa80dd5cf7dfa32c1a,Rutgers Scarlet Knights @ Maryland Terrapins,9:30 AM,2026-10-17T16:30:00Z,total,under,55.5,UNDER 55.5,UNDER 55.5,-108,0.4957,-115,0.5349,-3.92,115,False
+401856725,8ce4565fe6dda2fbac6a893844519dcf,Citadel Bulldogs @ Texas A&M Aggies,10:00 AM,2026-10-17T17:00:00Z,spread,away,45.5,Citadel Bulldogs +45.5,CIT +45.5,-105,0.4892,-115,0.5349,-4.57,118,False
+401856725,8ce4565fe6dda2fbac6a893844519dcf,Citadel Bulldogs @ Texas A&M Aggies,10:00 AM,2026-10-17T17:00:00Z,spread,home,-45.5,Texas A&M Aggies -45.5,TA&M -45.5,-115,0.5108,-120,0.5455,-3.46,108,False
+401856725,8ce4565fe6dda2fbac6a893844519dcf,Citadel Bulldogs @ Texas A&M Aggies,10:00 AM,2026-10-17T17:00:00Z,total,over,56.5,OVER 56.5,OVER 56.5,-112,0.5043,-120,0.5455,-4.11,111,False
+401856725,8ce4565fe6dda2fbac6a893844519dcf,Citadel Bulldogs @ Texas A&M Aggies,10:00 AM,2026-10-17T17:00:00Z,total,under,56.5,UNDER 56.5,UNDER 56.5,-108,0.4957,-115,0.5349,-3.92,115,False

@@ -1,0 +1,20 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Oct 31 early-window pass for the 1:00 PM PT games (Sat Oct 31; fired 10:09, run 10:09 AM PT), DraftKings lines captured 10:02 AM PT. Two games in the window, both 1:00 PM PT (171 min out at run time): Buffalo Sabres at Los Angeles Kings, Ottawa Senators at San Jose Sharks. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (34 lines up; best is -5.9%).
+
+Fliff check (2). Not bets right now: Fliff hasn't posted shots markets for either game yet, and DraftKings is worse than shop-at on both.
+1. Artemi Panarin (LAK F), Sabres at Kings (1:00 PM PT), OVER 2.5 shots on goal
+   DK now: -120 (opened -120), model over 57.9% vs no-vig 50.5%, recent form over 65.7%. Shop-at (worst acceptable): -103 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 4 of 5 over 2.5 (shots 4, 3, 3, 0, 7).
+   Role: Kings top line and PP1, no change (Los Angeles DailyFaceoff lineup updated 8:58 AM PT today, about 1 hour old). TOI last 5 22.4 min vs 21.1 over last 30; PP time last 5 3.8 min vs 3.6.
+   Evidence: agrees 4 of 7 (champion +7.4 pts; challenger +8.1 pts; shrunk form +7.0 pts; on PP1). Nothing against.
+   DK -120 is worse than -103.
+2. Thomas Chabot (OTT D), Senators at Sharks (1:00 PM PT), OVER 1.5 shots on goal: SKIPPED under the 12-hour lineup rule (Ottawa DailyFaceoff lineup is about 27 hours old, Oct 30 7:12 AM PT).
+   For the record: DK -140 (opened -140), model over 59.7% vs no-vig 53.8%, recent 57.4%; shop-at -118; last 5 shots 2, 1, 0, 1, 2 (2 of 5 over); agrees 4 of 7, against: TOI last 5 23.0 vs 25.1 this season, no-vig moved 1.2 pts away from the over. DK -140 is worse than -118 anyway.
+Fliff credits: 2 of 10 used today (2 this pass, one per game); 90 left on the account.
+
+Vetoes: 4 role-check vetoes (overs dropped for demotions: Sherwood, Pinto, Greig; under dropped for promotion: Zetterlund) and 2 slot vetoes (Trouba and Nurse overs), all on sides with no positive DK EV.
+Buffalo, Ottawa and San Jose DailyFaceoff lineups are about 27-28 hours old (Oct 30, 7:07-7:16 AM PT), so every Sabres, Senators and Sharks side is skipped under the 12-hour rule; only Chabot would have been a Fliff check. Los Angeles lineup is fresh. No ESPN injury flags on the list.
+Spreadsheet: /workspace/nhl-sog/sheets/20261031_D_1009_picks.xlsx (colors only show in Excel or Google Sheets).

@@ -1,0 +1,44 @@
+{
+  "tuned_cfg": {
+    "ncaaf": {
+      "CFB_W_SEASON": 0.7,
+      "CFB_PRIOR_DECAY": 0.08
+    },
+    "nfl": {
+      "W_SEASON": 0.5,
+      "W_L3": 0.2,
+      "W_PRIOR": 0.3,
+      "ENV_STRENGTH": 0.5,
+      "MATCHUP_STRENGTH": 0.3
+    }
+  },
+  "final_rank_consts": {
+    "P_SHRINK": 0.2,
+    "AGREE_W": 20.0,
+    "RANK_SHRINK": 1.0,
+    "GUARD_SMALL_F": 1.0
+  },
+  "p_shrink_new": 0.2,
+  "p_shrink_old": 0.75,
+  "brier_market": 0.24606,
+  "brier_model": 0.25896,
+  "logloss_market": 0.68484,
+  "logloss_model": 0.71366,
+  "n_market_rows": 6476,
+  "head_price": {
+    "group": "REAL NFL at actual opening prices",
+    "bets": 7095,
+    "wins": 3680,
+    "losses": 3415,
+    "pushes": 0,
+    "voids": 52,
+    "hit_rate": 0.5187,
+    "roi_110": -0.0098,
+    "roi_price": -0.0555,
+    "units_110": -69.55
+  },
+  "cfbd_calls_run": {
+    "cfbd_network_calls_this_run": 0
+  },
+  "cfbd_remaining": 953
+}

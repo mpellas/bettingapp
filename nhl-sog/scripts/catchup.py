@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+"""Outage catch-up (Enhancement 3). Read-only on models/odds: never prices, never --rescore, 0 Odds API credits.
+1) Finds wake_log gaps (> --gap-min minutes between entries) and the outage window.
+2) Lists NHL games (ESPN scoreboard) per slate date in the window; checks captures/<date>/<eid>_{D,C,CLOSE}.json.
+3) Missing windows -> logs/missed_windows.csv as MISSED (never priced late). Existing rows are not duplicated.
+4) For FINAL games, backfills NHL.com boxscores (api-web) to data/catchup_box/<nhlGameId>.json for grading.
+Usage: python3 scripts/catchup.py [--since YYYY-MM-DD] [--until YYYY-MM-DD] [--dry-run]
+"""
+import argparse, csv, datetime as dt, json, os, re, urllib.request
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+def get(u):
+    with urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent':'catchup'}), timeout=30) as r: return json.load(r)
+def wake_gaps(gap_min):
+    ts=[]
+    for l in open(os.path.join(ROOT,'logs/wake_log.txt')):
+        m=re.match(r'(\d{4}-\d\d-\d\d \d\d:\d\d:\d\d)',l)
+        if m: ts.append(dt.datetime.strptime(m.group(1),'%Y-%m-%d %H:%M:%S'))
+    ts.sort(); return ts, [(a,b) for a,b in zip(ts,ts[1:]) if (b-a).total_seconds()/60>gap_min]
+def main():
+    ap=argparse.ArgumentParser(); ap.add_argument('--since'); ap.add_argument('--until'); ap.add_argument('--gap-min',type=int,default=90); ap.add_argument('--dry-run',action='store_true'); a=ap.parse_args()
+    ts,gaps=wake_gaps(a.gap_min); now=dt.datetime.now()
+    if ts and (now-ts[-1]).total_seconds()/60>a.gap_min: gaps.append((ts[-1],now))
+    for g in gaps: print(f'wake gap: {g[0]} -> {g[1]} ({(g[1]-g[0]).total_seconds()/3600:.1f}h)')
+    since=dt.date.fromisoformat(a.since) if a.since else (gaps[-1][0].date() if gaps else now.date())
+    until=dt.date.fromisoformat(a.until) if a.until else now.date()
+    out=os.path.join(ROOT,'logs/missed_windows.csv'); seen=set()
+    if os.path.exists(out): seen={tuple(r[:3]) for r in csv.reader(open(out))}
+    new=[]; boxdir=os.path.join(ROOT,'data/catchup_box')
+    if not a.dry_run: os.makedirs(boxdir,exist_ok=True)
+    nhl_sched={}
+    d=since
+    while d<=until:
+        ds=d.strftime('%Y%m%d')
+        try:
+            for g in get(f'https://api-web.nhle.com/v1/score/{d.isoformat()}').get('games',[]): nhl_sched[(g['awayTeam']['abbrev'],g['homeTeam']['abbrev'],ds)]=(g['id'],g.get('gameState'))
+        except Exception as e: print('nhl schedule fail',ds,e)
+        ev=get(f'https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard?dates={ds}').get('events',[])
+        for e in ev:
+            eid=e['id']; name=e.get('shortName',''); state=e['status']['type']['state']
+            for w in ('D','C','CLOSE'):
+                nxt=(d+dt.timedelta(days=1)).strftime('%Y%m%d')  # folders can be UTC-dated (late PT games)
+                if not any(os.path.exists(os.path.join(ROOT,'captures',x,f'{eid}_{w}.json')) for x in (ds,nxt)):
+                    ko=dt.datetime.fromisoformat(e['date'].replace('Z','+00:00')).astimezone().replace(tzinfo=None)
+                    mins=(ko-now).total_seconds()/60
+                    # D/C pick windows close 150 min before puck drop; CLOSE stays open until puck drop
+                    cutoff=150 if w in ('D','C') else 0
+                    status='PENDING' if (state=='pre' and mins>=cutoff) else 'MISSED'
+                    key=(ds,eid,w)
+                    if status=='MISSED' and key not in seen: new.append([ds,eid,w,name,status,('not captured during outage; not priced late' if state!='pre' else f'no snapshot and <{cutoff} min to puck drop; window closed; not priced late'),now.isoformat(timespec='seconds')])
+                    print(ds,eid,name,w,status)
+        d+=dt.timedelta(days=1)
+    for (aw,hm,ds),(gid,st) in nhl_sched.items():
+        p=os.path.join(boxdir,f'{gid}.json')
+        if st in ('OFF','FINAL') and not os.path.exists(p) and not a.dry_run:
+            json.dump(get(f'https://api-web.nhle.com/v1/gamecenter/{gid}/boxscore'),open(p,'w')); print('box backfilled',gid,aw,'@',hm)
+    if new and not a.dry_run:
+        hdr=not os.path.exists(out)
+        with open(out,'a',newline='') as f:
+            w=csv.writer(f)
+            if hdr: w.writerow(['slate','espn_id','window','game','status','note','logged_at'])
+            w.writerows(new)
+    print(f'{len(new)} new MISSED windows {"(dry run)" if a.dry_run else "logged to "+out}')
+if __name__=='__main__': main()

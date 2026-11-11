@@ -1,0 +1,4 @@
+Fliff check: Brandon Hagel OVER 3.5 (DK +115, Fliff at +132 or better) - model +1.4 pts vs no-vig; recent +26.6 pts
+   evidence: Brandon Hagel O3.5: agrees 5 of 7 (champion +1.4 pts; challenger +1.2 pts; shrunk form +9.1 pts; opponent allows +5% to F_top6+PP1; on PP1); nothing against
+Fliff check: Elias Pettersson UNDER 1.5 (DK +100, Fliff at +115 or better) - model +1.8 pts vs no-vig; recent +12.2 pts
+   evidence: Elias Pettersson U1.5: agrees 3 of 7 (champion +1.8 pts; shrunk form +6.7 pts; opponent allows -6% to F_top6+PP1); against: challenger -0.5 pts; on PP1; no-vig moved -1.0 pts toward side since open

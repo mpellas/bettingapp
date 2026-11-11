@@ -1,0 +1,14 @@
+**NO BETS** this pass. NHL shots on goal, Mon Nov 2 12:30 PM window pass (fired 12:32, run 12:33 PM PT), DraftKings lines captured 12:32 PM PT. Two games in the window, both 4:00 PM PT (207 min out at run time): Vegas Golden Knights at Boston Bruins, and Detroit Red Wings at Florida Panthers. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. 0 leans and 0 DK-listable sides (28 lines up, none with positive blended EV at DraftKings).
+
+Fliff check: four sides cleared the 5-point edge floor, but none can be bet. Fliff hasn't posted shots lines for either game yet, and DraftKings is worse than the shop-at price on all four. All four DailyFaceoff lineups are fresh (Bruins 7:38 AM, Golden Knights 8:27 AM, Panthers 12:07 PM, Red Wings 12:09 PM PT).
+- Tomas Hertl under 2.5 (Vegas at Boston), 4 of 7 agree, DK -170, Fliff not posted, shop-at -144 or better. Last 5: 4 of 5 under. Skipped: DK worse than shop-at (and -170 is outside the +110 to -150 band).
+- Viktor Arvidsson under 2.5 (Detroit at Florida), 4 of 7 agree, DK -125, Fliff not posted, shop-at -108 or better. Last 5: 3 of 5 under. Skipped: DK worse than shop-at.
+- Sam Bennett over 1.5 (Detroit at Florida), 3 of 7 agree once the 17.8-point no-vig move toward the over is dropped as a huge line move, DK -190, Fliff not posted, shop-at -159 or better. Last 5: 5 of 5 over. Skipped: DK worse than shop-at, and both prices are outside the -150 band.
+- Justin Faulk under 1.5 (Detroit at Florida): only 2 of 7 agree, so skipped under the 2-of-7 rule (DK -135, shop-at -116).
+Correlation note: Arvidsson under and Bennett over are in the same game on opposite teams; nothing qualified, so no stacking concern.
+Fliff credits: 2 this pass; 2 of 10 used today.
+
+Vetoes: 0 injury vetoes (injury re-pull clean), 3 role-check demotions (Tomas Hertl, Elias Lindholm and Anton Lundell overs, down to the 3rd line), 2 promotions (Emmitt Finnie and Michael Brandsegg-Nygard unders, moved up), 5 slot vetoes (overs).
+Spreadsheet: /workspace/nhl-sog/sheets/20261102_D_1232_picks.xlsx (colors only show in Excel or Google Sheets).

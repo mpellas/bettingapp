@@ -1,0 +1,15 @@
+"""Shadow-score one slate with the promotion->UNDER role veto removed (paper only; NOT scheduled or deployed).
+Usage: python shadow_no_promo_under.py <picks/YYYYMMDD_D_HHMM.csv> <picks/..._GATE.csv> [out.csv]
+Reads from the verified copy in nhl-sog_copy/ by default (pass paths relative to it, or absolute read-only paths).
+Every other gate is unchanged: build_sheet statuses (edge floor, slot veto, shop/lineup gate, top-5, etc.),
+7-signal tally (<=2 of 7 skips), 12h stale DFO lineup, 20+ pt market move. Mixed role changes keep both vetoes."""
+import sys,os,re
+import rescore as R
+pf,gf=sys.argv[1],sys.argv[2]; out=sys.argv[3] if len(sys.argv)>3 else None
+date=re.search(r'(\d{8})',os.path.basename(gf))[1]; hh=(re.search(r'_D_(\d{4})',gf) or [None,'D'])[1]
+d=R.go([(date,hh,pf,gf)])
+cols=['pass_id','game','player','line','dk_price','shop_at','edge_model_pts','toi_rise','tally','new_status','makes_list','blockers']
+if d.empty: print('no promotion-vetoed unders on this slate')
+else:
+    print(d[cols].to_string(index=False))
+    if out: d.to_csv(os.path.join(R.HERE,out) if not os.path.isabs(out) else out,index=False)

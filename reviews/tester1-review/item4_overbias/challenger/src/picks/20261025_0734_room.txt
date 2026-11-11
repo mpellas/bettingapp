@@ -1,0 +1,24 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NFL props, week 7 price-shop pass (Sun Oct 25), lines pulled 7:32 AM PT. 11 games not yet kicked off (Steelers at Saints already started, skipped): 49ers at Falcons, Bengals at Ravens, Buccaneers at Panthers, Browns at Titans, Giants at Texans, Colts at Vikings, Dolphins at Jets (all 10:00 AM PT); Broncos at Cardinals (1:05 PM PT); Packers at Lions and Rams at Raiders (1:25 PM PT); Chiefs at Seahawks (5:20 PM PT). Markets: passing, rushing and receiving yards.
+
+DraftKings / Fliff list: none. Of 470 priced sides, only Brock Purdy OVER 19.5 rush yds (49ers at Falcons) beat consensus fair, by 0.2% EV, well under the 2-point bar.
+
+PrizePicks legs (2), ranked by edge:
+1. Darnell Mooney (NYG WR), New York Giants at Houston Texans (10:00 AM PT), UNDER 19.5 receiving yards
+   P(win) 56.6% at PP 19.5 (8 books shifted to PP's number, Pinnacle x3). PrizePicks: power3, flex4, flex5, flex6 (not power2).
+   Shop-at: PP standard 19.5 only. At DK/Fliff the line is 17.5 and the Under would need +104 or better; DK's current price is -113 and Fliff's is -120, so no.
+   Movement: DK line 15.5 at open to 17.5 now, moved toward the over (against this side); PP 19.5 still sits 2 yds above DK.
+   Evidence: agrees 1 of 7 (Giants team total 16.0, 10.5-pt underdogs); against: HOU allows 186 yds/g to WRs (+23% vs league), TE Theo Johnson out (2.2 targets/g to redistribute), DK line up 2.
+2. J.J. McCarthy (NYG QB), New York Giants at Houston Texans (10:00 AM PT), UNDER 24.5 rushing yards
+   P(win) 55.9% at PP 24.5 (9 books). PrizePicks: flex5, flex6 only.
+   Shop-at: PP standard 24.5 only. At DK/Fliff the line is 23.5 and the Under would need +104 or better; DK's current price is -111 and Fliff's is -125, so no.
+   Movement: DK line 25.5 at open to 23.5 now, moved toward the under; PP 24.5 sits 1 yd above DK.
+   Evidence: agrees 4 of 7 (last 3 games 2.0 carries vs 3.4 season, snap share 37% vs 76%; HOU allows 8 rush yds/g to QBs, 54% under league; Giants 10.5-pt dogs, team total 16.0; DK line down 2); nothing against.
+   Recheck: our projection data doesn't list him as the projected starter and his recent snap share is low. Confirm he's starting before using this leg; if he isn't, skip it.
+
+Same-game note: both legs are from Giants at Texans and lean on the same low-scoring Giants script, so they're correlated. Our PrizePicks rule allows one leg per game per entry, so use at most one of them in an entry, and pair it with qualifying legs from other games or lists (no other NFL leg qualified today).
+Recheck: 10:00 AM PT games, inactives come out about 8:30 AM PT; check them and the PP line before entering.
+Skipped for injury status: Puka Nacua OVER 83.5 rec yds (Rams at Raiders) would have qualified at 59.4% but is Questionable on ESPN; also Questionable: Tyjae Spears, Olamide Zaccheaus, Baker Mayfield, Jonah Coleman, Mike Washington Jr., Calvin Ridley.
+Spreadsheet: /workspace/props-finder/analysis/oct25/nfl_wk7_oct25_priceshop.xlsx (copy at /workspace/nfl_wk7_oct25_priceshop.xlsx). Paper only; separate from the prereg paper track.
+Odds API credits: 33 used (cap 36), 113 left.

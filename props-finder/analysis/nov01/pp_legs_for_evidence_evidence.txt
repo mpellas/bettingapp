@@ -1,0 +1,4 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source pp_legs_for_evidence.csv, asof 20261101T171128Z
+Reggie Virgil Under 11.5 rec_yds @ PP std prizepicks: Reggie Virgil U11.5 rec_yds: agrees 1 of 7 (DK line 11.5 -> 8.5 (-3)); against: ARI allows 153/g to WRs (+3% vs lg), EPA/play +0.201; Luke Schoonmaker TE out (1.0 tgt/g); team total 30.8 (fav 7)
+Josh Palmer Over 8.5 rec_yds @ PP std prizepicks: Josh Palmer O8.5 rec_yds: agrees 3 of 7 (BAL allows 182/g to WRs (+22% vs lg), EPA/play +0.004; Skyler Bell WR out (1.5 tgt/g); team total 28.8 (fav 3)); against: DK line 11.5 -> 8.5 (-3)
+Ty Johnson Over 1.5 rush_yds @ PP std prizepicks: Ty Johnson O1.5 rush_yds: agrees 0 of 7 (none); nothing against

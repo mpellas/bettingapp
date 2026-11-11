@@ -1,0 +1,2 @@
+season,week,event_id,game_id,player_id,player_name,market,line_D,line_C,void_reason,void_detail,stage
+2026,4,401872978,2026_04_DET_CAR,00-0036555,Chuba Hubbard,rush_yds,66.5,,pulled_before_close,pulled between 2026-10-04T17:03:28-07:00 (last seen) and 2026-10-04T17:06:35-07:00 (first missing),track

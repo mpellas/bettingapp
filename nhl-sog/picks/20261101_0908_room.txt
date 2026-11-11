@@ -1,0 +1,13 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Sun Nov 1 9:00 AM window pass (fired 9:08, run 9:08 AM PT), DraftKings lines captured 9:06 AM PT. One game in the window: Minnesota Wild at Washington Capitals, 12:30 PM PT (202 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (14 lines up; best is -5.4%, Chychrun under 2.5).
+
+Fliff check: none. No side cleared the 5-point edge floor (largest model-vs-market gap is under 1 point), so no Fliff lookup was needed.
+Correlation note: nothing listed, so nothing to correlate.
+Fliff credits: 0 this pass; 0 of 10 used today.
+
+Vetoes: 2 role-check vetoes (Kyrou under dropped, promoted to the 2nd line; Leonard over dropped, demoted to the 4th line and PP2), 0 slot vetoes.
+Lineup ages at run time: Minnesota and Washington DailyFaceoff lineups are both about 25 hours old (Oct 31, 7:57 AM PT), so every side in this game would be skipped under the 12-hour rule anyway. No ESPN injury flags on the list.
+Spreadsheet: /workspace/nhl-sog/sheets/20261101_D_0908_picks.xlsx (colors only show in Excel or Google Sheets).

@@ -1,0 +1,19 @@
+list,card,player,game,side,line,shop_at,dk_at_pick,status,actual,result,units_shop,units_dk,nv_pick_side,nv_close_side,clv_pts,note
+20261026_0923,NO BETS,,,,,,,no lines,,,,,,,,
+20261026_1311,NO BETS,Trevor Moore,LAK@NYR,OVER,1.5,-123,-145,skip (T1 over-bias),0,L,,,,,,
+20261026_1311,NO BETS,Alex Laferriere,LAK@NYR,UNDER,2.5,-123,-145,skip (T2 TOI-up),2,W,,,,,,
+20261026_1438,NO BETS,Darren Raddysh,,UNDER,2.5,-107,-125,skip,3,L,,,,,,
+20261026_1516,NO BETS,Kasperi Kapanen,,UNDER,1.5,+105,-110,skip (rising TOI),1,W,,,,,,
+20261027_0924,NO BETS,,,,,,,no DK lines,,,,,,,,
+20261027_1305,NO BETS,Sanheim/Dvorak/Bump,,,,,,skip (no clear) + Werenski stale,,,,,,,,
+20261027_1339,NO BETS (PrizePicks hold),Mark Scheifele,FLA@WPG,OVER,1.5,-143,-170,cleared T2+T3; user played on PrizePicks,3,W,+0.699,+0.588,0.5862,0.5780,-0.8,
+20261027_1339,NO BETS,Logan Stankoven,,OVER,2.5,+125,+110,skip (below shop-at),1,L,,,,,,
+20261027_1432,NO BETS,Dylan Guenther,MIN@UTA,UNDER,2.5,+133,+120,skip (split),4,L,,,,,,
+20261027_1533,NO BETS,Hertl/LaCombe/Gauthier,,,,,,no shop-at,,,,,,,,
+20261027_1609,NO BETS,Jack Quinn,BUF@SJ,UNDER,2.5,+109,-105,skip (rising TOI),3,L,,,,,,
+20261028_1304,NO BETS,Aliaksei Protas,PHI@WSH,UNDER,1.5,-103,-120,would clear at shop-at (T1+T3),3,L,-1,-1,0.5049,0.4797,-2.5,never reached price
+20261028_1509,NO BETS,Sam Malinski,NJD@COL,UNDER,1.5,-121,-140,would clear at shop-at (T1+T2),3,L,-1,-1,0.5446,0.5695,+2.5,never reached price
+20261028_1535,NO BETS,Darren Raddysh,TOR@SEA,UNDER,2.5,-112,-130,would clear at shop-at (T2+T3),1,W,+0.893,+0.769,0.5246,0.5246,0.0,never reached price
+20261028_1535,NO BETS,William Nylander,TOR@SEA,OVER,2.5,+101,-115,skip even at price,3,W,,,,,,
+20261028_CGYEDM,MISSED,,CGY@EDM,,,,,box suspended 1:39-2:40 PM PT,,,,,,,,ungraded
+20261029_1233,NO BETS,Goncalves/Weegar/Guenther/Ehlers/Aho,,,,,,all skip (split/both),,,,,,,,see Tester1 csv

@@ -1,0 +1,12 @@
+Fliff check: Travis Sanheim OVER 1.5 (DK +110, Fliff at +124 or better) - model +8.9 pts vs no-vig; recent +10.2 pts
+   last 5: 3 of 5 over 1.5 (shots 1,2,3,1,4); model 53.2%, recent form 54.5% (shot rate last 10 x TOI last 5)
+   evidence: Travis Sanheim O1.5: agrees 4 of 7 (champion +8.9 pts; challenger +4.9 pts; shrunk form +1.6 pts; opponent allows +6% to D); against: no-vig moved 1.9 pts away from side since open
+Fliff check: Christian Dvorak UNDER 1.5 (DK -120, Fliff at -105 or better) - model +6.0 pts vs no-vig; recent +20.0 pts
+   last 5: 3 of 5 under 1.5 (shots 0,0,2,2,1); model 57.1%, recent form 71.1% (shot rate last 10 x TOI last 5)
+   evidence: Christian Dvorak U1.5: agrees 3 of 7 (champion +6.0 pts; challenger +5.5 pts; shrunk form +8.8 pts); against: TOI last 5 19.2 vs this season 17.7 (+1.5 min); last 30 incl. last season 18.5 (reference only)
+Fliff check: Zach Werenski UNDER 3.5 (DK -160, Fliff at -137 or better) - model +9.1 pts vs no-vig; recent +5.3 pts
+   last 5: 4 of 5 under 3.5 (shots 3,1,3,9,3); model 66.6%, recent form 62.9% (shot rate last 10 x TOI last 5)
+   evidence: Zach Werenski U3.5: agrees 3 of 7 (champion +9.1 pts; challenger +6.8 pts; shrunk form +1.3 pts); against: on PP1; no-vig moved 1.1 pts away from side since open
+Fliff check: Alex Bump UNDER 1.5 (DK -105, Fliff at +107 or better) - model +9.4 pts vs no-vig; recent +5.8 pts
+   last 5: 2 of 5 under 1.5 (shots 0,3,1,3,3); model 57.3%, recent form 53.8% (shot rate last 10 x TOI last 5)
+   evidence: Alex Bump U1.5: agrees 3 of 7 (champion +9.4 pts; challenger +10.9 pts; shrunk form +9.5 pts); against: no-vig moved 2.5 pts away from side since open

@@ -1,0 +1,56 @@
+    record                slice  sides    WL  u_shop  u_dk  close_n  close_mv
+ as-posted    All excl pre-noon     69 38-31    3.96 -0.73       30      0.41
+ as-posted    Pre-noon excluded      5   3-2    0.49  0.14        5      0.12
+ as-posted Oct 17 excl pre-noon     21  9-12   -3.07 -4.24       11      0.10
+ as-posted        All Oct 17-25     74 41-33    4.45 -0.59       35      0.37
+ as-posted            Oct 18-24     42 25-17    5.61  2.55       15      0.69
+ as-posted           Post-floor     21 11-10   -0.51 -1.84        5      0.43
+ as-posted               Oct 17     26 12-14   -2.58 -4.10       16      0.11
+ as-posted               Oct 25      6   4-2    1.43  0.96        4      0.20
+final-card    All excl pre-noon     56 30-26    2.08 -1.66       25      0.41
+final-card    Pre-noon excluded      5   3-2    0.49  0.14        5      0.12
+final-card Oct 17 excl pre-noon     21  9-12   -3.07 -4.24       11      0.10
+final-card        All Oct 17-25     61 33-28    2.57 -1.52       30      0.36
+final-card            Oct 18-24     35 21-14    5.16  2.58       14      0.64
+final-card           Post-floor      9   4-5   -1.48 -1.97        0       NaN
+final-card               Oct 17     26 12-14   -2.58 -4.10       16      0.11
+final-card               Oct 25      0   0-0    0.00  0.00        0       NaN
+   skipped    All excl pre-noon     13   8-5    1.88  0.93        5      0.43
+   skipped    Pre-noon excluded      0   0-0    0.00  0.00        0       NaN
+   skipped Oct 17 excl pre-noon      0   0-0    0.00  0.00        0       NaN
+   skipped        All Oct 17-25     13   8-5    1.88  0.93        5      0.43
+   skipped            Oct 18-24      7   4-3    0.45 -0.03        1      1.35
+   skipped           Post-floor     12   7-5    0.97  0.13        5      0.43
+   skipped               Oct 17      0   0-0    0.00  0.00        0       NaN
+   skipped               Oct 25      6   4-2    1.43  0.96        4      0.20
+bucket
+final-card        61
+tester-skipped     7
+Oct25 NO BETS      6
+Name: count, dtype: int64
+             list               player   side  ...  hit      u_dk    u_shop
+53  20261020_1513           Vince Dunn  UNDER  ...    1  0.645161  0.751880
+54  20261020_1513          Kaapo Kakko  UNDER  ...    1  0.606061  0.714286
+56  20261020_1548  Shayne Gostisbehere   OVER  ...    0 -1.000000 -1.000000
+57  20261024_0922         Jesper Bratt   OVER  ...    0 -1.000000 -1.000000
+58  20261024_0922      Alex Laferriere  UNDER  ...    1  0.909091  1.040000
+59  20261024_1307        Tyler Toffoli   OVER  ...    1  0.869565  1.010000
+60  20261024_1307           Tom Wilson  UNDER  ...    0 -1.000000 -1.000000
+62  20261024_1307        Sebastian Aho   OVER  ...    0 -1.000000 -1.000000
+66  20261024_1609        Emmitt Finnie   OVER  ...    0 -1.000000 -1.000000
+
+[9 rows x 8 columns]
+             list              player   side  line  hit      u_dk                                                                        skip_reason
+49  20261020_1508     Kasperi Kapanen  UNDER   1.5    1  0.800000                                    2 of 7 agree; tester skip (Tester3 gates_table)
+55  20261020_1513  Mackie Samoskevich  UNDER   1.5    0 -1.000000                                tester skip (Tester3 gates_table; passes all gates)
+61  20261024_1307  Mattias Samuelsson  UNDER   1.5    1  0.714286   not on final card/not bet (no Fliff market at post); final-call text not on disk
+63  20261024_1307      Darren Raddysh  UNDER   2.5    1  0.740741                                                 Fliff -150 worse than -117 shop-at
+64  20261024_1512      Barrett Hayton  UNDER   1.5    0 -1.000000                         2 of 7 agree; tester skip (user bet off-card -> section 3)
+65  20261024_1609       Matt Coronato  UNDER   2.5    1  0.714286                                                                       2 of 7 agree
+67  20261024_1609          Vince Dunn  UNDER   2.5    0 -1.000000                 huge price move (+22.3 pts) and Fliff -205 worse than -159 shop-at
+68  20261025_0922     Roman Kantserov  UNDER   1.5    0 -1.000000                                           NO BETS card 9:31 PT (Fliff not offered)
+69  20261025_1202      Brayden Schenn   OVER   1.5    1  0.952381  Fliff -110 never reached +109; room says NO BETS (marker lists it as conditional)
+70  20261025_1202         Roope Hintz  UNDER   2.5    1  0.540541                                     final call 12:18 PT: skip (Fliff -190 vs -157)
+71  20261025_1202      Miro Heiskanen  UNDER   1.5    0 -1.000000                                     final call 12:18 PT: skip (Fliff +110 vs +145)
+72  20261025_1404          Roman Josi   OVER   1.5    1  0.512821                                           huge move +140 -> -195; 1.5 not on Fliff
+73  20261025_1404        Sam Malinski  UNDER   1.5    1  0.952381                                         Fliff -115 worse than +109 shop-at; 3 of 7

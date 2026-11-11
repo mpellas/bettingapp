@@ -1,0 +1,13 @@
+game,player,boxname,line,side,price,edge,sog,result,units,old,note
+Vegas Golden Knights at Boston Bruins,Pavel Zacha,P. Zacha,1.5,OVER,-105,6.1,1,L,-1,L,match
+Detroit Red Wings at Florida Panthers,Justin Faulk,J. Faulk,1.5,UNDER,-135,7.3,1,W,0.7407,W,match
+Detroit Red Wings at Florida Panthers,Viktor Arvidsson,V. Arvidsson,2.5,UNDER,-125,11.0,5,L,-1,L,match
+Colorado Avalanche at Chicago Blackhawks,Patrick Kane,P. Kane,1.5,OVER,-135,17.7,0,L,-1,PENDING,NEW
+Colorado Avalanche at Chicago Blackhawks,Jaden Schwartz,J. Schwartz,1.5,UNDER,-120,5.7,4,L,-1,PENDING,NEW
+Colorado Avalanche at Chicago Blackhawks,Devon Toews,D. Toews,1.5,UNDER,-115,5.6,2,L,-1,PENDING,NEW
+Colorado Avalanche at Chicago Blackhawks,Frank Nazar,F. Nazar,1.5,OVER,100,6.0,3,W,1.0,PENDING,NEW
+Colorado Avalanche at Chicago Blackhawks,Sam Malinski,S. Malinski,1.5,UNDER,-105,7.7,2,L,-1,PENDING,NEW
+Calgary Flames at San Jose Sharks,Matt Coronato,M. Coronato,2.5,UNDER,-135,9.5,0,W,0.7407,PENDING,NEW
+Calgary Flames at San Jose Sharks,Simon Nemec,S. Nemec,1.5,UNDER,-135,5.3,2,L,-1,PENDING,NEW
+Calgary Flames at San Jose Sharks,Aydar Suniev,A. Suniev,1.5,UNDER,-105,8.1,0,W,0.9524,PENDING,NEW
+Calgary Flames at San Jose Sharks,Zayne Parekh,Z. Parekh,1.5,UNDER,-105,5.2,0,W,0.9524,PENDING,NEW

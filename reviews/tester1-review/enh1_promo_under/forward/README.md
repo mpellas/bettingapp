@@ -1,0 +1,2 @@
+# Forward shadow tally (from 2026-10-31)
+Nightly: copy the day's window passes into nhl-sog_copy/picks, run ../shadow_no_promo_under.py per pass into slate_YYYYMMDD_HHMM.csv, then `python3 tally_forward.py YYYYMMDD`. Deciding list = makes_list (would be listed with the promo veto dropped, dated rules). Graded from NHL.com box scores (via /workspace/nhl-sog/shadow/edge8_band/nhlbox.py). Driver: /workspace/nhl-sog/shadow/edge8_band/run_nightly.sh

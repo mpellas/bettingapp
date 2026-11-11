@@ -1,0 +1,71 @@
+--- dated_rules/shadow_no_promo_under.py.bak_20261031_0557	2026-10-31 05:57:06.317337113 -0700
++++ shadow_no_promo_under.py	2026-10-31 05:57:30.273439129 -0700
+@@ -1,15 +1,55 @@
+-"""Shadow-score one slate with the promotion->UNDER role veto removed (paper only; NOT scheduled or deployed).
+-Usage: python shadow_no_promo_under.py <picks/YYYYMMDD_D_HHMM.csv> <picks/..._GATE.csv> [out.csv]
+-Reads from the verified copy in nhl-sog_copy/ by default (pass paths relative to it, or absolute read-only paths).
+-Every other gate is unchanged: build_sheet statuses (edge floor, slot veto, shop/lineup gate, top-5, etc.),
+-7-signal tally (<=2 of 7 skips), 12h stale DFO lineup, 20+ pt market move. Mixed role changes keep both vetoes."""
++"""Shadow-score slates with the promotion->UNDER role veto removed (paper only; NOT scheduled or deployed).
++Usage:
++  python shadow_no_promo_under.py <picks/YYYYMMDD_D_HHMM.csv> <picks/..._GATE.csv> [out.csv]   # one slate
++  python shadow_no_promo_under.py --backtest [outdir]                                          # every pass Oct 15-29
++Reads from the verified copy in nhl-sog_copy/ (hash-checked vs nhl-sog). Never run inside /workspace/nhl-sog.
++Every other gate is kept, but ONLY from the pass it actually went live (RULES table below). Mixed role changes keep both vetoes.
++
++RULES: effective pass per gate (pass key = YYYYMMDD_HHMM, PT; '_D' full-day files count as 0000, '_1512pass' as 1512).
++ gate                 live from        source
++ slot veto            always (<=Oct15) nhl-sog git 268a08e 2026-10-11 'predict: opponent slot-SOG veto'; in build_sheet since 76662ca
++ top-5 cap            always (<=Oct15) nhl-sog git 76662ca 2026-10-16 15:35 'build_sheet.py: 3-value status (... Fliff check top5 ...)'
++ 5-pt edge floor      20261020_1513    NOTES.md:139 '2026-10-20 15:12 PT (commit 3f24324) ... First list under it: 20261020_1513 ...
++                                       Lists 20261020_1305/1406/1508 and earlier are pre-floor.'
++ tally <=2 of 7 skip  20261025_1601    picks/20261025_1601_room.txt:9 '2-of-7 agreement is a skip' (first applied; 2-of-7 sides were
++                                       still listed in 20261020_1508, 20261024_1512 and 20261024_1609 room posts)
++ 20+ pt market move   20261026_1311    picks/20261026_1311_room.txt:19 'well short of the 20+ pt moves we've treated as huge' (first
++                                       mention; Samoskevich U1.5 was LISTED at 20261020_1513 with a 21.5-pt move, room.txt:19)
++ 12h stale DFO lineup 20261027_1305    picks/20261027_1305_room.txt:26 + card_decisions.csv (Werenski, 'Stale lineup ... >12h rule');
++                                       NOTES.md:180 'approved 12h rule, not yet in code' (first application)
++"""
+ import sys,os,re
+-import rescore as R
+-pf,gf=sys.argv[1],sys.argv[2]; out=sys.argv[3] if len(sys.argv)>3 else None
+-date=re.search(r'(\d{8})',os.path.basename(gf))[1]; hh=(re.search(r'_D_(\d{4})',gf) or [None,'D'])[1]
+-d=R.go([(date,hh,pf,gf)])
++import rescore as R, build_sheet as bs
++import pandas as pd
++RULES={'edge_floor':'20261020_1513','tally':'20261025_1601','market_move':'20261026_1311','stale':'20261027_1305'}  # slot veto, top-5: always
++def pkey(date,hh): return f"{date}_{hh if hh.isdigit() else '0000'}"
++def live(rule,key): return key>=RULES[rule]
++TAG={'tally':'tally ','market_move':'market move','stale':'stale lineup'}
++def score(passes):
++    out=[]
++    for date,hh,pf,gf in passes:
++        k=pkey(date,hh)
++        bs.EDGE_FLOOR=0.05 if live('edge_floor',k) else -1.0   # pre-floor passes: no 5-pt floor (top-5 then ranks the larger pool)
++        d=R.go([(date,hh,pf,gf)])
++        if d.empty: continue
++        keep=[]
++        for b in d.blockers.fillna(''):
++            bl=[x for x in b.split(' | ') if x and not any(x.startswith(t) and not live(r,k) for r,t in TAG.items())]
++            keep.append(' | '.join(bl))
++        d['blockers']=keep; d['makes_list']=d.blockers.eq(''); d['rules_key']=k
++        out.append(d)
++    bs.EDGE_FLOOR=0.05
++    return pd.concat(out,ignore_index=True) if out else pd.DataFrame()
+ cols=['pass_id','game','player','line','dk_price','shop_at','edge_model_pts','toi_rise','tally','new_status','makes_list','blockers']
+-if d.empty: print('no promotion-vetoed unders on this slate')
+-else:
+-    print(d[cols].to_string(index=False))
+-    if out: d.to_csv(os.path.join(R.HERE,out) if not os.path.isabs(out) else out,index=False)
++if __name__=='__main__':
++    if sys.argv[1]=='--backtest':
++        od=sys.argv[2] if len(sys.argv)>2 else os.path.join(R.HERE,'dated_rules'); os.makedirs(od,exist_ok=True)
++        d=score(R.passes()); d.to_csv(os.path.join(od,'raw_pass_rows_dated.csv'),index=False); print(len(d),'pass rows')
++    else:
++        pf,gf=sys.argv[1],sys.argv[2]; out=sys.argv[3] if len(sys.argv)>3 else None
++        date=re.search(r'(\d{8})',os.path.basename(gf))[1]; hh=(re.search(r'_D_(\d{4})',gf) or [None,'D'])[1]
++        d=score([(date,hh,pf,gf)])
++        if d.empty: print('no promotion-vetoed unders on this slate')
++        else:
++            print(d[cols].to_string(index=False))
++            if out: d.to_csv(os.path.join(R.HERE,out) if not os.path.isabs(out) else out,index=False)

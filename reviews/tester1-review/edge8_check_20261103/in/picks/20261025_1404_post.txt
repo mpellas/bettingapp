@@ -1,0 +1,6 @@
+Fliff check: Roman Josi OVER 1.5 (DK -195, Fliff at -164 or better) - model +7.2 pts vs no-vig; recent +5.3 pts
+   last 5: 4 of 5 over 1.5 (shots 2,8,1,2,2); model 69.1%, recent form 67.1% (shot rate last 10 x TOI last 5)
+   evidence: Roman Josi O1.5: agrees 5 of 7 (champion +7.2 pts; challenger +9.7 pts; shrunk form +8.5 pts; on PP1; no-vig moved 22.9 pts toward side since open); against: opponent allows -5% to D+PP1
+Fliff check: Sam Malinski UNDER 1.5 (DK -105, Fliff at +109 or better) - model +8.3 pts vs no-vig; recent +23.7 pts
+   last 5: 3 of 5 under 1.5 (shots 4,0,2,0,1); model 55.9%, recent form 71.2% (shot rate last 10 x TOI last 5)
+   evidence: Sam Malinski U1.5: agrees 3 of 7 (champion +8.3 pts; challenger +3.9 pts; shrunk form +9.6 pts); against: no-vig moved 1.0 pts away from side since open

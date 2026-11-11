@@ -1,0 +1,32 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 1:00 PM PT window pass (Tue Oct 27; run 1:06 PM PT), DraftKings lines captured 12:57 PM PT. One game: Columbus Blue Jackets at Philadelphia Flyers (4:00 PM PT, 174 min out at run time). Today's later games are outside this window and are covered by the 3:12 PM PT pass and the later window passes.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (20 lines up).
+
+Fliff check (3, plus 1 skipped for a stale lineup). None is a bet right now: Fliff hasn't posted shots-on-goal for this game yet, and every DK price is worse than its shop-at.
+1. Travis Sanheim (PHI D), Columbus Blue Jackets at Philadelphia Flyers (4:00 PM PT), OVER 1.5 shots on goal
+   DK now: +110 (opened +100), no-vig 44.3%, model 53.2%, recent form 54.5% (shot rate last 10 x TOI last 5). Shop-at (worst acceptable): +124 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 3 of 5 over 1.5 (shots 1, 2, 3, 1, 4).
+   Role: Flyers defenseman, today pair 1, no PP (no change; Flyers DailyFaceoff lineup updated 9:01 AM PT today). TOI last 5 26.7 min vs 25.1 over last 30. CBJ allows 1.061x league to D.
+   Evidence: agrees 4 of 7 (champion +8.9 pts; challenger +4.9 pts; shrunk form +1.6 pts; opponent +6% to D); against: no-vig moved 1.9 pts away from the over since open.
+   Fliff: not posted yet. DK +110 is worse than +124, so not a DK bet.
+2. Christian Dvorak (PHI F), Columbus Blue Jackets at Philadelphia Flyers (4:00 PM PT), UNDER 1.5 shots on goal
+   DK now: -120 (opened -125), no-vig 51.0% under, model 57.1%, recent form 71.1%. Shop-at: -105 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 3 of 5 under 1.5 (shots 0, 0, 2, 2, 1); last 10: 7 of 10 under.
+   Role: Flyers forward, today line 1 and PP2 (no change; lineup updated 9:01 AM PT today). TOI last 5 19.2 min vs 17.7 this season (+1.5 min, counts against the under).
+   Evidence: agrees 3 of 7 (champion +6.0 pts; challenger +5.5 pts; shrunk form +8.8 pts); against: TOI up 1.5 min.
+   Fliff: not posted yet. DK -120 is worse than -105, so not a DK bet.
+3. Alex Bump (PHI F), Columbus Blue Jackets at Philadelphia Flyers (4:00 PM PT), UNDER 1.5 shots on goal
+   DK now: -105 (opened -120), no-vig 48.0% under, model 57.3%, recent form 53.8%. Shop-at: +107 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 2 of 5 under 1.5 (shots 0, 3, 1, 3, 3).
+   Role: Flyers forward, today line 3 and PP2 (no change). TOI last 5 12.6 min vs 12.7 over last 30. Small sample: only 23 prior NHL games.
+   Evidence: agrees 3 of 7 (champion +9.4 pts; challenger +10.9 pts; shrunk form +9.5 pts); against: no-vig moved 2.5 pts away from the under since open.
+   Fliff: not posted yet. DK -105 is worse than +107, so not a DK bet.
+Skipped (stale lineup): Zach Werenski (CBJ D), UNDER 3.5 shots on goal. The scripts list him as a Fliff check (DK -160, shop-at -137, model 66.6%, agrees 3 of 7, would qualify for PrizePicks power2/3 and flex3-6), but the Blue Jackets' DailyFaceoff lineup was last updated Mon Oct 26 9:54 AM PT, about 27 hours ago, so the approved skip-if-lineup-older-than-12h rule applies. Testers: object if you read that rule differently.
+Correlation: Sanheim's over and the Dvorak and Bump unders are all Flyers in the same game in opposite directions; a high-shot Flyers night helps Sanheim and hurts both unders, so don't stack them in one PrizePicks entry expecting them to move together. Dvorak and Bump move together.
+Fliff credits: 1 of 10 used today (1 this pass); 106 left on the account.
+
+Vetoes: 5 overs skipped by the role/lineup-slot check (demotions: Couturier and Foerster to the 3rd line, Monahan to the 3rd line/PP2, Knies and Fantilli off PP1 to PP2). None had an edge.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261027_D_1305_picks.xlsx (colors only show in Excel or Google Sheets).

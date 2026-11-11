@@ -1,0 +1,73 @@
+# DRAFT pre-registration: 2026 NFL REG weeks 5-18 out-of-sample tracking (written by Tester1 / Grok Bot, 2026-10-04 PT)
+# Status: DRAFT. Becomes binding only when the builder (1) fills every TODO, (2) commits it, (3) prints its sha1 in a
+#   dated file *before* the first week-5 kickoff (Thu 2026-10-08 20:15 ET = 17:15 PT), and (4) never edits it again.
+#   Any change after that date = a new pre-registration with its own sha1; the old one is still reported.
+version: 1
+scope: {season: 2026, game_type: REG, weeks: [5, 18], games_expected: 208}   # nflverse schedule cache, 2026-10-04
+frozen_procedure:
+  code_version: f9247893            # nflprops.backtest.code_version(CODE_FILES), project as of 2026-10-04
+  feature_version: "v2-asof (features code_version 164a4150)"
+  champion_config_hash: 557e6ab3e4  # experiments/champion.json sha1 c539240700933753f142d7dee1d0f79c4fd9e13f
+  holdout_policy_sha1: c6e4aba2a15a01dbeda7bca75c49c97184932226   # reused verbatim for the bet track except line source
+  retraining: "per champion config (retrain_every_weeks: 4) on data strictly before the scored week; data refreshed weekly"
+  TODO_live_rows: >-
+    The pipeline only builds rows from post-game stats/snaps (features.py:44-54), so it cannot score a game before it
+    is played. Either (a) add a pre-game row builder (players with a captured line + schedule) and freeze its hash
+    here, or (b) score each week AFTER its games, with features as-of the week (shift(1) only), keyed to line
+    snapshots hashed before kickoff. (b) needs no code change and is valid for the paper track; real money needs (a).
+  data_refresh: "data.py:79 'schedules' cache never refreshes; run the weekly refresh to a NEW cache dir and log file hashes"
+markets: [pass_yds, rush_yds, rec_yds]       # full-game incl. OT only; no 1H/1Q/milestones/combos
+line_source:
+  primary: "ESPN core API propBets, provider 100 (DraftKings): open.target, current.target, lastUpdated (no prices)"
+  prices: "The Odds API player_pass_yds/player_rush_yds/player_reception_yds, bookmaker draftkings, region us. PAID: needs yinzerduck sign-off; if not approved, decision uses break_even.without_prices"
+  snapshots_per_game:
+    D_decision: "last snapshot taken at or before kickoff - 3h; this is the line any bet is placed at"
+    C_close:    "last snapshot taken before kickoff; valid only if within 30 min of kickoff"
+    O_open:     "ESPN open.target field as recorded in the first snapshot that has the prop"
+  storage: "raw JSON per event per pull, filename <event>_<UTC ISO>_p<page>.json, append-only, sha256 manifest per day"
+universe:  # defined ONLY from pre-kickoff information (suggested by Tester2)
+  definition: "every pass/rush/rec yards line present in the D snapshot (kickoff - 3h); fixed at D, never filtered by who played"
+  model_filter: "min_proj 20 yds and QB projected starter, computed from features as-of the prior week only; lines failing it are counted and reported as 'out of model scope', not dropped silently"
+  voids: "a universe line with no matching player row, a missing C snapshot, or a DNP/inactive player is VOID: counted, reported per week and per market, and included in the data kill rule; never quietly removed"
+  void_sensitivity: "report primary metric two ways: voids excluded, and voids scored as zero z-CLV"
+tracks:
+  paper:   # PRIMARY, confirmatory. Scores every line; no money.
+    scored: "every non-void universe line (see universe.voids)"
+    primary_metric: >-
+      z-CLV: for each line, s = sign(P_model(over | line_D) - 0.5); move = (line_C - line_D) / sd_m, sd_m = champion
+      predictive SD for that player-game; z-CLV = s * move. Mean z-CLV over all lines, 95% GAME-clustered bootstrap
+      (4000 resamples, seed 0). Also the correlation between logit(P_model(over|line_D)) and move.
+    secondary_metrics:
+      - "raw-model log loss at line_C vs ln(2) and vs the stacked prob (when prices exist: vs no-vig market), game-clustered"
+      - "PIT histogram / CRPS of the predictive distribution vs actuals (projection accuracy, needs no lines)"
+      - "hit rate of model side vs line_C, all lines"
+  bet:     # SECONDARY, descriptive only (notional bankroll 1000 units, no real money)
+    probabilities: "stacker lambda 50, min_n 300, history = strictly earlier 2026 lines of this source"
+    edge_threshold: 0.04
+    require_positive_ev: true      # at captured price; if no price captured, assume -110 and flag
+    staking: {kelly_fraction: 0.25, max_bet_frac: 0.02, max_game_frac: 0.04, max_bets_per_game: 3,
+              max_team_frac: 0.03, max_bets_per_player: 1, max_week_exposure: 0.20}
+    metrics: "flat ROI and hit rate with game-clustered CI, bankroll path, mean z-CLV of bets"
+    expected_bets: "about 0-50 over weeks 5-18 (2025: 18 bets in 13 weeks, all rush unders driven by the intercept)"
+decision_rule:  # one final analysis after week 18; one futility-only interim after week 11
+  success: >-
+    ALL of: (1) paper z-CLV mean > 0 with one-sided game-clustered p < 0.05; (2) raw LL at line_C not worse than
+    ln(2) (CI upper bound >= 0); (3) BREAK-EVEN BAR (suggested by Tester3), see break_even.
+  break_even:
+    with_prices: >-
+      if prices are captured at D and C: mean no-vig closing probability of the model's side at line_D >= the
+      break-even of the average captured D price (0.5238 at -110, 0.5349 at -115), point estimate AND lower 95%
+      game-clustered bound > 0.500. Price-only moves (same line, juice changes) count fully here.
+    without_prices: >-
+      line-only proxy, assuming line_C is the fair 50/50 point and the champion predictive SD: P(model side wins at
+      line_D) ~ Phi(z-CLV), so the bar is mean z-CLV >= 0.060 (= -110 break-even) and >= 0.088 for -115 lines.
+      Blind to juice-only moves, so a pass here is labelled PROVISIONAL and cannot by itself justify real stakes.
+  then: "write a NEW pre-registration for small real stakes in 2027 (or 2026 playoffs: no; too few lines)"
+  failure: "z-CLV CI upper bound < +0.01 or point estimate <= 0 -> no betting; return to modelling with real-line metrics"
+  bet_track_role: "never decides go/no-go on its own (power about 7-12% at true ROI +3-5% for 18-80 bets)"
+kill_criteria:
+  data: "a week with > 20% of universe lines missing a valid C snapshot is flagged; two flagged weeks -> stop and fix capture"
+  futility_week11: "paper z-CLV point estimate < 0 and upper 95% bound < +0.02 -> stop bet track; paper continues"
+  bet_drawdown: "notional bankroll drawdown > 25% -> stop bet track"
+  integrity: "any edit to frozen code/config/policy, or a scored week whose snapshot hash was not logged pre-kickoff -> that week excluded and reported"
+reporting: "all weeks reported, including excluded ones; times in PT; nothing re-tuned on 2026 data during the tracking period"

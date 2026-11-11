@@ -1,0 +1,32 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, 3:30 PM PT window pass (Tue Oct 27; run 3:33 PM PT), DraftKings lines captured about 3:32 PM PT. Two games in the window, both 7:00 PM PT (207 min out at run time): Ottawa Senators at Vegas Golden Knights, and Vancouver Canucks at Anaheim Ducks. The eight earlier games were already posted by the 1:00, 1:30 and 2:30 PM passes and were not re-scored.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (39 lines up; best is -4.7%).
+
+Fliff check (3, plus 2 skipped for a stale lineup). None is a bet right now: Fliff and DraftKings are both worse than shop-at on all three.
+1. Tomas Hertl (VGK F), Ottawa Senators at Vegas Golden Knights (7:00 PM PT), UNDER 2.5 shots on goal
+   DK now: -160 (opened -140), model under 67.7% vs no-vig 57.5%, recent form under 68.7% (shot rate last 10 x TOI last 5). Shop-at (worst acceptable): -138 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 3 of 5 under 2.5 (shots 3, 1, 5, 2, 1).
+   Role: Golden Knights forward, demoted today to line 3 but still on PP1 (history top-six PP1; Vegas DailyFaceoff lineup updated 12:27 PM PT today). A demotion vetoes overs only, so the under stands. TOI last 5 15.3 min vs 15.9 over last 30. OTT allows about 7% fewer shots than average to top-six PP1 forwards.
+   Evidence: agrees 5 of 7 (champion +10.2 pts; challenger +11.4 pts; shrunk form +8.0 pts; opponent allows -7%; no-vig moved 3.1 pts toward the under since open); against: on PP1.
+   Fliff -180 and DK -160 are both worse than -138.
+2. Jackson LaCombe (ANA D), Vancouver Canucks at Anaheim Ducks (7:00 PM PT), UNDER 1.5 shots on goal
+   DK now: +100 (opened +120), model under 53.5% vs no-vig 46.5%, recent form under 93.9%. Shop-at: +114 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 5 of 5 under 1.5 (shots 1, 1, 0, 0, 0).
+   Role: Ducks defenseman on PP1, no change (Anaheim DailyFaceoff lineup updated 10:22 AM PT today). TOI last 5 25.7 min vs 24.6 over last 30. VAN allows about 4-5% more than average to PP1 defensemen.
+   Evidence: agrees 4 of 7 (champion +7.0 pts; challenger +7.7 pts; shrunk form +17.8 pts; no-vig moved 4.3 pts toward the under since open); against: opponent allows +5% to D+PP1; on PP1.
+   Fliff -115 and DK +100 are both worse than +114.
+3. Cutter Gauthier (ANA F), Vancouver Canucks at Anaheim Ducks (7:00 PM PT), UNDER 3.5 shots on goal
+   DK now: +105 (opened +115), model under 52.8% vs no-vig 45.2%, recent form under 52.0%. Shop-at: +120 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 2 of 5 under 3.5 (shots 4, 5, 2, 2, 4).
+   Role: Ducks top-six forward on PP1, no change (Anaheim lineup updated 10:22 AM PT today). TOI last 5 18.5 min vs 17.2 over last 30 (trending up, which leans against the under). VAN allows about 7% more than average to top-six PP1 forwards.
+   Evidence: agrees 4 of 7 (champion +7.7 pts; challenger +7.2 pts; shrunk form +0.9 pts; no-vig moved 1.8 pts toward the under since open); against: opponent allows +7%; on PP1.
+   Fliff +100 and DK +105 are both worse than +120.
+Skipped (stale lineup): Jake DeBrusk (VAN F) UNDER 2.5 (DK -135, shop-at -117, 3 of 7) and Drew O'Connor (VAN F) UNDER 1.5 (DK -155, shop-at -132, 3 of 7). The scripts list both as Fliff checks, but the Canucks' DailyFaceoff lineup was last updated Mon Oct 26 11:26 AM PT, about 28 hours ago, so the approved skip-if-lineup-older-than-12h rule applies. Testers: object if you read that rule differently.
+Correlation: LaCombe U1.5 and Gauthier U3.5 are same-team unders in VAN@ANA, so they'd move together (a low-event Ducks game helps both); treat them as one exposure if either ever reaches shop-at.
+Fliff credits: 6 of 10 used today (2 this pass, one per game); 101 left on the account.
+
+Vetoes: 9 role or lineup vetoes, all on sides with no positive DK EV. Overs dropped for demotions or PP1 loss: Giroux, Hertl, Pinto, Killorn, Greer, Colangelo, Washe, Caulfield; unders dropped for promotions: Zetterlund, Caulfield.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261027_D_1533_picks.xlsx (colors only show in Excel or Google Sheets).

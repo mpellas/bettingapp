@@ -1,0 +1,19 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Sat Oct 31 12:30 PM window pass (fired 12:31, run 12:32 PM PT), DraftKings lines captured 12:32 PM PT. Two games in the window, both 4:00 PM PT (208 min out at run time): Pittsburgh Penguins at Montreal Canadiens, Toronto Maple Leafs at Vancouver Canucks. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (33 lines up; best is -5.0%).
+
+Fliff check (3), all SKIPPED under the 12-hour lineup rule, and Fliff hasn't posted shots markets for either game yet:
+1. Alex Newhook (MTL F), Penguins at Canadiens (4:00 PM PT), UNDER 1.5 shots on goal: skipped, Montreal DailyFaceoff lineup is about 29.5 hours old (Oct 30, 7:01 AM PT).
+   For the record: DK -120, model under 56.2% vs no-vig 51.0%, recent form under 69.5%; shop-at -105; last 5 shots 1, 0, 0, 1, 2 (4 of 5 under); agrees 4 of 7 (champion +5.1, challenger +4.0, shrunk form +8.8, no-vig moved 3.0 pts toward the under), nothing against. DK -120 is worse than -105 anyway.
+2. Morgan Rielly (TOR D), Maple Leafs at Canucks (4:00 PM PT), UNDER 1.5 shots on goal: skipped, Toronto DailyFaceoff lineup is about 24 hours old (Oct 30, 12:44 PM PT).
+   For the record: DK -115, model under 56.9% vs no-vig 49.5%, recent 64.2%; shop-at +101; last 5 shots 0, 3, 0, 1, 0 (4 of 5 under); agrees 3 of 7, against: no-vig moved 1.0 pt away. DK -115 is worse than +101 anyway.
+3. Darren Raddysh (TOR D, PP1), Maple Leafs at Canucks (4:00 PM PT), UNDER 2.5 shots on goal: skipped, same stale Toronto lineup.
+   For the record: DK -135, model under 59.6% vs no-vig 53.5%, recent 67.1%; shop-at -116; last 5 shots 1, 2, 0, 3, 1 (4 of 5 under); agrees 3 of 7, against: shrunk form -4.8 pts, opponent allows +4% to D+PP1, on PP1. DK -135 is worse than -116 anyway.
+Correlation note: Rielly and Raddysh are the same team's defense in the same game, so they'd move together; moot this pass.
+Fliff credits: 4 of 10 used today (2 this pass, one per game); 88 left on the account.
+
+Vetoes: 8 role-check vetoes (overs dropped for demotions: Danault, Lekkerimaki; unders dropped for promotions: Anderson, Kapanen, Lettieri, Roslovic, L. Karlsson, McKenna) and 8 slot vetoes, all on sides with no positive DK EV.
+Lineup ages at run time: Vancouver fresh (4:36 AM PT today, about 8 hours); Toronto about 24 hours, Pittsburgh about 26 hours, Montreal about 29.5 hours, so every Leafs, Penguins and Canadiens side is skipped under the 12-hour rule. No ESPN injury flags on the list.
+Spreadsheet: /workspace/nhl-sog/sheets/20261031_D_1232_picks.xlsx (colors only show in Excel or Google Sheets).

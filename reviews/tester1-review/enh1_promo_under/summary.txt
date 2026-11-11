@@ -1,0 +1,68 @@
+ALL promo-vetoed unders (latest pass): n=107 graded=106 62-44 DK +4.65u (ROI +4.4%) shop +12.81u | CLV avg -0.97 pts, no close 1
+u_dk ROI +4.4% 95% CI [-12.7%, +21.4%]
+u_shop ROI +12.1% 95% CI [-6.3%, +30.3%]
+Would make a list (veto removed): n=6 graded=6 2-4 DK -2.87u (ROI -47.9%) shop -2.65u | CLV avg +0.60 pts, no close 0
+u_dk ROI -47.9% 95% CI [-100.0%, +5.1%]
+u_shop ROI -44.2% 95% CI [-100.0%, +12.5%]
+Blocked by another gate: n=101 graded=100 60-40 DK +7.52u (ROI +7.5%) shop +15.46u | CLV avg -1.06 pts, no close 1
+
+First blocker counts:
+blockers
+sheet:model not above no-vig                     32
+sheet:recent form does not beat no-vig           20
+sheet:side not from milestone prices             13
+sheet:model more than 12 points from no-vig      11
+sheet:slot veto                                   9
+sheet:edge below 5-pt floor                       7
+sheet:passes all checks but outside top 5 by      4
+stale lineup >12h                                 3
+market move 22.3                                  1
+sheet:thin edge                                   1
+
+List status: new_status; Fliff check    6
+
+[ALL] by edge_b
+  <=0: n=33 graded=33 23-10 DK +8.61u (ROI +26.1%) shop +11.93u | CLV avg -2.35 pts, no close 0
+  0-5: n=27 graded=27 14-13 DK -1.11u (ROI -4.1%) shop +0.78u | CLV avg -0.77 pts, no close 0
+  5-10: n=32 graded=31 22-9 DK +6.32u (ROI +20.4%) shop +8.89u | CLV avg -0.50 pts, no close 0
+  10+: n=15 graded=15 3-12 DK -9.16u (ROI -61.1%) shop -8.80u | CLV avg +0.85 pts, no close 1
+
+[ALL] by toi_b
+  <=0: n=65 graded=65 40-25 DK +5.44u (ROI +8.4%) shop +10.58u | CLV avg -0.91 pts, no close 1
+  0-1: n=18 graded=17 10-7 DK +1.20u (ROI +7.0%) shop +2.57u | CLV avg -1.15 pts, no close 0
+  1-2: n=11 graded=11 8-3 DK +3.80u (ROI +34.6%) shop +4.90u | CLV avg -0.65 pts, no close 0
+  2+: n=13 graded=13 4-9 DK -5.79u (ROI -44.5%) shop -5.25u | CLV avg -1.28 pts, no close 0
+
+[ALL] by period
+  Oct15-25: n=68 graded=67 38-29 DK -0.05u (ROI -0.1%) shop +4.92u | CLV avg -0.96 pts, no close 0
+  Oct26-29: n=39 graded=39 24-15 DK +4.71u (ROI +12.1%) shop +7.88u | CLV avg -0.98 pts, no close 1
+
+[ALL] by date
+  20261017: n=17 graded=16 9-7 DK +0.47u (ROI +3.0%) shop +1.70u | CLV avg -0.36 pts, no close 0
+  20261018: n=6 graded=6 4-2 DK +0.60u (ROI +10.0%) shop +1.09u | CLV avg -1.45 pts, no close 0
+  20261019: n=5 graded=5 3-2 DK +0.35u (ROI +6.9%) shop +0.72u | CLV avg -0.48 pts, no close 0
+  20261020: n=18 graded=18 10-8 DK -1.37u (ROI -7.6%) shop -0.14u | CLV avg -2.76 pts, no close 0
+  20261024: n=15 graded=15 9-6 DK +1.61u (ROI +10.8%) shop +2.85u | CLV avg -0.82 pts, no close 0
+  20261025: n=7 graded=7 3-4 DK -1.71u (ROI -24.5%) shop -1.30u | CLV avg +1.99 pts, no close 0
+  20261026: n=2 graded=2 2-0 DK +2.10u (ROI +105.0%) shop +2.39u | CLV avg -0.65 pts, no close 0
+  20261027: n=18 graded=18 12-6 DK +3.36u (ROI +18.7%) shop +4.93u | CLV avg -0.18 pts, no close 0
+  20261028: n=14 graded=14 8-6 DK +0.48u (ROI +3.5%) shop +1.50u | CLV avg -0.84 pts, no close 0
+  20261029: n=5 graded=5 2-3 DK -1.24u (ROI -24.7%) shop -0.94u | CLV avg -5.22 pts, no close 1
+
+[LIST] by edge_b
+  5-10: n=6 graded=6 2-4 DK -2.87u (ROI -47.9%) shop -2.65u | CLV avg +0.60 pts, no close 0
+
+[LIST] by toi_b
+  <=0: n=4 graded=4 2-2 DK -0.87u (ROI -21.8%) shop -0.65u | CLV avg +0.62 pts, no close 0
+  0-1: n=1 graded=1 0-1 DK -1.00u (ROI -100.0%) shop -1.00u | CLV avg +1.10 pts, no close 0
+  2+: n=1 graded=1 0-1 DK -1.00u (ROI -100.0%) shop -1.00u | CLV avg +0.00 pts, no close 0
+
+[LIST] by period
+  Oct15-25: n=4 graded=4 0-4 DK -4.00u (ROI -100.0%) shop -4.00u | CLV avg +0.33 pts, no close 0
+  Oct26-29: n=2 graded=2 2-0 DK +1.13u (ROI +56.4%) shop +1.35u | CLV avg +1.15 pts, no close 0
+
+[LIST] by date
+  20261017: n=1 graded=1 0-1 DK -1.00u (ROI -100.0%) shop -1.00u | CLV avg +0.00 pts, no close 0
+  20261024: n=2 graded=2 0-2 DK -2.00u (ROI -100.0%) shop -2.00u | CLV avg +0.15 pts, no close 0
+  20261025: n=1 graded=1 0-1 DK -1.00u (ROI -100.0%) shop -1.00u | CLV avg +1.00 pts, no close 0
+  20261027: n=2 graded=2 2-0 DK +1.13u (ROI +56.4%) shop +1.35u | CLV avg +1.15 pts, no close 0

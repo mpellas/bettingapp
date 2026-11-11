@@ -1,0 +1,17 @@
+**NO BETS** on this pass.
+
+NHL shots on goal, 4:00 PM PT window pass (Sun Oct 25), lines captured 4:01 PM PT. One game: Minnesota Wild at Vancouver Canucks (7:00 PM PT, start time rechecked, 179 min out). Earlier games were posted in the earlier passes and stay unchanged.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (10 lines up, a thin pool).
+Fliff check: none after the agreement rule, so no Fliff prices were pulled.
+
+Closest misses:
+- Jake DeBrusk UNDER 2.5 (DK -160): model 62.9% vs no-vig 57.5% (+5.4 pts, just over the floor) and last 5 went 5 of 5 under (shots 2, 2, 0, 1, 2), but only 2 of 7 signals agree (champion +5.4, challenger +5.4); against: shrunk form -2.9 pts, he's on PP1, and no-vig moved 2.9 pts away from the under since open. 2-of-7 agreement is a skip.
+- Elias Pettersson OVER 1.5 (DK -120): model 58.3% vs no-vig 51.0% (+7.3 pts), agrees 3 of 7, but recent form is only 41.4%, so it fails the recent-form check.
+- Brock Boeser OVER 1.5 (DK -130): model 57.1% vs no-vig 52.5% (+4.6 pts, under the 5-point floor), agrees 5 of 7, and recent form 35.5% fails too.
+- Quinn Hughes UNDER 2.5 (DK -140): +4.6 pts, under the 5-point floor.
+
+Vetoes: 0 sides skipped by the lineup-status check and 1 over by the role/lineup-slot check (demotion: Filip Chytil from top 6 to the 3rd line/PP2; his over had no edge anyway).
+Fliff credits: 0 this pass; 3 of 10 used today, 110 left on the account.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261025_D_1601_picks.xlsx (colors only show in Excel or Google Sheets). Note: the spreadsheet still shows DeBrusk as "Fliff check" because the 2-of-7 skip is applied on top of the sheet's status.

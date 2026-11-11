@@ -1,0 +1,3 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261102,Matt Coronato,Calgary Flames at San Jose Sharks,UNDER,2.5,8482679,2026020235,401892632,8f768a5bd143ea549d68e5c1885023e6,offered,2.5,-145,True,-117,False,-135,2.5,-135,2.5,True,2026-11-02T14:38:29-08:00,20261102_1438_post.txt
+20261102,Simon Nemec,Calgary Flames at San Jose Sharks,UNDER,1.5,8483495,2026020235,401892632,8f768a5bd143ea549d68e5c1885023e6,offered,1.5,-140,True,-116,False,-135,1.5,-135,1.5,True,2026-11-02T14:38:29-08:00,20261102_1438_post.txt

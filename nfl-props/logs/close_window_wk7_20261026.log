@@ -1,0 +1,40 @@
+2026-10-26T16:41:22-07:00 kickoff=2026-10-26T17:15-07:00 window_start=2026-10-26T16:47:00-07:00 dry_run=0
+sleeping 338s until window
+2026-10-26T16:47:02-07:00 one-shot capture exit 0
+2026-10-26T16:47:04-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T16:47:04-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T16:46:16-07:00 (48s ago) last_capture=2026-10-26T16:46:16-07:00 (48s ago) recent_failed_passes=0 next_kickoff_min=28.7
+2026-10-26T16:47:05-07:00 STATUS OK
+2026-10-26T16:50:06-07:00 one-shot capture exit 0
+2026-10-26T16:50:08-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T16:50:08-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T16:49:16-07:00 (52s ago) last_capture=2026-10-26T16:49:17-07:00 (51s ago) recent_failed_passes=0 next_kickoff_min=25.7
+2026-10-26T16:50:09-07:00 STATUS OK
+2026-10-26T16:53:11-07:00 one-shot capture exit 0
+2026-10-26T16:53:12-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T16:53:12-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T16:52:17-07:00 (55s ago) last_capture=2026-10-26T16:52:17-07:00 (55s ago) recent_failed_passes=0 next_kickoff_min=22.7
+2026-10-26T16:53:13-07:00 STATUS OK
+2026-10-26T16:56:15-07:00 one-shot capture exit 0
+2026-10-26T16:56:16-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T16:56:16-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T16:55:18-07:00 (58s ago) last_capture=2026-10-26T16:55:18-07:00 (58s ago) recent_failed_passes=0 next_kickoff_min=19.7
+2026-10-26T16:56:17-07:00 STATUS OK
+2026-10-26T16:59:19-07:00 one-shot capture exit 0
+2026-10-26T16:59:21-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T16:59:21-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T16:58:18-07:00 (63s ago) last_capture=2026-10-26T16:59:19-07:00 (2s ago) recent_failed_passes=0 next_kickoff_min=16.7
+2026-10-26T16:59:22-07:00 STATUS OK
+2026-10-26T17:02:23-07:00 one-shot capture exit 0
+2026-10-26T17:02:25-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T17:02:25-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T17:01:19-07:00 (66s ago) last_capture=2026-10-26T17:02:23-07:00 (2s ago) recent_failed_passes=0 next_kickoff_min=13.7
+2026-10-26T17:02:26-07:00 STATUS OK
+2026-10-26T17:05:27-07:00 one-shot capture exit 0
+2026-10-26T17:05:29-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T17:05:29-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T17:04:20-07:00 (69s ago) last_capture=2026-10-26T17:05:27-07:00 (2s ago) recent_failed_passes=0 next_kickoff_min=10.7
+2026-10-26T17:05:30-07:00 STATUS OK
+2026-10-26T17:08:32-07:00 one-shot capture exit 0
+2026-10-26T17:08:34-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T17:08:34-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T17:07:20-07:00 (74s ago) last_capture=2026-10-26T17:08:31-07:00 (3s ago) recent_failed_passes=0 next_kickoff_min=7.7
+2026-10-26T17:08:35-07:00 STATUS OK
+2026-10-26T17:11:36-07:00 one-shot capture exit 0
+2026-10-26T17:11:38-07:00 snaplines 2026 wk7 exit 0
+2026-10-26T17:11:38-07:00 STATUS supervisors=1 workers=1 last_heartbeat=2026-10-26T17:10:21-07:00 (77s ago) last_capture=2026-10-26T17:11:36-07:00 (2s ago) recent_failed_passes=0 next_kickoff_min=4.6
+2026-10-26T17:11:39-07:00 STATUS OK
+2026-10-26T17:14:39-07:00 done: 9 captures in close window
+C rows by event: {401873009: 22, 401873011: 22, 401873012: 21, 401873013: 17, 401873014: 18, 401873015: 18, 401873016: 23, 401873017: 20, 401873018: 20, 401873019: 23, 401873020: 20, 401873021: 22, 401873022: 23}

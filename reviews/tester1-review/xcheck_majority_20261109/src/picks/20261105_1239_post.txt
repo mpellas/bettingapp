@@ -1,0 +1,15 @@
+Fliff check: Zack Bolduc UNDER 1.5 (DK -140, Fliff at -121 or better) - model +9.3 pts vs no-vig; recent +8.7 pts
+   last 5: 3 of 5 under 1.5 (shots 2,1,1,2,0); model 63.8%, recent form 63.2% (shot rate last 10 x TOI last 5)
+   evidence: Zack Bolduc U1.5: agrees 4 of 7 (champion +9.3 pts; challenger +6.0 pts; shrunk form +9.0 pts; opponent allows -8% to F_3rd+PP1); against: on PP1
+Fliff check: Lane Hutson UNDER 1.5 (DK -120, Fliff at -106 or better) - model +9.7 pts vs no-vig; recent +7.5 pts
+   last 5: 5 of 5 under 1.5 (shots 1,1,1,1,1); model 60.8%, recent form 58.5% (shot rate last 10 x TOI last 5)
+   evidence: Lane Hutson U1.5: agrees 6 of 7 (champion +9.7 pts; challenger +9.3 pts; shrunk form +8.9 pts; TOI last 5 22.6 vs this season 24.9 (-2.2 min); last 30 incl. last season 24.5 (reference only); opponent allows -3% to D+PP1; no-vig moved 2.0 pts toward side since open); against: on PP1
+Fliff check: Oliver Bonk UNDER 1.5 (DK -165, Fliff at -139 or better) - model +9.9 pts vs no-vig; recent +15.7 pts
+   last 5: 2 of 5 under 1.5 (shots 2,2,1,2,1); model 67.7%, recent form 73.5% (shot rate last 10 x TOI last 5)
+   evidence: Oliver Bonk U1.5: agrees 5 of 7 (champion +9.9 pts; challenger +10.5 pts; shrunk form +12.8 pts; TOI last 5 17.3 vs this season 18.7 (-1.4 min); last 30 incl. last season 18.5 (reference only); no-vig moved 3.0 pts toward side since open); against: opponent allows +7% to D
+Fliff check: Thomas Harley UNDER 1.5 (DK +115, Fliff at +130 or better) - model +11.2 pts vs no-vig; recent +10.7 pts
+   last 5: 3 of 5 under 1.5 (shots 3,1,1,2,1); model 54.2%, recent form 53.8% (shot rate last 10 x TOI last 5)
+   evidence: Thomas Harley U1.5: agrees 3 of 7 (champion +11.2 pts; challenger +8.3 pts; shrunk form +7.5 pts); against: opponent allows +7% to D; no-vig moved 8.4 pts away from side since open
+Fliff check: Matthew Knies UNDER 1.5 (DK -125, Fliff at -108 or better) - model +11.2 pts vs no-vig; recent +19.5 pts
+   last 5: 4 of 5 under 1.5 (shots 2,1,1,0,0); model 62.7%, recent form 70.9% (shot rate last 10 x TOI last 5)
+   evidence: Matthew Knies U1.5: agrees 5 of 7 (champion +11.2 pts; challenger +10.0 pts; shrunk form +11.7 pts; opponent allows -6% to F_top6+PP1; no-vig moved 2.5 pts toward side since open); against: on PP1

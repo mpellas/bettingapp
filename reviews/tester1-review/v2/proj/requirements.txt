@@ -1,0 +1,11 @@
+pandas>=2
+numpy
+scipy
+scikit-learn
+lightgbm
+pyarrow
+matplotlib
+pyyaml
+nflreadpy
+requests
+pytest

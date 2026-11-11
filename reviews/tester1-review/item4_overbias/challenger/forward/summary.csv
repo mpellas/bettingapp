@@ -1,0 +1,6 @@
+list,sides,graded,W,L,units,roi_pct,pending
+live,61,61,34,27,0.61,1.0,0
+challenger,16,16,13,3,7.07,44.2,0
+both,9,9,7,2,2.88,32.0,0
+live_only,52,52,27,25,-2.28,-4.4,0
+ch_only,7,7,6,1,4.19,59.8,0

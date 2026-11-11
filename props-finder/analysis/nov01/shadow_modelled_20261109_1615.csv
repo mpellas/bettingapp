@@ -1,0 +1,6 @@
+status,source,game,team,player,market,line,side,book,price,fair_prob,ev_pct,n_books,sharps,model_p,reason
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,justin jefferson,reception_yds,79.5,Under,draftkings,-114.0,0.5021,-5.74,2,,0.7166,injury Out; 0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dj moore,reception_yds,48.5,Under,draftkings,-110.0,0.5,-4.55,4,fanduel,0.6387,1 sharp book(s) at line; EV -4.55% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dalton kincaid,reception_yds,40.5,Under,draftkings,-111.0,0.5,-4.95,3,,0.5653,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,james cook,rush_yds,87.5,Under,draftkings,-114.0,0.503,-5.57,3,,0.669,0 sharp book(s) at line; EV -5.57% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,aaron jones,rush_yds,30.5,Over,draftkings,-115.0,0.5032,-5.93,4,fanduel,0.7321,1 sharp book(s) at line; EV -5.93% < 2

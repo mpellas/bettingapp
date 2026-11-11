@@ -1,0 +1,8 @@
+Fliff check: David Pastrnak OVER 3.5 (DK +115, Fliff at +132 or better) - model +2.2 pts vs no-vig; recent +8.1 pts
+   evidence: David Pastrnak O3.5: agrees 2 of 7 (champion +2.2 pts; on PP1); against: challenger -0.6 pts; shrunk form -2.2 pts
+Fliff check: Adrian Kempe OVER 2.5 (DK -165, Fliff at -138 or better) - model +3.7 pts vs no-vig; recent +9.8 pts
+   evidence: Adrian Kempe O2.5: agrees 6 of 7 (champion +3.7 pts; challenger +4.5 pts; shrunk form +1.7 pts; opponent allows +4% to F_top6+PP1; on PP1; no-vig moved 3.0 pts toward side since open); nothing against
+Fliff check: Charlie McAvoy UNDER 1.5 (DK -105, Fliff at +108 or better) - model +4.5 pts vs no-vig; recent +8.7 pts
+   evidence: Charlie McAvoy U1.5: agrees 5 of 7 (champion +4.5 pts; challenger +4.2 pts; shrunk form +4.4 pts; TOI last 5 -0.5 min vs season; opponent allows -4% to D+PP1); against: on PP1; no-vig moved 4.1 pts away from side since open
+Fliff check: JJ Peterka UNDER 1.5 (DK +100, Fliff at +114 or better) - model +5.0 pts vs no-vig; recent +1.6 pts
+   evidence: JJ Peterka U1.5: agrees 4 of 7 (champion +5.0 pts; challenger +4.3 pts; shrunk form +5.0 pts; TOI last 5 -1.8 min vs season); nothing against

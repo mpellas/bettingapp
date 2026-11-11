@@ -1,0 +1,37 @@
+74 sides {'20261017': 26, '20261018': 4, '20261019': 9, '20261020': 18, '20261024': 11, '20261025': 6} passes 24
+model_pts_ok fail 0
+shop_ok fail 0
+window_ok fail 0
+floor_ok fail 0
+recent_ok fail 0
+role_ok fail 0
+pre_noon
+        date     hhmm           player   side  line      puck_pt
+21  20261017  morning     Dylan Strome  under   1.5  10-17 10:00
+22  20261017  morning       Timo Meier   over   2.5  10-17 10:00
+23  20261017  morning   Jakob Chychrun  under   2.5  10-17 10:00
+24  20261017  morning  Arseny Gritsyuk   over   1.5  10-17 10:00
+agree<=2
+        date  hhmm            player   side  line  agrees
+12  20261017  1520    David Pastrnak   over   3.5       2
+33  20261019  1247  Beckett Sennecke  under   2.5       2
+49  20261020  1508   Kasperi Kapanen  under   1.5       2
+64  20261024  1512    Barrett Hayton  under   1.5       2
+65  20261024  1609     Matt Coronato  under   2.5       2
+huge
+        date  hhmm          player   side  move  agrees
+17  20261017  1618  Brayden McNabb  under   5.4       4
+18  20261017  1618      Mark Stone  under   7.8       4
+53  20261020  1513      Vince Dunn  under   5.6       4
+60  20261024  1307      Tom Wilson  under  23.2       4
+67  20261024  1609      Vince Dunn  under  22.3       3
+72  20261025  1404      Roman Josi   over  22.9       5
+agree<=2 excluding huge moves
+        date  hhmm            player   side  agrees  agrees_ex_huge
+12  20261017  1520    David Pastrnak   over       2               2
+33  20261019  1247  Beckett Sennecke  under       2               2
+49  20261020  1508   Kasperi Kapanen  under       2               2
+64  20261024  1512    Barrett Hayton  under       2               2
+65  20261024  1609     Matt Coronato  under       2               2
+67  20261024  1609        Vince Dunn  under       3               2
+TOI vote text sides 40

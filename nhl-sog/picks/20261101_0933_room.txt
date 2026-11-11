@@ -1,0 +1,17 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Sun Nov 1 9:30 AM window pass (fired 9:33, run 9:33 AM PT), DraftKings lines captured 9:33 AM PT. One game in the window: Utah Mammoth at Philadelphia Flyers, 1:00 PM PT (206 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (17 lines up).
+
+Fliff check: five sides cleared the 5-point edge floor, but none can be bet. Fliff hasn't posted a shots market for this game yet, and both teams' DailyFaceoff lineups are older than 12 hours (Philadelphia about 24.5 hours, Oct 31 9:06 AM PT; Utah about 51 hours, Oct 30 6:54 AM PT), so every side is skipped under the 12-hour rule.
+- Trevor Zegras over 1.5 (Utah at Philadelphia), 5 of 7 agree, DK -130, Fliff shop-at -111 or better. Skipped: stale lineup, no Fliff market.
+- Porter Martone over 1.5 (Utah at Philadelphia), 5 of 7 agree, DK -105, Fliff shop-at +109 or better. Skipped: stale lineup, no Fliff market.
+- Vincent Trocheck over 1.5 (Utah at Philadelphia), 3 of 7 agree, DK +105, Fliff shop-at +117 or better. Skipped: stale lineup, no Fliff market.
+- Dylan Guenther under 2.5 (Utah at Philadelphia), 3 of 7 agree, DK +120, Fliff shop-at +134 or better. Skipped: stale lineup, no Fliff market; no-vig moved 16.9 pts away from this side since open.
+- Travis Sanheim over 1.5 (Utah at Philadelphia), only 2 of 7 agree, so skipped on agreement as well.
+Correlation note: all five are in the same game (four overs), so they'd be correlated if any ever became bettable.
+Fliff credits: 1 this pass; 1 of 10 used today.
+
+Vetoes: 1 injury veto (Owen Tippett, IR/game-time decision), 2 role-check demotions (Tippett and Foerster overs, down to the 3rd line and PP2), 1 role-check promotion (Martone under dropped, up to the 2nd line and PP1), 0 slot vetoes.
+Spreadsheet: /workspace/nhl-sog/sheets/20261101_D_0933_picks.xlsx (colors only show in Excel or Google Sheets).

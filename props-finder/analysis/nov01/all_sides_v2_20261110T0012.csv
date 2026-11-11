@@ -1,0 +1,394 @@
+status,source,game,team,player,market,line,side,book,price,fair_prob,ev_pct,n_books,sharps,model_p,reason
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,josh allen,pass_yds,231.5,Over,draftkings,-113,0.5011,-5.55,2,,0.0,0 sharp book(s) at line; EV -5.55% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,josh allen,pass_yds,231.5,Under,draftkings,-111,0.4989,-5.16,2,,0.5368,0 sharp book(s) at line; EV -5.16% < 2; model 53.7% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,carson wentz,pass_yds,218.5,Over,draftkings,-112,0.5,-5.36,4,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,carson wentz,pass_yds,218.5,Under,draftkings,-112,0.5,-5.36,4,,,0 sharp book(s) at line; EV -5.36% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,justin jefferson,reception_yds,79.5,Over,draftkings,-110,0.4979,-4.95,2,,0.2834,injury Out; 0 sharp book(s) at line; EV -4.95% < 2; model 28.3% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,justin jefferson,reception_yds,79.5,Under,draftkings,-114,0.5021,-5.74,2,,0.7166,injury Out; 0 sharp book(s) at line; EV -5.74% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dj moore,reception_yds,48.5,Over,draftkings,-114,0.5,-6.14,4,fanduel,0.3613,1 sharp book(s) at line; EV -6.14% < 2; model 36.1% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dj moore,reception_yds,48.5,Under,draftkings,-110,0.5,-4.55,4,fanduel,0.6387,1 sharp book(s) at line; EV -4.55% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dalton kincaid,reception_yds,40.5,Over,draftkings,-113,0.5,-5.75,3,,0.0,0 sharp book(s) at line; EV -5.75% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dalton kincaid,reception_yds,40.5,Under,draftkings,-111,0.5,-4.95,3,,0.5653,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,jordan addison,reception_yds,40.5,Over,draftkings,-111,0.5022,-4.54,5,pinnacle,0.5293,1 sharp book(s) at line; EV -4.54% < 2; model 52.9% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,jordan addison,reception_yds,40.5,Under,draftkings,-113,0.4978,-6.16,5,pinnacle,0.0,1 sharp book(s) at line; EV -6.16% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,khalil shakir,reception_yds,39.5,Over,draftkings,-110,0.5,-4.55,3,fanduel,0.428,1 sharp book(s) at line; EV -4.55% < 2; model 42.8% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,khalil shakir,reception_yds,39.5,Under,draftkings,-114,0.5,-6.14,3,fanduel,0.0,1 sharp book(s) at line; EV -6.14% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,t j hockenson,reception_yds,38.5,Over,draftkings,-109,0.4937,-5.34,3,fanduel,0.3654,1 sharp book(s) at line; EV -5.34% < 2; model 36.5% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,t j hockenson,reception_yds,38.5,Under,draftkings,-115,0.5063,-5.34,3,fanduel,0.0,1 sharp book(s) at line; EV -5.34% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,keon coleman,reception_yds,25.5,Over,draftkings,-111,0.5,-4.95,5,pinnacle,0.0,1 sharp book(s) at line; EV -4.95% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,keon coleman,reception_yds,25.5,Under,draftkings,-114,0.5,-6.14,5,pinnacle,0.4643,1 sharp book(s) at line; EV -6.14% < 2; model 46.4% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,ty johnson,reception_yds,14.5,Over,draftkings,-107,0.4964,-3.96,6,"fanduel,pinnacle",0.467,EV -3.96% < 2; model 46.7% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,ty johnson,reception_yds,14.5,Under,draftkings,-117,0.5036,-6.6,6,"fanduel,pinnacle",0.533,EV -6.60% < 2; model 53.3% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,aaron jones,reception_yds,9.5,Over,draftkings,-116,0.5084,-5.33,5,"fanduel,pinnacle",,EV -5.33% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,aaron jones,reception_yds,9.5,Under,draftkings,-108,0.4916,-5.33,5,"fanduel,pinnacle",,EV -5.33% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dawson knox,reception_yds,9.5,Over,draftkings,-110,0.5,-4.55,3,,,0 sharp book(s) at line; EV -4.55% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,dawson knox,reception_yds,9.5,Under,draftkings,-114,0.5,-6.14,3,,,0 sharp book(s) at line; EV -6.14% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,james cook,reception_yds,7.5,Over,draftkings,-119,0.5119,-5.8,2,,,0 sharp book(s) at line; EV -5.80% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,james cook,reception_yds,7.5,Under,draftkings,-106,0.4881,-5.14,2,,,0 sharp book(s) at line; EV -5.14% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,ben yurosek,reception_yds,4.5,Over,draftkings,-114,0.5021,-5.74,4,fanduel,,1 sharp book(s) at line; EV -5.74% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,ben yurosek,reception_yds,4.5,Under,draftkings,-110,0.4979,-4.95,4,fanduel,,1 sharp book(s) at line; EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,jordan mason,reception_yds,0.5,Over,draftkings,111,0.449,-5.26,3,fanduel,,1 sharp book(s) at line; EV -5.26% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,jordan mason,reception_yds,0.5,Under,draftkings,-139,0.551,-5.26,3,fanduel,,1 sharp book(s) at line; EV -5.26% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,tai felton,reception_yds,0.5,Over,draftkings,139,0.3972,-5.06,2,,,0 sharp book(s) at line; EV -5.06% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,tai felton,reception_yds,0.5,Under,draftkings,-176,0.6028,-5.48,2,,,0 sharp book(s) at line; EV -5.48% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,,odell beckham,reception_yds,0.5,Over,draftkings,170,0.347,-6.31,3,fanduel,,1 sharp book(s) at line; EV -6.31% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,,odell beckham,reception_yds,0.5,Under,draftkings,-216,0.653,-4.47,3,fanduel,,1 sharp book(s) at line; EV -4.47% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,james cook,rush_yds,87.5,Over,draftkings,-110,0.497,-5.12,3,,0.0,0 sharp book(s) at line; EV -5.12% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,james cook,rush_yds,87.5,Under,draftkings,-114,0.503,-5.57,3,,0.669,0 sharp book(s) at line; EV -5.57% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,jordan mason,rush_yds,47.5,Over,draftkings,-111,0.4989,-5.16,6,"fanduel,pinnacle",0.4495,EV -5.16% < 2; model 44.9% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,jordan mason,rush_yds,47.5,Under,draftkings,-113,0.5011,-5.55,6,"fanduel,pinnacle",0.0,EV -5.55% < 2; line harder than model line_D for this side
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,josh allen,rush_yds,31.5,Over,draftkings,-113,0.5,-5.75,4,fanduel,,1 sharp book(s) at line; EV -5.75% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,josh allen,rush_yds,31.5,Under,draftkings,-111,0.5,-4.95,4,fanduel,,1 sharp book(s) at line; EV -4.95% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,aaron jones,rush_yds,30.5,Over,draftkings,-115,0.5032,-5.93,4,fanduel,0.7321,1 sharp book(s) at line; EV -5.93% < 2
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,aaron jones,rush_yds,30.5,Under,draftkings,-109,0.4968,-4.73,4,fanduel,0.2679,1 sharp book(s) at line; EV -4.73% < 2; model 26.8% < 55.0%
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,carson wentz,rush_yds,7.5,Over,draftkings,-114,0.5042,-5.35,7,"fanduel,pinnacle",,EV -5.35% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,MIN,carson wentz,rush_yds,7.5,Under,draftkings,-110,0.4958,-5.35,7,"fanduel,pinnacle",,EV -5.35% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,ray davis,rush_yds,4.5,Over,draftkings,-121,0.5146,-6.0,4,fanduel,,1 sharp book(s) at line; EV -6.00% < 2; not in model universe
+fail,DK/Fliff,Buffalo Bills @ Minnesota Vikings,BUF,ray davis,rush_yds,4.5,Under,draftkings,-103,0.4854,-4.34,4,fanduel,,1 sharp book(s) at line; EV -4.34% < 2; not in model universe
+fail,PrizePicks,,JAX,trevor lawrence,pass_yds,240.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,JAX,trevor lawrence,pass_yds,240.5,Under,prizepicks,,,,0,,0.2745,no books at exact line; 0 sharp book(s) at line; model 27.5% < 54.2%
+fail,PrizePicks,,IND,dan jones,pass_yds,192.5,Over,prizepicks,,,,0,,0.5703,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,IND,dan jones,pass_yds,192.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,JAX,parker washington,reception_yds,67.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,JAX,parker washington,reception_yds,67.5,Under,prizepicks,,,,0,,0.5461,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,JAX,brenton strange,reception_yds,41.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,JAX,brenton strange,reception_yds,41.5,Under,prizepicks,,,,0,,0.4172,no books at exact line; 0 sharp book(s) at line; model 41.7% < 54.2%
+fail,PrizePicks,,IND,tyler warren,reception_yds,40.5,Over,prizepicks,,,,0,,0.4754,no books at exact line; 0 sharp book(s) at line; model 47.5% < 54.2%
+fail,PrizePicks,,IND,tyler warren,reception_yds,40.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,keenan allen,reception_yds,37.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,keenan allen,reception_yds,37.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,jakobi meyers,reception_yds,35.5,Over,prizepicks,,,,0,,0.5313,no books at exact line; 0 sharp book(s) at line; model 53.1% < 54.2%
+fail,PrizePicks,,JAX,jakobi meyers,reception_yds,35.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,josh downs,reception_yds,32.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,josh downs,reception_yds,32.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,laquon treadwell,reception_yds,23.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,laquon treadwell,reception_yds,23.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,IND,jonathan taylor,reception_yds,14.5,Over,prizepicks,,,,0,,0.5219,no books at exact line; 0 sharp book(s) at line; model 52.2% < 54.2%
+fail,PrizePicks,,IND,jonathan taylor,reception_yds,14.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,bhayshul tuten,reception_yds,14.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,bhayshul tuten,reception_yds,14.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,josh cameron,reception_yds,13.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,josh cameron,reception_yds,13.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,travis hunter,reception_yds,13.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,travis hunter,reception_yds,13.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,brian thomas,reception_yds,10.5,Over,prizepicks,,,,0,,0.5967,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,JAX,brian thomas,reception_yds,10.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,JAX,nate boerkircher,reception_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,nate boerkircher,reception_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,ashton dulin,reception_yds,3.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,ashton dulin,reception_yds,3.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,seth mcgowan,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,will mallory,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,bhayshul tuten,rush_yds,67.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,bhayshul tuten,rush_yds,67.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,IND,jonathan taylor,rush_yds,50.5,Over,prizepicks,,,,0,,0.5268,no books at exact line; 0 sharp book(s) at line; model 52.7% < 54.2%
+fail,PrizePicks,,IND,jonathan taylor,rush_yds,50.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,chris rodriguez,rush_yds,32.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,chris rodriguez,rush_yds,32.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,seth mcgowan,rush_yds,24.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,seth mcgowan,rush_yds,24.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,trevor lawrence,rush_yds,11.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,JAX,trevor lawrence,rush_yds,11.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,IND,dan jones,rush_yds,7.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,IND,dan jones,rush_yds,7.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,jared goff,pass_yds,257.5,Over,prizepicks,,,,0,,0.5359,no books at exact line; 0 sharp book(s) at line; model 53.6% < 54.2%
+fail,PrizePicks,,DET,jared goff,pass_yds,257.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,kyler murray,pass_yds,224.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,kyler murray,pass_yds,224.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,amon ra st brown,reception_yds,77.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,amon ra st brown,reception_yds,77.5,Under,prizepicks,,,,0,,0.4551,no books at exact line; 0 sharp book(s) at line; model 45.5% < 54.2%
+fail,PrizePicks,,MIN,justin jefferson,reception_yds,76.5,Over,prizepicks,,,,0,,0.2834,injury Out; no books at exact line; 0 sharp book(s) at line; model 28.3% < 54.2%
+fail,PrizePicks,,MIN,justin jefferson,reception_yds,76.5,Under,prizepicks,,,,0,,0.0,injury Out; no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,jameson williams,reception_yds,51.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,jameson williams,reception_yds,51.5,Under,prizepicks,,,,0,,0.3952,no books at exact line; 0 sharp book(s) at line; model 39.5% < 54.2%
+fail,PrizePicks,,DET,sam laporta,reception_yds,45.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,sam laporta,reception_yds,45.5,Under,prizepicks,,,,0,,0.5097,no books at exact line; 0 sharp book(s) at line; model 51.0% < 54.2%
+fail,PrizePicks,,MIN,t j hockenson,reception_yds,42.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,MIN,t j hockenson,reception_yds,42.5,Under,prizepicks,,,,0,,0.6346,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,MIN,jordan addison,reception_yds,38.5,Over,prizepicks,,,,0,,0.5293,no books at exact line; 0 sharp book(s) at line; model 52.9% < 54.2%
+fail,PrizePicks,,MIN,jordan addison,reception_yds,38.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,jahmyr gibbs,reception_yds,30.5,Over,prizepicks,,,,0,,0.3967,no books at exact line; 0 sharp book(s) at line; model 39.7% < 54.2%
+fail,PrizePicks,,DET,jahmyr gibbs,reception_yds,30.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,isaac teslaa,reception_yds,17.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DET,isaac teslaa,reception_yds,17.5,Under,prizepicks,,,,0,,0.5351,no books at exact line; 0 sharp book(s) at line; model 53.5% < 54.2%
+fail,PrizePicks,,,jauan jennings,reception_yds,12.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jauan jennings,reception_yds,12.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,MIN,aaron jones,reception_yds,9.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,MIN,aaron jones,reception_yds,9.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,MIN,jordan mason,reception_yds,3.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,brock wright,reception_yds,3.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,jahmyr gibbs,rush_yds,86.5,Over,prizepicks,,,,0,,0.3924,no books at exact line; 0 sharp book(s) at line; model 39.2% < 54.2%
+fail,PrizePicks,,DET,jahmyr gibbs,rush_yds,86.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,MIN,jordan mason,rush_yds,49.5,Over,prizepicks,,,,0,,0.4495,no books at exact line; 0 sharp book(s) at line; model 44.9% < 54.2%
+fail,PrizePicks,,MIN,jordan mason,rush_yds,49.5,Under,prizepicks,,,,0,,0.5505,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,MIN,aaron jones,rush_yds,27.5,Over,prizepicks,,,,0,,0.7321,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,MIN,aaron jones,rush_yds,27.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,kyler murray,rush_yds,24.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,kyler murray,rush_yds,24.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,sione vaki,rush_yds,4.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,sione vaki,rush_yds,4.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,jared goff,rush_yds,0.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DET,jared goff,rush_yds,0.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,mike penix,pass_yds,229.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,ATL,mike penix,pass_yds,229.5,Under,prizepicks,,,,0,,0.4432,no books at exact line; 0 sharp book(s) at line; model 44.3% < 54.2%
+fail,PrizePicks,,TB,baker mayfield,pass_yds,214.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,TB,baker mayfield,pass_yds,214.5,Under,prizepicks,,,,0,,0.5889,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,ATL,drake london,reception_yds,79.5,Over,prizepicks,,,,0,,0.3227,no books at exact line; 0 sharp book(s) at line; model 32.3% < 54.2%
+fail,PrizePicks,,ATL,drake london,reception_yds,79.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,chris godwin,reception_yds,41.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,chris godwin,reception_yds,41.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,kyle pitts,reception_yds,35.5,Over,prizepicks,,,,0,,0.3177,no books at exact line; 0 sharp book(s) at line; model 31.8% < 54.2%
+fail,PrizePicks,,ATL,kyle pitts,reception_yds,35.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,cade otton,reception_yds,33.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,cade otton,reception_yds,33.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,bijan robinson,reception_yds,31.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,ATL,bijan robinson,reception_yds,31.5,Under,prizepicks,,,,0,,0.602,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,,tez johnson,reception_yds,31.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,tez johnson,reception_yds,31.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,ted hurst,reception_yds,30.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,ted hurst,reception_yds,30.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,jahan dotson,reception_yds,22.5,Over,prizepicks,,,,0,,0.5048,no books at exact line; 0 sharp book(s) at line; model 50.5% < 54.2%
+fail,PrizePicks,,ATL,jahan dotson,reception_yds,22.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,TB,bucky irving,reception_yds,16.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,TB,bucky irving,reception_yds,16.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,TB,kenny gainwell,reception_yds,11.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,TB,kenny gainwell,reception_yds,11.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,zachariah branch,reception_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,zachariah branch,reception_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,olamide zaccheaus,reception_yds,8.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,austin hooper,reception_yds,5.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,austin hooper,reception_yds,5.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,bijan robinson,rush_yds,80.5,Over,prizepicks,,,,0,,0.3431,no books at exact line; 0 sharp book(s) at line; model 34.3% < 54.2%
+fail,PrizePicks,,ATL,bijan robinson,rush_yds,80.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,TB,bucky irving,rush_yds,69.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,TB,bucky irving,rush_yds,69.5,Under,prizepicks,,,,0,,0.5843,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,TB,baker mayfield,rush_yds,16.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,TB,baker mayfield,rush_yds,16.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,TB,kenny gainwell,rush_yds,14.5,Over,prizepicks,,,,0,,0.7207,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,TB,kenny gainwell,rush_yds,14.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,khalil herbert,rush_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,khalil herbert,rush_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,sean tucker,rush_yds,6.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,sean tucker,rush_yds,6.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,mike penix,rush_yds,2.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ATL,mike penix,rush_yds,2.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,dak prescott,pass_yds,270.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DAL,dak prescott,pass_yds,270.5,Under,prizepicks,,,,0,,0.5662,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,,jacoby brissett,pass_yds,258.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jacoby brissett,pass_yds,258.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,ceedee lamb,reception_yds,84.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DAL,ceedee lamb,reception_yds,84.5,Under,prizepicks,,,,0,,0.5436,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,ARI,trey mcbride,reception_yds,72.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,ARI,trey mcbride,reception_yds,72.5,Under,prizepicks,,,,0,,0.5626,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,DAL,george pickens,reception_yds,65.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DAL,george pickens,reception_yds,65.5,Under,prizepicks,,,,0,,0.504,no books at exact line; 0 sharp book(s) at line; model 50.4% < 54.2%
+fail,PrizePicks,,ARI,mike wilson,reception_yds,58.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,ARI,mike wilson,reception_yds,58.5,Under,prizepicks,,,,0,,0.4465,no books at exact line; 0 sharp book(s) at line; model 44.6% < 54.2%
+fail,PrizePicks,,,kendrick bourne,reception_yds,38.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,kendrick bourne,reception_yds,38.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,ryan flournoy,reception_yds,37.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DAL,ryan flournoy,reception_yds,37.5,Under,prizepicks,,,,0,,0.4709,no books at exact line; 0 sharp book(s) at line; model 47.1% < 54.2%
+fail,PrizePicks,,ARI,elijah higgins,reception_yds,17.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ARI,elijah higgins,reception_yds,17.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jake ferguson,reception_yds,17.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jake ferguson,reception_yds,17.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,brevyn spann ford,reception_yds,14.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,brevyn spann ford,reception_yds,14.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,javonte williams,reception_yds,11.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,javonte williams,reception_yds,11.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ARI,reggie virgil,reception_yds,11.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ARI,reggie virgil,reception_yds,11.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jeremiyah love,reception_yds,10.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jeremiyah love,reception_yds,10.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ARI,tyler allgeier,reception_yds,6.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,bam knight,reception_yds,2.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,javonte williams,rush_yds,76.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,DAL,javonte williams,rush_yds,76.5,Under,prizepicks,,,,0,,0.5426,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,,jeremiyah love,rush_yds,45.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jeremiyah love,rush_yds,45.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,tyler goodson,rush_yds,19.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,tyler goodson,rush_yds,19.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,bam knight,rush_yds,19.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,bam knight,rush_yds,19.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,ARI,tyler allgeier,rush_yds,13.5,Over,prizepicks,,,,0,,0.3853,no books at exact line; 0 sharp book(s) at line; model 38.5% < 54.2%
+fail,PrizePicks,,ARI,tyler allgeier,rush_yds,13.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,jacoby brissett,rush_yds,10.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jacoby brissett,rush_yds,10.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,dak prescott,rush_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,DAL,dak prescott,rush_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,LV,kirk cousins,pass_yds,233.5,Over,prizepicks,,,,0,,0.5521,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,LV,kirk cousins,pass_yds,233.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,NYJ,geno smith,pass_yds,225.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,NYJ,geno smith,pass_yds,225.5,Under,prizepicks,,,,0,,0.5636,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,LV,brock bowers,reception_yds,69.5,Over,prizepicks,,,,0,,0.3845,no books at exact line; 0 sharp book(s) at line; model 38.5% < 54.2%
+fail,PrizePicks,,LV,brock bowers,reception_yds,69.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,garrett wilson,reception_yds,63.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,garrett wilson,reception_yds,63.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,LV,tre tucker,reception_yds,48.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,LV,tre tucker,reception_yds,48.5,Under,prizepicks,,,,0,,0.503,no books at exact line; 0 sharp book(s) at line; model 50.3% < 54.2%
+fail,PrizePicks,,NYJ,omar cooper,reception_yds,41.5,Over,prizepicks,,,,0,,0.3472,no books at exact line; 0 sharp book(s) at line; model 34.7% < 54.2%
+fail,PrizePicks,,NYJ,omar cooper,reception_yds,41.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,LV,ashton jeanty,reception_yds,28.5,Over,prizepicks,,,,0,,0.3666,no books at exact line; 0 sharp book(s) at line; model 36.7% < 54.2%
+fail,PrizePicks,,LV,ashton jeanty,reception_yds,28.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,NYJ,adonai mitchell,reception_yds,25.5,Over,prizepicks,,,,0,,0.3199,no books at exact line; 0 sharp book(s) at line; model 32.0% < 54.2%
+fail,PrizePicks,,NYJ,adonai mitchell,reception_yds,25.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,mike mayer,reception_yds,25.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,mike mayer,reception_yds,25.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,mason taylor,reception_yds,22.5,Over,prizepicks,,,,0,,0.4409,no books at exact line; 0 sharp book(s) at line; model 44.1% < 54.2%
+fail,PrizePicks,,NYJ,mason taylor,reception_yds,22.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,jalen nailor,reception_yds,17.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jalen nailor,reception_yds,17.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,kenyon sadiq,reception_yds,16.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,kenyon sadiq,reception_yds,16.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,braelon allen,reception_yds,16.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,braelon allen,reception_yds,16.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jack bech,reception_yds,9.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jack bech,reception_yds,9.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,isaiah davis,reception_yds,3.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,isaiah williams,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,braelon allen,rush_yds,79.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,NYJ,braelon allen,rush_yds,79.5,Under,prizepicks,,,,0,,0.1412,no books at exact line; 0 sharp book(s) at line; model 14.1% < 54.2%
+fail,PrizePicks,,LV,ashton jeanty,rush_yds,49.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,LV,ashton jeanty,rush_yds,49.5,Under,prizepicks,,,,0,,0.5125,no books at exact line; 0 sharp book(s) at line; model 51.3% < 54.2%
+fail,PrizePicks,,LV,mike washington,rush_yds,31.5,Over,prizepicks,,,,0,,0.5912,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,LV,mike washington,rush_yds,31.5,Under,prizepicks,,,,0,,0.4088,no books at exact line; 0 sharp book(s) at line; model 40.9% < 54.2%
+fail,PrizePicks,,,isaiah davis,rush_yds,10.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,isaiah davis,rush_yds,10.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,geno smith,rush_yds,6.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,NYJ,geno smith,rush_yds,6.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,LV,kirk cousins,rush_yds,0.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,LV,kirk cousins,rush_yds,0.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,joe burrow,pass_yds,272.5,Over,prizepicks,,,,0,,0.5112,no books at exact line; 0 sharp book(s) at line; model 51.1% < 54.2%
+fail,PrizePicks,,CIN,joe burrow,pass_yds,272.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,cam ward,pass_yds,192.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,cam ward,pass_yds,192.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,ja marr chase,reception_yds,83.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,CIN,ja marr chase,reception_yds,83.5,Under,prizepicks,,,,0,,0.5574,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,CIN,tee higgins,reception_yds,70.5,Over,prizepicks,,,,0,,0.3426,no books at exact line; 0 sharp book(s) at line; model 34.3% < 54.2%
+fail,PrizePicks,,CIN,tee higgins,reception_yds,70.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,wan dale robinson,reception_yds,48.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,wan dale robinson,reception_yds,48.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,elic ayomanor,reception_yds,33.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,elic ayomanor,reception_yds,33.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,mike gesicki,reception_yds,22.5,Over,prizepicks,,,,0,,0.3767,no books at exact line; 0 sharp book(s) at line; model 37.7% < 54.2%
+fail,PrizePicks,,CIN,mike gesicki,reception_yds,22.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,calvin ridley,reception_yds,22.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,calvin ridley,reception_yds,22.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,gunnar helm,reception_yds,21.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,gunnar helm,reception_yds,21.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,chase brown,reception_yds,20.5,Over,prizepicks,,,,0,,0.542,no books at exact line; 0 sharp book(s) at line; model 54.2% < 54.2%
+fail,PrizePicks,,CIN,chase brown,reception_yds,20.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,tony pollard,reception_yds,12.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,tony pollard,reception_yds,12.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,dohnte meyers,reception_yds,12.5,Over,prizepicks,,,,0,,0.5213,no books at exact line; 0 sharp book(s) at line; model 52.1% < 54.2%
+fail,PrizePicks,,CIN,dohnte meyers,reception_yds,12.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,dan bellinger,reception_yds,9.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dan bellinger,reception_yds,9.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,chimere dike,reception_yds,9.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,drew sample,reception_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,drew sample,reception_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,samaje perine,reception_yds,7.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,samaje perine,reception_yds,7.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,mike carter,reception_yds,7.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,mike carter,reception_yds,7.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,tony pollard,rush_yds,65.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,tony pollard,rush_yds,65.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,chase brown,rush_yds,57.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,CIN,chase brown,rush_yds,57.5,Under,prizepicks,,,,0,,0.4295,no books at exact line; 0 sharp book(s) at line; model 43.0% < 54.2%
+fail,PrizePicks,,CIN,samaje perine,rush_yds,23.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,CIN,samaje perine,rush_yds,23.5,Under,prizepicks,,,,0,,0.5194,no books at exact line; 0 sharp book(s) at line; model 51.9% < 54.2%
+fail,PrizePicks,,,mike carter,rush_yds,12.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,mike carter,rush_yds,12.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,cam ward,rush_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,cam ward,rush_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,joe burrow,rush_yds,5.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CIN,joe burrow,rush_yds,5.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,aaron rodgers,pass_yds,218.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,aaron rodgers,pass_yds,218.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,deshaun watson,pass_yds,210.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,deshaun watson,pass_yds,210.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dk metcalf,reception_yds,54.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dk metcalf,reception_yds,54.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CLE,denzel boston,reception_yds,49.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,CLE,denzel boston,reception_yds,49.5,Under,prizepicks,,,,0,,0.5558,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,CLE,kc concepcion,reception_yds,46.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,CLE,kc concepcion,reception_yds,46.5,Under,prizepicks,,,,0,,0.5355,no books at exact line; 0 sharp book(s) at line; model 53.6% < 54.2%
+fail,PrizePicks,,,germie bernard,reception_yds,43.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,germie bernard,reception_yds,43.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CLE,harold fannin,reception_yds,34.5,Over,prizepicks,,,,0,,0.5012,no books at exact line; 0 sharp book(s) at line; model 50.1% < 54.2%
+fail,PrizePicks,,CLE,harold fannin,reception_yds,34.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,pat freiermuth,reception_yds,24.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,pat freiermuth,reception_yds,24.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jaylen warren,reception_yds,22.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jaylen warren,reception_yds,22.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jerry jeudy,reception_yds,21.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jerry jeudy,reception_yds,21.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,darnell washington,reception_yds,21.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,darnell washington,reception_yds,21.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dylan sampson,reception_yds,16.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dylan sampson,reception_yds,16.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,rico dowdle,reception_yds,14.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,rico dowdle,reception_yds,14.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CLE,quinshon judkins,reception_yds,9.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CLE,quinshon judkins,reception_yds,9.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jaylen warren,rush_yds,65.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,jaylen warren,rush_yds,65.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,CLE,quinshon judkins,rush_yds,46.5,Over,prizepicks,,,,0,,0.362,no books at exact line; 0 sharp book(s) at line; model 36.2% < 54.2%
+fail,PrizePicks,,CLE,quinshon judkins,rush_yds,46.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,,rico dowdle,rush_yds,29.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,rico dowdle,rush_yds,29.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,deshaun watson,rush_yds,25.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,deshaun watson,rush_yds,25.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dylan sampson,rush_yds,11.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,dylan sampson,rush_yds,11.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,aaron rodgers,rush_yds,0.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,aaron rodgers,rush_yds,0.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,josh allen,pass_yds,247.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BUF,josh allen,pass_yds,247.5,Under,prizepicks,,,,0,,0.5368,no books at exact line; 0 sharp book(s) at line; model 53.7% < 54.2%
+fail,PrizePicks,,,lamar jackson,pass_yds,239.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,lamar jackson,pass_yds,239.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,zay flowers,reception_yds,88.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,zay flowers,reception_yds,88.5,Under,prizepicks,,,,0,,0.3951,no books at exact line; 0 sharp book(s) at line; model 39.5% < 54.2%
+fail,PrizePicks,,BUF,dj moore,reception_yds,55.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BUF,dj moore,reception_yds,55.5,Under,prizepicks,,,,0,,0.6387,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,BUF,khalil shakir,reception_yds,41.5,Over,prizepicks,,,,0,,0.428,no books at exact line; 0 sharp book(s) at line; model 42.8% < 54.2%
+fail,PrizePicks,,BUF,khalil shakir,reception_yds,41.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BUF,dalton kincaid,reception_yds,41.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BUF,dalton kincaid,reception_yds,41.5,Under,prizepicks,,,,0,,0.5653,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,BAL,ja kobi lane,reception_yds,31.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,ja kobi lane,reception_yds,31.5,Under,prizepicks,,,,0,,0.4071,no books at exact line; 0 sharp book(s) at line; model 40.7% < 54.2%
+fail,PrizePicks,,BUF,keon coleman,reception_yds,29.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BUF,keon coleman,reception_yds,29.5,Under,prizepicks,,,,0,,0.4643,no books at exact line; 0 sharp book(s) at line; model 46.4% < 54.2%
+fail,PrizePicks,,BAL,mark andrews,reception_yds,27.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,mark andrews,reception_yds,27.5,Under,prizepicks,,,,0,,0.3897,no books at exact line; 0 sharp book(s) at line; model 39.0% < 54.2%
+fail,PrizePicks,,BAL,rashod bateman,reception_yds,25.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,rashod bateman,reception_yds,25.5,Under,prizepicks,,,,0,,0.341,no books at exact line; 0 sharp book(s) at line; model 34.1% < 54.2%
+fail,PrizePicks,,BUF,ty johnson,reception_yds,14.5,Over,prizepicks,,,,0,,0.467,no books at exact line; 0 sharp book(s) at line; model 46.7% < 54.2%
+fail,PrizePicks,,BUF,ty johnson,reception_yds,14.5,Under,prizepicks,,,,0,,0.533,no books at exact line; 0 sharp book(s) at line; model 53.3% < 54.2%
+fail,PrizePicks,,BAL,justice hill,reception_yds,10.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,justice hill,reception_yds,10.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,james cook,reception_yds,9.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,james cook,reception_yds,9.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,josh cuevas,reception_yds,9.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,josh cuevas,reception_yds,9.5,Under,prizepicks,,,,0,,0.4288,no books at exact line; 0 sharp book(s) at line; model 42.9% < 54.2%
+fail,PrizePicks,,,josh palmer,reception_yds,8.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,josh palmer,reception_yds,8.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,dawson knox,reception_yds,7.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,dawson knox,reception_yds,7.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,derrick henry,reception_yds,6.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,derrick henry,reception_yds,6.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,matt hibner,reception_yds,0.5,,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,james cook,rush_yds,83.5,Over,prizepicks,,,,0,,0.331,no books at exact line; 0 sharp book(s) at line; model 33.1% < 54.2%
+fail,PrizePicks,,BUF,james cook,rush_yds,83.5,Under,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,derrick henry,rush_yds,78.5,Over,prizepicks,,,,0,,0.0,no books at exact line; 0 sharp book(s) at line; line harder than model line_D for this side
+fail,PrizePicks,,BAL,derrick henry,rush_yds,78.5,Under,prizepicks,,,,0,,0.5995,no books at exact line; 0 sharp book(s) at line
+fail,PrizePicks,,BUF,josh allen,rush_yds,35.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,josh allen,rush_yds,35.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,lamar jackson,rush_yds,24.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,,lamar jackson,rush_yds,24.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,justice hill,rush_yds,9.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BAL,justice hill,rush_yds,9.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,ray davis,rush_yds,4.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,ray davis,rush_yds,4.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,ty johnson,rush_yds,1.5,Over,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe
+fail,PrizePicks,,BUF,ty johnson,rush_yds,1.5,Under,prizepicks,,,,0,,,no books at exact line; 0 sharp book(s) at line; not in model universe

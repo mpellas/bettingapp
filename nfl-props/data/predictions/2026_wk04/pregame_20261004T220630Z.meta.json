@@ -1,0 +1,39 @@
+{
+ "created_at_utc": "2026-10-04T22:06:30+00:00",
+ "created_at_pt": "2026-10-04T15:06:30-07:00",
+ "season": 2026,
+ "week": 4,
+ "champion_hash": "aa4d70b859",
+ "config_hash": "37b5a34d8c",
+ "code_version": "6ddb05f9",
+ "pregame_code_sha1": "40b08d1852",
+ "data_version": "b2b44bff",
+ "data_cutoff": "2026-10-01",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-09-09",
+ "lookback_games": 2,
+ "mode": "snapshot (D lines)",
+ "n_rows_built": 30,
+ "n_void_lines": 0,
+ "void_reasons": {},
+ "n_predictions": {
+  "pass_yds": 4,
+  "rush_yds": 12,
+  "rec_yds": 22
+ },
+ "d_lines_file": "data/lines/snap_2026_wk4_D.csv",
+ "d_lines_sha256": "0aaf642759122b2be1b2b1b8fab1054c173ad8651dff7ae70dd51855b10d6a92",
+ "d_captured_at_utc": {
+  "401872978": "2026-10-04T21:05:15+00:00",
+  "401872979": "2026-10-04T22:04:59+00:00"
+ },
+ "n_with_line_D": 38,
+ "sha256_parquet": "310d82fd5443909149d33fc2676314882a3004eb68e70447d9ac5c0f79d8c9a6",
+ "sha256_csv": "27febd178684f5d1bf82fa91ff95e7e0a02072d32658b4136391ee7bbcbc94b9",
+ "files": [
+  "data/predictions/2026_wk04/pregame_20261004T220630Z.parquet",
+  "data/predictions/2026_wk04/pregame_20261004T220630Z.csv"
+ ],
+ "void_report": "data/predictions/2026_wk04/pregame_20261004T220630Z_voids.csv",
+ "sha256_voids": "6b88b940936fba872cfea5d9b29db28ac588dd0b1b35afcac03f07efcb8608a4"
+}

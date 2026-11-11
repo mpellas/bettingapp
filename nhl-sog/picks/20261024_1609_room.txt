@@ -1,0 +1,30 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 4:00 PM PT window pass (Sat Oct 24), lines captured 4:08 PM PT. Two games, both 7:00 PM PT: Detroit Red Wings at Calgary Flames, Minnesota Wild at Seattle Kraken. Earlier games were posted in the earlier passes and stay unchanged.
+
+DraftKings list: none. No side has positive blended EV at DraftKings.
+
+Fliff check (3):
+1. Emmitt Finnie, Detroit Red Wings at Calgary Flames (7:00 PM PT), OVER 1.5 shots on goal
+   DK -105, no-vig 47.5%, model 54.6%, recent expected shots 2.42, recent form 69.6% (shot rate last 10 x TOI last 5), shrunk 55.5% (info only). Worst Fliff price: +109. PrizePicks: not offered.
+   Last 5: 3 of 5 over 1.5 (shots 4, 1, 6, 1, 2).
+   Role: history slot top-6 forward; today line 1 and PP2 (no change). CGY allows 1.070x league to that slot; CGY allows 32.4 shots per game over last 20 (about 4.6 above league).
+   Evidence: agrees 4 of 7 (champion +7.1 pts; challenger +7.6 pts; shrunk form +8.0 pts; opponent allows +7% to his slot); against: no-vig moved 1.0 pt away from the over since open.
+   Fliff: no Fliff shots market posted for this game yet.
+2. Matt Coronato, Detroit Red Wings at Calgary Flames (7:00 PM PT), UNDER 2.5 shots on goal
+   DK -140, no-vig 53.8%, model 60.0%, recent expected shots 2.42, recent form 56.4% (shot rate last 10 x TOI last 5), shrunk 50.0% (info only). Worst Fliff price: -118. PrizePicks: not offered.
+   Last 5: 1 of 5 under 2.5 (shots 1, 5, 3, 3, 3).
+   Role: history slot top-6 forward on PP1; today line 1 and PP1 (no change). DET allows 0.990x league to that slot; DET allows 26.7 shots per game over last 20 (about 1.1 below league).
+   Evidence: agrees 2 of 7 (champion +6.1 pts; challenger +4.7 pts); against: shrunk form -3.8 pts, he's on PP1, and no-vig moved 1.9 pts away from the under since open. Thin support, and only 1 of his last 5 went under, so treat it as a small play at most.
+   Fliff: no Fliff shots market posted for this game yet.
+3. Vince Dunn, Minnesota Wild at Seattle Kraken (7:00 PM PT), UNDER 2.5 shots on goal
+   DK -190, no-vig 61.1%, model 66.4%, recent expected shots 1.70, recent form 75.7% (shot rate last 10 x TOI last 5), shrunk 57.7% (info only). Worst Fliff price: -159. PrizePicks: power2, power3, flex3-flex6.
+   Last 5: 3 of 5 under 2.5 (shots 4, 1, 3, 1, 1).
+   Role: history slot defenseman on PP1; today pair 1 and PP1 (no change). MIN allows 1.057x league to that slot; MIN allows 26.7 shots per game over last 20 (about 1.1 below league).
+   Evidence: agrees 3 of 7 (champion +5.3 pts; challenger +5.1 pts; no-vig moved 22.3 pts toward the under since open); against: shrunk form -3.5 pts, TOI last 5 25.5 vs this season 23.7 (+1.8 min), opponent allows +6% to his slot, and he's on PP1.
+   Fliff: Fliff -205, worse than the -159 shop-at price. Skip on Fliff.
+Fliff credits: 8 of 10 used today; 148 left on the account.
+
+Vetoes: 0 sides skipped by the lineup-status check and 8 by the role/lineup-slot check (8 players flagged for a role change). 7 more sides fell under the 5-point edge floor.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261024_D_1609_picks.xlsx (colors only show in Excel or Google Sheets).

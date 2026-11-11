@@ -1,0 +1,160 @@
+"""Add the NFL evidence block (shadow/context only) to a price-shop run. 0 Odds API credits; free ESPN + nflverse.
+Usage (nfl-props venv):
+  .venv/bin/python sidecars/evidence/add_evidence.py --analysis latest --week 6        # newest props-finder live analysis CSV
+  .venv/bin/python sidecars/evidence/add_evidence.py --analysis <path.csv> --week 6
+  .venv/bin/python sidecars/evidence/add_evidence.py --dlines --week 6                 # no pull: DK D lines + pregame preds
+Writes <input>_evidence.csv (all input columns + sig_*, why_*, agrees_n, disagrees_n, evidence_summary) and
+<input>_evidence.txt (one evidence line per listed side: in_final_list, else ev_pct > 0). Only yards markets
+(pass_yds, rush_yds, rec/reception_yds) get evidence; other rows pass through with blank evidence.
+Live inputs: latest week snapshots in data/snapshots captured at or before --asof (DK spread/total, DK prop line and
+open), the latest scoreboard (weather text, temperature, indoor flag), Open-Meteo hourly wind at kickoff (free, no key)
+for outdoor venues, ESPN game-summary injury statuses, nflverse weekly injury report. Nothing here changes a verdict,
+a list or the paper track."""
+import argparse, datetime as dt, glob, json, os, re, sys
+import numpy as np, pandas as pd, requests
+HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
+sys.path.insert(0, HERE); sys.path.insert(0, os.path.join(ROOT, 'src'))
+import nfl_evidence as E
+from nflprops.snapshot import parse_items   # read-only reuse of the pinned parser
+SNAP = os.path.join(ROOT, 'data', 'snapshots'); PF = '/workspace/props-finder/analysis'
+SUM = 'https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary'
+
+def stamp(f): return re.search(r'_(\d{8}T\d{6}Z)', f).group(1)
+def latest(pattern, asof):
+    fs = [f for f in glob.glob(os.path.join(SNAP, '*', pattern)) if stamp(f) <= asof]
+    return sorted(fs, key=stamp)[-1] if fs else None
+
+def event_lines(ev, asof):
+    """DK prop lines from the latest capture <= asof: {(espn_id, market): (line, open)} and game odds."""
+    f = latest(f'{ev}_100_*_p1.json', asof); props = {}
+    if f:
+        ts = stamp(f); items = []
+        for g in glob.glob(os.path.join(os.path.dirname(f), f'{ev}_100_{ts}_p*.json')): items += json.load(open(g)).get('items', [])
+        for r in parse_items(items): props[(r['espn_id'], r['market'])] = (r['line'], r['line_open'])
+    o = latest(f'{ev}_odds_*.json', asof); odds = {}
+    if o:
+        for it in json.load(open(o)).get('items', []):
+            if (it.get('provider') or {}).get('id') == '100' and it.get('overUnder') is not None:
+                odds = dict(total=float(it['overUnder']), home_fav=-float(it.get('spread') or 0), src=f'ESPN DK {stamp(o)}')
+    return props, odds, (stamp(f) if f else None)
+
+def scoreboard_weather(asof):
+    out = {}
+    for f in sorted(glob.glob(os.path.join(SNAP, '*', 'scoreboard_*.json')), key=stamp):
+        if stamp(f) > asof: continue
+        for e in json.load(open(f)).get('events', []):
+            c = e['competitions'][0]; v = c.get('venue') or {}; w = e.get('weather') or {}
+            out[e['id']] = dict(indoor=v.get('indoor'), city=(v.get('address') or {}).get('city'), state=(v.get('address') or {}).get('state'),
+                                text=w.get('displayValue', ''), temp=w.get('temperature'), date=e['date'])
+    return out
+
+def wind_at(city, state, kick_utc):
+    try:
+        g = requests.get('https://geocoding-api.open-meteo.com/v1/search', params=dict(name=city, count=5, country_code='US'), timeout=20).json()
+        res = [x for x in g.get('results', []) if not state or x.get('admin1', '').lower().startswith(str(state).lower()[:4])] or g.get('results', [])
+        if not res: return np.nan
+        la, lo = res[0]['latitude'], res[0]['longitude']
+        w = requests.get('https://api.open-meteo.com/v1/forecast', params=dict(latitude=la, longitude=lo, hourly='wind_speed_10m',
+                         wind_speed_unit='mph', timezone='UTC', forecast_days=16), timeout=20).json()['hourly']
+        k = pd.Timestamp(kick_utc).tz_convert('UTC').strftime('%Y-%m-%dT%H:00')
+        return float(w['wind_speed_10m'][w['time'].index(k)]) if k in w['time'] else np.nan
+    except Exception as e:
+        print('[evidence] wind lookup failed:', city, e); return np.nan
+
+def espn_injuries(ev, espn2gsis):
+    try:
+        s = requests.get(SUM, params={'event': ev}, timeout=20).json()
+    except Exception as e:
+        print('[evidence] ESPN summary failed', ev, e); return {}
+    out = {}
+    for t in s.get('injuries', []):
+        for i in t.get('injuries', []):
+            g = espn2gsis.get(str((i.get('athlete') or {}).get('id')))
+            if g: out[g] = i.get('status') or ''
+    return out
+
+def from_dlines(S, W):
+    L = pd.read_csv(os.path.join(ROOT, 'data', 'lines', f'snap_{S}_wk{W}_D.csv'), dtype={'player_id': str, 'event_id': str})
+    pf = sorted(f for f in glob.glob(os.path.join(ROOT, 'data', 'predictions', f'{S}_wk{W:02d}', 'pregame_*.csv')) if 'void' not in f)
+    P = pd.read_csv(pf[-1]) if pf else pd.DataFrame(columns=['player_id', 'market', 'p_over_D', 'team', 'opponent', 'position', 'game_id'])
+    L = L.merge(P[['player_id', 'market', 'p_over_D', 'team', 'opponent', 'position', 'game_id']], on=['player_id', 'market'], how='left')
+    po = 1 / (1 + np.exp(0)); rows = []
+    for r in L.itertuples():
+        for side in ('Over', 'Under'):
+            pm = r.p_over_D if side == 'Over' else (1 - r.p_over_D if pd.notna(r.p_over_D) else np.nan)
+            rows.append(dict(game_id=r.game_id, player=r.player_name, player_id=r.player_id, market=r.market, line=r.line, side=side,
+                             book='draftkings(espn D)', price=-110, mkt_p=0.5, model_p=pm, team=r.team, opp=r.opponent, pos=r.position,
+                             price_assumed=True))
+    return pd.DataFrame(rows), f'snap_{S}_wk{W}_D + {os.path.basename(pf[-1]) if pf else "no pregame preds"}'
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--analysis', default=None); ap.add_argument('--dlines', action='store_true')
+    ap.add_argument('--season', type=int, default=2026); ap.add_argument('--week', type=int, required=True)
+    ap.add_argument('--asof', default=None, help='UTC stamp YYYYMMDDTHHMMSSZ; default now'); ap.add_argument('--out', default=None)
+    ap.add_argument('--no-net', action='store_true', help='skip ESPN summary + Open-Meteo calls')
+    a = ap.parse_args(); S, W = a.season, a.week
+    asof = a.asof or dt.datetime.now(dt.timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+    if a.dlines:
+        A, src = from_dlines(S, W); base = os.path.join(ROOT, 'data', 'evidence', f'dlines_{S}_wk{W}_{asof}')
+    else:
+        path = a.analysis
+        if path in (None, 'latest'):
+            fs = sorted(glob.glob(os.path.join(PF, f'analysis_{S}_wk{W}_live_*.csv')), )  # names carry the PT run stamp; mtimes are unreliable after box restores
+            fs = [f for f in fs if not f.endswith('_evidence.csv')]
+            if not fs: sys.exit(f'no live analysis CSV for {S} wk{W} in {PF}; use --analysis <path> or --dlines')
+            path = fs[-1]
+        A, src = pd.read_csv(path, dtype={'player_id': str}), os.path.basename(path); base = os.path.splitext(path)[0]
+    out = a.out or base + '_evidence'
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    D = E.load(); G = D['games'].set_index('game_id'); e2g = {v: k for k, v in D['espn_ids'].items() if v and v != '<NA>'}
+    wx = scoreboard_weather(asof); cache = {}; res = []
+    for i, r in A.iterrows():
+        mk = E.YMK.get(str(r.get('market')))
+        if mk is None or pd.isna(r.get('game_id')) or r.game_id not in G.index: res.append({}); continue
+        g = G.loc[r.game_id]; ev = str(int(g.espn)) if pd.notna(g.espn) else None
+        if ev not in cache:
+            props, odds, ts = event_lines(ev, asof) if ev else ({}, {}, None)
+            w = wx.get(ev, {}); wind = np.nan; indoor = w.get('indoor')
+            roof = 'dome' if indoor else (g.roof if isinstance(g.roof, str) else ('outdoors' if indoor is False else None))
+            if not a.no_net and indoor is False and w.get('city'): wind = wind_at(w['city'], w.get('state'), w.get('date') or g.gameday)
+            inj = espn_injuries(ev, e2g) if (ev and not a.no_net) else {}
+            cache[ev] = (props, odds, ts, roof, w.get('temp', np.nan), wind, w.get('text', ''), inj)
+        props, odds, ts, roof, temp, wind, wtext, inj = cache[ev]
+        spread = odds.get('home_fav', g.spread_line); total = odds.get('total', g.total_line)
+        pid = str(r.player_id) if pd.notna(r.get('player_id')) else None
+        lo = props.get((D['espn_ids'].get(pid), mk), (np.nan, np.nan)) if pid else (np.nan, np.nan)
+        team, oppt, pos = r.get('team'), r.get('opp'), r.get('pos')
+        if not pid or pd.isna(team): res.append({}); continue
+        sig = E.over_signals(D, pid, mk, pos, team, oppt, S, W, g.home_team, g.away_team, spread, total, roof,
+                             temp if temp is not None else np.nan, wind, wtext, line_now=lo[0], line_open=lo[1], extra_status=inj)
+        sig['champ'] = E.champ(r.get('model_p'), r.get('mkt_p'))
+        c = E.combine(r.player, str(r.side), float(r.line), mk, sig)
+        try:  # 2026-11-09 extra tests: display only, never changes agrees_n
+            o = str(r.side).lower().startswith('o'); fp = r.get('fair_prob', r.get('mkt_p'))
+            fp = (np.nan if r.get('price_assumed') is True else fp)
+            xs = {'hit': E.x_hit(D, pid, mk, float(r.line), str(r.side), S, W, fp), 'books': E.x_books(A, i)}
+            xs['pace'] = E.x_pace(D, team, oppt, str(r.side), S, W); xs['rest'] = E.x_rest(g, team, str(r.side))
+            c.update(E.combine_extra(c, xs))
+        except Exception as e:
+            c['evidence_all_summary'] = f'new tests unavailable ({e})'
+        c['evidence_inputs'] = f"DK snap {ts or 'n/a'}; odds {odds.get('src', 'nflverse games.csv')}; asof {asof}"
+        res.append(c)
+    X = pd.concat([A.reset_index(drop=True), pd.DataFrame(res)], axis=1)
+    X.to_csv(out + '.csv', index=False)
+    Y = X[X.agrees_n.notna()] if 'agrees_n' in X else X.iloc[0:0]
+    lst = Y[Y.in_final_list.astype(str).str.lower().eq('true')] if 'in_final_list' in Y else Y.iloc[0:0]
+    if lst.empty and 'ev_pct' in Y: lst = Y[pd.to_numeric(Y.ev_pct, errors='coerce') > 0]
+    if lst.empty: lst = Y
+    lines = [f'NFL evidence (shadow/context only, not a filter; untested on real prices) - source {src}, asof {asof}']
+    for _, x in lst.iterrows():
+        lines.append(f"{x.player} {x.side} {x.line:g} {x.market} @ {x.get('price', '')} {x.get('book', '')}: {x.evidence_summary}"
+                     + (f" | {x.evidence_all_summary}" if isinstance(x.get('evidence_all_summary'), str) else ''))
+    open(out + '.txt', 'w').write('\n'.join(lines) + '\n')
+    n = X.agrees_n.notna().sum() if 'agrees_n' in X else 0
+    print(f'{n} of {len(X)} rows got evidence -> {out}.csv / .txt')
+    if n: print('agrees_n:', X.agrees_n.dropna().astype(int).value_counts().sort_index().to_dict())
+    if n and 'agrees_all_n' in X: print('agrees_all_n (of', int(X.tests_all_n.dropna().max()), '):', X.agrees_all_n.dropna().astype(int).value_counts().sort_index().to_dict())
+    print('\n'.join(lines[:12]))
+
+if __name__ == '__main__': main()

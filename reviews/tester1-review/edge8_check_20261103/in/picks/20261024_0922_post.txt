@@ -1,0 +1,6 @@
+Fliff check: Jesper Bratt OVER 1.5 (DK -190, Fliff at -159 or better) - model +7.9 pts vs no-vig; recent +10.5 pts
+   last 5: 4 of 5 over 1.5 (shots 2,0,3,2,2); model 69.0%, recent form 71.6% (shot rate last 10 x TOI last 5)
+   evidence: Jesper Bratt O1.5: agrees 4 of 7 (champion +7.9 pts; challenger +5.0 pts; shrunk form +1.4 pts; on PP1); nothing against
+Fliff check: Alex Laferriere UNDER 2.5 (DK -110, Fliff at +104 or better) - model +11.6 pts vs no-vig; recent +13.3 pts
+   last 5: 4 of 5 under 2.5 (shots 2,2,2,3,2); model 60.1%, recent form 61.8% (shot rate last 10 x TOI last 5)
+   evidence: Alex Laferriere U2.5: agrees 5 of 7 (champion +11.6 pts; challenger +5.4 pts; shrunk form +3.0 pts; opponent allows -5% to F_top6+PP1; no-vig moved 1.0 pts toward side since open); against: TOI last 5 20.2 vs this season 18.8 (+1.4 min); last 30 incl. last season 20.1 (reference only); on PP1

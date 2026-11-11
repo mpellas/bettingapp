@@ -1,0 +1,14 @@
+rows 196 posted 74 sheet Fliff check 75 near-miss 121 mismatch 10
+{'20261017': 26, '20261018': 4, '20261019': 9, '20261020': 18, '20261024': 11, '20261025': 6}
+{'final-card': 61, 'skipped (tester)': 7, 'skipped (Oct 25 NO BETS)': 6}
+         date    pass_            player   side  line  posted  rule_list                               reason
+36   20261017     1520    David Pastrnak   OVER   3.5    True      False  posted but rule says skip: agree<=2
+57   20261017  morning      Dylan Strome  UNDER   1.5    True      False      posted but rule says skip: noon
+58   20261017  morning        Timo Meier   OVER   2.5    True      False      posted but rule says skip: noon
+59   20261017  morning    Jakob Chychrun  UNDER   2.5    True      False      posted but rule says skip: noon
+62   20261017  morning   Arseny Gritsyuk   OVER   1.5    True      False      posted but rule says skip: noon
+78   20261019     1247  Beckett Sennecke  UNDER   2.5    True      False  posted but rule says skip: agree<=2
+123  20261020     1508   Kasperi Kapanen  UNDER   1.5    True      False  posted but rule says skip: agree<=2
+171  20261024     1512    Barrett Hayton  UNDER   1.5    True      False  posted but rule says skip: agree<=2
+176  20261024     1609     Matt Coronato  UNDER   2.5    True      False  posted but rule says skip: agree<=2
+180  20261024     1609        Vince Dunn  UNDER   2.5    True      False  posted but rule says skip: agree<=2

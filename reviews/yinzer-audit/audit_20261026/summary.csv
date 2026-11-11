@@ -1,0 +1,10 @@
+slice,sides,W,L,P,units,clv_n,clv_mean,clv_unit
+"Posted picks, all (wk5-7)",15,8,7,0,-1.15,10,-1.5,line pts
+Posted DK/Fliff,7,3,4,0,-1.15,2,-0.5,line pts
+Posted PrizePicks legs,8,5,3,0,,8,-1.75,line pts
+Posted wk5,7,3,4,0,-0.15,2,-2.0,line pts
+Posted wk6,6,3,3,0,-1.0,6,-1.167,line pts
+Posted wk7,2,2,0,0,,2,-2.0,line pts
+"Paper track wk5+6 (in-scope, non-void)",328,185,140,0,28.18,328,0.002,z_clv
+Paper track wk5,155,85,68,0,9.27,155,0.001,z_clv
+Paper track wk6,173,100,72,0,18.91,173,0.003,z_clv

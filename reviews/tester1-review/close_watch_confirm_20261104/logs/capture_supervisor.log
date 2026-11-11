@@ -1,0 +1,175 @@
+2026-10-11T08:40:28-07:00 supervisor 871113 starting
+2026-10-11T08:40:28-07:00 started worker 871120
+2026-10-11T09:43:44-07:00 ALERT stale 1232s; restarting
+2026-10-11T09:43:46-07:00 started worker 891210
+2026-10-11T11:15:28-07:00 ALERT stale 4902s; restarting
+2026-10-11T11:15:30-07:00 started worker 899776
+2026-10-11T11:52:16-07:00 ALERT stale 2206s; restarting
+2026-10-11T11:52:18-07:00 started worker 902008
+2026-10-11T12:23:02-07:00 ALERT stale 1241s; restarting
+2026-10-11T12:23:04-07:00 started worker 911873
+2026-10-11T14:57:37-07:00 ALERT stale 7949s; restarting
+2026-10-11T14:57:39-07:00 started worker 925468
+2026-10-11T15:20:17-07:00 stopping
+2026-10-11T15:21:20-07:00 supervisor 929973 starting
+2026-10-11T15:21:20-07:00 started worker 929979
+2026-10-11T15:21:39-07:00 supervisor 930169 starting
+2026-10-11T15:21:39-07:00 started worker 930176
+2026-10-11T21:52:14-07:00 ALERT stale 2308s (>480s); restarting
+2026-10-11T21:52:16-07:00 started worker 961977
+2026-10-12T14:08:22-07:00 ALERT stale 646s (>480s); restarting
+2026-10-12T14:08:24-07:00 started worker 1039705
+2026-10-13T03:54:59-07:00 ALERT stale 33525s (>480s); restarting
+2026-10-13T03:55:01-07:00 started worker 1079880
+2026-10-13T12:03:37-07:00 ALERT stale 1055s (>480s); restarting
+2026-10-13T12:03:39-07:00 started worker 1104222
+2026-10-13T15:22:10-07:00 ALERT stale 574s (>240s); restarting
+2026-10-13T15:22:12-07:00 started worker 1133118
+2026-10-14T07:45:03-07:00 ALERT stale 44041s (>240s); restarting
+2026-10-14T07:45:05-07:00 started worker 1149529
+2026-10-14T10:05:53-07:00 ALERT stale 1036s (>480s); restarting
+2026-10-14T10:05:55-07:00 started worker 1172585
+2026-10-14T12:38:53-07:00 ALERT stale 2427s (>480s); restarting
+2026-10-14T12:38:55-07:00 started worker 1193088
+2026-10-14T17:43:13-07:00 ALERT stale 2539s (>240s); restarting
+2026-10-14T17:43:15-07:00 started worker 1224120
+2026-10-15T09:20:15-07:00 supervisor 29685 starting
+2026-10-15T09:20:15-07:00 started worker 29692
+2026-10-15T14:03:27-07:00 ALERT stale 1145s (>480s); restarting
+2026-10-15T14:03:29-07:00 started worker 93644
+2026-10-16T09:07:02-07:00 ALERT stale 2682s (>480s); restarting
+2026-10-16T09:07:04-07:00 started worker 231179
+2026-10-16T15:00:13-07:00 ALERT stale 735s (>480s); restarting
+2026-10-16T15:00:15-07:00 started worker 324765
+2026-10-16T20:41:18-07:00 supervisor 9042 starting
+2026-10-16T20:41:18-07:00 started worker 9049
+2026-10-17T04:18:35-07:00 stopping
+2026-10-17T04:18:52-07:00 supervisor 43703 starting
+2026-10-17T04:18:52-07:00 started worker 43710
+2026-10-17T16:17:37-07:00 supervisor 7157 starting
+2026-10-17T16:17:37-07:00 started worker 7164
+2026-10-17T20:08:44-07:00 stopping
+2026-10-17T20:09:37-07:00 supervisor 63306 starting
+2026-10-17T20:09:37-07:00 started worker 63313
+2026-10-18T03:20:04-07:00 supervisor 9857 starting
+2026-10-18T03:20:04-07:00 started worker 9880
+2026-10-18T05:13:24-07:00 ALERT stale 6274s (>480s); restarting
+2026-10-18T05:13:26-07:00 started worker 17176
+2026-10-18T05:36:23-07:00 ALERT stale 1091s (>480s); restarting
+2026-10-18T05:36:25-07:00 started worker 19366
+2026-10-18T06:42:10-07:00 ALERT stale 771s (>480s); restarting
+2026-10-18T06:42:12-07:00 started worker 34811
+2026-10-18T07:39:25-07:00 ALERT stale 784s (>480s); restarting
+2026-10-18T07:39:27-07:00 started worker 42891
+2026-10-18T15:15:40-07:00 ALERT stale 1474s (>480s); restarting
+2026-10-18T15:15:42-07:00 started worker 131109
+2026-10-18T17:39:18-07:00 ALERT stale 1484s (>480s); restarting
+2026-10-18T17:39:20-07:00 started worker 162856
+2026-10-19T09:33:05-07:00 ALERT stale 2004s (>480s); restarting
+2026-10-19T09:33:07-07:00 started worker 188771
+2026-10-19T12:39:49-07:00 ALERT stale 628s (>480s); restarting
+2026-10-19T12:39:51-07:00 started worker 230870
+2026-10-19T14:39:59-07:00 ALERT stale 944s (>480s); restarting
+2026-10-19T14:40:01-07:00 started worker 262115
+2026-10-19T18:59:47-07:00 ALERT stale 721s (>480s); restarting
+2026-10-19T18:59:49-07:00 started worker 354816
+2026-10-20T07:09:44-07:00 ALERT stale 11340s (>480s); restarting
+2026-10-20T07:09:46-07:00 started worker 377090
+2026-10-20T07:23:39-07:00 ALERT stale 517s (>480s); restarting
+2026-10-20T07:23:41-07:00 started worker 379721
+2026-10-20T07:40:18-07:00 ALERT stale 711s (>480s); restarting
+2026-10-20T07:40:20-07:00 started worker 381702
+2026-10-20T07:58:21-07:00 ALERT stale 765s (>480s); restarting
+2026-10-20T07:58:23-07:00 started worker 384285
+2026-10-20T08:29:32-07:00 ALERT stale 926s (>480s); restarting
+2026-10-20T08:29:34-07:00 started worker 390158
+2026-10-20T12:17:07-07:00 ALERT stale 769s (>480s); restarting
+2026-10-20T12:17:09-07:00 started worker 438084
+2026-10-20T14:00:52-07:00 ALERT stale 904s (>480s); restarting
+2026-10-20T14:00:54-07:00 started worker 463657
+2026-10-21T11:02:50-07:00 ALERT stale 8041s (>480s); restarting
+2026-10-21T11:02:52-07:00 started worker 531986
+2026-10-21T13:37:37-07:00 ALERT stale 8668s (>480s); restarting
+2026-10-21T13:37:39-07:00 started worker 540252
+2026-10-24T09:22:23-07:00 supervisor 81717 starting
+2026-10-24T09:22:23-07:00 started worker 81724
+2026-10-24T19:00:04-07:00 ALERT stale 866s (>480s); restarting
+2026-10-24T19:00:06-07:00 started worker 279396
+2026-10-24T19:13:47-07:00 ALERT stale 506s (>480s); restarting
+2026-10-24T19:13:49-07:00 started worker 281930
+2026-10-24T20:26:38-07:00 ALERT stale 616s (>480s); restarting
+2026-10-24T20:26:40-07:00 started worker 299423
+2026-10-25T02:40:55-07:00 ALERT stale 22139s (>480s); restarting
+2026-10-25T02:40:57-07:00 started worker 302042
+2026-10-25T03:21:55-07:00 ALERT stale 2173s (>480s); restarting
+2026-10-25T03:21:57-07:00 started worker 304387
+2026-10-25T14:27:31-07:00 ALERT stale 896s (>480s); restarting
+2026-10-25T14:27:33-07:00 started worker 467177
+2026-10-26T07:59:37-07:00 ALERT stale 556s (>480s); restarting
+2026-10-26T07:59:39-07:00 started worker 597804
+2026-10-26T08:58:40-07:00 ALERT stale 533s (>480s); restarting
+2026-10-26T08:58:42-07:00 started worker 609644
+2026-10-26T11:10:56-07:00 ALERT stale 685s (>480s); restarting
+2026-10-26T11:10:58-07:00 started worker 658832
+2026-10-26T11:29:59-07:00 ALERT stale 840s (>480s); restarting
+2026-10-26T11:30:01-07:00 started worker 662113
+2026-10-26T20:00:57-07:00 ALERT stale 603s (>480s); restarting
+2026-10-26T20:00:59-07:00 started worker 808283
+2026-10-27T07:14:26-07:00 ALERT stale 40092s (>480s); restarting
+2026-10-27T07:14:28-07:00 started worker 812706
+2026-10-27T07:27:53-07:00 ALERT stale 519s (>480s); restarting
+2026-10-27T07:27:55-07:00 started worker 814832
+2026-10-27T08:18:05-07:00 ALERT stale 1008s (>480s); restarting
+2026-10-27T08:18:07-07:00 started worker 822326
+2026-10-27T08:31:49-07:00 ALERT stale 507s (>480s); restarting
+2026-10-27T08:31:51-07:00 started worker 827251
+2026-10-27T09:01:19-07:00 ALERT stale 812s (>480s); restarting
+2026-10-27T09:01:21-07:00 started worker 831737
+2026-10-27T10:18:15-07:00 ALERT stale 1065s (>480s); restarting
+2026-10-27T10:18:17-07:00 started worker 846598
+2026-10-27T10:42:23-07:00 ALERT stale 649s (>480s); restarting
+2026-10-27T10:42:25-07:00 started worker 852604
+2026-10-27T11:41:53-07:00 ALERT stale 553s (>480s); restarting
+2026-10-27T11:41:55-07:00 started worker 861371
+2026-10-28T10:45:38-07:00 ALERT stale 870s (>480s); restarting
+2026-10-28T10:45:40-07:00 started worker 1067165
+2026-10-28T15:02:05-07:00 ALERT stale 983s (>480s); restarting
+2026-10-28T15:02:07-07:00 started worker 1111168
+2026-10-28T18:38:46-07:00 supervisor 16893 starting
+2026-10-28T18:38:46-07:00 started worker 16900
+2026-10-28T18:59:41-07:00 ALERT stale 607s (>480s); restarting
+2026-10-28T18:59:43-07:00 started worker 23353
+2026-10-29T09:01:59-07:00 ALERT stale 1163s (>480s); restarting
+2026-10-29T09:02:01-07:00 started worker 60736
+2026-10-29T10:00:41-07:00 ALERT stale 828s (>480s); restarting
+2026-10-29T10:00:43-07:00 started worker 74883
+2026-10-29T11:46:21-07:00 ALERT stale 657s (>480s); restarting
+2026-10-29T11:46:23-07:00 started worker 93939
+2026-10-31T07:15:03-07:00 ALERT stale 3667s (>480s); restarting
+2026-10-31T07:15:05-07:00 started worker 166507
+2026-10-31T07:37:23-07:00 ALERT stale 527s (>480s); restarting
+2026-10-31T07:37:26-07:00 started worker 172364
+2026-10-31T11:42:37-07:00 ALERT stale 623s (>480s); restarting
+2026-10-31T11:42:39-07:00 started worker 250661
+2026-11-01T03:18:01-08:00 ALERT stale 1670s (>480s); restarting
+2026-11-01T03:18:03-08:00 started worker 460974
+2026-11-01T05:15:10-08:00 ALERT stale 6410s (>480s); restarting
+2026-11-01T05:15:12-08:00 started worker 466444
+2026-11-01T17:31:40-08:00 ALERT stale 784s (>480s); restarting
+2026-11-01T17:31:42-08:00 started worker 762231
+2026-11-01T17:45:27-08:00 ALERT stale 509s (>480s); restarting
+2026-11-01T17:45:29-08:00 started worker 765122
+2026-11-02T08:40:00-08:00 ALERT stale 527s (>480s); restarting
+2026-11-02T08:40:02-08:00 started worker 866367
+2026-11-03T08:59:59-08:00 ALERT stale 865s (>480s); restarting
+2026-11-03T09:00:01-08:00 started worker 1166670
+2026-11-03T09:02:01-08:00 worker died; restarting
+2026-11-03T09:02:01-08:00 started worker 1168982
+2026-11-03T10:01:09-08:00 ALERT stale 934s (>480s); restarting
+2026-11-03T10:01:11-08:00 started worker 1191014
+2026-11-03T13:59:37-08:00 ALERT stale 555s (>480s); restarting
+2026-11-03T13:59:39-08:00 started worker 1266820
+2026-11-04T07:02:55-08:00 ALERT stale 26628s (>480s); restarting
+2026-11-04T07:02:57-08:00 started worker 1440277
+2026-11-04T07:59:11-08:00 ALERT stale 593s (>480s); restarting
+2026-11-04T07:59:13-08:00 started worker 1456392

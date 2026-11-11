@@ -1,0 +1,87 @@
+                              slice  sides  graded    WL  u_shop  u_dk  clv_n  clv_mean
+               all posted Oct 17-25     74      74 41-33    4.45 -0.59     35      0.37
+prior-audit scope (lists Oct 18-24)     42      42 25-17    5.61  2.55     15      0.69
+       pre-floor (to 20261020_1508)     53      53 30-23    4.97  1.25     30      0.36
+      post-floor (20261020_1513 on)     21      21 11-10   -0.51 -1.84      5      0.43
+                   final cards only     74      74 41-33    4.45 -0.59     35      0.37
+                           20261017     26      26 12-14   -2.58 -4.10     16      0.11
+                           20261018      4       4   3-1    1.91  1.54      2     -1.08
+                           20261019      9       9   4-5   -1.73 -2.20      7      0.62
+                           20261020     18      18  13-5    6.83  5.26      5      1.36
+                           20261024     11      11   5-6   -1.41 -2.05      1      1.35
+                           20261025      6       6   4-2    1.43  0.96      4      0.20
+             list               player   side  line   dk  shop_at  on_card game_state  actual  graded_actual  hit close_timing  clv_pts
+0   20261017_1016        Brandon Hagel   OVER   3.5  115      132     True        OFF       5            5.0    1      on_time      NaN
+1   20261017_1016     Elias Pettersson  UNDER   1.5  100      115     True        OFF       2            2.0    0      on_time    -1.35
+2   20261017_1222         Sam Reinhart   OVER   2.5  100      113     True        OFF       3            3.0    1      on_time     1.59
+3   20261017_1222   Mackie Samoskevich  UNDER   1.5  100      115     True        OFF       1            1.0    1      on_time    -0.99
+4   20261017_1317          Noah Dobson  UNDER   2.5 -180     -152     True        OFF       3            3.0    0      on_time    -0.00
+5   20261017_1317        Tyler Toffoli   OVER   1.5 -160     -133     True        OFF       0            0.0    0      on_time     0.00
+6   20261017_1317        Moritz Seider   OVER   1.5 -145     -126     True        OFF       2            2.0    1      on_time     3.21
+7   20261017_1317           Will Smith  UNDER   2.5 -145     -123     True        OFF       4            4.0    0      on_time    -0.36
+8   20261017_1317       Mika Zibanejad  UNDER   2.5 -130     -112     True        OFF       1            1.0    1      on_time    -0.00
+9   20261017_1421       Steven Stamkos   OVER   2.5  100      117     True        OFF       1            1.0    0      on_time    -0.97
+10  20261017_1421           Roman Josi   OVER   2.5  115      132     True        OFF       1            1.0    0      on_time     0.00
+11  20261017_1421         Matthew Wood   OVER   1.5  105      121     True        OFF       0            0.0    0      on_time     0.00
+12  20261017_1520       David Pastrnak   OVER   3.5  115      132     True        OFF       3            3.0    0  early_close      NaN
+13  20261017_1520         Adrian Kempe   OVER   2.5 -165     -138     True        OFF       1            1.0    0  early_close      NaN
+14  20261017_1520       Charlie McAvoy  UNDER   1.5 -105      108     True        OFF       2            2.0    0  early_close      NaN
+15  20261017_1520           JJ Peterka  UNDER   1.5  100      114     True        OFF       2            2.0    0  early_close      NaN
+16  20261017_1618       Connor McDavid  UNDER   3.5 -150     -128     True        OFF       2            2.0    1  capture_gap      NaN
+17  20261017_1618       Brayden McNabb  UNDER   1.5 -190     -158     True        OFF       1            1.0    1  capture_gap      NaN
+18  20261017_1618           Mark Stone  UNDER   2.5 -165     -138     True        OFF       1            1.0    1  capture_gap      NaN
+19  20261017_1618           Bryan Rust  UNDER   1.5  135      150     True        OFF       1            1.0    1  capture_gap      NaN
+20  20261017_1618         Mitch Marner   OVER   2.5  145      160     True        OFF       1            1.0    0  capture_gap      NaN
+21    20261017_AM         Dylan Strome  UNDER   1.5  105      119     True        OFF       3            3.0    0      on_time    -0.00
+22    20261017_AM           Timo Meier   OVER   2.5 -140     -120     True        OFF       3            3.0    1      on_time    -0.61
+23    20261017_AM       Jakob Chychrun  UNDER   2.5 -140     -121     True        OFF       1            1.0    1      on_time    -0.99
+24    20261017_AM      Arseny Gritsyuk   OVER   1.5 -140     -120     True        OFF       6            6.0    1      on_time     2.19
+25    20261017_AM        Sebastian Aho   OVER   2.5 -110      106     True        OFF       0            0.0    0      on_time     0.00
+26  20261018_1224        Matthew Knies  UNDER   1.5 -120     -106     True        OFF       1            1.0    1  capture_gap      NaN
+27  20261018_1224       Maxim Shabanov  UNDER   1.5 -125     -108     True        OFF       0            0.0    1  capture_gap      NaN
+28  20261018_1358       Nikolaj Ehlers  UNDER   2.5 -165     -137     True        OFF       3            3.0    0      on_time    -1.15
+29  20261018_1358        Sebastian Aho   OVER   2.5 -110      104     True        OFF       3            3.0    1      on_time    -1.02
+30  20261019_1247          J.T. Miller  UNDER   1.5  125      140     True        OFF       2            2.0    0      on_time    -0.00
+31  20261019_1247        Eeli Tolvanen  UNDER   1.5 -125     -108     True        OFF       1            1.0    1      on_time     0.99
+32  20261019_1247      Jackson LaCombe  UNDER   1.5 -125     -107     True        OFF       1            1.0    1      on_time    -0.00
+33  20261019_1247     Beckett Sennecke  UNDER   2.5 -110      105     True        OFF       4            4.0    0      on_time     2.48
+34  20261019_1247     Artturi Lehkonen  UNDER   1.5  115      130     True        OFF       2            2.0    0      on_time    -0.00
+35  20261019_1319            Nick Paul  UNDER   1.5 -155     -131     True        OFF       1            1.0    1  capture_gap      NaN
+36  20261019_1518           Anders Lee   OVER   1.5 -150     -128     True        OFF       1            1.0    0      on_time    -2.28
+37  20261019_1518       Rickard Rakell  UNDER   2.5 -135     -116     True        OFF       3            3.0    0      on_time     3.18
+38  20261019_1518         Logan Cooley  UNDER   2.5 -180     -154     True        OFF       2            2.0    1      on_time      NaN
+39  20261020_1305        Tony DeAngelo  UNDER   1.5 -130     -112     True        OFF       0            0.0    1      on_time     1.01
+40  20261020_1305      Jackson LaCombe  UNDER   1.5 -125     -108     True        OFF       0            0.0    1      on_time     4.28
+41  20261020_1305      Aliaksei Protas  UNDER   1.5 -125     -110     True        OFF       1            1.0    1      on_time    -0.00
+42  20261020_1305        Morgan Rielly  UNDER   1.5 -145     -123     True        OFF       0            0.0    1      on_time     1.51
+43  20261020_1305     Kirill Marchenko  UNDER   2.5 -105      108     True        OFF       2            2.0    1      on_time    -0.00
+44  20261020_1406      Jimmy Snuggerud   OVER   2.5  110      123     True        OFF       2            2.0    0     no_lines      NaN
+45  20261020_1406       Charlie McAvoy  UNDER   1.5 -110      105     True        OFF       0            0.0    1     no_lines      NaN
+46  20261020_1406        Morgan Geekie  UNDER   1.5 -105      109     True        OFF       1            1.0    1     no_lines      NaN
+47  20261020_1406           JJ Peterka  UNDER   1.5  105      118     True        OFF       1            1.0    1     no_lines      NaN
+48  20261020_1406       Wyatt Johnston  UNDER   2.5 -105      109     True        OFF       4            4.0    0     no_lines      NaN
+49  20261020_1508      Kasperi Kapanen  UNDER   1.5 -125     -110     True        OFF       0            0.0    1     no_lines      NaN
+50  20261020_1508      Kirill Kaprizov  UNDER   3.5 -140     -121     True        OFF       3            3.0    1     no_lines      NaN
+51  20261020_1508       Alex Formenton  UNDER   1.5 -135     -115     True        OFF       3            3.0    0     no_lines      NaN
+52  20261020_1508       Maxim Shabanov  UNDER   1.5 -175     -145     True        OFF       1            1.0    1     no_lines      NaN
+53  20261020_1513           Vince Dunn  UNDER   2.5 -155     -133     True        OFF       1            1.0    1     no_lines      NaN
+54  20261020_1513          Kaapo Kakko  UNDER   1.5 -165     -140     True        OFF       0            0.0    1     no_lines      NaN
+55  20261020_1513   Mackie Samoskevich  UNDER   1.5  130      146     True        OFF       2            2.0    0     no_lines      NaN
+56  20261020_1548  Shayne Gostisbehere   OVER   1.5 -145     -122     True        OFF       0            0.0    0     no_lines      NaN
+57  20261024_0922         Jesper Bratt   OVER   1.5 -190     -159     True        OFF       0            0.0    0  capture_gap      NaN
+58  20261024_0922      Alex Laferriere  UNDER   2.5 -110      104     True        OFF       0            0.0    1  capture_gap      NaN
+59  20261024_1307        Tyler Toffoli   OVER   1.5 -115      101     True        OFF       3            3.0    1  capture_gap      NaN
+60  20261024_1307           Tom Wilson  UNDER   2.5 -200     -166     True        OFF       3            3.0    0  capture_gap      NaN
+61  20261024_1307   Mattias Samuelsson  UNDER   1.5 -140     -119     True        OFF       1            1.0    1  capture_gap      NaN
+62  20261024_1307        Sebastian Aho   OVER   2.5  100      116     True        OFF       1            1.0    0  capture_gap      NaN
+63  20261024_1307       Darren Raddysh  UNDER   2.5 -135     -117     True        OFF       0            0.0    1  capture_gap      NaN
+64  20261024_1512       Barrett Hayton  UNDER   1.5  105      120     True        OFF       3            3.0    0      on_time     1.35
+65  20261024_1609        Matt Coronato  UNDER   2.5 -140     -118     True        OFF       2            2.0    1  capture_gap      NaN
+66  20261024_1609        Emmitt Finnie   OVER   1.5 -105      109     True        OFF       0            0.0    0  capture_gap      NaN
+67  20261024_1609           Vince Dunn  UNDER   2.5 -190     -159     True        OFF       4            4.0    0  capture_gap      NaN
+68  20261025_0922      Roman Kantserov  UNDER   1.5  100      115     True        OFF       2            NaN    0      on_time     1.82
+69  20261025_1202       Brayden Schenn   OVER   1.5 -105      109     True        OFF       2            NaN    1      on_time     0.99
+70  20261025_1202          Roope Hintz  UNDER   2.5 -185     -157     True        OFF       2            NaN    1      on_time    -0.51
+71  20261025_1202       Miro Heiskanen  UNDER   1.5  130      145     True        OFF       4            NaN    0      on_time    -1.50
+72  20261025_1404           Roman Josi   OVER   1.5 -195     -164     True        OFF       4            NaN    1  capture_gap      NaN
+73  20261025_1404         Sam Malinski  UNDER   1.5 -105      109     True        OFF       0            NaN    1  capture_gap      NaN

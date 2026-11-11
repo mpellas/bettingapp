@@ -1,0 +1,2 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261027,Dylan Guenther,Minnesota Wild at Utah Mammoth,UNDER,2.5,8482699,2026020195,401892592,fc98fb73985d5caecdfffd4cb0f4d3ed,not offered on Fliff (no Fliff shots market posted for this game yet),,,False,133,False,120,2.5,120,2.5,,2026-10-27T14:32:17-07:00,20261027_1432_post_fliffeligible.txt

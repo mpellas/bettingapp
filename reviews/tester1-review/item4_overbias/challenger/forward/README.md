@@ -1,0 +1,2 @@
+# Forward shadow tally (from 2026-10-31)
+Nightly: copy the day's window passes into src/picks, run ../shadow_shrink50.py slate per pass into slate_YYYYMMDD_HHMM.csv, then `python3 tally_forward.py YYYYMMDD`. Latest pass >=150 min before NHL.com start per player-game; live and challenger listed sides graded 1u at DK from NHL.com box scores. ("last5 skipped" messages are display-only.) Driver: /workspace/nhl-sog/shadow/edge8_band/run_nightly.sh

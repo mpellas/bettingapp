@@ -1,0 +1,27 @@
+league,config,settings,tune_norm_mae,holdout_norm_mae,delta_tune_vs_live,delta_holdout_vs_live,applied_candidate
+nfl,baseline,live settings,0.94293,0.98406,0.0,0.0,False
+ncaaf,baseline,live settings,0.95364,0.98205,0.0,0.0,False
+nfl,blend 0.55/0.25/0.20,"{""W_SEASON"": 0.55, ""W_L3"": 0.25, ""W_PRIOR"": 0.2}",0.94228,0.98113,-0.00065,-0.00293,False
+nfl,blend 0.40/0.30/0.30,"{""W_SEASON"": 0.4, ""W_L3"": 0.3, ""W_PRIOR"": 0.3}",0.9367,0.98331,-0.00623,-0.00075,False
+nfl,blend 0.50/0.20/0.30,"{""W_SEASON"": 0.5, ""W_L3"": 0.2, ""W_PRIOR"": 0.3}",0.936,0.98101,-0.00693,-0.00305,True
+nfl,blend 0.35/0.45/0.20,"{""W_SEASON"": 0.35, ""W_L3"": 0.45, ""W_PRIOR"": 0.2}",0.94425,0.9884,0.00132,0.00434,False
+nfl,matchup 0.0,"{""MATCHUP_STRENGTH"": 0.0}",0.94462,0.98738,0.00169,0.00332,False
+nfl,matchup 0.3,"{""MATCHUP_STRENGTH"": 0.3}",0.94203,0.98395,-0.0009,-0.00011,True
+nfl,matchup 1.0,"{""MATCHUP_STRENGTH"": 1.0}",0.94632,0.98763,0.00339,0.00357,False
+nfl,env 0.0,"{""ENV_STRENGTH"": 0.0}",0.94494,0.98451,0.00201,0.00045,False
+nfl,env 0.5,"{""ENV_STRENGTH"": 0.5}",0.94122,0.98341,-0.00171,-0.00065,True
+nfl,env 1.5,"{""ENV_STRENGTH"": 1.5}",0.94534,0.9858,0.00241,0.00174,False
+nfl,pos-shrink k=0,"{""SHRINK_K"": 0.0}",0.94953,0.98511,0.0066,0.00105,False
+nfl,pos-shrink k=1.5,"{""SHRINK_K"": 1.5}",0.93668,0.98489,-0.00625,0.00083,False
+ncaaf,cfb season/L3 0.40,"{""CFB_W_SEASON"": 0.4}",0.95551,0.98636,0.00187,0.00431,False
+ncaaf,cfb season/L3 0.70,"{""CFB_W_SEASON"": 0.7}",0.95237,0.97995,-0.00127,-0.0021,True
+ncaaf,cfb prior fade slower (decay 0.08),"{""CFB_PRIOR_DECAY"": 0.08}",0.95011,0.98024,-0.00353,-0.00181,True
+ncaaf,cfb prior fade faster (decay 0.20),"{""CFB_PRIOR_DECAY"": 0.2}",0.95689,0.98366,0.00325,0.00161,False
+ncaaf,cfb no prior (ablation),"{""CFB_PRIOR_START"": 0.0, ""CFB_PRIOR_FLOOR"": 0.0}",0.96609,0.99022,0.01245,0.00817,False
+ncaaf,cfb opp-adj BETA 0 (ablation),"{""BETA"": 0.0}",0.95749,0.98653,0.00385,0.00448,False
+ncaaf,cfb opp-adj BETA 0.018,"{""BETA"": 0.018}",0.95554,0.9836,0.0019,0.00155,False
+ncaaf,cfb level-jump off (ablation),"{""LEVEL_BETA"": 0.0}",0.9534,0.98205,-0.00024,0.0,False
+ncaaf,matchup 0.0,"{""MATCHUP_STRENGTH"": 0.0}",0.95259,0.98259,-0.00105,0.00054,False
+ncaaf,matchup 1.0,"{""MATCHUP_STRENGTH"": 1.0}",0.95871,0.98761,0.00507,0.00556,False
+ncaaf,env 0.0,"{""ENV_STRENGTH"": 0.0}",0.95211,0.98316,-0.00153,0.00111,False
+ncaaf,env 1.5,"{""ENV_STRENGTH"": 1.5}",0.9558,0.98394,0.00216,0.00189,False

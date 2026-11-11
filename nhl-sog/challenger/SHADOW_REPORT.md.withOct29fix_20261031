@@ -1,0 +1,16 @@
+# Challenger shadow track
+
+Challenger `3386583f18` (features: 29, groups ['shrink'], trees 856, k 16.20, trained through 2026-10-16) vs champion `c3ab760178` vs DraftKings no-vig.
+Scored slates: 20261017 onward (see challenger/PREREG_3386583f18.md).
+
+Rows: 948 OK lines with a challenger prediction (60 games, 10 slates); 0 OK lines had no challenger prediction; 0 predictions were produced late (inputs cut at the prior day, so not leaky); 0 flagged stale inputs. 17 rows marked excluded_pre_noon (puck drop before 12:00 PM PT; same rule as grade_report.py).
+
+| model | log-loss | Brier | log-loss minus market | lean z-CLV | lean hit vs implied |
+|---|---|---|---|---|---|
+| DK no-vig | 0.6832 | 0.2451 | – | – | – |
+| champion c3ab760178 | 0.6881 | 0.2473 | +0.0048 [-0.0028, +0.0130] | +nan [+0.0041, +0.0140] | 0.528 vs 0.508 |
+| challenger 3386583f18 | 0.6884 | 0.2475 | +0.0051 [-0.0026, +0.0130] | +nan [+0.0052, +0.0147] | 0.513 vs 0.507 |
+
+**Primary 1 (log-loss, challenger - champion):** +0.0003 [-0.0025, +0.0029] over 60 games. Pass needs the upper bound < 0.
+**Primary 2 (lean z-CLV, challenger - champion):** +nan [-0.0011, +0.0033]. Pass needs the lower bound > 0.
+Window/decision rules: see the prereg. Fewer than 300 lines or 60 games = INCONCLUSIVE, report only.

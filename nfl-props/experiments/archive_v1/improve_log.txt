@@ -1,0 +1,98 @@
+2026-10-04 12:56:34,636 nflprops.backtest season 2023 predicted in 14.7s (3711 rows) [model 63785e6609]
+2026-10-04 12:56:49,810 nflprops.backtest season 2024 predicted in 15.2s (3678 rows) [model 63785e6609]
+2026-10-04 12:56:49,865 improve === iteration 1 | champion 63785e6609 | val logloss 0.69366 | sel logloss 0.69360
+2026-10-04 12:56:59,573 nflprops.backtest season 2019 predicted in 9.7s (3597 rows) [model ace4444831]
+2026-10-04 12:57:11,402 nflprops.backtest season 2020 predicted in 11.8s (3840 rows) [model ace4444831]
+2026-10-04 12:57:22,784 nflprops.backtest season 2021 predicted in 11.4s (3938 rows) [model ace4444831]
+2026-10-04 12:57:33,494 nflprops.backtest season 2022 predicted in 10.7s (3760 rows) [model ace4444831]
+2026-10-04 12:57:34,800 improve   cand 0 ['model.use_snaps=False'] -> val logloss 0.69377 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 12:57:46,234 nflprops.backtest season 2019 predicted in 11.4s (3597 rows) [model 2294b135c8]
+2026-10-04 12:57:58,930 nflprops.backtest season 2020 predicted in 12.7s (3840 rows) [model 2294b135c8]
+2026-10-04 12:58:11,565 nflprops.backtest season 2021 predicted in 12.6s (3938 rows) [model 2294b135c8]
+2026-10-04 12:58:25,626 nflprops.backtest season 2022 predicted in 14.1s (3760 rows) [model 2294b135c8]
+2026-10-04 12:58:27,532 improve   cand 1 ['model.retrain_every_weeks=8', 'model.lgbm.n_estimators=800'] -> val logloss 0.69382 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 12:58:37,003 nflprops.backtest season 2019 predicted in 9.4s (3597 rows) [model c6fea64cdd]
+2026-10-04 12:58:46,919 nflprops.backtest season 2020 predicted in 9.9s (3840 rows) [model c6fea64cdd]
+2026-10-04 12:58:57,835 nflprops.backtest season 2021 predicted in 10.9s (3938 rows) [model c6fea64cdd]
+2026-10-04 12:59:09,441 nflprops.backtest season 2022 predicted in 11.6s (3760 rows) [model c6fea64cdd]
+2026-10-04 12:59:10,729 improve   cand 2 ['model.lgbm.learning_rate=0.015'] -> val logloss 0.69362 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 12:59:34,734 nflprops.backtest season 2019 predicted in 24.0s (3597 rows) [model b3fbd96187]
+2026-10-04 12:59:50,522 nflprops.backtest season 2020 predicted in 15.8s (3840 rows) [model b3fbd96187]
+2026-10-04 12:59:59,706 nflprops.backtest season 2021 predicted in 9.2s (3938 rows) [model b3fbd96187]
+2026-10-04 13:00:10,165 nflprops.backtest season 2022 predicted in 10.5s (3760 rows) [model b3fbd96187]
+2026-10-04 13:00:11,656 improve   cand 3 ['model.lgbm.colsample_bytree=0.5'] -> val logloss 0.69372 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:00:27,822 nflprops.backtest season 2023 predicted in 16.1s (3711 rows) [model c6fea64cdd]
+2026-10-04 13:00:40,039 nflprops.backtest season 2024 predicted in 12.2s (3678 rows) [model c6fea64cdd]
+2026-10-04 13:00:40,113 improve   decision: {'iteration': 1, 'best_candidate_run': 'r0005', 'val_logloss_challenger': 0.6936207014836218, 'val_logloss_champion': 0.6936601998388586, 'sel_logloss_challenger': 0.6935371547882841, 'sel_logloss_champion': 0.6936034432049589, 'sel_gain': 6.628841667495752e-05, 'boot_prob': 0.81875, 'sel_flat_roi_challenger': nan, 'sel_flat_roi_champion': nan, 'promoted': False, 'event': 'challenger rejected on selection seasons'}
+2026-10-04 13:00:40,113 improve === iteration 2 | champion 63785e6609 | val logloss 0.69366 | sel logloss 0.69360
+2026-10-04 13:00:48,750 nflprops.backtest season 2019 predicted in 8.6s (3597 rows) [model 48abf2789f]
+2026-10-04 13:00:58,371 nflprops.backtest season 2020 predicted in 9.6s (3840 rows) [model 48abf2789f]
+2026-10-04 13:01:08,070 nflprops.backtest season 2021 predicted in 9.7s (3938 rows) [model 48abf2789f]
+2026-10-04 13:01:18,312 nflprops.backtest season 2022 predicted in 10.2s (3760 rows) [model 48abf2789f]
+2026-10-04 13:01:19,733 improve   cand 0 ['model.dist=normal'] -> val logloss 0.69369 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:01:26,854 nflprops.backtest season 2019 predicted in 7.1s (3597 rows) [model e2c75c91fe]
+2026-10-04 13:01:34,333 nflprops.backtest season 2020 predicted in 7.5s (3840 rows) [model e2c75c91fe]
+2026-10-04 13:01:42,120 nflprops.backtest season 2021 predicted in 7.8s (3938 rows) [model e2c75c91fe]
+2026-10-04 13:01:50,586 nflprops.backtest season 2022 predicted in 8.5s (3760 rows) [model e2c75c91fe]
+2026-10-04 13:01:51,917 improve   cand 1 ['model.lgbm.colsample_bytree=1.0', 'model.retrain_every_weeks=8'] -> val logloss 0.69375 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:01:55,897 nflprops.backtest season 2019 predicted in 3.9s (3597 rows) [model 989fabcbf7]
+2026-10-04 13:02:00,647 nflprops.backtest season 2020 predicted in 4.8s (3840 rows) [model 989fabcbf7]
+2026-10-04 13:02:06,104 nflprops.backtest season 2021 predicted in 5.5s (3938 rows) [model 989fabcbf7]
+2026-10-04 13:02:11,977 nflprops.backtest season 2022 predicted in 5.9s (3760 rows) [model 989fabcbf7]
+2026-10-04 13:02:13,413 improve   cand 2 ['model.feature_set=player_vegas', 'model.lgbm.n_estimators=200'] -> val logloss 0.69366 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:02:25,583 nflprops.backtest season 2019 predicted in 12.1s (3597 rows) [model ef020e755a]
+2026-10-04 13:02:39,194 nflprops.backtest season 2020 predicted in 13.6s (3840 rows) [model ef020e755a]
+2026-10-04 13:02:54,249 nflprops.backtest season 2021 predicted in 15.1s (3938 rows) [model ef020e755a]
+2026-10-04 13:03:09,785 nflprops.backtest season 2022 predicted in 15.5s (3760 rows) [model ef020e755a]
+2026-10-04 13:03:11,165 improve   cand 3 ['model.use_snaps=False', 'model.lgbm.num_leaves=31'] -> val logloss 0.69395 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:03:16,644 nflprops.backtest season 2023 predicted in 5.4s (3711 rows) [model 989fabcbf7]
+2026-10-04 13:03:21,985 nflprops.backtest season 2024 predicted in 5.3s (3678 rows) [model 989fabcbf7]
+2026-10-04 13:03:22,060 improve   decision: {'iteration': 2, 'best_candidate_run': 'r0010', 'val_logloss_challenger': 0.693656406071928, 'val_logloss_champion': 0.6936601998388586, 'sel_logloss_challenger': 0.6935811985577914, 'sel_logloss_champion': 0.6936034432049589, 'sel_gain': 2.2244647167532796e-05, 'boot_prob': 0.5705, 'sel_flat_roi_challenger': nan, 'sel_flat_roi_champion': nan, 'promoted': False, 'event': 'challenger rejected on selection seasons'}
+2026-10-04 13:03:22,060 improve === iteration 3 | champion 63785e6609 | val logloss 0.69366 | sel logloss 0.69360
+2026-10-04 13:03:37,630 nflprops.backtest season 2019 predicted in 15.5s (3597 rows) [model 8f35055dd8]
+2026-10-04 13:03:55,111 nflprops.backtest season 2020 predicted in 17.5s (3840 rows) [model 8f35055dd8]
+2026-10-04 13:04:12,290 nflprops.backtest season 2021 predicted in 17.2s (3938 rows) [model 8f35055dd8]
+2026-10-04 13:04:31,299 nflprops.backtest season 2022 predicted in 19.0s (3760 rows) [model 8f35055dd8]
+2026-10-04 13:04:32,865 improve   cand 0 ['model.dist=normal', 'model.lgbm.n_estimators=800'] -> val logloss 0.69381 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:04:41,773 nflprops.backtest season 2019 predicted in 8.9s (3597 rows) [model 0774f9acc7]
+2026-10-04 13:04:51,545 nflprops.backtest season 2020 predicted in 9.8s (3840 rows) [model 0774f9acc7]
+2026-10-04 13:05:01,619 nflprops.backtest season 2021 predicted in 10.1s (3938 rows) [model 0774f9acc7]
+2026-10-04 13:05:12,682 nflprops.backtest season 2022 predicted in 11.1s (3760 rows) [model 0774f9acc7]
+2026-10-04 13:05:14,085 improve   cand 1 ['model.lgbm.min_child_samples=20'] -> val logloss 0.69358 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:05:26,496 nflprops.backtest season 2019 predicted in 12.4s (3597 rows) [model 7fbfe92a5b]
+2026-10-04 13:05:40,726 nflprops.backtest season 2020 predicted in 14.2s (3840 rows) [model 7fbfe92a5b]
+2026-10-04 13:05:56,451 nflprops.backtest season 2021 predicted in 15.7s (3938 rows) [model 7fbfe92a5b]
+2026-10-04 13:06:18,259 nflprops.backtest season 2022 predicted in 21.8s (3760 rows) [model 7fbfe92a5b]
+2026-10-04 13:06:20,433 improve   cand 2 ['model.lgbm.n_estimators=800', 'model.feature_set=player_vegas'] -> val logloss 0.69368 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:06:29,495 nflprops.backtest season 2019 predicted in 9.0s (3597 rows) [model c947ae59fd]
+2026-10-04 13:06:39,948 nflprops.backtest season 2020 predicted in 10.5s (3840 rows) [model c947ae59fd]
+2026-10-04 13:06:50,828 nflprops.backtest season 2021 predicted in 10.9s (3938 rows) [model c947ae59fd]
+2026-10-04 13:07:01,528 nflprops.backtest season 2022 predicted in 10.7s (3760 rows) [model c947ae59fd]
+2026-10-04 13:07:02,861 improve   cand 3 ['model.lgbm.learning_rate=0.015', 'model.dist=normal'] -> val logloss 0.69363 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:07:14,269 nflprops.backtest season 2023 predicted in 11.3s (3711 rows) [model 0774f9acc7]
+2026-10-04 13:07:26,708 nflprops.backtest season 2024 predicted in 12.4s (3678 rows) [model 0774f9acc7]
+2026-10-04 13:07:26,788 improve   decision: {'iteration': 3, 'best_candidate_run': 'r0014', 'val_logloss_challenger': 0.6935832486185459, 'val_logloss_champion': 0.6936601998388586, 'sel_logloss_challenger': 0.6934985335029822, 'sel_logloss_champion': 0.6936034432049589, 'sel_gain': 0.00010490970197687448, 'boot_prob': 0.9505, 'sel_flat_roi_challenger': nan, 'sel_flat_roi_champion': nan, 'promoted': False, 'event': 'challenger rejected on selection seasons'}
+2026-10-04 13:07:26,788 improve === iteration 4 | champion 63785e6609 | val logloss 0.69366 | sel logloss 0.69360
+2026-10-04 13:07:33,946 nflprops.backtest season 2019 predicted in 7.1s (3597 rows) [model 8b19199a0c]
+2026-10-04 13:07:42,502 nflprops.backtest season 2020 predicted in 8.6s (3840 rows) [model 8b19199a0c]
+2026-10-04 13:07:50,750 nflprops.backtest season 2021 predicted in 8.2s (3938 rows) [model 8b19199a0c]
+2026-10-04 13:07:59,425 nflprops.backtest season 2022 predicted in 8.7s (3760 rows) [model 8b19199a0c]
+2026-10-04 13:08:01,389 improve   cand 0 ['model.feature_set=player_vegas'] -> val logloss 0.69363 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:08:07,042 nflprops.backtest season 2019 predicted in 5.6s (3597 rows) [model 557e6ab3e4]
+2026-10-04 13:08:12,898 nflprops.backtest season 2020 predicted in 5.9s (3840 rows) [model 557e6ab3e4]
+2026-10-04 13:08:19,017 nflprops.backtest season 2021 predicted in 6.1s (3938 rows) [model 557e6ab3e4]
+2026-10-04 13:08:27,084 nflprops.backtest season 2022 predicted in 8.1s (3760 rows) [model 557e6ab3e4]
+2026-10-04 13:08:28,439 improve   cand 1 ['model.lgbm.num_leaves=7'] -> val logloss 0.69360 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:08:39,765 nflprops.backtest season 2019 predicted in 11.3s (3597 rows) [model 3a9d95ef3a]
+2026-10-04 13:08:53,492 nflprops.backtest season 2020 predicted in 13.7s (3840 rows) [model 3a9d95ef3a]
+2026-10-04 13:09:07,687 nflprops.backtest season 2021 predicted in 14.2s (3938 rows) [model 3a9d95ef3a]
+2026-10-04 13:09:23,311 nflprops.backtest season 2022 predicted in 15.6s (3760 rows) [model 3a9d95ef3a]
+2026-10-04 13:09:24,719 improve   cand 2 ['model.lgbm.num_leaves=31', 'model.lgbm.colsample_bytree=0.5'] -> val logloss 0.69378 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:09:29,712 nflprops.backtest season 2019 predicted in 5.0s (3597 rows) [model a28fcf3142]
+2026-10-04 13:09:35,064 nflprops.backtest season 2020 predicted in 5.4s (3840 rows) [model a28fcf3142]
+2026-10-04 13:09:41,390 nflprops.backtest season 2021 predicted in 6.3s (3938 rows) [model a28fcf3142]
+2026-10-04 13:09:48,382 nflprops.backtest season 2022 predicted in 7.0s (3760 rows) [model a28fcf3142]
+2026-10-04 13:09:49,720 improve   cand 3 ['model.lgbm.n_estimators=200'] -> val logloss 0.69363 (champ 0.69366) flat ROI nan bets 0
+2026-10-04 13:09:58,744 nflprops.backtest season 2023 predicted in 8.9s (3711 rows) [model 557e6ab3e4]
+2026-10-04 13:10:07,962 nflprops.backtest season 2024 predicted in 9.2s (3678 rows) [model 557e6ab3e4]
+2026-10-04 13:10:08,071 improve   decision: {'iteration': 4, 'best_candidate_run': 'r0019', 'val_logloss_challenger': 0.6935974347910014, 'val_logloss_champion': 0.6936601998388586, 'sel_logloss_challenger': 0.6935322978825579, 'sel_logloss_champion': 0.6936034432049589, 'sel_gain': 7.114532240119822e-05, 'boot_prob': 0.8235, 'sel_flat_roi_challenger': nan, 'sel_flat_roi_champion': nan, 'promoted': False, 'event': 'challenger rejected on selection seasons'}

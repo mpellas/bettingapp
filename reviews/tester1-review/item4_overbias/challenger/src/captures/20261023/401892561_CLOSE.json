@@ -1,0 +1,15 @@
+{
+ "event": "401892561",
+ "name": "Carolina Hurricanes at Edmonton Oilers",
+ "start_utc": "2026-10-23T01:00Z",
+ "window_min": [
+  0,
+  30
+ ],
+ "legacy_no_archive": false,
+ "n_snapshots": 1,
+ "n_in_window": 0,
+ "status": "NO_IN_WINDOW_SNAPSHOT",
+ "closed": [],
+ "pulled_before_close": []
+}

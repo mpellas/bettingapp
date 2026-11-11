@@ -1,0 +1,12 @@
+train 2024: 3661 rows, open lines on 90%, weather fc on 64% | test 2025: 3721 rows, open 98%, wx 65%
+| 2025 test | lines | games | log-loss champion | recal only | challenger | challenger - champion | recal - champion | challenger - recal |
+|---|---|---|---|---|---|---|---|---|
+| synthetic | 3721 | 272 | 0.6487 | 0.6510 | 0.6509 | +0.0023 [-0.0025, +0.0068] | +0.0024 [+0.0009, +0.0038] | -0.0001 [-0.0047, +0.0043] |
+| real2025 | 2363 | 193 | 0.7102 | 0.7094 | 0.7107 | +0.0005 [-0.0058, +0.0069] | -0.0008 [-0.0023, +0.0007] | +0.0013 [-0.0044, +0.0072] |
+MAE of mean (synthetic rows): champion 28.17, challenger 28.23, diff +0.0640 [-0.1600, +0.2838]
+per market (synthetic, challenger - champion log-loss): {'pass_yds': '-0.0072 [-0.0180, +0.0025]', 'rush_yds': '-0.0001 [-0.0083, +0.0080]', 'rec_yds': '+0.0052 [-0.0007, +0.0106]'}
+2024-fit coefficients (standardized):
+  pass_yds n=459: int +0.010, itt_dev +0.034, fav +0.027, unit_out +0.045, qb_out +0.000, self_q -0.022, self_d +0.000, wind_x -0.086, cold -0.081, precip -0.040
+  rec_yds n=2298: int +0.037, itt_dev +0.020, fav -0.026, unit_out +0.128, qb_out -0.065, self_q -0.039, self_d +0.000, wind_x -0.016, cold -0.021, precip -0.032
+  rush_yds n=904: int -0.000, itt_dev +0.070, fav +0.040, unit_out +0.129, qb_out -0.060, self_q -0.060, self_d +0.000, wind_x +0.012, cold +0.008, precip -0.025
+FREEZE RULE MET: False

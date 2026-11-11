@@ -1,0 +1,325 @@
+2026-10-28 16:04:29 PDT window-pass start (fired 23:04Z)
+2026-10-28 16:04:46 PDT window-pass end: NO_WINDOW_GAMES, no newly missed games, nothing posted
+2026-10-28 16:33:39 PDT window-pass start (fire 23:33Z)
+2026-10-28 16:33:48 PDT window-pass end: NO_WINDOW_GAMES (last game TOR@SEA 7:00 PM PT already posted), no newly missed games, nothing posted
+2026-10-29 09:21:50 PDT line-capture 9:12 pass (fired 16:20Z): graded 20261028 (0 picks), reports refreshed; no D lines yet (first puck drop 4:00 PM PT), both lists empty, posted to room
+2026-10-29 12:07:06 PDT window-pass start
+2026-10-29 12:07:17 PDT window-pass end: NO_WINDOW_GAMES (earliest WPG@TBL/UTA@PIT/CBJ@CAR 4:00 PM PT ~233 min out), no newly missed games, nothing posted
+2026-10-29 12:33:21 PDT window-pass start
+2026-10-29 12:35:08 PDT window-pass end: list 20261029_1233 (WPG@TBL, UTA@PIT, CBJ@CAR 4:00 PM), NO BETS, 5 Fliff check, 3 Fliff credits (3/10), no missed games, room post handed to parent
+2026-10-31 09:16:05 PDT line-capture 9:12 pass start (fired 16:15Z)
+2026-10-31 09:17:56 PDT line-capture 9:12 pass end: graded 20261029 (47 VOID_noC), 20261030 FAILED (no picks/20261030_D.csv); reports refreshed; D lines only for 4 pre-noon games, both lists empty, posted to room
+2026-10-31 12:03:20 PDT window-pass START (daily window passes routine)
+2026-10-31 12:03:34 PDT window-pass end: NO_WINDOW_GAMES (next 4:00 PM games ~237 min out), no missed games, nothing posted, 0 Fliff credits (2/10)
+2026-10-31 12:32:08 PDT window-pass START
+2026-10-31 12:33:15 PDT window-pass end: list 20261031_1232 (PIT@MTL, TOR@VAN 4:00 PM), NO BETS, 3 Fliff checks all skipped by 12h lineup rule, 2 Fliff credits (4/10), no missed games, room post handed to parent
+2026-10-31 13:03:15 PDT daily-window-pass START
+2026-10-31 13:03:27 PDT daily-window-pass end: NO_WINDOW_GAMES (PIT@MTL, TOR@VAN 4:00 PM already posted in list 20261031_1232; CBJ@DAL 5:00 PM ~237 min out), no missed games, nothing posted, 0 Fliff credits (4/10)
+2026-10-31 13:31:59 PDT window-pass start
+2026-10-31 13:33:09 PDT window-pass end: list 20261031_1332 (CBJ@DAL 5:00 PM, D snapshot taken by this pass), NO BETS, 0 Fliff checks, 0 credits (4/10), no missed games, room post handed to parent
+2026-10-31 14:02:45 PDT daily-window-pass START
+2026-10-31 14:03:01 PDT daily-window-pass end: NO_WINDOW_GAMES (CBJ@DAL 5:00 PM already posted in list 20261031_1332; CGY@COL 7:00 PM ~298 min out), no missed games, nothing posted, 0 Fliff credits (4/10)
+2026-10-31 14:33:45 PDT window-pass start
+2026-10-31 14:33:56 PDT window-pass end: NO_WINDOW_GAMES (CBJ@DAL already posted in list 20261031_1332; CGY@COL 7:00 PM ~267 min out), no missed games, nothing posted, 0 Fliff credits (4/10)
+2026-10-31 15:09:13 PDT daily-window-pass START
+2026-10-31 15:09:30 PDT daily-window-pass end: NO_WINDOW_GAMES (CGY@COL 7:00 PM ~231 min out; all earlier games already posted), no missed games, nothing posted, 0 Fliff credits (4/10)
+2026-10-31 15:37:47 PDT window-pass START
+2026-10-31 15:38:49 PDT window-pass end: list 20261031_1537 (CGY@COL 7:00 PM), NO BETS, 2 Fliff checks skipped on price (Fliff not posted, DK worse), 1 Fliff credit (5/10), no missed games, room post handed to parent
+2026-10-31 16:01:14 PDT window-pass START (routine daily window passes, fired 16:01)
+2026-10-31 16:01:26 PDT window-pass end: NO_WINDOW_GAMES (CGY@COL 7:00 PM ~178 min out, already posted in list 20261031_1537; no later games today), no missed games, nothing posted, 0 Fliff credits (5/10)
+2026-10-31 16:30:40 PDT window-pass START (fire 23:30Z)
+2026-10-31 16:30:51 PDT window-pass end: NO_WINDOW_GAMES (CGY@COL 7:00 PM ~149 min out, already posted in list 20261031_1537; no later games today), no missed games, nothing posted, 0 Fliff credits (5/10)
+2026-11-01 07:08:28 PST window-pass start
+2026-11-01 07:08:39 PST window-pass end: NO_WINDOW_GAMES (WPG@CAR 10:00 AM PT ~172 min out but pre-noon, ineligible; next MIN@WSH 12:30 PM ~322 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-01 07:40:20 PST START daily window pass (fire 15:39:50Z)
+2026-11-01 07:40:39 PST END: NO_WINDOW_GAMES; MISSED WPG@CAR 10:00 AM (139 min out, never scored, pre-noon exclusion still live); nothing priced, 0 Fliff credits
+2026-11-01 08:07:43 PST window-pass start
+2026-11-01 08:07:52 PST window-pass end: NO_WINDOW_GAMES (next MIN@WSH 12:30 PM ~262 min out; WPG@CAR 10:00 AM already logged missed at 7:40), no newly missed games, nothing posted, 0 Fliff credits
+2026-11-01 08:38:23 PST window-pass start
+2026-11-01 08:38:34 PST window-pass end: NO_WINDOW_GAMES (next MIN@WSH 12:30 PM ~231 min out; WPG@CAR 10:00 AM already logged missed at 7:40), no newly missed games, nothing posted, 0 Fliff credits
+2026-11-01 09:08:11 PST window-pass start (automation fire 17:08Z)
+2026-11-01 09:09:10 PST window-pass end: list 20261101_0908 (MIN@WSH 12:30 PM, 202 min), NO BETS, 0 leans, 0 Fliff credits (0/10), no newly missed games, room post handed to parent
+2026-11-01 09:33:19 PST window-pass START (fire 17:33Z)
+2026-11-01 09:34:26 PST window-pass end: list 20261101_0933 (UTA@PHI 1:00 PM, 206 min), NO BETS, 0 DK, 5 Fliff checks all skipped (stale DFO, no Fliff market), 1 Fliff credit (1/10), no newly missed games, room post handed to parent
+2026-11-01 10:04:20 PST window pass start
+2026-11-01 10:04:34 PST window pass end: NO_WINDOW_GAMES, no newly missed games, nothing posted, 0 Fliff credits (1/10)
+2026-11-01 10:30:55 PST window-pass START
+2026-11-01 10:31:04 PST window-pass end: NO_WINDOW_GAMES (EDM@NYR 3:00 PM ~269 min out; MIN@WSH 0908 and UTA@PHI 0933 already posted; WPG@CAR already logged missed), no newly missed games, nothing posted, 0 Fliff credits (1/10)
+2026-11-01 11:03:54 PST window-pass start
+2026-11-01 11:04:03 PST window-pass end: NO_WINDOW_GAMES (EDM@NYR 3:00 PM ~236 min out; MIN@WSH 0908 and UTA@PHI 0933 already posted; WPG@CAR already logged missed), no newly missed games, nothing posted, 0 Fliff credits (1/10)
+2026-11-01 11:36:43 PST window-pass START
+2026-11-01 11:37:49 PST window-pass end: list 20261101_1137 EDM@NYR, NO BETS, 1 Fliff credit (2/10), handed to parent
+2026-11-01 12:00:57 PST START window pass (fire 20:00:51Z)
+2026-11-01 12:01:08 PST window-pass end: NO_WINDOW_GAMES (EDM@NYR posted 1137; OTT@ANA ~299 min out), no newly missed games, nothing posted, 0 Fliff credits (2/10)
+2026-11-01 12:30:47 PST window-pass start
+2026-11-01 12:30:57 PST window-pass end: NO_WINDOW_GAMES (NHL schedule rechecked, times unchanged; EDM@NYR posted 1137; OTT@ANA 5:00 PM ~269 min out), no newly missed games, nothing posted, 0 Fliff credits (2/10)
+2026-11-01 13:10:06 PST window-pass START
+2026-11-01 13:10:16 PST window-pass end: NO_WINDOW_GAMES (NHL schedule rechecked, times unchanged; EDM@NYR posted 1137; OTT@ANA 5:00 PM ~230 min out), no newly missed games, nothing posted, 0 Fliff credits (2/10)
+2026-11-01 13:34:01 PST window-pass start
+2026-11-01 13:34:58 PST window-pass end: OTT@ANA 5:00 PM scored (206 min out), list 20261101_1334 NO BETS, 2 Fliff checks skipped (ANA DFO stale, DK worse, Fliff not posted), no newly missed games, 1 Fliff credit (3/10)
+2026-11-01 14:09:30 PST window-pass START (fire 22:08Z)
+2026-11-01 14:09:38 PST window-pass end: NO_WINDOW_GAMES (NHL schedule rechecked, times unchanged; EDM@NYR 3:00 PM posted 1137, OTT@ANA 5:00 PM posted 1334, ~171 min out), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-01 14:36:51 PST START daily window pass (fired 22:36Z)
+2026-11-01 14:37:00 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, 17:06-18:06 PT window empty; OTT@ANA 5:00 PM posted 1334), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-01 15:08:45 PST START daily window pass (fire 23:08Z)
+2026-11-01 15:08:54 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, 17:38-18:38 PT window empty; OTT@ANA 5:00 PM posted 1334; next-day games start 11-02 4:00 PM PT), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-01 15:39:17 PST window-pass START (fire 23:38Z)
+2026-11-01 15:39:26 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, 18:08-19:08 PT window empty; OTT@ANA 5:00 PM posted 1334 was today's last game; next games 11-02 4:00 PM PT), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-01 16:09:53 PST window-pass START (fired 00:09:47Z)
+2026-11-01 16:10:02 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, 18:39-19:39 PT window empty; OTT@ANA 5:00 PM posted 1334 was today's last game; next games 11-02 4:00 PM PT), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-01 16:34:04 PST window-pass start (fired 00:34Z)
+2026-11-01 16:34:14 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 19:04-20:04 PT window empty; OTT@ANA 5:00 PM was today's last game; next games 11-02 4:00 PM PT), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-02 07:05:07 PST daily-window-pass START
+2026-11-02 07:05:16 PST daily-window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 09:35-10:35 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 07:41:44 PST window-pass start
+2026-11-02 07:41:51 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 10:11-11:11 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 08:05:21 PST window-pass start
+2026-11-02 08:05:31 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 10:35-11:35 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 08:40:21 PST daily-window-pass START
+2026-11-02 08:40:29 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11:10-12:10 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 440 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 09:10:14 PST window-pass START
+2026-11-02 09:10:22 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11:40-12:40 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 409 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 09:37:57 PST window-pass START
+2026-11-02 09:38:06 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 12:08-13:08 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 382 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 10:04:16 PST window-pass START (daily window passes routine)
+2026-11-02 10:04:24 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 12:34-13:34 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 356 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 10:31:18 PST window-pass START (routine fire 18:31Z)
+2026-11-02 10:31:26 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 13:01-14:01 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 329 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 11:09:06 PST window-pass start
+2026-11-02 11:09:16 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 13:39-14:39 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 291 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 11:34:51 PST START window pass
+2026-11-02 11:35:06 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API, 14:05-15:05 PT window empty; first game today 4:00 PM PT VGK@BOS/DET@FLA, 265 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 12:09:35 PST window-pass start
+2026-11-02 12:09:45 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked via NHL API; first game today 4:00 PM PT VGK@BOS/DET@FLA, 230 min out), no newly missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-02 12:32:29 PST window-pass START
+2026-11-02 12:34:04 PST window-pass end: list 20261102_1232 (VGK@BOS, DET@FLA 4:00 PM), NO BETS, 4 Fliff checks none bettable, 2 Fliff credits (2/10), no missed games, room post handed to parent
+2026-11-02 13:07:23 PST window-pass START
+2026-11-02 13:07:32 PST window-pass end: NO_NEW_WINDOW_GAMES (VGK@BOS, DET@FLA 4:00 PM PT at 173 min already posted in 20261102_1232; COL@CHI 233 min, CGY@SJS 293 min out), no newly missed games, nothing posted, 0 Fliff credits (2/10)
+2026-11-02 13:37:22 PST window-pass start
+2026-11-02 13:38:15 PST window-pass end: list 20261102_1337 (COL@CHI 5:00 PM), NO BETS, 4 Fliff checks none bettable, 1 Fliff credit (3/10), no missed games, room post handed to parent
+2026-11-02 14:06:06 PST window-pass START (routine fire 22:05Z)
+2026-11-02 14:06:17 PST window-pass end: NO_NEW_WINDOW_GAMES (COL@CHI 174 min already posted in 20261102_1337; CGY@SJS 234 min out), no newly missed games, nothing posted, 0 Fliff credits (3/10)
+2026-11-02 14:37:46 PST window-pass START (routine fire 22:37Z)
+2026-11-02 14:38:42 PST window-pass end: list 20261102_1438 (CGY@SJS 6:00 PM), NO BETS, 2 Fliff checks none bettable, 1 Fliff credit (4/10), no missed games, room post handed to parent
+2026-11-02 15:10:19 PST window-pass START (fired 23:10:13Z)
+2026-11-02 15:10:27 PST window-pass end: NO_WINDOW_GAMES (NHL schedule rechecked, times unchanged; all four of today's games already posted in 20261102_1232/1337/1438), no newly missed games, nothing posted, 0 Fliff credits (4/10)
+2026-11-02 15:33:33 PST window-pass START
+2026-11-02 15:33:41 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, times unchanged; all four of today's games already posted in 20261102_1232/1337/1438), no newly missed games, nothing posted, 0 Fliff credits (4/10)
+2026-11-02 16:03:18 PST window-pass START (Nov 2 4:03 PM fire)
+2026-11-02 16:03:24 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, times unchanged; all four of today's games already posted in 20261102_1232/1337/1438), no newly missed games, nothing posted, 0 Fliff credits (4/10)
+2026-11-02 16:39:27 PST window-pass START (4:30 fire)
+2026-11-02 16:39:35 PST window-pass end: NO_WINDOW_GAMES (schedule rechecked, times unchanged; all four of today's games already posted in 20261102_1232/1337/1438), no newly missed games, nothing posted, 0 Fliff credits (4/10)
+2026-11-03 07:07:36 PST window-pass START
+2026-11-03 07:07:51 PST window-pass END NO_WINDOW_GAMES
+2026-11-03 07:36:04 PST window-pass START (fire 07:35)
+2026-11-03 07:36:17 PST window-pass END NO_WINDOW_GAMES (schedule rechecked, unchanged; earliest 4:00 PM PT ~504 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 08:08:28 PST window-pass START
+2026-11-03 08:08:41 PST window-pass END: NO_WINDOW_GAMES (earliest 4:00 PM PT, ~471 min out), no missed games
+2026-11-03 08:33:50 PST window-pass START (fired 16:33Z)
+2026-11-03 08:34:04 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked, unchanged; earliest 8 games 4:00 PM PT ~446 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 09:06:13 PST window-pass START (routine fire 17:06Z)
+2026-11-03 09:06:23 PST window-pass END: NO_WINDOW_GAMES, no missed games, nothing posted
+2026-11-03 09:23:09 PST line-captures 9:12 pass (fired 17:21Z): graded 20261102 + report + shadow OK; gap OK; logs thru 11-02; predict: no lines to score (earliest 4:00 PM PT); both lists empty, nothing built, 0 Fliff credits
+2026-11-03 09:39:12 PST window-pass START
+2026-11-03 09:39:26 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked, unchanged; earliest 8 games 4:00 PM PT ~380 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 10:04:50 PST window-pass START (fire 18:04:45Z)
+2026-11-03 10:04:59 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, unchanged; earliest 8 games 4:00 PM PT ~355 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 10:32:25 PST window-pass START (routine fire 18:32Z)
+2026-11-03 10:32:32 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games; earliest 8 games 4:00 PM PT ~327 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 11:10:10 PST window-pass START
+2026-11-03 11:10:22 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games, unchanged; earliest 8 games 4:00 PM PT ~289 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 11:38:42 PST window-pass START
+2026-11-03 11:38:51 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games, unchanged; earliest 8 games 4:00 PM PT ~261 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 12:11:40 PST window-pass START
+2026-11-03 12:11:49 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games, unchanged; earliest 8 games 4:00 PM PT ~228 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-03 12:38:53 PST window-pass start
+2026-11-03 12:40:22 PST window-pass END: 8 games (4:00 PM PT) scored, list 20261103_1239, NO BETS, 3 Fliff credits (3/10), room post picks/20261103_1239_room.txt
+2026-11-03 13:06:18 PST window-pass START (fire 21:06Z)
+2026-11-03 13:07:56 PST window-pass END: EDM@NJD (4:30 PM PT) scored, list 20261103_1307, NO BETS, 1 Fliff credit (4/10), room post picks/20261103_1307_room.txt
+2026-11-03 13:34:50 PST window-pass start
+2026-11-03 13:36:11 PST window-pass END: CAR@NSH (5:00 PM PT) scored, list 20261103_1335, NO BETS, 1 Fliff credit (5/10), room post picks/20261103_1335_room.txt
+2026-11-03 14:09:11 PST window-pass START
+2026-11-03 14:09:28 PST window-pass END: NO_WINDOW_GAMES (ANA@VAN 6:00 PM ~231 min out; all others posted). Nothing posted, 0 Fliff credits (5/10).
+2026-11-03 14:35:23 PST window-pass start
+2026-11-03 14:36:37 PST window-pass END: ANA@VAN (6:00 PM PT) scored, list 20261103_1436, NO BETS, 1 Fliff credit (6/10), room post picks/20261103_1436_room.txt
+2026-11-03 15:06:27 PST window-pass START
+2026-11-03 15:06:40 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games unchanged; all already scored by earlier passes, last ANA@VAN 6:00 PM PT in 20261103_1436), no missed games, nothing posted, 0 Fliff credits (6/10)
+2026-11-03 15:31:03 PST window-pass START
+2026-11-03 15:31:15 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games unchanged; latest ANA@VAN 6:00 PM PT is 149 min out and already scored in 20261103_1436), no missed games, nothing posted, 0 Fliff credits (6/10)
+2026-11-03 16:02:50 PST window-pass START (fire 00:02:45Z)
+2026-11-03 16:03:03 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games unchanged; latest ANA@VAN 6:00 PM PT is 117 min out and already scored in 20261103_1436), no missed games, nothing posted, 0 Fliff credits (6/10)
+2026-11-03 16:34:28 PST window-pass START (routine fire 00:34Z)
+2026-11-03 16:34:35 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API, 11 games unchanged; latest ANA@VAN 6:00 PM PT is ~86 min out and already scored in 20261103_1436), no missed games, nothing posted, 0 Fliff credits (6/10)
+2026-11-04 07:02:57 PST window-pass START
+2026-11-04 07:03:01 PST window-pass END: no window games (earliest puck drop 16:30 PT), no missed games
+2026-11-04 07:33:29 PST window-pass START (fire 15:33Z)
+2026-11-04 07:33:38 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API: OTT@BUF, CHI@FLA 4:30 PM ~536 min out; SJ@LA, CGY@SEA 7:00 PM), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 08:02:31 PST window-pass start
+2026-11-04 08:02:39 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API: OTT@BUF, CHI@FLA 4:30 PM ~508 min out; SJS@LAK, CGY@SEA 7:00 PM), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 08:35:24 PST window-pass START (fired 16:35Z)
+2026-11-04 08:35:33 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API: OTT@BUF, CHI@FLA 4:30 PM ~474 min out; SJS@LAK, CGY@SEA 7:00 PM ~624 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 09:09:36 PST window-pass start
+2026-11-04 09:09:39 PST window-pass end: no games 150-210 min out (earliest 16:30 PT), none missed
+2026-11-04 09:38:06 PST window-pass START
+2026-11-04 09:38:15 PST window-pass END: NO_WINDOW_GAMES (schedule rechecked via NHL API: OTT@BUF, CHI@FLA 4:30 PM ~412 min out; SJS@LAK, CGY@SEA 7:00 PM ~562 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 10:06:50 PST start window-pass
+2026-11-04 10:07:02 PST end window-pass: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~384 min out; SJS@LAK, CGY@SEA 7:00 PM PT ~534 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 10:32:42 PST window-pass START (fired 18:32:30Z)
+2026-11-04 10:32:50 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~357 min out; SJS@LAK, CGY@SEA 7:00 PM PT ~507 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 11:04:42 PST window-pass start
+2026-11-04 11:04:50 PST window-pass end: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~325 min out; SJS@LAK, CGY@SEA 7:00 PM PT ~475 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 11:34:49 PST window-pass START
+2026-11-04 11:34:57 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~295 min out; SJS@LAK, CGY@SEA 7:00 PM PT ~445 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 12:03:25 PST window-pass start
+2026-11-04 12:03:34 PST window-pass end: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~266 min out; SJS@LAK, CGY@SEA 7:00 PM PT ~416 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 12:38:30 PST window-pass start
+2026-11-04 12:38:38 PST window-pass end: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~231 min out; SJS@LAK, CGY@SEA 7:00 PM PT ~381 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-04 13:04:55 PST window-pass START
+2026-11-04 13:06:03 PST window-pass END: list 20261104_1305 (OTT@BUF, CHI@FLA 4:30 PM PT), NO BETS, 0 Fliff credits (0/10), no missed games, room post handed to parent
+2026-11-04 13:32:40 PST window-pass start
+2026-11-04 13:32:54 PST window-pass end: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~177 min out, already posted list 20261104_1305; SJS@LAK, CGY@SEA 7:00 PM PT ~327 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-04 14:09:05 PST window-pass START
+2026-11-04 14:09:14 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~141 min out, already posted list 20261104_1305; SJS@LAK, CGY@SEA 7:00 PM PT ~291 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-04 14:33:38 PST window-pass START
+2026-11-04 14:33:45 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~116 min out, already posted list 20261104_1305; SJS@LAK, CGY@SEA 7:00 PM PT ~266 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-04 15:04:28 PST window-pass START
+2026-11-04 15:04:36 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~85 min out, already posted list 20261104_1305; SJS@LAK, CGY@SEA 7:00 PM PT ~235 min out), no missed games, nothing posted, 0 Fliff credits (0/10)
+2026-11-04 15:31:17 PST window-pass START
+2026-11-04 15:32:34 PST window-pass END: list 20261104_1531 (SJS@LAK, CGY@SEA 7:00 PM PT), NO BETS, 2 Fliff credits (2/10), no missed games, room post handed to parent
+2026-11-04 16:05:44 PST window-pass START (fired 00:05:14Z)
+2026-11-04 16:05:54 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT ~24 min out, posted list 20261104_1305; SJS@LAK, CGY@SEA 7:00 PM PT ~174 min out, already posted list 20261104_1531), no missed games, nothing posted, 0 new Fliff credits (2/10)
+2026-11-04 16:33:49 PST window-pass START (4:30 slot)
+2026-11-04 16:33:58 PST window-pass END: NO_WINDOW_GAMES (NHL API recheck: OTT@BUF, CHI@FLA 4:30 PM PT started, posted list 20261104_1305; SJS@LAK, CGY@SEA 7:00 PM PT ~146 min out, already posted list 20261104_1531), no missed games, nothing posted, 0 new Fliff credits (2/10)
+2026-11-04 18:19:00 PST close-safety-net START (6:15 slot)
+2026-11-04 18:19:32 PST close-safety-net END: 4 NHL games tonight; supervisor+loop alive (ensure_capture OK, gap check OK); started OTT@BUF and CHI@FLA (4:30 PM PT) both have CLOSE (401892644/645); SJS@LAK, CGY@SEA 7:00 PM PT ~41 min out, not yet due; nothing missing, nothing sent, 0 Fliff credits
+2026-11-04 18:40:55 PST safety-net 6:35 start
+2026-11-04 18:41:06 PST close-safety-net END (6:35 slot): 4 NHL games tonight; capture_supervisor.sh alive (pid 16893); CLOSE present for OTT@BUF, CHI@FLA (4:30 PM PT, started) and SJS@LAK, CGY@SEA (7:00 PM PT, saved 18:38); nothing missing, nothing sent, 0 Fliff credits
+2026-11-04 18:55:22 PST safety-net 6:50 start
+2026-11-04 18:55:52 PST close-safety-net END (6:50 slot): 4 NHL games tonight; ensure_capture run, supervisor (pid 16893) + loop alive; CLOSE present for OTT@BUF, CHI@FLA (4:30 PM PT, live) and SJS@LAK, CGY@SEA (7:00 PM PT, refreshed 18:54); nothing missing, nothing sent, 0 Fliff credits
+2026-11-05 07:03:12 PST window-pass START (fired 15:02:35Z)
+2026-11-05 07:03:39 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: UTA @ MTL 4:00 PM PT ~536 min out, VGK @ DET 4:00 PM PT ~536 min out, CHI @ TB 4:00 PM PT ~536 min out, STL @ NJ 4:00 PM PT ~536 min out, CAR @ NYI 4:00 PM PT ~536 min out, PHI @ NYR 4:00 PM PT ~536 min out, BOS @ PIT 4:00 PM PT ~536 min out, DAL @ CBJ 4:00 PM PT ~536 min out, VAN @ WPG 5:00 PM PT ~596 min out, ANA @ EDM 5:00 PM PT ~596 min out, NSH @ COL 6:30 PM PT ~686 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 07:33:10 PST window-pass START (routine fire 15:32Z)
+2026-11-05 07:33:20 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~506 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~566 min out, NSH @ COL 6:30 PM PT ~656 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 08:08:31 PST window-pass START (fired 16:06:57Z)
+2026-11-05 08:09:05 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~471 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~531 min out, NSH @ COL 6:30 PM PT ~621 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 08:35:47 PST window-pass START (fired 16:35:34Z)
+2026-11-05 08:36:05 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~444 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~504 min out, NSH @ COL 6:30 PM PT ~594 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 09:01:53 PST START window-pass fire 17:01:33Z
+2026-11-05 09:02:02 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~418 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~478 min out, NSH @ COL 6:30 PM PT ~568 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 09:15:27 PST line-captures 9:12 pass (fired 17:13Z): graded 20261104 + report + shadow OK; gap OK; capture worker auto-restarted (stale 508s); logs thru 11-04; predict: no lines to score (earliest 4:00 PM PT); challenger nothing to backfill; both lists empty, nothing built, 0 Fliff credits
+2026-11-05 09:32:15 PST window-pass START (fired 17:31:14Z)
+2026-11-05 09:32:20 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~388 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~448 min out, NSH @ COL 6:30 PM PT ~538 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 10:09:27 PST window-pass START (fired 18:04:59Z)
+2026-11-05 10:09:27 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~352 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~412 min out, NSH @ COL 6:30 PM PT ~502 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 10:36:40 PST window-pass start
+2026-11-05 10:36:49 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~323 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~383 min out, NSH @ COL 6:30 PM PT ~473 min out), no missed games, nothing posted, 0 Fliff credits
+=== START 2026-11-05T19:08:50Z local=2026-11-05 11:08:50 PST routine=nhl-sog-oct-26-window-passes ===
+2026-11-05 11:09:16 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~291 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~351 min out, NSH @ COL 6:30 PM PT ~441 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 11:37:52 PST window-pass START (fire 19:37Z)
+2026-11-05 11:38:01 PST window-pass END: NO_WINDOW_GAMES (ESPN recheck: 8 games 4:00 PM PT ~262 min out, VAN @ WPG and ANA @ EDM 5:00 PM PT ~322 min out, NSH @ COL 6:30 PM PT ~412 min out), no missed games, nothing posted, 0 Fliff credits
+2026-11-05 12:04:10 PST START noon NHL SOG window pass (Nov 5); schedule/picks/captures recheck
+2026-11-05 12:04:27 PST END noon NHL SOG window pass: NO_WINDOW_GAMES; no games under150, no new missed games; no picks or new artifacts; 0 Fliff credits (0/10 today)
+2026-11-05 12:39:45 PST window-pass START (routine fire 20:39Z)
+2026-11-05 12:41:34 PST window-pass END: list 20261105_1239, 8 games 4:00 PM PT, NO BETS, 5 Fliff checks (not on Fliff yet), 67 majority-of-tests sides, 3 Fliff credits (3/10 today), no missed games; room post picks/20261105_1239_room.txt handed to parent
+2026-11-05 18:40:01 PST close-safety-net START (6:35 slot, fired 02:39:33Z)
+2026-11-05 18:40:41 PST close-safety-net END (6:35 slot): 11 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-04); supervisor pid 16893 + loop pid 1838344 alive (loop restarted 18:13 after 19146s stale); CLOSE OK only NSH@COL 6:30 PM PT (401892658); MISSING CLOSE for 10 started games (648-657: 8x NO_IN_WINDOW nearest ~189m, VAN@WPG+ANA@EDM NO_FILES); messaging user; 0 Fliff credits
+=== START LOG ===
+2026-11-05 18:52:13 PST safety-net START game-night-close-capture
+2026-11-05 18:53:14 PST close-safety-net END (6:50 slot): 11 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-04); supervisor pid 16893 + loop pid 1838344 alive (loop restarted 18:13 after 19146s stale); CLOSE OK only NSH@COL 6:30 PM PT (401892658); still MISSING CLOSE for 10 started games (648-655: NO_IN_WINDOW nearest ~189m; VAN@WPG+ANA@EDM NO_FILES); messaging user; 0 Fliff credits
+2026-11-08T16:00:09-08:00 start window pass (1fff365a, fire 2026-11-09T00:00Z)
+2026-11-08T16:00:22-08:00 end window pass: no window games; 6 missed logged (pipeline down)
+2026-11-08 18:15:57 PST close-safety-net START (6:15 slot, fired 2026-11-09T02:15:32Z)
+2026-11-08 18:17:20 PST close-safety-net END (6:15 slot): 6 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-07); supervisor pid 7731 + loop pid 7738 alive (started 17:00); CLOSE OK NJ@TOR 4:00 PM PT (401892676), PHI@CGY 4:00 PM PT (401892678), PIT@ANA 5:00 PM PT (401892679); MISSING CLOSE for 3 started games (FLA@BOS 10:00 AM PT 401892674 NO_FILES, VGK@BUF 12:30 PM PT 401892675 NO_FILES, TBL@WPG 3:00 PM PT 401892677 NO_FILES); messaging user; 0 Fliff credits
+2026-11-08 18:44:55 PST close-safety-net START (6:50 slot, fired 2026-11-09T02:44:26Z)
+2026-11-08 18:46:06 PST close-safety-net END (6:50 slot): 6 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-07); supervisor pid 7731 + loop pid 7738 alive (started 17:00); CLOSE OK NJ@TOR 4:00 PM PT (401892676), PHI@CGY 4:00 PM PT (401892678), PIT@ANA 5:00 PM PT (401892679); MISSING CLOSE for 3 started games (FLA@BOS 10:00 AM PT 401892674 NO_FILES, VGK@BUF 12:30 PM PT 401892675 NO_FILES, TBL@WPG 3:00 PM PT 401892677 NO_FILES); messaging user; 0 Fliff credits
+2026-11-08 19:00:22 PST close-safety-net START (6:50-late slot, fired 2026-11-09T02:59:31Z)
+2026-11-08 19:01:12 PST close-safety-net END (6:50-late slot): 6 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-07); supervisor pid 7731 + loop pid 7738 alive (started 17:00); CLOSE OK NJ@TOR 4:00 PM PT (401892676), PHI@CGY 4:00 PM PT (401892678), PIT@ANA 5:00 PM PT (401892679); MISSING CLOSE for 3 started games (FLA@BOS 10:00 AM PT 401892674 NO_FILES, VGK@BUF 12:30 PM PT 401892675 NO_FILES, TBL@WPG 3:00 PM PT 401892677 NO_FILES); messaging user; 0 Fliff credits
+START 2026-11-09T07:06:07-08:00 window pass
+END 2026-11-09T07:06:14-08:00 NO_WINDOW_GAMES earliest NYR@EDM 593min
+START 2026-11-09T07:36:22-08:00 window pass
+END 2026-11-09T07:36:22-08:00 NO_WINDOW_GAMES (same 3 games, earliest NYR@EDM 5:00 PM ~564 min)
+START 2026-11-09T08:00:49-08:00 window pass
+END 2026-11-09T08:00:49-08:00 NO_WINDOW_GAMES (earliest NYR@EDM 5:00 PM ~540 min)
+2026-11-09T08:38:39-08:00 start 1fff365a 08:38
+2026-11-09T08:38:42-08:00 end 1fff365a no window games (earliest ~>480 min out per 8:00 check)
+2026-11-09T09:05:23-08:00 start 9:05
+2026-11-09T09:05:25-08:00 end 9:05 no window games
+2026-11-09 09:20:00 PST line-captures 9:12 pass (fired 9:16, run 9:20 PT): grade.py 20261108 no picks/20261108_D.csv (pipeline down Nov 6-8, nothing to grade); no pending days; grade_report + grade_shadow OK; gap OK; logs through 11-08; capture OK (next drop ~462 min); predict: no lines to score (NYR@EDM 5:00, PHI@VAN 6:30, NYI@SJS 7:00 PM PT); no D file, so challenger skipped; both lists empty, no sheet, 0 Fliff credits (0/10); no games already posted today
+2026-11-09T09:34:19-08:00 start 9:34
+2026-11-09T09:34:22-08:00 end 9:34 no window games (NYR@EDM 5:00 PM earliest)
+2026-11-09T10:03:27-08:00 start/end 10:03 no window games (NYR@EDM 5:00 PM ~417 min out)
+2026-11-09T10:38:49-08:00 start/end 10:38 no window games (NYR@EDM 5:00 PM ~380 min out)
+2026-11-09T11:04:01-08:00 start/end 11:03 no window games (NYR@EDM 5:00 PM ~357 min out)
+2026-11-09T11:36:10-08:00 start/end 11:36 no window games (NYR@EDM 5:00 PM ~324 min out)
+2026-11-09T12:09:12-08:00 start/end 12:09 no window games (NYR@EDM 5:00 PM ~291 min out)
+2026-11-09T12:39:46-08:00 start 12:39 pass
+2026-11-09T12:39:48-08:00 end 12:39 no window games (NYR@EDM 5:00 PM ~261 min out)
+2026-11-09T13:09:55-08:00 start/end 13:09 no window games (NYR@EDM 5:00 PM ~230 min out)
+2026-11-09T13:33:38-08:00 start 13:33 pass
+2026-11-09T13:33:46-08:00 end 13:33 NO_WINDOW_GAMES (NYR@EDM 5:00 PM 207 min out but no D snapshot yet; nothing scored)
+2026-11-09T14:00:53-08:00 start 14:00 pass
+2026-11-09T14:01:25-08:00 end 14:00 pass list 20261109_1401 (NYR@EDM)
+2026-11-09T22:40:02Z start 2026-11-09 22:39 window pass
+2026-11-09T14:40:05-08:00 end 14:39 no new window games (NYR@EDM posted at 14:01; PHI@VAN ~230 min, NYI@SJS ~260 min); no missed games
+2026-11-09T15:09:02-08:00 start 15:09 window pass
+2026-11-09T15:09:59-08:00 end 15:09 pass list 20261109_1509 (PHI@VAN) NO BETS; 8 majority sides; 0 credits
+2026-11-09T15:37:41-08:00 start 3:37 window pass
+2026-11-09T15:38:27-08:00 end 15:37 pass list 20261109_1537 (NYI@SJS) NO BETS; 8 majority sides; 1 credit (2/10)
+2026-11-09T16:02:43-08:00 start 4:02 window pass
+2026-11-09T16:02:47-08:00 end 16:02 no window games; all 3 games scored (NYR@EDM 14:01, PHI@VAN 15:09, NYI@SJS 15:37); no missed games
+2026-11-09T16:31:01-08:00 start 4:30 window pass
+2026-11-09T16:31:03-08:00 end 16:30 no window games; all 3 games scored; no missed
+2026-11-09 18:17:35 PST close-safety-net START (6:15 slot, fired 2026-11-10T02:17:15Z)
+2026-11-09 18:18:43 PST close-safety-net END (6:15 slot): 3 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-08); supervisor pid 7731 + loop pid 227453 alive (loop restarted 11:16 after 482s stale); CLOSE OK NYR@EDM 5:00 PM PT (401892680, last in-window 2.2m) and PHI@VAN 6:30 PM PT (401892681, saved 18:15, 14.5m); NYI@SJS 7:00 PM PT ~41 min out, not yet due; nothing missing, nothing sent, 0 Fliff credits
+2026-11-09 18:41:04 PST close-safety-net START (6:35 slot, fired 2026-11-10T02:40:39Z)
+2026-11-09 18:42:08 PST close-safety-net END (6:35 slot): 3 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-08); supervisor pid 7731 + loop pid 227453 alive; CLOSE OK NYR@EDM 5:00 PM PT (401892680, last in-window 2.2m), PHI@VAN 6:30 PM PT (401892681, last in-window 0.2m), and NYI@SJS 7:00 PM PT (401892682, last in-window 22.1m, ~18 min out); nothing missing, nothing sent, 0 Fliff credits
+2026-11-09 18:59:49 PST close-safety-net START (6:50-late slot, fired 2026-11-10T02:59:23Z)
+2026-11-09 19:01:01 PST close-safety-net END (6:50-late slot): 3 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-08); supervisor pid 7731 + loop pid 227453 alive; CLOSE OK NYR@EDM 5:00 PM PT (401892680, last in-window 2.2m), PHI@VAN 6:30 PM PT (401892681, last in-window 0.2m), and NYI@SJS 7:00 PM PT (401892682, last in-window 3.5m / loop 19:00 OK snaps=14 in_window=7); nothing missing, nothing sent, 0 Fliff credits
+2026-11-10T07:02:54-08:00 window pass start
+2026-11-10T07:03:04-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T07:33:50-08:00 window pass start
+2026-11-10T07:33:50-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T08:09:47-08:00 window pass start
+2026-11-10T08:09:47-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T08:39:42-08:00 window pass start
+2026-11-10T08:39:42-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T09:01:17-08:00 window pass start
+2026-11-10T09:01:17-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T09:38:18-08:00 window pass start
+2026-11-10T09:38:18-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T10:03:23-08:00 window pass start
+2026-11-10T10:03:23-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T10:33:14-08:00 window pass start
+2026-11-10T10:33:14-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T11:02:22-08:00 window pass start
+2026-11-10T11:02:22-08:00 window pass end NO_WINDOW_GAMES
+2026-11-10T11:37:48-08:00 start window pass 11:37
+2026-11-10T11:37:51-08:00 end window pass 11:37 no window games
+2026-11-10T12:05:10-08:00 start window pass 12:05
+2026-11-10T12:05:10-08:00 end window pass 12:05 no window games
+2026-11-10T12:33:37-08:00 start window pass 12:33
+2026-11-10T12:33:46-08:00 end window pass 12:33 no D snapshots
+2026-11-10T13:04:43-08:00 start window pass 13:03
+2026-11-10T13:05:50-08:00 end window pass 13:03 list 1304
+2026-11-10T13:39:21-08:00 start window pass 13:39
+2026-11-10T13:39:57-08:00 end 13:39
+2026-11-10T14:01:45-08:00 start window pass 14:01
+2026-11-10T14:01:53-08:00 end 14:01
+2026-11-10T14:39:20-08:00 start window pass 14:39
+2026-11-10T14:39:28-08:00 end 14:39
+2026-11-10T15:02:13-08:00 start window pass 15:02
+2026-11-10T15:02:17-08:00 end 15:02
+2026-11-10T15:35:06-08:00 start window pass 15:35
+2026-11-10T15:35:41-08:00 end 15:35 list 1535
+START window pass 2026-11-10T16:00:34-08:00
+2026-11-10T16:00:39-08:00 end 16:00 no window games
+START window pass 2026-11-10T16:36:48-08:00
+2026-11-10T16:36:48-08:00 end no window games
+2026-11-10 18:27:09 PST close-safety-net START (6:15 slot, fired 2026-11-11T02:26:47Z)
+2026-11-10 18:28:01 PST close-safety-net END (6:15 slot, fired late 6:26): 7 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-09); supervisor pid 7731 + loop pid 587931 alive; CLOSE OK COL@TOR 4:00 PM PT (401892683, last in-window 2.5m), MIN@MTL 4:00 PM PT (401892684, 2.5m), WSH@OTT 4:00 PM PT (401892685, 2.5m), NJ@WPG 4:00 PM PT (401892688, 2.5m), FLA@CBJ 4:30 PM PT (401892686, 3.7m), and DET@STL 5:00 PM PT (401892687, 3.2m); NSH@LA 7:00 PM PT ~32 min out, D OK (14 in-window D snaps), C window opens 6:30 PM, not yet due; nothing missing, nothing sent, 0 Fliff credits
+2026-11-10 18:45:05 PST close-safety-net START (6:35 slot, fired 2026-11-11T02:44:39Z)
+2026-11-10 18:45:47 PST close-safety-net END (6:35 slot, fired late 6:44): 7 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-09); supervisor pid 7731 + loop pid 587931 alive; CLOSE OK COL@TOR 4:00 PM PT (401892683, last in-window 2.5m, n_in_window=7), MIN@MTL 4:00 PM PT (401892684, 2.5m, 7), WSH@OTT 4:00 PM PT (401892685, 2.5m, 7), NJ@WPG 4:00 PM PT (401892688, 2.5m, 7), FLA@CBJ 4:30 PM PT (401892686, 3.7m, 7), DET@STL 5:00 PM PT (401892687, 3.2m, 6), and NSH@LA 7:00 PM PT (401892689, ~15 min out, last in-window 15.5m, n_in_window=4); nothing missing, nothing sent, 0 Fliff credits
+2026-11-10 19:00:39 PST close-safety-net START (6:50 slot, fired 2026-11-11T03:00:19Z)
+2026-11-10 19:01:37 PST close-safety-net END (6:50-late slot, fired ~7:00): 7 NHL games tonight; ensure_capture OK (gap OK, logs thru 11-09); supervisor pid 7731 + loop pid 587931 alive; CLOSE OK COL@TOR 4:00 PM PT (401892683, last in-window 2.5m, n_in_window=7), MIN@MTL 4:00 PM PT (401892684, 2.5m, 7), WSH@OTT 4:00 PM PT (401892685, 2.5m, 7), NJ@WPG 4:00 PM PT (401892688, 2.5m, 7), FLA@CBJ 4:30 PM PT (401892686, 3.7m, 7), DET@STL 5:00 PM PT (401892687, 3.2m, 6), and NSH@LA 7:00 PM PT (401892689, last in-window 2.3m, n_in_window=7); nothing missing, nothing sent, 0 Fliff credits
+Wed Nov 11 07:03:42 PST 2026 START daily window pass 7:03
+Wed Nov 11 07:03:49 PST 2026 END daily window pass 7:03 - no games in 150-210 window (first puck 4:00 PM PT), nothing posted

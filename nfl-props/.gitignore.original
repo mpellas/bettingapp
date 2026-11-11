@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.egg-info/
+data/cache/
+data/snapshots/**/*.json
+.pytest_cache/
+logs/
+sidecars/evidence/cache/
+data/evidence/

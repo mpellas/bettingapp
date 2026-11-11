@@ -1,0 +1,54 @@
+64 odds events, 44 matched; 53 sides clear (PAPER ONLY; edge = model fair vs posted number, juice not priced in; backtest shows no proven edge). Saved picks/slate_20261031_0546.csv
+  Sat 9:00 AM PT | Notre Dame @ Navy [G5] draftkings: Navy Midshipmen +30.5 (-102) model +22.4 edge 8.1
+  Sat 9:00 AM PT | Notre Dame @ Navy [G5] fliff: Navy Midshipmen +30.5 (-115) model +22.4 edge 8.1
+  Sat 9:30 AM PT | Michigan @ Rutgers [P4] draftkings: Rutgers Scarlet Knights +16.5 (-110) model +8.4 edge 8.1
+  Sat 11:00 AM PT | Kansas State @ Colorado [P4] draftkings: Kansas State Wildcats +3 (-112) model -5.1 edge 8.1
+  Sat 4:30 PM PT | Mississippi State @ Texas [P4] draftkings: Mississippi State Bulldogs +20.5 (-108) model +12.4 edge 8.1
+  Sat 4:30 PM PT | Mississippi State @ Texas [P4] fliff: Mississippi State Bulldogs +20.5 (-115) model +12.4 edge 8.1
+  Sat 11:00 AM PT | Kansas State @ Colorado [P4] fliff: Kansas State Wildcats +2.5 (-105) model -5.1 edge 7.6
+  Sat 9:00 AM PT | Illinois @ Maryland [P4] draftkings: Illinois Fighting Illini -2.5 (-112) model -9.8 edge 7.3
+  Sat 9:00 AM PT | Illinois @ Maryland [P4] fliff: Illinois Fighting Illini -2.5 (-120) model -9.8 edge 7.3
+  Sat 9:30 AM PT | Michigan @ Rutgers [P4] fliff: Rutgers Scarlet Knights +15.5 (-110) model +8.4 edge 7.1
+  Sat 4:00 PM PT | Oklahoma State @ Iowa State [P4] fliff: Iowa State Cyclones +10.5 (-130) model +3.6 edge 6.9
+  Sat 12:30 PM PT | Arizona State @ BYU [P4] draftkings: **OVER** 48.5 (-102) model 55.2 edge 6.7
+  Sat 12:30 PM PT | Arizona State @ BYU [P4] fliff: **OVER** 48.5 (-115) model 55.2 edge 6.7
+  Sat 4:00 PM PT | Oklahoma State @ Iowa State [P4] draftkings: Iowa State Cyclones +9.5 (-108) model +3.6 edge 5.9
+  Sat 9:00 AM PT | Wisconsin @ Iowa [P4] draftkings: **OVER** 36.5 (-108) model 42.3 edge 5.8
+  Sat 9:00 AM PT | Wisconsin @ Iowa [P4] fliff: **OVER** 36.5 (-115) model 42.3 edge 5.8
+  Sat 12:30 PM PT | UTEP @ North Dakota State [G5] draftkings: **OVER** 42.5 (-115) model 48.3 edge 5.8
+  Sat 12:30 PM PT | UTEP @ North Dakota State [G5] fliff: **OVER** 42.5 (-120) model 48.3 edge 5.8
+  Sat 1:15 PM PT | Nevada @ UCLA [G5] draftkings: Nevada Wolf Pack +22.5 (-112) model +16.9 edge 5.6
+  Sat 1:15 PM PT | Nevada @ UCLA [G5] fliff: Nevada Wolf Pack +22.5 (-115) model +16.9 edge 5.6
+  Sat 9:00 AM PT | UAB @ South Florida [G5] draftkings: **OVER** 41.5 (-112) model 47.0 edge 5.5
+  Sat 9:00 AM PT | UAB @ South Florida [G5] fliff: **OVER** 41.5 (-120) model 47.0 edge 5.5
+  Sat 12:30 PM PT | Northwestern @ Oregon [P4] draftkings: Northwestern Wildcats +3.5 (-102) model -2.0 edge 5.5
+  Sat 12:30 PM PT | Northwestern @ Oregon [P4] fliff: Northwestern Wildcats +3.5 (-110) model -2.0 edge 5.5
+  Sat 5:00 PM PT | Army @ Memphis [G5] fliff: Army Black Knights +6.5 (-120) model +1.1 edge 5.4
+  Sat 1:15 PM PT | Nevada @ UCLA [G5] draftkings: **OVER** 43.5 (-115) model 48.8 edge 5.3
+  Sat 1:15 PM PT | Nevada @ UCLA [G5] fliff: **OVER** 43.5 (-120) model 48.8 edge 5.3
+  Sat 11:00 AM PT | Kansas State @ Colorado [P4] draftkings: **OVER** 46.5 (-115) model 51.5 edge 5.0
+  Sat 11:00 AM PT | Kansas State @ Colorado [P4] fliff: **OVER** 46.5 (-120) model 51.5 edge 5.0
+  Sat 12:30 PM PT | Minnesota @ Indiana [P4] draftkings: **OVER** 40.5 (-120) model 45.3 edge 4.8
+  Sat 4:30 PM PT | Ohio State @ USC [P4] draftkings: **OVER** 50.5 (-120) model 55.3 edge 4.8
+  Sat 5:00 PM PT | Washington @ Nebraska [P4] fliff: Nebraska Cornhuskers -7.5 (-115) model -12.3 edge 4.8
+  Sat 5:00 PM PT | Washington @ Nebraska [P4] draftkings: Nebraska Cornhuskers -7.5 (-110) model -12.3 edge 4.8
+  Sat 9:30 AM PT | Michigan @ Rutgers [P4] draftkings: **OVER** 46.5 (-108) model 51.2 edge 4.7
+  Sat 9:30 AM PT | Michigan @ Rutgers [P4] fliff: **OVER** 46.5 (-115) model 51.2 edge 4.7
+  Sat 1:15 PM PT | South Carolina @ Oklahoma [P4] draftkings: **OVER** 44.5 (-108) model 49.2 edge 4.7
+  Sat 1:15 PM PT | South Carolina @ Oklahoma [P4] fliff: **OVER** 44.5 (-115) model 49.2 edge 4.7
+  Sat 9:00 AM PT | Illinois @ Maryland [P4] draftkings: **OVER** 53.5 (-112) model 57.7 edge 4.2
+  Sat 9:00 AM PT | Illinois @ Maryland [P4] fliff: **OVER** 53.5 (-120) model 57.7 edge 4.2
+  Sat 12:30 PM PT | Florida @ Georgia [P4] draftkings: **OVER** 56.5 (-108) model 60.7 edge 4.2
+  Sat 12:30 PM PT | Florida @ Georgia [P4] fliff: **OVER** 56.5 (-120) model 60.7 edge 4.2
+  Sat 12:30 PM PT | Florida @ Georgia [P4] draftkings: Florida Gators +11.5 (-108) model +7.6 edge 3.9
+  Sat 12:30 PM PT | Florida @ Georgia [P4] fliff: Florida Gators +11.5 (-115) model +7.6 edge 3.9
+  Sat 4:30 PM PT | Ohio State @ USC [P4] draftkings: Ohio State Buckeyes -6.5 (-112) model -10.4 edge 3.9
+  Sat 4:30 PM PT | Ohio State @ USC [P4] fliff: Ohio State Buckeyes -6.5 (-115) model -10.4 edge 3.9
+  Sat 12:30 PM PT | Minnesota @ Indiana [P4] fliff: **OVER** 41.5 (-110) model 45.3 edge 3.8
+  Sat 4:30 PM PT | Ohio State @ USC [P4] fliff: **OVER** 51.5 (-110) model 55.3 edge 3.8
+  Sat 9:45 AM PT | Auburn @ Ole Miss [P4] draftkings: **UNDER** 57.5 (-102) model 54.1 edge 3.4
+  Sat 9:45 AM PT | Auburn @ Ole Miss [P4] fliff: **UNDER** 57.5 (-110) model 54.1 edge 3.4
+  Sat 9:00 AM PT | Arizona @ Texas Tech [P4] draftkings: Arizona Wildcats +3.5 (-108) model +0.3 edge 3.2
+  Sat 9:00 AM PT | Arizona @ Texas Tech [P4] fliff: Arizona Wildcats +3.5 (-115) model +0.3 edge 3.2
+  Sat 4:30 PM PT | Mississippi State @ Texas [P4] draftkings: **OVER** 50.5 (-115) model 53.7 edge 3.2
+  Sat 4:30 PM PT | Mississippi State @ Texas [P4] fliff: **OVER** 50.5 (-120) model 53.7 edge 3.2

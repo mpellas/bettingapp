@@ -1,0 +1,2376 @@
+player_id,player,team_2026,conf_2026,team_2025,conf_2025,portal_listed,stars,portal_pos,games_2025,level_factor
+5127723,Isaiah Buxton,SJSU,Mountain West,San Diego State,Mountain West,True,3.0,CB,0,
+5083860,Dylan Aguilera,SJSU,Mountain West,Lafayette,Patriot,True,,LS,0,
+5125784,Tyler Jacklich,SJSU,Mountain West,West Virginia,Big 12,True,3.0,RB,3,1.08
+5201877,Vander Ploog,NCSU,ACC,Oregon,Big Ten,True,3.0,TE,0,
+4923057,Connor Cox,UVA,ACC,North Carolina,ACC,True,3.0,TE,3,0.983
+5139094,Devon Baxter,UVA,ACC,Michigan,Big Ten,True,3.0,EDGE,0,
+5192753,Nii Addy,JXST,Conference USA,Harding,Great American,True,,DL,0,
+4920192,Carson Conklin,SAC,Mid-American,Fresno State,Mountain West,True,3.0,QB,4,1.072
+5146748,Tre' Griffiths,HAW,Mountain West,Oklahoma State,Big 12,True,3.0,WR,0,
+4870673,Kodi DeCambra,HAW,Mountain West,UNLV,Mountain West,True,4.0,S,0,
+5296210,Carson Su'esu'e,NMSU,Conference USA,Oklahoma State,Big 12,True,3.0,TE,0,
+5226651,Jaedin Lee,RUTG,Big Ten,Maine,Coastal Athletic,True,3.0,DL,0,
+4870848,Tyler Jefferson,BCU,SWAC,Florida A&M,SWAC,False,,,1,1.0
+4683665,Zuberi Mobley,BCU,SWAC,Tulane,American Athletic,False,,,9,1.08
+5293964,Josh Schell,UCF,Big 12,Tennessee,SEC,True,3.0,DL,0,
+5139099,Artavius Jones,UCF,Big 12,Miami,ACC,True,3.0,DL,0,
+5223957,Matt Irwin,UCF,Big 12,Idaho,Big Sky,True,3.0,S,0,
+5119873,Wyatt Hook,AKR,Mid-American,Michigan State,Big Ten,True,3.0,TE,0,
+5295932,Zach Hobson,AKR,Mid-American,Old Dominion,Sun Belt,True,3.0,CB,0,
+4683306,Landon Morris,WAKE,ACC,California,ACC,True,3.0,TE,4,0.983
+5146355,AJ Hairston Jr,MRMK,FCS Independents,Massachusetts,Mid-American,True,3.0,QB,10,1.078
+5149599,Kenyon Massey,MRMK,FCS Independents,Massachusetts,Mid-American,False,,,5,1.078
+5102932,Ethan Crite,MRMK,FCS Independents,Middle Tennessee,Conference USA,True,3.0,WR,0,
+4870838,Corey Kelly,KENN,Conference USA,Baylor,Big 12,True,3.0,EDGE,0,
+4923050,Israel Carter,IDHO,Big Sky,Norfolk State,MEAC,False,,,4,1.0
+5077784,Zack Card,IDHO,Big Sky,Oregon State,Pac-12,False,,,7,1.08
+5093187,Javen Augustus,IDHO,Big Sky,Coastal Carolina,Sun Belt,True,3.0,EDGE,0,
+5153689,Ishaan Daniels,IDHO,Big Sky,Weber State,Big Sky,True,3.0,CB,0,
+4804885,Brandon Rose,UTAH,Big 12,Massachusetts,Mid-American,True,3.0,QB,6,0.874
+5155562,Marcus Wimberly,UTAH,Big 12,Oklahoma,SEC,True,3.0,S,0,
+5295046,Demetric Whitlock,UAPB,SWAC,Boise State,Mountain West,False,,,2,1.08
+5310001,Paul Summers II,UAPB,SWAC,Texas Wesleyan,non-FBS,False,,,1,1.0
+4755664,Nick Evers,MIZ,SEC,UConn,FBS Independents,True,3.0,QB,2,1.003
+5225213,Malae Fonoti,MIZ,SEC,Montana,Big Sky,True,3.0,RB,9,0.85
+5001149,Bobby Washington Jr.,MIZ,SEC,Miami,ACC,True,3.0,LB,0,
+5148620,JaDon Blair,MIZ,SEC,Notre Dame,FBS Independents,True,3.0,S,0,
+5298725,Lonnie Burt,EIU,OVC,Portland State,Big Sky,True,,LB,0,
+5214937,Jaron Thomas,MINN,Big Ten,Purdue,Big Ten,True,3.0,RB,1,0.99
+4833073,Zion Steptoe,MINN,Big Ten,Tulsa,American Athletic,True,3.0,WR,9,0.92
+5119234,Sid Kaba,MINN,Big Ten,Marshall,Sun Belt,True,3.0,DL,0,
+5297073,Zachary Robbins,MINN,Big Ten,Utah State,Mountain West,True,,P,0,
+4685691,Brady Allen,INST,MVFC,Louisville,ACC,True,3.0,QB,2,1.08
+4869120,Ashton Hayes,INST,MVFC,Nevada,Mountain West,False,,,2,1.08
+5085707,Tyler Nansel,INST,MVFC,Drake,Pioneer,False,,,5,1.0
+5085116,Peter Eyabi,INST,MVFC,Wyoming,Mountain West,True,,EDGE,0,
+5084905,Jaylan Hornsby,PUR,Big Ten,Syracuse,ACC,True,3.0,WR,3,0.95
+5158234,Mister Clark,PUR,Big Ten,Florida International,Conference USA,True,3.0,S,0,
+5156434,Fred Hinton,OU,SEC,Eastern Kentucky,UAC,True,3.0,OT,0,
+5296208,Carrington Pierce,USC,Big Ten,Oklahoma State,Big 12,True,3.0,CB,0,
+4685595,Jaron Willis,KU,Big 12,South Carolina,SEC,True,3.0,LB,0,
+4916954,Jibreel Al-Amin,KU,Big 12,Marshall,Sun Belt,True,3.0,LB,0,
+5150133,Christian Pritchett,KU,Big 12,Georgia Tech,ACC,True,3.0,S,0,
+5300295,Max Allen,TOL,Mid-American,Mercer,Southern,True,,LS,0,
+5300305,Trenton Jones,TOL,Mid-American,Mercer,Southern,False,,,4,0.943
+4612838,Nick Sharpe,MSU,Big Ten,South Carolina,SEC,True,3.0,IOL,0,
+5208133,Dominick Kelly,OSU,Big Ten,Georgia,SEC,True,4.0,CB,0,
+5079734,Marcelis Tate,TNST,OVC,South Florida,American Athletic,True,3.0,QB,0,
+5161615,Cam Bulluck,TNST,OVC,Murray State,MVFC,False,,,4,1.0
+5218897,Carlos Orr-Gillespie,TNST,OVC,Utah State,Mountain West,True,3.0,WR,0,
+5100368,Francisco Pratts III,TNST,OVC,Maine,Coastal Athletic,False,,,1,1.0
+5142604,Brock Schott,IU,Big Ten,Miami,ACC,True,3.0,TE,1,0.95
+4824124,Alex Broome,ACU,UAC,Boston College,ACC,False,,,2,1.08
+5150786,Makenzie McGill,ACU,UAC,North Texas,American Athletic,True,3.0,RB,7,1.08
+5085367,Dillon Williams,ACU,UAC,Central Arkansas,UAC,True,3.0,S,0,
+5151618,Kirk Francis,TTU,Big 12,Tulsa,American Athletic,True,3.0,QB,3,0.936
+5159190,Jaylen Bowden,ECU,American Athletic,Minnesota,Big Ten,True,,CB,0,
+5078917,Khalifa Keith,ALA,SEC,App State,Sun Belt,True,3.0,RB,2,0.867
+5152091,Racin Delgatty,ALA,SEC,Cal Poly,Big Sky,True,3.0,IOL,0,
+5219267,Drew Doyle,WMU,Mid-American,Virginia Tech,ACC,True,,LS,0,
+5215218,Karon Brookins,PSU,Big Ten,Iowa State,Big 12,True,3.0,WR,0,
+5413484,Connor Ackerley,FUR,Southern,Western New Mexico,Lone Star,True,3.0,QB,0,
+4685535,C.J. Stokes,FUR,Southern,Charlotte,American Athletic,False,,,5,1.08
+5085504,Daniel Haughton,FUR,Southern,Dartmouth,Ivy,False,,,2,1.0
+5094047,Joshua Tarver,FUR,Southern,Yale,Ivy,True,3.0,S,0,
+5439110,Trae Williams,FUR,Southern,Air Force,Mountain West,True,,CB,0,
+4917093,Ryan Staub,TENN,SEC,Colorado,Big 12,True,3.0,QB,4,0.949
+4870710,Isaiah Hardge,TENN,SEC,Colorado,Big 12,True,3.0,CB,3,0.949
+5155306,Emmanuel Olagbaju,IOWA,Big Ten,North Dakota,MVFC,True,3.0,DL,0,
+5219097,Anthony Boswell,HOU,Big 12,Toledo,Mid-American,True,3.0,IOL,0,
+4920228,Joquez Smith,UNH,Coastal Athletic,Temple,American Athletic,True,3.0,RB,3,1.08
+5153852,Ja'Carree Kelly,UNH,Coastal Athletic,Delaware,Conference USA,False,,,11,1.08
+5226483,Ryan Ricketti,UNH,Coastal Athletic,Valparaiso,Pioneer,True,3.0,WR,12,1.0
+4870928,Malachi Nelson,SYR,ACC,UTEP,Conference USA,True,3.0,QB,6,0.899
+5221275,Cody Raymond,OHIO,Mid-American,Wisconsin,Big Ten,True,3.0,EDGE,0,
+5157398,Eli Thompson,OHIO,Mid-American,Holy Cross,Patriot,True,3.0,CB,0,
+5225296,Sandro Malicevic,OHIO,Mid-American,Eastern Illinois,OVC-Big South,True,3.0,OT,0,
+5150684,Drew Wilson,LAF,Patriot,Minnesota,Big Ten,True,,LB,0,
+5084906,Jaden Hart,CONN,FBS Independents,Syracuse,ACC,True,3.0,RB,4,0.946
+5141448,Kamren Flowers,CONN,FBS Independents,Toledo,Mid-American,True,3.0,WR,0,
+5298212,OJ Ross,BRY,Coastal Athletic,Long Island University,NEC,False,,,12,1.0
+4896391,Sean Wilson Jr.,BRY,Coastal Athletic,Florida Atlantic,American Athletic,False,,,1,1.08
+5146751,Jose Leon,BRY,Coastal Athletic,App State,Sun Belt,True,3.0,WR,1,1.08
+4899468,Kaden Anderson,TAR,UAC,Wyoming,Mountain West,True,3.0,QB,12,1.08
+5105334,Jackson Gilkey,TAR,UAC,Weber State,Big Sky,True,3.0,QB,5,1.0
+5084729,B.J. Fleming,TAR,UAC,North Dakota,MVFC,False,,,13,1.0
+5295753,Fredd Adams,TAR,UAC,Coastal Carolina,Sun Belt,True,2.0,CB,0,
+5087357,DeAndre Buchannon,TAR,UAC,West Georgia,UAC,False,,,8,1.0
+5224354,Rashawn Cunningham,LIB,Conference USA,Charleston Southern,OVC-Big South,False,,,10,0.917
+5406177,Lynn Wyche-El,YSU,MVFC,Grand Valley State,GLIAC,True,3.0,WR,0,
+5144409,Dorian Williams,YSU,MVFC,Ohio State,Big Ten,True,3.0,WR,0,
+5122403,Lorenzo Jenkins,YSU,MVFC,Bethune-Cookman,SWAC,False,,,10,1.0
+5134169,Danny Inglis,YSU,MVFC,Iowa State,Big 12,True,3.0,LB,0,
+5027555,Cam Smith,YSU,MVFC,Iowa State,Big 12,True,3.0,S,0,
+5077814,Conlan Greene,YSU,MVFC,Temple,American Athletic,True,2.0,DL,0,
+5193072,Khyair Spain,SEMO,OVC,Memphis,American Athletic,False,,,3,1.08
+5218700,Tyrell Reed Jr.,SEMO,OVC,UL Monroe,Sun Belt,False,,,7,1.08
+5152442,Chance Wilson,SEMO,OVC,Montana State,Big Sky,False,,,2,1.0
+5086079,John Anthony Jr.,SEMO,OVC,Lindenwood,OVC-Big South,False,,,1,1.0
+5151042,Tymere Burton,SEMO,OVC,Utah State,Mountain West,True,3.0,LB,0,
+5306762,Kaleb Bilal-Jones,ISU,Big 12,Arizona,Big 12,True,3.0,DL,0,
+5263577,Damarius Russell,ISU,Big 12,Washington State,Pac-12,True,3.0,S,0,
+5263610,Trillion Sorrell,ISU,Big 12,Washington State,Pac-12,True,3.0,CB,0,
+5145592,Tyler Budge,URI,Coastal Athletic,Georgia Southern,Sun Belt,True,2.0,QB,0,
+4769792,C.J. Hawkins,URI,Coastal Athletic,Stanford,ACC,True,3.0,TE,0,
+5110490,Toddrick Brewton,URI,Coastal Athletic,Florida International,Conference USA,True,3.0,EDGE,0,
+5151897,Jackson Wade,BC,ACC,Florida,SEC,True,3.0,WR,1,1.042
+4870518,Zeon Chriss-Gremillion,TULN,American Athletic,Houston,Big 12,True,3.0,QB,4,1.071
+4695602,Nick Billoups,CIT,Southern,Lane College,SIAC,False,,,1,1.0
+4832849,Gavin Garcia,CIT,Southern,Kent State,Mid-American,False,,,12,1.078
+5306282,DK McGruder,CIT,Southern,Mississippi State,SEC,True,3.0,CB,0,
+4899364,Trevor Duncan,CIT,Southern,Tennessee,SEC,True,3.0,OT,0,
+4916987,TJ West,UTSA,American Athletic,Texas Tech,Big 12,True,3.0,WR,2,1.071
+5224767,Alex Nash-Lally,ME,Coastal Athletic,Delaware,Conference USA,True,3.0,S,0,
+5082965,Tommy Ulatowski,APP,Sun Belt,Kennesaw State,Conference USA,True,3.0,QB,2,0.995
+5141450,Semaj Fleming,APP,Sun Belt,Boston College,ACC,True,3.0,WR,0,
+5397623,Kevin Henderson,APP,Sun Belt,Findlay,Great Midwest Athletic,True,3.0,LB,0,
+5085238,Marlon Hauck,TLSA,American Athletic,Mississippi State,SEC,True,3.0,K,0,
+5216796,Banks Bowen,UNA,UAC,Oklahoma State,Big 12,True,3.0,QB,2,1.08
+5295237,Chris McMillian,UNA,UAC,Bowling Green,Mid-American,False,,,9,1.078
+5121697,Jaylon Calhoun,UNA,UAC,App State,Sun Belt,True,3.0,RB,0,
+5225938,Snap Reed,UNA,UAC,Tennessee State,OVC-Big South,False,,,8,1.0
+5225961,Connor Ruth,UNA,UAC,Tennessee State,OVC-Big South,False,,,5,1.0
+5217750,Cayden Adkins,UNA,UAC,Georgia State,Sun Belt,True,3.0,LB,0,
+5295366,Matt Adcock,ARK,SEC,Memphis,American Athletic,True,3.0,TE,9,0.904
+5299368,Ernest Temple,ALCN,SWAC,Western Illinois,OVC-Big South,False,,,2,1.0
+5193224,Fredrick Robertson,ALCN,SWAC,Louisiana Tech,Conference USA,False,,,3,1.08
+5227005,Armon Wright,ALCN,SWAC,William & Mary,Coastal Athletic,False,,,12,1.0
+5125850,Tyree Kelly,ALCN,SWAC,Massachusetts,Mid-American,False,,,8,1.078
+5150905,Travis Franklin Jr.,WYO,Mountain West,Jacksonville State,Conference USA,True,3.0,S,0,
+5147872,Matthew Wilson,APSU,UAC,App State,Sun Belt,True,3.0,QB,1,1.08
+5162646,Marvin Sims,APSU,UAC,Western Kentucky,Conference USA,False,,,1,1.08
+5084898,Ta'Ron Haile,APSU,UAC,Syracuse,ACC,True,3.0,WR,0,
+4826528,Caleb Merritt,APSU,UAC,Wyoming,Mountain West,True,3.0,S,0,
+4870406,Quan Peterson,APSU,UAC,Newberry,South Atlantic,True,3.0,CB,0,
+5140619,Kendal Howard,APSU,UAC,Wake Forest,ACC,True,3.0,EDGE,0,
+5127036,Joshua Lloyd,APSU,UAC,Western Michigan,Mid-American,True,3.0,EDGE,0,
+5160240,Hamilton DiBoyan,APSU,UAC,South Alabama,Sun Belt,True,,K,0,
+5079652,Jacobi Oliphant Jr.,KSU,Big 12,Oklahoma State,Big 12,True,3.0,LB,0,
+5089023,Adrian Maddox,KSU,Big 12,Georgia,SEC,True,3.0,S,1,1.025
+5154535,Ja'Son Prevard,KSU,Big 12,Virginia,ACC,True,3.0,CB,0,
+5151827,Robert Hammond III,KSU,Big 12,Toledo,Mid-American,True,,K,0,
+5296350,Zedekiah Anahu-Ambrosio,IDST,Big Sky,Nevada,Mountain West,True,3.0,WR,0,
+4833016,Chedon James,IDST,Big Sky,Incarnate Word,Southland,True,3.0,WR,8,1.0
+5226314,Eli Aragon-Cruz,IDST,Big Sky,Coastal Carolina,Sun Belt,False,,,6,1.08
+5156940,Titan Saxton,IDST,Big Sky,Utah State,Mountain West,True,,S,0,
+5219665,Sani Tuala,IDST,Big Sky,BYU,Big 12,True,3.0,DL,0,
+5086629,Rex Haynes,USU,Pac-12,Arizona,Big 12,True,3.0,WR,0,
+5446999,Collin Remenowsky,USU,Pac-12,Ashland University,,True,3.0,TE,0,
+5161685,Weston Simmons,MEM,American Athletic,Cincinnati,Big 12,True,3.0,LS,0,
+5225616,Darius Malcolm Jr.,MEM,American Athletic,Wofford,Southern,True,3.0,CB,0,
+5145788,Gael Ochoa,RICE,American Athletic,UNLV,Mountain West,True,3.0,QB,2,1.015
+5300511,Luke Clyburn,USF,American Athletic,Furman,Southern,True,,TE,7,0.887
+5226362,Payne Miller,EKU,UAC,Western Illinois,OVC-Big South,True,3.0,DL,0,
+5091832,Jayden Marable,EKU,UAC,Memphis,American Athletic,True,3.0,DL,0,
+5147489,Kaleb Neal,EKU,UAC,App State,Sun Belt,True,3.0,S,0,
+5077483,Keshawn Hayden,EKU,UAC,Central Michigan,Mid-American,True,2.0,EDGE,0,
+5082550,Jackson Marshall,EKU,UAC,Gardner-Webb,OVC-Big South,False,,,1,1.0
+5146861,Caleb Redd,EKU,UAC,Kansas,Big 12,True,3.0,EDGE,0,
+5104052,David Alpers III,JXST,Conference USA,South Dakota State,MVFC,False,,,1,0.917
+5146579,Vernon Woodward III,JXST,Conference USA,Illinois,Big Ten,True,3.0,CB,0,
+5219035,Cam King,GASO,Sun Belt,Auburn,SEC,True,3.0,WR,1,1.08
+5088585,Jarra Anderson,SHSU,Conference USA,Arizona,Big 12,True,3.0,DL,0,
+5127802,Stacy Bey,SHSU,Conference USA,Arizona,Big 12,True,3.0,LB,0,
+5078105,TJ Lott,TROY,Sun Belt,Old Dominion,Sun Belt,True,3.0,WR,2,1.013
+5127804,Marcus Goree Jr.,TROY,Sun Belt,Tennessee,SEC,True,3.0,CB,0,
+5209336,Daniel Jennings,VT,ACC,Penn State,Big Ten,True,3.0,EDGE,0,
+4808719,Zach Wilcke,NWST,Southland,Charlotte,American Athletic,True,,QB,6,1.08
+5221060,Kameron Thomas,NWST,Southland,Arkansas State,Sun Belt,False,,,2,1.08
+5121619,Tywon Wray Jr.,NWST,Southland,South Alabama,Sun Belt,True,3.0,S,0,
+5121703,Donovan Dozier,NWST,Southland,Liberty,Conference USA,True,,EDGE,0,
+5222150,Joshua Brantley,LT,Sun Belt,Tulane,American Athletic,True,3.0,EDGE,0,
+5382994,Harrison Williams,LT,Sun Belt,Harding,Great American,True,3.0,RB,0,
+5147383,Ahkhari Johnson,LT,Sun Belt,Arkansas,SEC,True,3.0,CB,0,
+4812379,Jordy Lowery,FLA,SEC,East Carolina,American Athletic,True,3.0,CB,0,
+5149513,Cam Dooley,FLA,SEC,Kentucky,SEC,True,3.0,S,0,
+5228136,Liam Padron,FLA,SEC,Texas A&M,SEC,True,,K,0,
+5083941,Collin Shannon,MUR,MVFC,VMI,Southern,False,,,9,1.0
+5087303,C.J. Wesley,CLEM,ACC,Howard,MEAC,True,3.0,EDGE,0,
+5121586,Markus Strong,CLEM,ACC,Oklahoma,SEC,True,3.0,DL,0,
+5091730,Seth Knothe,LSU,SEC,Boise State,Mountain West,False,,,3,0.893
+4993406,CJ Tiller,UTU,Big Sky,Utah State,Mountain West,False,,,1,1.08
+5156293,Jalen Woods,HAMP,Coastal Athletic,Southern,SWAC,False,,,2,1.0
+5305530,Ramon McKinney Jr.,SDST,MVFC,Northeastern State,Independent DII,False,,,1,1.0
+5092218,Tristan Alvano,SDST,MVFC,Nebraska,Big Ten,True,3.0,K,0,
+5229222,Jojo Uga,LAM,Southland,UAlbany,Coastal Athletic,False,,,12,1.0
+4923290,Parker Jenkins,LAM,Southland,East Carolina,American Athletic,True,3.0,RB,11,1.08
+5231087,Chris Vickerson,LAM,Southland,Presbyterian,Pioneer,False,,,2,1.0
+5218970,Brennen Bailey,LAM,Southland,Massachusetts,Mid-American,True,,CB,0,
+5148360,Ephraim Dotson,LAM,Southland,Rice,American Athletic,True,3.0,CB,0,
+5306668,Matthew Cooks,NAU,Big Sky,Texas Southern,SWAC,True,3.0,LB,0,
+5086950,Shoes Brinkley,NAU,Big Sky,McNeese,Southland,True,3.0,S,0,
+5079472,Aundre Gibson,NAU,Big Sky,Kansas,Big 12,True,3.0,CB,0,
+5141718,Matai Tagoa'i,ARIZ,Big 12,USC,Big Ten,True,3.0,LB,0,
+5141439,Jonathan Epperson Jr.,PRST,Big Sky,Washington,Big Ten,True,3.0,LB,0,
+5141664,Stone Saunders,SDSU,Pac-12,Kentucky,SEC,True,3.0,QB,0,
+4912135,Justius Lowe,SDSU,Pac-12,Oregon,Big Ten,True,3.0,WR,4,1.08
+5423820,Jordan Barnett,MORG,MEAC,Shepherd,Pennsylvania State Athletic,True,3.0,RB,0,
+5167704,Mike Hastie,MORG,MEAC,West Virginia,Big 12,True,3.0,LB,0,
+4597499,Mikey Keene,ASU,Big 12,Michigan,Big Ten,True,3.0,QB,0,
+5211117,Bjorn Jurgensen,HAW,Mountain West,Virginia,ACC,True,3.0,QB,0,
+4876695,Jaden Allen,CMU,Mid-American,Fordham,Patriot,True,2.0,TE,9,0.943
+5150694,Tripp Walsh,UNM,Mountain West,Iowa State,Big 12,False,,,1,1.08
+5168808,Jordon Davis,MVSU,SWAC,Texas Southern,SWAC,False,,,6,1.0
+5088974,Carter James,MVSU,SWAC,Marist,Pioneer,False,,,11,1.0
+5166880,Ellijah Washington,SAC,Mid-American,Oregon State,Pac-12,True,3.0,WR,0,
+4917270,Harry Lodge,UCLA,Big Ten,Wake Forest,ACC,True,3.0,TE,0,
+4901131,Tao Johnson,UCLA,Big Ten,Utah,Big 12,True,3.0,S,0,
+5148905,Carter Vargas,CAL,ACC,UC Davis,Big Sky,True,3.0,RB,8,0.85
+5394207,D'Cambren Verrett,WKU,Conference USA,Texas A&M-Kingsville,Lone Star,True,3.0,S,0,
+4870868,Jayden Limar,WASH,Big Ten,Oregon,Big Ten,True,3.0,RB,8,0.99
+4871013,Gemari Sands,FSU,ACC,Florida Atlantic,American Athletic,True,3.0,RB,12,0.954
+4870517,Xavier Chaplin,FSU,ACC,Auburn,SEC,True,4.0,OT,0,
+5227056,James Hayes,FAMU,SWAC,Alabama State,SWAC,False,,,1,1.0
+4877627,Chase Gillespie,FAMU,SWAC,Vanderbilt,SEC,True,3.0,RB,1,1.08
+5099307,Corey Petty,FAMU,SWAC,Albany State,SIAC,False,,,1,1.0
+5305431,Kieren Jackson,FAMU,SWAC,Edward Waters,SIAC,False,,,1,1.0
+5227059,Denzel Johnson,FAMU,SWAC,Alabama State,SWAC,True,,LB,0,
+5079351,Caden Brown,FAMU,SWAC,Syracuse,ACC,True,3.0,EDGE,0,
+5150341,Brody Eaton,VILL,Patriot,Marist,Pioneer,False,,,1,1.0
+4836476,Davin Wydner,LOU,ACC,West Georgia,UAC,True,3.0,QB,10,0.85
+4893702,Elizjah Lewis,LOU,ACC,Pace,Northeast 10,True,3.0,WR,1,0.85
+4819226,Brody Foley,LOU,ACC,Tulsa,American Athletic,True,4.0,TE,11,0.954
+5079695,Jacob Smith,LOU,ACC,Kentucky,SEC,True,3.0,EDGE,0,
+5085035,Garth White,LOU,ACC,Rhode Island,Coastal Athletic,True,,K,0,
+5093197,Jalyn Daniels,NORF,MEAC,North Alabama,UAC,False,,,12,1.0
+5410232,Brevin Caldwell,NORF,MEAC,Johnson C. Smith,CIAA,True,,WR,0,
+5083657,Rocco Ciocca,NORF,MEAC,Indiana State,MVFC,False,,,4,1.0
+5122553,Peyton Lewis,UVA,ACC,Tennessee,SEC,True,3.0,RB,10,1.042
+5085501,Patrick Campbell,UVA,ACC,Dartmouth,Ivy,True,3.0,CB,0,
+5086498,Jaylen Jones,UVA,ACC,Georgia State,Sun Belt,True,3.0,S,0,
+5152600,Reed Swanson,BC,ACC,Colgate,Patriot,True,3.0,WR,12,0.85
+5145122,Bodie Kahoun,BC,ACC,Notre Dame,FBS Independents,True,3.0,LB,0,
+5081611,Mason Williams,OSU,Big Ten,Ohio,Mid-American,True,3.0,TE,13,0.858
+5227731,Nathan Gonzales,WKU,Conference USA,Indiana State,MVFC,True,3.0,EDGE,0,
+4917400,Kiawan Murphy,WKU,Conference USA,Akron,Mid-American,True,3.0,DL,0,
+5132253,Isiah Canion,UGA,SEC,Georgia Tech,ACC,True,4.0,WR,12,0.934
+4868249,Davis Lane,RICE,American Athletic,Virginia,ACC,True,3.0,WR,4,1.056
+5149939,Zach Cody,RICE,American Athletic,Coastal Carolina,Sun Belt,True,3.0,CB,0,
+5184466,Semaj Pierre,HOW,MEAC,Rice,American Athletic,True,3.0,WR,7,1.08
+5157419,Carson Williams,IU,Big Ten,Montana State,Big Sky,True,3.0,CB,0,
+5077878,Carl Williams IV,ORE,Big Ten,Baylor,Big 12,True,3.0,S,0,
+5331747,Tyree Holloway,LSU,SEC,West Florida,Gulf South,True,3.0,WR,0,
+5079682,Jordan Seaton,LSU,SEC,Colorado,Big 12,True,5.0,OT,0,
+5089860,Chance Williams,CLT,American Athletic,Cincinnati,Big 12,True,3.0,RB,5,1.071
+5220007,Tank Boston,CLT,American Athletic,NC State,ACC,True,3.0,WR,1,1.056
+4880358,Cam Pedro,CLT,American Athletic,Southeast Missouri State,OVC-Big South,True,3.0,WR,12,0.887
+5141506,Deuce Knight,MISS,SEC,Auburn,SEC,True,4.0,QB,2,0.993
+5125819,Darrell Gill Jr.,MISS,SEC,Syracuse,ACC,True,4.0,WR,11,0.934
+5078160,Richie Anderson III,TA&M,SEC,Fresno State,Mountain West,True,3.0,TE,11,0.893
+4912130,Trell Harris,OU,SEC,Virginia,ACC,True,4.0,WR,13,0.934
+5144965,Cole Sullivan,OU,SEC,Michigan,Big Ten,True,3.0,LB,0,
+5385735,Jordan Rogers,TTU,Big 12,Pittsburg State,Mid America,True,,S,0,
+5195461,Ibn McDaniels,PSU,Big Ten,Syracuse,ACC,True,3.0,CB,0,
+4921396,Zach Aamland,TEM,American Athletic,Rutgers,Big Ten,True,3.0,OT,0,
+5164325,Jackson Kollock,UCD,Big Sky,Minnesota,Big Ten,True,3.0,QB,0,
+5165120,Hayden John,UCD,Big Sky,Idaho,Big Sky,True,3.0,ATH,0,
+5294435,Robert Meyer,UCD,Big Sky,Missouri,SEC,True,,K,0,
+5294293,Javin Gordon,TENN,SEC,Tulane,American Athletic,True,3.0,RB,14,0.904
+5079515,Jaylen Mbakwe,GT,ACC,Alabama,SEC,True,4.0,WR,2,1.042
+5092443,Jordan Walker,GT,ACC,Rutgers,Big Ten,True,3.0,EDGE,0,
+5125366,Sesi Vailahi,USU,Pac-12,Oklahoma State,Big 12,True,3.0,RB,8,1.055
+5219033,Seth Wilfred,USU,Pac-12,Auburn,SEC,True,3.0,IOL,0,
+5056106,Evan Boyd,ISU,Big 12,Michigan State,Big Ten,True,3.0,WR,2,1.006
+4718462,Caden Crawford,ISU,Big 12,South Dakota,MVFC,True,3.0,EDGE,0,
+4685525,Jaheim Singletary,ISU,Big 12,Arkansas,SEC,True,3.0,CB,0,
+5258447,Daejawn Smith,SOU,SWAC,Louisiana Tech,Conference USA,True,3.0,WR,0,
+5208138,Luke Carney,HOU,Big 12,Syracuse,ACC,True,3.0,QB,4,0.965
+5147344,Tyson Turner,HOU,Big 12,Texas Tech,Big 12,True,3.0,WR,1,0.981
+5148359,Nylan Brown,WSU,Pac-12,Kent State,Mid-American,True,3.0,LB,0,
+5147188,Eduwa Okundaye,WSU,Pac-12,Arizona,Big 12,True,3.0,EDGE,0,
+5213124,Ike Okafor,WSU,Pac-12,California,ACC,True,3.0,DL,0,
+5164309,Mason Mims,ETSU,Southern,Louisville,ACC,True,3.0,QB,0,
+5216698,TJ Peyton,ETSU,Southern,Georgia State,Sun Belt,True,3.0,RB,5,1.08
+5114331,Suderian Harrison,ETSU,Southern,Virginia,ACC,True,3.0,WR,2,1.08
+5119434,Trey Weary,ETSU,Southern,Tennessee,SEC,True,,WR,1,1.08
+4838532,Tyler Griffin,ETSU,Southern,UL Monroe,Sun Belt,True,3.0,WR,7,1.08
+5079660,Brandon Winton,ETSU,Southern,South Florida,American Athletic,True,3.0,WR,0,
+5153763,Devin Hunter,ETSU,Southern,Tennessee Tech,OVC-Big South,True,,S,0,
+5305620,Ayden Guess,ETSU,Southern,Northeastern State,Independent DII,True,,EDGE,0,
+5146914,Tyreek'e Robinson,ETSU,Southern,UCF,Big 12,True,3.0,DL,0,
+5419787,Izziek Chandler,ETSU,Southern,Central Missouri,Mid America,True,,CB,0,
+5145396,Miles O'Neill,UNC,ACC,Texas A&M,SEC,True,3.0,QB,3,1.042
+4812367,Ade Willie,UNC,ACC,Michigan State,Big Ten,True,3.0,CB,0,
+5141366,Bryce Baker,VT,ACC,North Carolina,ACC,True,3.0,QB,0,
+5146856,Eric Mensah,VT,ACC,Ohio State,Big Ten,True,3.0,DL,0,
+5218246,Luke Douglas,APP,Sun Belt,Florida State,ACC,True,,TE,0,
+5145453,Jeremiah Melvin,ECU,American Athletic,Wake Forest,ACC,True,3.0,WR,2,1.056
+5147757,Arrington Maiden,JMU,Sun Belt,Memphis,American Athletic,True,3.0,QB,7,1.05
+5225779,Lathan Croley,JMU,Sun Belt,Holy Cross,Patriot,True,3.0,LB,0,
+5141456,TaRon Francis,WVU,Big 12,LSU,SEC,True,3.0,WR,0,
+5141484,Maliek Hawkins,WVU,Big 12,Oklahoma,SEC,True,3.0,CB,0,
+4870820,Datrell Jones,HC,Patriot,Boston College,ACC,True,3.0,RB,0,
+5231612,Jake Croce,HC,Patriot,Saint Anselm,Northeast 10,False,,,1,1.0
+5156384,Cam Boone,HC,Patriot,Robert Morris,NEC,True,3.0,CB,0,
+4871003,Christian Ross,M-OH,Mid-American,Memphis,American Athletic,False,,,9,1.08
+4923059,Jeremiah Coney,STBK,Coastal Athletic,Virginia Tech,ACC,True,3.0,RB,3,1.08
+4923282,CJ Hester,STBK,Coastal Athletic,Michigan,Big Ten,True,3.0,RB,0,
+5156210,Seth Sweitzer,STBK,Coastal Athletic,Merrimack,FCS Independents,False,,,11,1.0
+5083437,D.J. Linkins,STBK,Coastal Athletic,Tennessee Tech,OVC-Big South,False,,,1,1.0
+5154546,Lance Byndon,STBK,Coastal Athletic,Morgan State,MEAC,True,3.0,EDGE,0,
+5089182,CJ Nelson,BALL,Mid-American,Eastern Illinois,OVC-Big South,True,3.0,WR,8,0.943
+4873418,Kaden Helms,MINN,Big Ten,Oklahoma,SEC,True,3.0,TE,5,1.009
+5096521,Will Cornelson,WEB,Big Sky,Idaho,Big Sky,True,3.0,LB,0,
+5152815,Danny Scudero,COLO,Big 12,San José State,Mountain West,True,3.0,WR,12,0.925
+5224715,Bryce Hicks,COLO,Big 12,West Georgia,UAC,False,,,2,0.85
+4912337,Justin Eaglin,COLO,Big 12,James Madison,Sun Belt,True,3.0,CB,0,
+5168714,Paul Omodia,COLO,Big 12,Lamar,Southland,True,3.0,CB,0,
+4911929,Alonza Barnett III,UCF,Big 12,James Madison,Sun Belt,True,3.0,QB,14,0.899
+5089549,Malik Knight,PITT,ACC,Western Carolina,Southern,True,3.0,WR,12,0.85
+5082164,Patrick Smith-Young,DUKE,ACC,North Texas,American Athletic,True,3.0,S,0,
+4685393,Preston Howard,MD,Big Ten,Auburn,SEC,True,3.0,TE,7,1.009
+4832851,Lavon Johnson,MD,Big Ten,Texas,SEC,True,3.0,DL,0,
+5221596,Alex Godavitarne,CONN,FBS Independents,Wheeling,Mountain East,True,3.0,TE,0,
+5215278,Zion Paret,CONN,FBS Independents,Florida Atlantic,American Athletic,True,3.0,CB,0,
+4604319,Avery Dunn,CONN,FBS Independents,Toledo,Mid-American,True,3.0,EDGE,0,
+4966288,Collins Acheampong,UTSA,American Athletic,Bowling Green,Mid-American,True,3.0,EDGE,0,
+5220121,Dylan Cunanan,TXST,Pac-12,Toledo,Mid-American,True,,K,0,
+5098783,Blanche Gold,UAB,American Athletic,Morgan State,MEAC,True,3.0,EDGE,0,
+5162550,Quedrion Miles,RMU,NEC,Virginia State,CIAA,False,,,1,1.0
+5224649,Brandon Martin,RMU,NEC,Dayton,Pioneer,True,3.0,EDGE,0,
+5233716,Kurtis Waye,AKR,Mid-American,Clark Atlanta,SIAC,True,,EDGE,0,
+5105336,Conner Kenyon,CCSU,NEC,Rhode Island,Coastal Athletic,False,,,4,1.0
+5159823,Isaac Stopke,CCSU,NEC,Morehead State,Pioneer,False,,,12,1.0
+5079699,Corey Smith,TOL,Mid-American,Penn State,Big Ten,True,3.0,RB,2,1.08
+4712328,Anthony Simpson,TOL,Mid-American,Michigan,Big Ten,True,3.0,WR,1,1.08
+5127736,Landyn Cleveland,UNLV,Mountain West,Oklahoma State,Big 12,True,3.0,S,0,
+5295050,Ja'Bree Bickham,UNT,American Athletic,Boise State,Mountain West,True,3.0,S,0,
+5225594,Jordan Herron,UNCO,Big Sky,Portland State,Big Sky,False,,,2,1.0
+5215367,Marcus Mozer,UNCO,Big Sky,San Diego State,Mountain West,True,3.0,WR,0,
+5085511,Thaddeus Gianaris,WYO,Mountain West,Dartmouth,Ivy,True,3.0,EDGE,0,
+5186736,Anthony Wolter,MERC,NEC,Nevada,Mountain West,True,3.0,QB,0,
+4433968,Byron Cardwell Jr.,MERC,NEC,San Diego State,Mountain West,False,,,10,1.08
+5084196,Deven Dyer,UNM,Mountain West,Western New Mexico,Lone Star,True,,DL,0,
+5226456,Will Hicks,UNM,Mountain West,Hampton,Coastal Athletic,True,,S,0,
+5302600,Nick Romero,UNM,Mountain West,Wagner,NEC,True,3.0,K,0,
+5222936,Franck Pierre,ALST,SWAC,Alabama A&M,SWAC,False,,,11,1.0
+4921512,Jonathan Pennix,TROY,Sun Belt,Southern Miss,Sun Belt,True,3.0,CB,0,
+5224325,Knai Cook,TROY,Sun Belt,Charleston Southern,OVC-Big South,True,3.0,S,0,
+4881838,Brian Allen Jr.,VAN,SEC,Iowa,Big Ten,True,4.0,EDGE,0,
+5148887,Jyron Waiters,CAM,Coastal Athletic,East Carolina,American Athletic,True,3.0,WR,3,1.08
+5148836,O'Marion Lewis,CAM,Coastal Athletic,East Carolina,American Athletic,True,3.0,S,0,
+5222652,Kareem Williams,CAM,Coastal Athletic,Coastal Carolina,Sun Belt,True,3.0,S,0,
+4431341,Jabari Ishmael,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,EDGE,0,
+5328086,Elijah Holmes,BUFF,Mid-American,Wingate,South Atlantic,True,3.0,QB,0,
+5382838,Marvin Stringfellow,JXST,Conference USA,"Concordia University, St. Paul",,True,3.0,DL,0,
+5394407,Cassius Hulbert,OHIO,Mid-American,Tiffin University,Great Midwest Athletic,True,3.0,DL,0,
+5155410,Omar Ibrahim,MONM,Coastal Athletic,Temple,American Athletic,True,,CB,0,
+5079495,Jahide Lesaine Jr.,MONM,Coastal Athletic,Syracuse,ACC,True,3.0,EDGE,0,
+5125818,Hugo Gil,MONM,Coastal Athletic,Charleston Southern,OVC-Big South,False,,,1,1.0
+4596437,AJ Green Jr.,WMU,Mid-American,Arkansas,SEC,True,4.0,RB,1,1.08
+5157493,Willard Ferrell,WMU,Mid-American,Presbyterian,Pioneer,True,3.0,CB,0,
+5151218,Lucian Anderson III,SC,SEC,Bowling Green,Mid-American,True,3.0,QB,4,0.85
+5184576,Drew Collins,SC,SEC,Arkansas State,Sun Belt,True,3.0,EDGE,0,
+4875128,Lex Thomas,WCU,Southern,NC State,ACC,False,,,2,1.08
+5081427,Jake Young,WCU,Southern,Charlotte,American Athletic,True,,TE,2,1.08
+5299923,Andre Jackson Jr.,WCU,Southern,Hampton,Coastal Athletic,True,3.0,CB,0,
+5214531,Ja'Torian Mack,WCU,Southern,App State,Sun Belt,True,3.0,S,0,
+5084404,Liam O'Brien,CIN,Big 12,Pennsylvania,Ivy,True,,QB,10,0.85
+5231360,Nick Sowell,BGSU,Mid-American,South Carolina State,MEAC,True,3.0,WR,9,0.943
+5089859,Floyd Chalk,SUU,Big Sky,San José State,Mountain West,False,,,4,1.08
+5296864,Malichi Greaves,CSU,Pac-12,UConn,FBS Independents,False,,,2,1.08
+4871061,Pearce Spurlin III,CSU,Pac-12,Georgia,SEC,True,3.0,TE,0,
+5222533,Nykobi Brown,CSU,Pac-12,UConn,FBS Independents,True,3.0,EDGE,0,
+4568237,Matt Smith,SHSU,Conference USA,Rhode Island,Coastal Athletic,False,,,2,0.917
+5125472,Zion Taylor,SHSU,Conference USA,Houston,Big 12,True,3.0,EDGE,0,
+4833241,Gage Roy,ILST,MVFC,USC,Big Ten,True,,QB,0,
+5225297,Alex Herrera,ILST,MVFC,Eastern Illinois,OVC-Big South,False,,,8,1.0
+5104819,Aden Cannon,ILST,MVFC,Indiana,Big Ten,True,,EDGE,0,
+4710019,Dalton Hughes,TULN,American Athletic,South Alabama,Sun Belt,True,3.0,LB,0,
+5157481,Collin Hurst,WES,UAC,Presbyterian,Pioneer,True,3.0,QB,11,1.0
+5194695,Luke Marble,WES,UAC,South Dakota State,MVFC,True,2.0,QB,5,1.0
+5231055,BJ Atkins,WES,UAC,Presbyterian,Pioneer,False,,,9,1.0
+5231064,Justin Montgomery,WES,UAC,Presbyterian,Pioneer,False,,,12,1.0
+4870798,Malik Leverett,WES,UAC,East Carolina,American Athletic,True,3.0,WR,1,1.08
+5194666,Josh Schuchts,WES,UAC,UTEP,Conference USA,False,,,8,1.08
+5147187,Joshua Ofor,ARST,Sun Belt,NC State,ACC,True,3.0,LB,0,
+5232359,Keon Davis,KENN,Conference USA,Virginia Union,CIAA,True,3.0,WR,0,
+5141762,Tony Williams Jr.,KENN,Conference USA,UCF,Big 12,True,3.0,S,0,
+5015143,Amier Washington,UCLA,Big Ten,Texas Tech,Big 12,True,3.0,DL,0,
+5165011,Kennedy McGill,WIU,OVC,Central Washington,Lone Star,False,,,1,1.0
+4832021,Ihson Jackson-Anderson,WIU,OVC,Wofford,Southern,False,,,10,1.0
+5165734,Josh Robinson,WIU,OVC,Lamar,Southland,False,,,10,1.0
+5220681,Petey Tucker,WIU,OVC,Colorado State,Mountain West,False,,,1,1.08
+5161737,Nick Reinicke,WIU,OVC,Iowa State,Big 12,True,,LB,0,
+5084664,Cai Bates,WIS,Big Ten,Florida State,ACC,True,3.0,CB,0,
+5225995,Will Deady,FOR,Patriot,Marist,Pioneer,False,,,1,1.0
+5152669,Kente Edwards,CCU,Sun Belt,Lafayette,Patriot,False,,,10,0.91
+5103798,Daelen Alexander,CCU,Sun Belt,Rice,American Athletic,True,3.0,RB,9,1.05
+5233683,Cam Williams,CCU,Sun Belt,Clark Atlanta,SIAC,True,3.0,DL,0,
+5220596,Kyri Shoels,UTAH,Big 12,San José State,Mountain West,True,3.0,WR,12,0.925
+5172606,Cedric Jefferson,UTAH,Big 12,Montana State,Big Sky,True,3.0,OT,0,
+5151696,Reginald Johnson,GRAM,SWAC,Florida A&M,SWAC,False,,,9,1.0
+4949488,Jacobe Robinson,GRAM,SWAC,Southern Miss,Sun Belt,False,,,2,1.08
+5141452,D'Shuan Ford,GRAM,SWAC,UL Monroe,Sun Belt,False,,,4,1.08
+5141558,Davon Mitchell,GRAM,SWAC,Louisville,ACC,False,,,1,1.08
+5141365,Corey Amos,GRAM,SWAC,Ole Miss,SEC,True,3.0,EDGE,0,
+4831971,Kalen Carroll,TCU,Big 12,Central Michigan,Mid-American,True,3.0,CB,0,
+5140254,Cheta Ofili,TCU,Big 12,Texas Tech,Big 12,True,3.0,EDGE,0,
+5168715,Teon Parks,TCU,Big 12,Colorado,Big 12,True,3.0,CB,0,
+5296571,Toric Goins Jr.,PV,SWAC,UTEP,Conference USA,False,,,6,1.08
+5301345,Braylon Finney,PV,SWAC,Houston Christian,Southland,False,,,7,1.0
+5079512,Damani Maxson,PV,SWAC,Kansas,Big 12,True,3.0,S,0,
+5167190,JJ Shelton,BAY,Big 12,Arkansas,SEC,True,3.0,LB,0,
+4433861,Xavier McIver,USM,Sun Belt,East Carolina,American Athletic,True,3.0,DL,0,
+5224416,Baron Taylor,USM,Sun Belt,Southern Utah,UAC,True,3.0,S,0,
+5159910,Kolby Peavy,USM,Sun Belt,Alabama,SEC,True,3.0,S,0,
+5210501,Tristan Ti'a,AUB,SEC,Oregon State,Pac-12,True,3.0,QB,3,0.878
+4683912,Hunter Herring,AUB,SEC,UL Monroe,Sun Belt,True,3.0,TE,10,0.867
+5148883,Michael Matthews-Canty,AUB,SEC,Hampton,Coastal Athletic,True,3.0,LB,0,
+5225901,Jaden Green,CP,Big Sky,Lehigh,Patriot,True,3.0,RB,13,1.0
+5296173,Ray Hall,CP,Big Sky,Western Michigan,Mid-American,True,,WR,0,
+5225868,Gavin Nelson,CP,Big Sky,Sacramento State,Big Sky,True,,TE,2,1.0
+5078279,RL Miller,CP,Big Sky,Fresno State,Mountain West,True,3.0,S,0,
+5117317,Chase Martin,CP,Big Sky,Boise State,Mountain West,True,3.0,LB,0,
+5114309,Nicholas Fernandez,CP,Big Sky,UTRGV,,True,3.0,DL,0,
+5220383,Jared Douglas,CP,Big Sky,Middle Tennessee,Conference USA,True,,S,0,
+5150264,Aidan McCowan,GASO,Sun Belt,Nicholls,Southland,True,3.0,CB,0,
+4598576,Nick Dimitris,SAC,Mid-American,Florida A&M,SWAC,True,3.0,DL,0,
+5146667,Khristian Martin,FRES,Pac-12,Maryland,Big Ten,True,3.0,QB,5,1.08
+5225383,Tariq Thomas,FRES,Pac-12,Bucknell,Patriot,True,3.0,RB,12,0.87
+5077500,Luke Duncan,NEV,Mountain West,UCLA,Big Ten,True,3.0,QB,2,1.08
+5155324,Brandon Amaniampong,NEV,Mountain West,Indiana State,MVFC,True,,EDGE,0,
+5165490,RJ Chapman,NMSU,Conference USA,Merrimack,FCS Independents,True,,S,0,
+4912070,Adam Tomczyk,HAW,Mountain West,West Virginia,Big 12,True,3.0,EDGE,0,
+5079537,Ju'Juan Johnson,SYR,ACC,LSU,SEC,True,3.0,RB,13,1.042
+4918447,Amare Snowden,SYR,ACC,Toledo,Mid-American,True,3.0,CB,0,
+4923256,Jai Eugene Jr.,SYR,ACC,Western Kentucky,Conference USA,True,3.0,S,0,
+5157307,Jojo Johnson,TTU,Big 12,Oregon State,Pac-12,True,3.0,DL,0,
+5079692,Jason Robinson Jr.,PRST,Big Sky,North Carolina,ACC,True,3.0,WR,0,
+5414672,Darius Bailey,PRST,Big Sky,Puget Sound,Northwest,True,3.0,WR,0,
+5201878,Andrew Olesh,ORE,Big Ten,Penn State,Big Ten,True,3.0,TE,0,
+4912286,Iverson Hooks,ORE,Big Ten,UAB,American Athletic,True,3.0,WR,12,0.92
+5079680,Aaron Scott Jr.,ORE,Big Ten,Ohio State,Big Ten,True,3.0,CB,0,
+5079696,D'Antre Robinson,ORE,Big Ten,North Carolina,ACC,True,4.0,DL,0,
+5158914,Ja'Marley Riddle,UGA,SEC,East Carolina,American Athletic,True,3.0,S,0,
+5141473,AJ Hill,ARK,SEC,Memphis,American Athletic,True,3.0,QB,2,0.904
+5079759,Jelani Watkins,ARK,SEC,LSU,SEC,True,3.0,WR,1,0.993
+4870870,Ty Lockwood,ARK,SEC,Boston College,ACC,True,3.0,TE,2,0.934
+5079701,Steven Soles Jr.,ARK,SEC,Kentucky,SEC,True,3.0,LB,0,
+4688881,Kyeaure Magloire,ARK,SEC,West Georgia,UAC,True,3.0,CB,0,
+5225872,Tyran Chappell,MSU,Big Ten,Houston Christian,Southland,True,3.0,CB,0,
+5079444,Mylan Graham,ND,FBS Independents,Ohio State,Big Ten,True,4.0,WR,4,0.987
+5232716,Paddy McAteer,IU,Big Ten,Troy,Sun Belt,True,3.0,K,0,
+5388310,Ethan Thanthanavong,KENT,Mid-American,Defiance College,,True,3.0,QB,0,
+4869820,Terry Moore,OSU,Big Ten,Duke,ACC,True,4.0,S,0,
+5079592,Michael Smith,MISS,SEC,South Carolina,SEC,False,,,2,0.993
+4923031,Trovon Baugh,TA&M,SEC,South Carolina,SEC,True,3.0,IOL,0,
+4899417,Desmond Umeozulu,ALA,SEC,South Carolina,SEC,True,3.0,EDGE,0,
+5141511,Kevyn Humes,RUTG,Big Ten,Maryland,Big Ten,True,3.0,CB,0,
+4871045,Stantavious Smith,BUFF,Mid-American,Florida A&M,SWAC,True,3.0,DL,0,
+5225627,Caleb Oliver,BUFF,Mid-American,Wofford,Southern,True,3.0,EDGE,0,
+5083468,Joey Cheshire,BUFF,Mid-American,Cornell,Ivy,True,3.0,LB,0,
+5164316,Alex Manske,PSU,Big Ten,Iowa State,Big 12,True,3.0,QB,3,0.965
+5082407,Connor Barry,PSU,Big Ten,Christopher Newport,New Jersey,True,3.0,QB,0,
+4869519,Gabe Burkle,PSU,Big Ten,Iowa State,Big 12,True,3.0,TE,9,0.965
+5159362,Zion Booker,KENN,Conference USA,Tulsa,American Athletic,True,3.0,WR,8,1.057
+5081089,Dylan Gary,KENN,Conference USA,Georgia Southern,Sun Belt,True,3.0,WR,4,1.02
+5303395,Jaiden Crawford,KENN,Conference USA,Arkansas-Pine Bluff,SWAC,True,3.0,DL,0,
+5148841,Ira Singleton IV,SMU,ACC,South Florida,American Athletic,True,3.0,EDGE,0,
+4869698,Koen Entringer,LOU,ACC,Iowa,Big Ten,True,3.0,S,0,
+4897443,Harrison Taggart,USU,Pac-12,California,ACC,True,3.0,LB,0,
+5222193,Ronnie Mageo,USU,Pac-12,Baylor,Big 12,True,3.0,DL,0,
+5296612,Steve Chavez-Soto,UTAH,Big 12,San José State,Mountain West,True,3.0,RB,8,0.925
+5114312,Will Monney,UTAH,Big 12,Oklahoma State,Big 12,True,3.0,TE,3,0.981
+5121725,Lucas Samsula,UTAH,Big 12,Wyoming,Mountain West,True,3.0,DL,0,
+5085685,Taj Hughes,UNI,MVFC,Drake,Pioneer,True,,WR,11,1.0
+5228539,Axel Ramazani,UNI,MVFC,Wyoming,Mountain West,True,3.0,EDGE,0,
+5195570,Cody Haddad,IOWA,Big Ten,Ohio State,Big Ten,True,3.0,S,0,
+5091891,Lamar Sperling,UTEP,Mountain West,Buffalo,Mid-American,True,3.0,RB,8,0.979
+5141402,Royal Capell,UTEP,Mountain West,Oklahoma State,Big 12,True,3.0,WR,8,1.08
+5159013,Salesi Moa,MICH,Big Ten,Utah,Big 12,True,4.0,CB,0,
+5081377,Tyler Stolsky,WVU,Big 12,Florida Atlantic,American Athletic,True,3.0,LB,0,
+5141431,DJ Dugar,TULN,American Athletic,Oklahoma State,Big 12,True,3.0,RB,0,
+4920188,Vance Bolyard,TULN,American Athletic,Duke,ACC,True,3.0,TE,0,
+5162686,Jackson Courville,TULN,American Athletic,Ohio State,Big Ten,True,,K,0,
+5265481,Elijah Hill,KSU,Big 12,Kennesaw State,Conference USA,True,3.0,EDGE,0,
+4912647,Austin Novosad,BGSU,Mid-American,Oregon,Big Ten,True,3.0,QB,1,1.08
+5193074,Mike Wright III,BGSU,Mid-American,Florida Atlantic,American Athletic,True,3.0,S,0,
+4838544,Malcolm Jones,ISU,Big 12,Jacksonville State,Conference USA,True,3.0,S,0,
+5087707,Jareb Ramos,ISU,Big 12,Montana,Big Sky,True,3.0,DL,0,
+5329095,Tristan Exline,ISU,Big 12,Texas-Permian Basin,,True,3.0,LB,0,
+5263613,Carter Pabst,ISU,Big 12,Washington State,Pac-12,True,3.0,WR,6,0.909
+5079749,Yasin Willis,KU,Big 12,Syracuse,ACC,True,3.0,RB,9,0.965
+5151966,Jailen Butler,KU,Big 12,Old Dominion,Sun Belt,True,3.0,TE,6,0.899
+5083804,Roman Pearson,KU,Big 12,Ball State,Mid-American,True,3.0,CB,0,
+5098591,Carter Moses,KU,Big 12,UAlbany,Coastal Athletic,True,3.0,TE,9,0.85
+5141579,Kevin Oatis,KU,Big 12,Arkansas,SEC,True,3.0,DL,0,
+5148413,Elijah Cannon,KU,Big 12,Mississippi State,SEC,True,3.0,CB,0,
+5152839,Jaylen King,MER,Southern,Florida State,ACC,True,3.0,QB,1,1.08
+5417142,Eric Rasheed,MER,Southern,North Greenville,Carolinas,True,3.0,WR,0,
+5224165,Jackson Kostmayer,MER,Southern,Central Arkansas,UAC,False,,,3,1.0
+4870616,Javious Bond,MER,Southern,Austin Peay,UAC,True,3.0,RB,8,1.0
+5233886,Jeremy Richardson,MER,Southern,Shorter,Carolinas,True,3.0,S,0,
+4832039,Sam Martin Jr.,MER,Southern,Wagner,NEC,False,,,1,1.0
+5219666,Cameron Goggins,MER,Southern,Florida Atlantic,American Athletic,True,3.0,CB,0,
+5224790,Isaiah Fuhrmann,GT,ACC,Elon,Coastal Athletic,True,3.0,WR,11,0.85
+5152717,Mason Humphrey,UNC,ACC,Lehigh,Patriot,True,3.0,WR,13,0.85
+5077266,Trech Kekahuna,UNC,ACC,Wisconsin,Big Ten,True,3.0,WR,12,1.023
+5295888,Devarrick Woods,CLEM,ACC,Texas State,Sun Belt,True,3.0,DL,0,
+5225908,Mekhai Smith,MINN,Big Ten,Lehigh,Patriot,True,3.0,S,0,
+5238020,Brendon Haygood,UNT,American Athletic,Missouri,SEC,True,3.0,RB,1,1.08
+5383048,Wesley Hudson,UNT,American Athletic,Central Oklahoma,Mid America,True,3.0,DL,0,
+5080819,Davion Dozier,NCSU,ACC,App State,Sun Belt,True,3.0,WR,8,0.917
+5219162,Ty White,NCSU,ACC,North Carolina,ACC,True,3.0,CB,0,
+5041960,Jayvontay Conner,VAN,SEC,East Carolina,American Athletic,True,3.0,TE,12,0.904
+5169215,Maurice Veney,VAN,SEC,Morehouse,SIAC,True,3.0,TE,1,0.85
+5225375,Malik McNeely,ME,Coastal Athletic,VMI,Southern,False,,,11,1.0
+4921316,Nolan Ray,BC,ACC,Maryland,Big Ten,True,3.0,RB,12,1.023
+4702789,Justin Medlock,BC,ACC,SMU,ACC,True,3.0,LB,0,
+5159201,Markell Quick,SIU,MVFC,Chattanooga,Southern,False,,,12,1.0
+5154781,Allen Middleton,SIU,MVFC,Bowling Green,Mid-American,False,,,6,1.078
+5295769,Deuce Fillmore,ILL,Big Ten,Georgia State,Sun Belt,True,3.0,CB,0,
+5091842,Isaiah Thomison,ILL,Big Ten,Bowling Green,Mid-American,True,3.0,DL,0,
+5077787,Jaxon Smolik,TEM,American Athletic,Penn State,Big Ten,True,3.0,QB,1,1.08
+5308776,Mo Conteh,TOL,Mid-American,Ohio Dominican,Great Midwest Athletic,True,3.0,CB,0,
+4869341,Cade Yacamelli,M-OH,Mid-American,Wisconsin,Big Ten,True,3.0,RB,8,1.08
+5193274,Cade Wolford,CIN,Big 12,Kent State,Mid-American,True,4.0,WR,11,0.874
+5154303,Zion Fowler-El,WAG,NEC,Pittsburgh,ACC,True,3.0,WR,4,1.08
+4695784,Carson Camp,DUQ,NEC,SE Louisiana,Southland,True,2.0,QB,13,1.0
+5215266,Antwon Thomas,DUQ,NEC,Miami (OH),Mid-American,False,,,1,1.078
+4700147,Joseph Griffin Jr.,MASS,Mid-American,Wisconsin,Big Ten,True,3.0,WR,1,1.08
+5081131,Javen Nicholas,DUKE,ACC,Charlotte,American Athletic,True,3.0,WR,12,0.954
+5125153,Che Ojarikre,DUKE,ACC,Stanford,ACC,True,3.0,S,0,
+4702826,LaKelsey Johnson Jr.,LIB,Conference USA,Baylor,Big 12,True,3.0,TE,2,1.08
+5303437,Tyrell Gainey,LIB,Conference USA,Albany State,SIAC,True,,CB,0,
+5306938,Henry Hicks,LIB,Conference USA,Elizabeth City State,CIAA,True,3.0,DL,0,
+5382987,Jaden Miller,LT,Sun Belt,Keiser (Fl),,True,3.0,RB,0,
+5299909,MJ Moultrie II,LT,Sun Belt,Hampton,Coastal Athletic,True,3.0,S,0,
+5225413,Ty Jones,LT,Sun Belt,Norfolk State,MEAC,True,3.0,S,1,0.91
+5222227,DeBraun Hampton,BAY,Big 12,Florida,SEC,True,3.0,WR,0,
+5079553,Nate Kibble,BAY,Big 12,Texas,SEC,True,3.0,IOL,0,
+4808747,Jamaal Whyce Jr.,BAY,Big 12,Marshall,Sun Belt,True,3.0,DL,0,
+5303488,Chad Elzy Jr.,SELA,Southland,Kentucky State,SIAC,False,,,1,1.0
+5207934,Austin Carlisle,ULM,Sun Belt,Houston,Big 12,True,3.0,QB,3,1.08
+4871054,Riley Williams,MSST,SEC,Oregon State,Pac-12,True,3.0,TE,1,0.878
+5085233,Brinston Williams,MSST,SEC,Western Illinois,OVC-Big South,False,,,10,0.85
+5127724,Christian Clark,SC,SEC,Texas,SEC,True,3.0,RB,8,0.993
+5194306,Ashton Gray,ECU,American Athletic,North Texas,American Athletic,True,3.0,RB,10,1.027
+5161633,Cade Law,ECU,American Athletic,Memphis,American Athletic,True,3.0,LB,0,
+5084535,Blake Shirley,ECU,American Athletic,Wofford,Southern,True,,LS,0,
+5147725,Bucci Farmer,ODU,Sun Belt,App State,Sun Belt,True,3.0,DL,0,
+5149492,Lawrence Johnson,FIU,Conference USA,Florida Atlantic,American Athletic,True,3.0,CB,0,
+5147337,Witt Edwards,MOST,Conference USA,Vanderbilt,SEC,True,3.0,TE,0,
+5214501,Gavin Jenkins,AUB,SEC,South Florida,American Athletic,True,3.0,CB,0,
+5079437,Fred Gaskin III,AUB,SEC,South Florida,American Athletic,True,3.0,S,1,0.904
+5146788,Marcus Mascoll,GAST,Sun Belt,Florida,SEC,True,3.0,IOL,0,
+5156996,Jailen Duffie,UCF,Big 12,North Dakota State,MVFC,True,3.0,CB,0,
+5224219,Kyle Vaka,MUR,MVFC,Eastern Kentucky,UAC,False,,,8,1.0
+5224505,Tre Page III,OKST,Big 12,Tarleton State,UAC,True,3.0,RB,8,0.85
+5390453,William Mason,OKST,Big 12,Central Oklahoma,Mid America,True,3.0,RB,0,
+4922992,Israel Polk,OKST,Big 12,Akron,Mid-American,True,3.0,WR,12,0.874
+5083966,Morgan McPhaul,OKST,Big 12,VMI,Southern,True,3.0,TE,9,0.85
+4685588,Markeith Williams,OKST,Big 12,Miami,ACC,True,3.0,S,0,
+4685611,Enai White,OKST,Big 12,Penn State,Big Ten,True,3.0,DL,0,
+4833353,Trudell Berry,OKST,Big 12,Vanderbilt,SEC,True,3.0,CB,0,
+4921273,Billy Walton III,OKST,Big 12,SMU,ACC,True,3.0,EDGE,0,
+5332642,Jack Puckett,OKST,Big 12,Central Oklahoma,Mid America,True,3.0,LB,0,
+5086240,Donovan Green,OKST,Big 12,LSU,SEC,True,3.0,TE,1,1.025
+5203601,Shawn Simeon,CONN,FBS Independents,Toledo,Mid-American,False,,,1,0.855
+5151804,Odera Orizu,CONN,FBS Independents,NC State,ACC,True,3.0,EDGE,0,
+5214510,Steve Miller,CONN,FBS Independents,USC,Big Ten,True,3.0,S,0,
+4924147,Andrew Laurich,CONN,FBS Independents,Colorado State,Mountain West,True,3.0,DL,0,
+4950397,Tracy Revels,CONN,FBS Independents,Michigan State,Big Ten,True,3.0,S,0,
+4870832,Moussa Kane,CONN,FBS Independents,Duke,ACC,True,3.0,CB,0,
+4618083,Ethan Hampton,USM,Sun Belt,Illinois,Big Ten,True,3.0,QB,2,1.08
+5293671,Jeremiah Beck Jr.,USM,Sun Belt,Arkansas,SEC,True,3.0,TE,0,
+5394595,Jaylen Himes,USM,Sun Belt,Wingate,South Atlantic,True,3.0,WR,0,
+5127936,Will Smith,USM,Sun Belt,North Texas,American Athletic,True,3.0,EDGE,0,
+5155211,Josh Johnson,USM,Sun Belt,Nicholls,Southland,True,3.0,DL,0,
+5219022,Laquan Robinson,USM,Sun Belt,Kansas,Big 12,True,3.0,S,1,1.08
+5296126,Jonah Martinez,USM,Sun Belt,TCU,Big 12,True,3.0,CB,0,
+5161172,Andrew Martin,USM,Sun Belt,Stetson,Pioneer,True,3.0,LB,0,
+5157335,Melvin Spriggs,USM,Sun Belt,Akron,Mid-American,True,3.0,LB,0,
+5298496,Kelby Hampton,USM,Sun Belt,New Hampshire,Coastal Athletic,True,3.0,CB,0,
+5154846,Dawson Adams-Grenier,UTM,OVC,Campbell,Coastal Athletic,False,,,5,1.0
+5436996,Wendell Smith,UTM,OVC,Wayne State,,True,3.0,CB,0,
+5178086,Denzel Gardner,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,QB,0,
+5146968,Elijah Kinsler,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,DL,0,
+5295900,Dylan King,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,S,0,
+5089562,Justin Wallace,MEM,American Athletic,Western Carolina,Southern,True,3.0,EDGE,0,
+5220891,Xavier Miles,MEM,American Athletic,Charlotte,American Athletic,True,3.0,DL,0,
+5196100,Riley McGehee,MEM,American Athletic,Arkansas State,Sun Belt,True,3.0,OT,0,
+5150645,Ui Ale,DSU,MEAC,Troy,Sun Belt,False,,,1,1.08
+5154019,Noah Brannock,DSU,MEAC,William & Mary,Coastal Athletic,False,,,6,1.0
+5151079,Trey Engram,DSU,MEAC,Towson,Coastal Athletic,False,,,1,1.0
+5143595,Shaun Boykins Jr.,DSU,MEAC,Louisville,ACC,True,3.0,RB,4,1.08
+4837279,Jaylin Terzado,DSU,MEAC,Western Carolina,Southern,False,,,4,1.0
+5298213,Jaron Kelley,DSU,MEAC,Long Island University,NEC,False,,,8,1.0
+4892986,Lamont Payne,DSU,MEAC,Penn State,Big Ten,True,3.0,S,0,
+5083068,Kenny Odom,USF,American Athletic,UTEP,Conference USA,True,3.0,WR,11,0.972
+5125521,Arhmad Branch,USF,American Athletic,Purdue,Big Ten,True,3.0,WR,7,1.08
+4878111,Marshon Oxley,USF,American Athletic,West Virginia,Big 12,True,,EDGE,0,
+4870724,Michael Harris,USF,American Athletic,Maryland,Big Ten,True,3.0,LB,0,
+5146905,Shamar Meikle,USF,American Athletic,Oregon State,Pac-12,True,3.0,EDGE,0,
+5077311,Poasa Utu,NEV,Mountain West,Oklahoma State,Big 12,True,3.0,LB,0,
+5295049,Jaylen Webb,NEV,Mountain West,Boise State,Mountain West,True,3.0,S,1,1.03
+4924146,Ricky Lee,MTSU,Conference USA,Sacramento State,Big Sky,True,3.0,CB,0,
+4840124,D.J. Moore,USA,Sun Belt,Georgia Tech,ACC,True,3.0,S,0,
+4869962,Ashton Hollins,GASO,Sun Belt,Illinois,Big Ten,True,3.0,WR,3,1.08
+5161162,Ronnel Johnson,JXST,Conference USA,Missouri State,Conference USA,True,3.0,WR,11,1.002
+5234103,Marquis Hood,JXST,Conference USA,North Carolina A&T,Coastal Athletic,True,,DL,0,
+5303387,Ellis Stewart,NICH,Southland,Arkansas-Pine Bluff,SWAC,False,,,8,1.0
+4911835,Jhamal Shelby Jr.,NICH,Southland,Louisiana Tech,Conference USA,True,3.0,CB,0,
+4695711,Max Whisner,SHSU,Conference USA,Akron,Mid-American,True,3.0,TE,3,0.995
+5126292,Justin Terrell,SHSU,Conference USA,NC State,ACC,True,3.0,DL,0,
+5296471,Cameron Weir,UND,MVFC,Washington State,Pac-12,True,,WR,0,
+5229449,Kylyn Macklin,UND,MVFC,Albany,,True,3.0,EDGE,0,
+5126471,Daniel Kaelin,NEB,Big Ten,Virginia,ACC,True,3.0,QB,5,0.95
+5157284,Jamai East,EWU,Big Sky,Oregon State,Pac-12,True,3.0,WR,1,1.08
+5079318,Elijah Brown,WASH,Big Ten,Stanford,ACC,True,3.0,QB,6,0.95
+5123274,Jah Jah Boyd,COLO,Big 12,Indiana,Big Ten,True,3.0,S,0,
+5226687,Lamont Lester Jr.,COLO,Big 12,Monmouth,Coastal Athletic,True,3.0,EDGE,0,
+4870749,Bo Hughley,COLO,Big 12,Georgia,SEC,True,3.0,OT,0,
+4685459,Nicco Marchiol,NU,Big Ten,West Virginia,Big 12,True,3.0,QB,4,0.965
+5141419,Harry Dalton III,MD,Big Ten,USC,Big Ten,True,3.0,RB,4,0.99
+5394630,Xavier Walton,UTSA,American Athletic,Angelo State,Lone Star,True,3.0,S,0,
+4871053,Hollywood Smothers,TEX,SEC,NC State,ACC,True,4.0,RB,11,0.934
+4882122,Sterling Berkhalter,TEX,SEC,Wake Forest,ACC,True,4.0,WR,12,0.934
+4432552,Darius Snow,TEX,SEC,Michigan State,Big Ten,True,3.0,LB,0,
+5141765,Zion Williams,TEX,SEC,LSU,SEC,True,3.0,DL,0,
+5079443,Hauss Hejny,CSU,Pac-12,Oklahoma State,Big 12,True,3.0,QB,1,1.055
+4809893,Elijah Mc-Cantos,CSU,Pac-12,App State,Sun Belt,True,3.0,S,0,
+4920162,Seth Davis,TLSA,American Athletic,Mississippi State,SEC,True,3.0,RB,2,1.08
+5083637,Jayden Madkins,TLSA,American Athletic,Louisiana Tech,Conference USA,True,3.0,DL,0,
+4431131,Devin Hightower,TLSA,American Athletic,UAB,American Athletic,True,3.0,LB,0,
+5147199,Guylijah Theodule,UAB,American Athletic,Southern Miss,Sun Belt,True,3.0,CB,0,
+4713312,Princeton Malbrue,UL,Sun Belt,LSU,SEC,True,3.0,LB,0,
+4871065,Treyaun Webb,APP,Sun Belt,Florida,SEC,True,4.0,RB,0,
+4878223,Jackson Proctor,SDAK,MVFC,Northern Illinois,Mid-American,False,,,1,1.078
+5078272,Bryce Cohoon,SDAK,MVFC,Kansas,Big 12,True,3.0,WR,0,
+5081337,Kael Kolarik,SDAK,MVFC,Iowa,Big Ten,True,,S,0,
+5193690,Harrison Brun,SDAK,MVFC,Minnesota,Big Ten,True,2.0,S,0,
+5084429,Darren Morris,BOIS,Pac-12,Southern,SWAC,True,,WR,10,0.87
+4923038,Logan Brantley,BOIS,Pac-12,Kansas,Big 12,True,3.0,LB,0,
+5390277,Damier Minkah,JMU,Sun Belt,Shepherd,Pennsylvania State Athletic,True,3.0,CB,0,
+4905245,Jason Oliver,SDSU,Pac-12,Sacramento State,Big Sky,True,3.0,CB,0,
+4709804,Cole Rusk,ARIZ,Big 12,Illinois,Big Ten,True,4.0,TE,8,1.006
+4870754,Rodney Gallagher III,ARIZ,Big 12,West Virginia,Big 12,True,3.0,WR,12,0.981
+4870611,Daylen Austin,ARIZ,Big 12,Oregon,Big Ten,True,3.0,S,0,
+5148654,Jaylen Patterson,SAC,Mid-American,New Mexico State,Conference USA,True,3.0,QB,0,
+4916957,Donovan Turner,SAC,Mid-American,Illinois,Big Ten,True,3.0,CB,0,
+5295615,Noah King,SAC,Mid-American,Colorado,Big 12,True,3.0,CB,0,
+5079725,Anthony Speca,PUR,Big Ten,Penn State,Big Ten,True,3.0,LB,0,
+5146854,Nuku Mafi,PUR,Big Ten,Oklahoma State,Big 12,True,3.0,OT,0,
+5219086,Leland Smith,UCLA,Big Ten,San José State,Mountain West,True,3.0,WR,11,0.909
+5153994,Landon Ellis,UCLA,Big Ten,James Madison,Sun Belt,True,3.0,WR,12,0.883
+4703026,Aiden Gobaira,UCLA,Big Ten,James Madison,Sun Belt,True,3.0,EDGE,0,
+4697633,Dylan Paine,MONT,Big Sky,Washington State,Pac-12,True,2.0,RB,0,
+5226228,Mariano Birdno,MONT,Big Sky,St. Thomas (MN),Pioneer,False,,,3,1.0
+5298088,Reese Brooks,MONT,Big Sky,Cal Poly,Big Sky,False,,,1,1.0
+5151276,Landon Ransom-Goelz,MONT,Big Sky,Rice,American Athletic,True,3.0,WR,6,1.08
+5147158,Tanner Williams,MONT,Big Sky,San Diego State,Mountain West,True,3.0,LB,0,
+5328380,Braeden Orlandi,MONT,Big Sky,Carroll College,,True,3.0,S,0,
+5086631,Devin Dunn,MONT,Big Sky,Arizona,Big 12,True,,S,0,
+5153060,Ashton Paine,MONT,Big Sky,South Dakota,MVFC,True,2.0,S,0,
+5219149,Chris Johnson II,MONT,Big Sky,Arizona State,Big 12,True,3.0,CB,0,
+4869654,Justin Eklund,MONT,Big Sky,Bowling Green,Mid-American,True,3.0,LB,0,
+4697738,Adama Fall,MONT,Big Sky,Arizona State,Big 12,True,,S,0,
+5193657,Hunter Haines,MONT,Big Sky,San Diego State,Mountain West,True,3.0,S,0,
+5296163,Brady Jones,ORST,Pac-12,Western Michigan,Mid-American,True,3.0,QB,5,0.948
+4870662,Isaiah Carlson,SJSU,Mountain West,UCLA,Big Ten,False,,,1,1.08
+4685396,Anthony Ivey,SJSU,Mountain West,Penn State,Big Ten,True,3.0,WR,0,
+4612402,Ian Shewell,SJSU,Mountain West,Arizona State,Big 12,True,3.0,DL,0,
+4880276,Ashton Whitner,LIB,Conference USA,Ball State,Mid-American,True,3.0,S,0,
+5095242,Cyrus Ellison,CCU,Sun Belt,South Carolina State,MEAC,True,3.0,TE,7,0.91
+4871038,Jordan Thompson,CCU,Sun Belt,Western Carolina,Southern,True,3.0,LB,0,
+4717697,DJ Wesolak,CCU,Sun Belt,Missouri State,Conference USA,True,3.0,EDGE,0,
+5193351,Krosse Johnson,CCU,Sun Belt,Arkansas,SEC,True,3.0,WR,1,1.08
+4870633,Chandavian Bradley,CCU,Sun Belt,Oklahoma State,Big 12,True,3.0,EDGE,0,
+4685695,Samuel Brown V,TEM,American Athletic,Rutgers,Big Ten,True,3.0,RB,4,1.08
+5097480,Kolin Dinkins,TEM,American Athletic,Penn State,Big Ten,True,,S,0,
+5388300,Demonte Greene,TEM,American Athletic,Midwestern State,Lone Star,True,3.0,WR,0,
+5098448,Isaiah Freeman,HOW,MEAC,Hampton,Coastal Athletic,False,,,4,1.0
+5193264,Kam Anthony,RUTG,Big Ten,Ball State,Mid-American,False,,,6,0.858
+4687358,J'Dan Burnett,RUTG,Big Ten,Tulsa,American Athletic,True,3.0,EDGE,0,
+5295450,Sean Persson,UAB,American Athletic,Toledo,Mid-American,True,3.0,TE,0,
+4912355,Chris Spencer,UAB,American Athletic,Old Dominion,Sun Belt,True,3.0,DL,0,
+5154217,Que Billingsley,UAB,American Athletic,Gardner-Webb,OVC-Big South,True,,CB,0,
+5110457,Kris Wokomah,UAB,American Athletic,Baylor,Big 12,True,3.0,S,0,
+5328488,Luke Dehnicke,NU,Big Ten,Minnesota Duluth,Northern Sun,True,3.0,TE,0,
+5214386,Donovan Starr,CLEM,ACC,Auburn,SEC,True,3.0,CB,0,
+5147861,Adam Mohammed,CAL,ACC,Washington,Big Ten,True,4.0,RB,13,1.023
+4908552,Dorian Thomas,CAL,ACC,New Mexico,Mountain West,True,4.0,TE,13,0.942
+5087950,Kingston Lopa,CAL,ACC,Oregon,Big Ten,True,4.0,S,0,
+5157114,Joshua Pierce,CAL,ACC,North Texas,American Athletic,True,3.0,EDGE,0,
+4685268,Raleek Brown,TEX,SEC,Arizona State,Big 12,True,4.0,RB,12,0.949
+5079376,Cam Coleman,TEX,SEC,Auburn,SEC,True,5.0,WR,12,0.993
+4922981,Rasheem Biles,TEX,SEC,Pittsburgh,ACC,True,4.0,LB,0,
+4918434,Justin Cryer,TEX,SEC,Florida State,ACC,True,3.0,LB,0,
+5078162,Bo Mascoe,TEX,SEC,Rutgers,Big Ten,True,4.0,CB,0,
+4870759,Ian Geffrard,TEX,SEC,Arkansas,SEC,True,4.0,DL,0,
+5092217,Gianni Spetic,TEX,SEC,Memphis,American Athletic,True,2.0,K,0,
+5081075,Mac Chiumento,TEX,SEC,Florida State,ACC,True,,P,0,
+5224708,Qua Moss,TENN,SEC,Kansas State,Big 12,True,3.0,S,2,0.949
+4870146,DJ Burks,TENN,SEC,App State,Sun Belt,True,3.0,S,1,0.867
+5079298,Lloyd Avant,OU,SEC,Colorado State,Mountain West,True,3.0,RB,12,0.893
+4907786,Rocky Beers,OU,SEC,Colorado State,Mountain West,True,3.0,TE,9,0.893
+5228149,Mackenzie Alleyne,OU,SEC,Washington State,Pac-12,True,3.0,WR,2,0.878
+5079556,Parker Livingstone,OU,SEC,Texas,SEC,True,4.0,WR,12,0.993
+4742092,Bishop Thomas,OU,SEC,Georgia State,Sun Belt,True,3.0,DL,0,
+4878109,Hayden Hansen,OU,SEC,Florida,SEC,True,3.0,TE,11,0.993
+5079447,Dakoda Fields,OU,SEC,Oregon,Big Ten,True,3.0,CB,0,
+4685616,Gentry Williams,UGA,SEC,Oklahoma,SEC,True,3.0,CB,0,
+5127031,Tionne Gray,ND,FBS Independents,Oregon,Big Ten,True,4.0,DL,0,
+4870879,Keon Keeley,ND,FBS Independents,Alabama,SEC,True,4.0,DL,0,
+5150917,Dee Newsome,PUR,Big Ten,Samford,Southern,True,3.0,CB,0,
+4685478,Curt Neal,PUR,Big Ten,Illinois,Big Ten,True,3.0,DL,0,
+5084732,Tre Moore,PUR,Big Ten,San Diego,Pioneer,True,3.0,EDGE,0,
+5084286,Makhi Frazier,MISS,SEC,Michigan State,Big Ten,True,3.0,RB,9,0.974
+5209688,JT Lindsey,MISS,SEC,LSU,SEC,True,3.0,RB,0,
+5125900,Joshua Dye,MISS,SEC,Southern Utah,UAC,True,3.0,RB,11,0.85
+4870656,Johntay Cook II,MISS,SEC,Syracuse,ACC,True,3.0,WR,11,0.934
+4711408,Horatio Fields,MISS,SEC,Auburn,SEC,True,4.0,WR,4,0.993
+5102910,Keaton Thomas,MISS,SEC,Baylor,Big 12,True,3.0,LB,0,
+5139216,Luke Ferrelli,MISS,SEC,California,ACC,True,4.0,LB,0,
+4870700,Sharif Denson,MISS,SEC,Florida,SEC,True,3.0,CB,0,
+4870765,Edwin Joseph,MISS,SEC,Florida State,ACC,True,4.0,S,0,
+4870961,Blake Purchase,MISS,SEC,Oregon,Big Ten,True,4.0,EDGE,0,
+4685487,Jehiem Oatis,MISS,SEC,Colorado,Big 12,True,3.0,DL,0,
+5142694,Tah'j Butler,MISS,SEC,Georgia Tech,ACC,True,3.0,LB,0,
+5146887,Michai Boireau,MISS,SEC,Florida,SEC,True,4.0,DL,0,
+4870975,Jordan Renaud,MISS,SEC,Alabama,SEC,True,4.0,EDGE,0,
+4870588,Joenel Aguero,MISS,SEC,Georgia,SEC,True,3.0,S,0,
+4917327,Jonathan Maldonado,MISS,SEC,Nevada,Mountain West,True,3.0,EDGE,0,
+5387647,Gavin Spillers,CMU,Mid-American,Mars Hill,South Atlantic,True,,TE,0,
+4921440,Jamal Meriweather,MIA,ACC,Georgia,SEC,True,3.0,OT,0,
+4870842,Vandrevius Jacobs,MIA,ACC,South Carolina,SEC,True,4.0,WR,8,1.042
+4566164,Jack Olsen,MIA,ACC,Northwestern,Big Ten,True,3.0,K,0,
+5153131,Darrell Prater,ILL,Big Ten,Jacksonville State,Conference USA,True,3.0,DL,0,
+4431009,Hunter Welcing,OSU,Big Ten,Northwestern,Big Ten,True,4.0,TE,12,0.99
+5130792,Nitro Tuggle,SC,SEC,Purdue,Big Ten,True,3.0,WR,12,0.974
+5079721,Jordan Thomas,SC,SEC,Georgia,SEC,True,3.0,DL,0,
+5124338,Josh Ford,ALA,SEC,Oklahoma State,Big 12,True,3.0,TE,3,0.949
+4921509,Rickey Gibson III,TA&M,SEC,Tennessee,SEC,True,4.0,CB,0,
+5142319,Kyan Berry-Johnson,SHSU,Conference USA,Wisconsin,Big Ten,True,3.0,WR,0,
+5301576,Kamari Maxwell,SHSU,Conference USA,Austin Peay,UAC,False,,,11,0.917
+5226581,Caesar Magee,SHSU,Conference USA,Northwestern State,Southland,True,3.0,CB,0,
+5151041,Brian Bates Jr.,SHSU,Conference USA,Delaware State,MEAC,True,3.0,LB,0,
+5086522,Ishmel Atkins,SHSU,Conference USA,Elon,Coastal Athletic,True,3.0,CB,0,
+4893939,Cameron Franklin,SHSU,Conference USA,Prairie View A&M,SWAC,False,,,1,0.917
+5147144,Elijah Groves,SHSU,Conference USA,NC State,ACC,True,3.0,LB,0,
+5225792,Alijah Cason,SHSU,Conference USA,Holy Cross,Patriot,False,,,10,0.917
+5154317,Sam Carpenter,SHSU,Conference USA,Pittsburgh,ACC,True,,K,0,
+4773919,Thomas Castellanos,TTU,Big 12,Florida State,ACC,True,3.0,QB,12,0.965
+5079691,Malcolm Simmons,TTU,Big 12,Auburn,SEC,True,4.0,WR,10,1.025
+5227057,Jalen Jones,TTU,Big 12,Alabama State,SWAC,True,3.0,WR,11,0.85
+4683630,Corey Platt Jr.,TTU,Big 12,Houston,Big 12,True,3.0,LB,0,
+5295191,Julien Laventure,TTU,Big 12,Akron,Mid-American,True,3.0,DL,0,
+4940237,Jamond Mathis,TTU,Big 12,Kent State,Mid-American,True,3.0,EDGE,0,
+5079572,Dylan Raiola,ORE,Big Ten,Nebraska,Big Ten,True,4.0,QB,9,0.99
+5142588,Koi Perich,ORE,Big Ten,Minnesota,Big Ten,True,4.0,S,5,0.99
+5296355,Bailey Ettridge,ORE,Big Ten,Nevada,Mountain West,False,,,2,0.909
+4587870,Zuriah Fisher,USC,Big Ten,Penn State,Big Ten,True,4.0,EDGE,0,
+5078005,Abu Sama III,WIS,Big Ten,Iowa State,Big 12,True,3.0,RB,12,0.965
+5086150,Ryan Schwendeman,WIS,Big Ten,Southern Illinois,MVFC,True,3.0,TE,6,0.85
+5079552,Nate Palmer,WIS,Big Ten,TCU,Big 12,True,3.0,RB,6,0.965
+5146753,Shamar Rigby,WIS,Big Ten,Oklahoma State,Big 12,True,3.0,WR,11,0.965
+4869422,Braden Pegan,UTAH,Big 12,Utah State,Mountain West,True,4.0,WR,12,0.925
+4900351,Noah Bennee,UTAH,Big 12,Weber State,Big Sky,True,3.0,TE,10,0.85
+5132652,Ricky Johnson,UTAH,Big 12,Mississippi State,SEC,True,3.0,WR,4,1.025
+5215636,Jireh Moe,UTAH,Big 12,San José State,Mountain West,True,3.0,DL,0,
+5152199,Ethan Day,UTAH,Big 12,North Texas,American Athletic,True,3.0,DL,1,0.936
+5147164,James Chenault Jr.,UTAH,Big 12,South Florida,American Athletic,True,3.0,CB,1,0.936
+4903471,Elijah Reed,UTAH,Big 12,Akron,Mid-American,True,3.0,CB,0,
+5218664,Tyler Fortenberry,ISU,Big 12,Arkansas State,Sun Belt,True,3.0,TE,10,0.899
+5263215,Donovan Fitzmaurice,ISU,Big 12,Washington State,Pac-12,True,3.0,DL,0,
+5263572,Tyrone Cotton III,ISU,Big 12,Washington State,Pac-12,True,3.0,CB,0,
+5332954,Caleb Schmidt,ISU,Big 12,Minot State,Northern Sun,True,,LS,0,
+5153062,Jack Janikowski,ISU,Big 12,Washington State,Pac-12,True,3.0,EDGE,0,
+5141420,Marquise Davis,LOU,ACC,Missouri,SEC,True,3.0,RB,3,1.042
+5084455,Joshua Donald,LOU,ACC,Houston,Big 12,True,3.0,DL,0,
+5193099,Tyler Brown,IOWA,Big Ten,James Madison,Sun Belt,True,3.0,S,0,
+5160962,John Henry Daley,MICH,Big Ten,Utah,Big 12,True,4.0,EDGE,0,
+5092989,Cavan Tuley,MIZ,SEC,Houston,Big 12,True,3.0,EDGE,0,
+4870623,Malik Bryant,MIZ,SEC,Miami,ACC,True,3.0,EDGE,0,
+5141595,Kamauryn Morgan,MIZ,SEC,Baylor,Big 12,True,4.0,EDGE,0,
+5150836,Jaden Jones,MIZ,SEC,Florida State,ACC,True,3.0,EDGE,0,
+5091777,Eddie Kelly Jr.,MSST,SEC,West Virginia,Big 12,True,3.0,DL,0,
+5390043,King Phillips,GASO,Sun Belt,Texas A&M-Kingsville,Lone Star,True,3.0,WR,0,
+4879816,Rashon Myles Jr.,GASO,Sun Belt,Abilene Christian,UAC,True,3.0,LB,0,
+4838549,Kam Perry,COLO,Big 12,Miami (OH),Mid-American,True,3.0,WR,13,0.874
+5159147,Tyler Martinez,COLO,Big 12,New Mexico State,Conference USA,True,3.0,LB,0,
+5207843,Jason Stokes Jr.,COLO,Big 12,Utah,Big 12,True,3.0,CB,0,
+4950555,Samu Taumanupepe,COLO,Big 12,Baylor,Big 12,True,3.0,DL,0,
+5296040,Elijah Lagg,PITT,ACC,UAB,American Athletic,True,3.0,TE,11,0.954
+5121617,Jeremiah Warren,PITT,ACC,Illinois,Big Ten,True,3.0,DL,0,
+5225460,Sam Hunsaker,PITT,ACC,Northern Arizona,Big Sky,True,3.0,K,0,
+5141502,Javion Hilson,VT,ACC,Missouri,SEC,True,3.0,EDGE,0,
+5127806,Mylachi Williams,VT,ACC,Penn State,Big Ten,True,3.0,EDGE,0,
+5167181,Chandler Jordan,BC,ACC,Georgia State,Sun Belt,True,3.0,S,0,
+5079477,Kris Jones,BC,ACC,Georgia,SEC,True,3.0,LB,0,
+5254150,Javion Kinnard,SDSU,Pac-12,Colorado State,Mountain West,True,3.0,RB,10,0.999
+5088359,Nate Henrich,SDSU,Pac-12,Gannon,Pennsylvania State Athletic,True,3.0,DL,0,
+5225591,Carsten Mamaril,SDSU,Pac-12,Portland State,Big Sky,True,3.0,CB,0,
+5394415,Khamoni Robinson,TOL,Mid-American,Lenoir-Rhyne,,True,3.0,QB,0,
+4882061,Jacob Newell,TOL,Mid-American,Akron,Mid-American,False,,,3,1.021
+4880356,Kaleb Hutchinson,TOL,Mid-American,Mercer,Southern,True,3.0,S,0,
+5083472,Ben Sahakian,TOL,Mid-American,Cornell,Ivy,True,3.0,EDGE,0,
+5146769,Dominic Toy,CSU,Pac-12,UConn,FBS Independents,True,3.0,TE,0,
+5077803,Jackson Harper,CSU,Pac-12,UConn,FBS Independents,False,,,4,1.08
+4870905,Caleb Presley,CSU,Pac-12,San José State,Mountain West,True,3.0,CB,0,
+5077340,Cleto Chol,CSU,Pac-12,UConn,FBS Independents,True,,DL,0,
+4683417,Miles Campbell,UTSA,American Athletic,Florida A&M,SWAC,True,4.0,TE,10,0.887
+4870400,Drenon Fite III,UTSA,American Athletic,Louisiana,Sun Belt,True,3.0,EDGE,0,
+4871057,Dylan Spencer,UTSA,American Athletic,Texas Tech,Big 12,True,3.0,EDGE,0,
+5174651,Dawayne Galloway Jr.,AKR,Mid-American,West Virginia,Big 12,True,3.0,CB,0,
+5296250,Aidan Stire,AKR,Mid-American,West Virginia,Big 12,True,3.0,P,0,
+5085826,Jacob Jeudy,BALL,Mid-American,Concord,Mountain East,True,3.0,IOL,0,
+5126524,Jakorion Caffey,KENT,Mid-American,Cincinnati,Big 12,True,3.0,RB,3,1.08
+5089863,Norey Johnson,KENT,Mid-American,Houston Christian,Southland,True,3.0,S,0,
+5146577,Davion Pritchard,KENT,Mid-American,Pittsburgh,ACC,True,3.0,CB,0,
+5220224,Seidrion Langston,USA,Sun Belt,UL Monroe,Sun Belt,True,3.0,LB,0,
+4879824,Callum Wither,UK,SEC,Laurier,,True,3.0,QB,0,
+5147969,Cyrus Reyes,UK,SEC,Mississippi State,SEC,True,3.0,S,0,
+5081342,Dominic Wiseman,UK,SEC,South Alabama,Sun Belt,True,3.0,DL,0,
+4870698,Aaron Gates,UK,SEC,Florida,SEC,True,3.0,S,0,
+5075564,Jamarrion Harkless,UK,SEC,Purdue,Big Ten,True,3.0,DL,0,
+5141745,Tavion Wallace,UK,SEC,Arkansas,SEC,True,3.0,LB,0,
+4912342,Wayne Knight,UCLA,Big Ten,James Madison,Sun Belt,True,3.0,RB,14,0.883
+4917945,Aidan Mizell,UCLA,Big Ten,Florida,SEC,True,4.0,WR,7,1.009
+4869442,Brayden Loftin,UCLA,Big Ten,Kansas State,Big 12,True,3.0,TE,6,0.965
+4899366,Semaj Morgan,UCLA,Big Ten,Michigan,Big Ten,True,3.0,WR,9,0.99
+5084910,Josh Phifer,UCLA,Big Ten,James Madison,Sun Belt,True,3.0,TE,4,0.883
+5209464,Brian Rowe Jr.,UCLA,Big Ten,South Carolina,SEC,True,3.0,WR,8,1.009
+5224368,Jhase McMillan,UCLA,Big Ten,Montana State,Big Sky,True,3.0,CB,0,
+4899483,Sammy Omosigho,UCLA,Big Ten,Oklahoma,SEC,True,4.0,LB,0,
+4921504,Dante Lovett,UCLA,Big Ten,Virginia Tech,ACC,True,3.0,CB,0,
+4917948,Malik Hartford,UCLA,Big Ten,Ohio State,Big Ten,True,3.0,S,0,
+5077815,Ta'Shawn James,UCLA,Big Ten,Iowa State,Big 12,True,3.0,S,0,
+5157400,Drew Spinogatti,UCLA,Big Ten,James Madison,Sun Belt,True,3.0,LB,0,
+5197086,Sahir West,UCLA,Big Ten,James Madison,Sun Belt,True,3.0,EDGE,0,
+4911930,Trent Hendrick,UCLA,Big Ten,James Madison,Sun Belt,True,,LB,0,
+5083150,Mason Rivera,UCLA,Big Ten,Cal Poly,Big Sky,True,,S,0,
+5141658,Anthony Sacca,UCLA,Big Ten,Notre Dame,FBS Independents,True,3.0,LB,0,
+5141672,Maxwell Roy,UCLA,Big Ten,Ohio State,Big Ten,True,3.0,DL,0,
+5176073,Osiris Gilbert,UCLA,Big Ten,UConn,FBS Independents,True,3.0,CB,0,
+4685341,Tyson Ford,UCLA,Big Ten,California,ACC,True,3.0,DL,0,
+4923224,Darold DeNgohe,UCLA,Big Ten,Rutgers,Big Ten,True,3.0,DL,0,
+5219647,Dallin Havea,UCLA,Big Ten,Utah Tech,UAC,True,3.0,EDGE,0,
+5296826,Curtis Gerrand,UCLA,Big Ten,Sam Houston,Conference USA,True,,P,1,0.865
+4872721,Cardell Williams,MD,Big Ten,Sacramento State,Big Sky,True,3.0,QB,12,0.85
+5083950,Stephen Dean III,MD,Big Ten,VMI,Southern,True,3.0,LB,0,
+4881032,Taron Dickens,NIU,Mountain West,Western Carolina,Southern,True,3.0,QB,9,0.901
+5152660,Avery Jones,NIU,Mountain West,Lafayette,Patriot,True,3.0,S,0,
+5226770,Tre Mittman,GAST,Sun Belt,North Carolina A&T,Coastal Athletic,True,,S,0,
+5381376,Andre Jocelyn,GAST,Sun Belt,Benedict,SIAC,True,,CB,0,
+5079764,Walker White,CARK,UAC,Baylor,Big 12,True,3.0,QB,0,
+4685701,James Jointer,CARK,UAC,Eastern Michigan,Mid-American,True,3.0,RB,3,1.078
+5084657,Dakarai Anderson,CARK,UAC,Cincinnati,Big 12,True,3.0,WR,1,1.08
+5083164,Jordan Sanders,FSU,ACC,Texas State,Sun Belt,True,3.0,DL,0,
+5147679,Nehemiah Chandler,FSU,ACC,South Alabama,Sun Belt,True,3.0,CB,0,
+5079499,Audric Harris,HAW,Mountain West,Washington,Big Ten,True,3.0,WR,4,1.08
+5087651,Joenel Figueroa,HAW,Mountain West,West Georgia,UAC,True,3.0,S,0,
+5152780,Spencer Elliott,HAW,Mountain West,Portland State,Big Sky,True,2.0,EDGE,0,
+5301306,Ja'Quan Redfern,WYO,Mountain West,Murray State,MVFC,True,3.0,DL,0,
+5126534,Jeremy Scott,TCU,Big 12,South Alabama,Sun Belt,True,3.0,WR,9,0.899
+5077204,Michael Short,TCU,Big 12,Virginia Tech,ACC,True,3.0,LB,0,
+5084770,Koron Hayward,TCU,Big 12,Western Kentucky,Conference USA,True,3.0,EDGE,0,
+5085334,Jaheim Buchanon,TCU,Big 12,Florida International,Conference USA,True,3.0,IOL,0,
+5168802,Grayson Brousseau,UCF,Big 12,Oklahoma State,Big 12,True,3.0,TE,5,0.981
+5226917,Winston Watkins,W&M,Patriot,Towson,Coastal Athletic,False,,,8,1.0
+4694149,Walker Eget,DUKE,ACC,San José State,Mountain West,True,3.0,QB,11,0.942
+4873588,CJ Campbell Jr.,DUKE,ACC,Rutgers,Big Ten,True,3.0,RB,3,1.023
+5094035,Wilhelm Daal II,DUKE,ACC,Yale,Ivy,True,3.0,RB,12,0.85
+4879192,Jonah Burton,DUKE,ACC,Idaho State,Big Sky,True,3.0,WR,5,0.85
+5084409,Jared Richardson,DUKE,ACC,Pennsylvania,Ivy,True,3.0,WR,10,0.85
+4816323,Nate Kurisky,DUKE,ACC,Louisville,ACC,True,3.0,TE,10,0.983
+4602921,Dylan Flowers,DUKE,ACC,Western Kentucky,Conference USA,True,3.0,CB,0,
+5148825,Jon Morris,DUKE,ACC,UConn,FBS Independents,True,3.0,LB,0,
+5085514,Dakota Quinonez,DUKE,ACC,Dartmouth,Ivy,True,3.0,DL,0,
+5079752,Owen Wafle,DUKE,ACC,Penn State,Big Ten,True,3.0,DL,0,
+5225215,Kyon Loud,DUKE,ACC,Montana,Big Sky,True,3.0,CB,0,
+4870242,Evan Smith,DUKE,ACC,Northwestern,Big Ten,True,3.0,CB,0,
+5165052,Mikaio Edward,BOIS,Pac-12,Central Washington,Lone Star,True,3.0,DL,0,
+5126475,Trey Petty,WMU,Mid-American,Illinois,Big Ten,True,3.0,QB,0,
+5121636,Adam Parks,WMU,Mid-American,New Mexico State,Conference USA,True,2.0,TE,1,1.028
+5097172,Kouri Crump,WMU,Mid-American,VMI,Southern,True,3.0,S,0,
+4689529,Kenji Christian,CONN,FBS Independents,Toledo,Mid-American,False,,,13,0.855
+5079486,Zy'marion Lang,CONN,FBS Independents,Toledo,Mid-American,True,3.0,WR,0,
+4592781,Luke Murphy,CONN,FBS Independents,Coastal Carolina,Sun Belt,True,3.0,LB,1,0.88
+5130411,Melvin Hills III,CONN,FBS Independents,Texas,SEC,True,3.0,DL,0,
+5146913,Shamar Riser-Pressley,CONN,FBS Independents,Buffalo,Mid-American,True,3.0,EDGE,0,
+5141549,David McComb,M-OH,Mid-American,Kansas,Big 12,True,3.0,QB,0,
+5150538,Devin Hyatt,M-OH,Mid-American,Arizona,Big 12,True,3.0,WR,1,1.08
+5157328,Marcus Moore,M-OH,Mid-American,Purdue,Big Ten,True,3.0,DL,0,
+4430827,Troy Omeire,UNM,Mountain West,UNLV,Mountain West,True,3.0,WR,13,1.03
+5224084,Trey Hedden,NMSU,Conference USA,Furman,Southern,False,,,12,0.917
+5153780,Jeremiah Sandiford,NMSU,Conference USA,Tennessee Tech,OVC-Big South,True,3.0,DL,0,
+5159136,Tayden Barnes,NMSU,Conference USA,Cincinnati,Big 12,True,3.0,S,0,
+4832789,Carson Haggard,RMU,NEC,Abilene Christian,UAC,True,3.0,QB,0,
+5303389,Tyreke Jinks,RMU,NEC,Arkansas-Pine Bluff,SWAC,False,,,2,1.0
+5223988,Amanuel Dickson,RMU,NEC,Chattanooga,Southern,True,3.0,LB,0,
+5095138,Trevor Wilson,BUFF,Mid-American,Campbell,Coastal Athletic,True,3.0,TE,9,0.943
+5114784,Montez Green,GWEB,OVC,Morehead State,Pioneer,False,,,4,1.0
+5232389,Keydel Painter,MRSH,Sun Belt,Virginia Union,CIAA,True,3.0,EDGE,0,
+5230073,Cobey Thompkins,NCCU,MEAC,The Citadel,Southern,False,,,12,1.0
+5301057,Nelson Layne,NCCU,MEAC,North Carolina A&T,Coastal Athletic,False,,,4,1.0
+5083663,Plez Lawrence,NCCU,MEAC,Indiana State,MVFC,False,,,6,1.0
+4432534,Tyree Saunders,NCCU,MEAC,Alabama State,SWAC,False,,,2,1.0
+5214491,Taeshawn Alston,NCCU,MEAC,South Carolina,SEC,True,3.0,EDGE,0,
+5075800,Emory Williams,ECU,American Athletic,Miami,ACC,True,3.0,QB,4,1.056
+4433829,Mitch Griffis,ECU,American Athletic,Texas Tech,Big 12,True,3.0,QB,5,1.071
+4685237,Michael Allen,ECU,American Athletic,Marshall,Sun Belt,True,4.0,RB,8,0.99
+4870770,Ray Ray Joseph Jr.,ECU,American Athletic,Miami,ACC,True,3.0,WR,1,1.056
+4911906,Kanen Hamlett,ECU,American Athletic,App State,Sun Belt,True,3.0,TE,7,0.99
+5122006,Landon Sides,ECU,American Athletic,North Texas,American Athletic,True,3.0,WR,12,1.027
+5125012,Ismael Smith Flores,ECU,American Athletic,UT Rio Grande Valley,Southland,True,3.0,TE,8,0.887
+5153369,Ja'Keith Hamilton,ECU,American Athletic,Furman,Southern,True,,WR,11,0.887
+5078101,Zyeir Gamble,ECU,American Athletic,App State,Sun Belt,True,3.0,S,0,
+5132627,Crews Law,ECU,American Athletic,Memphis,American Athletic,True,3.0,LB,0,
+4701937,Myles Pollard,ECU,American Athletic,Memphis,American Athletic,True,3.0,S,0,
+5079623,Christian Peterson,ECU,American Athletic,UCF,Big 12,True,3.0,S,0,
+5109795,Rae'mon Mosby,ECU,American Athletic,Louisville,ACC,True,3.0,CB,0,
+4915713,Walter Taylor,VAN,SEC,Ball State,Mid-American,True,3.0,TE,0,
+4918121,Cole Adams,VAN,SEC,Alabama,SEC,True,3.0,WR,2,0.993
+4954455,Bryson Washington,AUB,SEC,Baylor,Big 12,True,4.0,RB,12,0.949
+4685414,Jake Johnson,AUB,SEC,North Carolina,ACC,True,3.0,TE,6,0.934
+4880395,Tae Meadows,AUB,SEC,Troy,Sun Belt,True,3.0,RB,12,0.867
+4683507,Owen Stoudmire,NEB,Big Ten,Boston College,ACC,True,3.0,DL,0,
+5086034,Cam Edwards,MSU,Big Ten,UConn,FBS Independents,True,3.0,RB,13,1.019
+4870991,Michael Richard,MSU,Big Ten,Louisiana Tech,Conference USA,True,3.0,S,0,
+5156962,Cam Stodghill,MSU,Big Ten,Albany,,True,3.0,S,0,
+5225744,Trey Lisle,MSU,Big Ten,Southeast Missouri State,OVC-Big South,True,3.0,EDGE,0,
+5079542,Luke Kromenhoek,USF,American Athletic,Mississippi State,SEC,True,3.0,QB,3,1.08
+5156110,Kade Caton,USF,American Athletic,Oregon,Big Ten,True,3.0,TE,0,
+5121711,Ayden Jackson,USF,American Athletic,Georgia Southern,Sun Belt,True,,S,0,
+5125467,Sam Robinson,USF,American Athletic,Rutgers,Big Ten,True,3.0,LB,0,
+4901423,Terrell Jones,USF,American Athletic,Virginia,ACC,True,3.0,DL,0,
+5121607,Ke'Marion Baldwin,BGSU,Mid-American,Charleston Southern,OVC-Big South,True,3.0,RB,11,0.943
+5258758,James Steel,DEL,Conference USA,UAB,American Athletic,True,3.0,DL,0,
+5092615,Sam Siafa,DEL,Conference USA,Penn State,Big Ten,True,3.0,DL,0,
+5401933,Tucker Smack,DEL,Conference USA,Salisbury University,,True,3.0,K,0,
+4870819,Eli Holstein,UVA,ACC,Pittsburgh,ACC,True,3.0,QB,7,0.983
+4430954,Lukas Ungar,UVA,ACC,New Mexico State,Conference USA,True,3.0,TE,3,0.899
+4430853,Darrion Henry-Young,UVA,ACC,Coastal Carolina,Sun Belt,True,3.0,DL,0,
+4433868,Jalen McNair,UVA,ACC,Buffalo,Mid-American,True,3.0,S,0,
+4690121,Kervins Choute,UVA,ACC,UConn,FBS Independents,True,3.0,DL,0,
+4876514,Justin Townsend,UVA,ACC,Columbia,Ivy,True,,EDGE,0,
+4879455,Damashja Harris,UIW,Southland,Wyoming,Mountain West,True,,RB,4,1.08
+4693901,Roy Alexander,UIW,Southland,Texas Tech,Big 12,False,,,1,1.08
+5220109,Price Morgan,UIW,Southland,Texas Tech,Big 12,True,,WR,1,1.08
+5146745,Jacob Emmers,UIW,Southland,Tulsa,American Athletic,False,,,7,1.08
+5383806,John Smith,TXST,Pac-12,Colorado State,Mountain West,True,3.0,S,0,
+5159271,Jason Patterson,TXST,Pac-12,Texas Southern,SWAC,True,3.0,EDGE,0,
+4838691,Dexter Ricks Jr.,TXST,Pac-12,Liberty,Conference USA,True,3.0,CB,0,
+5085348,Jordan Sample,TXST,Pac-12,Arkansas State,Sun Belt,True,3.0,LB,0,
+3941258,Josiah Graham,TXST,Pac-12,Monmouth,Coastal Athletic,True,,EDGE,0,
+4816086,Tae Woody,TXST,Pac-12,UL Monroe,Sun Belt,True,3.0,DL,0,
+5087070,Sam Slade,LIU,NEC,Holy Cross,Patriot,False,,,7,1.0
+5219678,Joseph Young,LIU,NEC,Florida Atlantic,American Athletic,False,,,2,1.08
+4870883,JJ Kohl,FIU,Conference USA,App State,Sun Belt,True,3.0,QB,8,1.02
+5153845,Zach Marker,FIU,Conference USA,Delaware,Conference USA,False,,,1,1.002
+4685356,Greg Gaines III,FIU,Conference USA,Rhode Island,Coastal Athletic,True,3.0,WR,14,0.917
+4808718,Wesley Miller,FIU,Conference USA,South Alabama,Sun Belt,True,3.0,S,0,
+4431195,DeAndre Boykins,FIU,Conference USA,Oklahoma State,Big 12,True,3.0,S,0,
+5085038,Brayshawn Littlejohn,FIU,Conference USA,App State,Sun Belt,True,3.0,LB,0,
+5155696,Nathan Jennings,FIU,Conference USA,South Alabama,Sun Belt,True,3.0,DL,0,
+5160223,RJ Moss Jr.,FIU,Conference USA,South Alabama,Sun Belt,True,3.0,DL,0,
+5296253,Elijah Simmons,FIU,Conference USA,West Virginia,Big 12,True,3.0,DL,0,
+5390283,DJ Fox,JMU,Sun Belt,Wisconsin-River Falls,,True,3.0,OT,0,
+5294648,Montrell Chapman,ODU,Sun Belt,Mississippi State,SEC,True,3.0,LB,0,
+5226267,Zyheem Collick,CLT,American Athletic,Bryant,Coastal Athletic,True,,WR,12,0.887
+5127000,D'Nas White,CLT,American Athletic,Catawba,South Atlantic,True,3.0,DL,0,
+5125335,Rodney Fields Jr.,KSU,Big 12,Oklahoma State,Big 12,True,3.0,RB,9,0.981
+4894839,Brandon White,KSU,Big 12,Hawai'i,Mountain West,True,3.0,WR,12,0.925
+4921113,Josh Manning,KSU,Big 12,Missouri,SEC,False,,,12,1.025
+5079769,Izaiah Williams,KSU,Big 12,Texas A&M,SEC,True,3.0,WR,2,1.025
+4808997,Mekhi Mason,KSU,Big 12,Louisiana Tech,Conference USA,True,3.0,LB,0,
+5079426,Wendell Gregory,KSU,Big 12,Oklahoma State,Big 12,True,4.0,EDGE,0,
+5086452,Koy Beasley,KSU,Big 12,Miami (OH),Mid-American,True,3.0,S,0,
+5154323,Kaleb Patterson,KSU,Big 12,Illinois,Big Ten,True,3.0,CB,0,
+5193653,Jayden Bryant,KSU,Big 12,Coastal Carolina,Sun Belt,True,3.0,EDGE,0,
+5075706,Kamari Burns,KSU,Big 12,Cincinnati,Big 12,True,3.0,DL,0,
+5193496,Jay Harris,KSU,Big 12,Oregon,Big Ten,True,3.0,RB,9,1.006
+5229489,JV Gibson,CIN,Big 12,Oklahoma,SEC,False,,,9,1.025
+4812358,D'Angelo Hutchinson,CIN,Big 12,Louisville,ACC,True,3.0,S,0,
+5149057,Chidera Otutu,CIN,Big 12,UTSA,American Athletic,True,3.0,DL,0,
+4917310,Zylan Perry,CIN,Big 12,Louisiana,Sun Belt,True,3.0,RB,12,0.899
+5219834,Drew Mestemaker,OKST,Big 12,North Texas,American Athletic,True,5.0,QB,14,0.936
+5258016,Caleb Hawkins,OKST,Big 12,North Texas,American Athletic,True,4.0,RB,13,0.936
+4875861,Ayo Adeyi,OKST,Big 12,James Madison,Sun Belt,True,3.0,RB,4,0.899
+5148787,Wyatt Young,OKST,Big 12,North Texas,American Athletic,True,4.0,WR,14,0.936
+5083747,Justin Bowick,OKST,Big 12,Illinois,Big Ten,True,4.0,WR,11,1.006
+5148822,Chris Barnes,OKST,Big 12,Wake Forest,ACC,True,4.0,WR,11,0.965
+5207931,Terrence Lewis,OKST,Big 12,North Texas,American Athletic,True,3.0,WR,9,0.936
+5149007,Miles Coleman,OKST,Big 12,North Texas,American Athletic,True,3.0,WR,12,0.936
+4912301,Ethan Wesloski,OKST,Big 12,North Texas,American Athletic,True,3.0,LB,0,
+5092199,Tate Romney,OKST,Big 12,Arizona State,Big 12,True,3.0,LB,0,
+5219841,Quinton Hammonds,OKST,Big 12,North Texas,American Athletic,True,3.0,S,0,
+5121895,Mose Phillips III,OKST,Big 12,Missouri,SEC,True,3.0,S,0,
+5075914,Isaiah Chisom,OKST,Big 12,UCLA,Big Ten,True,3.0,LB,0,
+5159497,James Williams,OKST,Big 12,Florida State,ACC,True,3.0,EDGE,0,
+5162401,Christian Bodnar,OKST,Big 12,Liberty,Conference USA,True,3.0,CB,0,
+5080244,Keviyan Huddleston,OKST,Big 12,North Texas,American Athletic,True,3.0,EDGE,0,
+5078222,Braylon Rigsby,OKST,Big 12,Texas Tech,Big 12,True,3.0,DL,0,
+4918428,Saadiq Clements,OKST,Big 12,North Texas,American Athletic,True,3.0,DL,0,
+5152021,Jerry Lawson,OKST,Big 12,Louisville,ACC,True,3.0,DL,0,
+5124996,Evan Jackson,OKST,Big 12,North Texas,American Athletic,True,3.0,S,0,
+4988081,Vincent Holmes,OKST,Big 12,Washington,Big Ten,True,3.0,S,0,
+5295860,DJ Jackson Jr.,OKST,Big 12,Troy,Sun Belt,True,3.0,EDGE,0,
+5092690,Kollin Lewis,OKST,Big 12,North Texas,American Athletic,True,3.0,CB,0,
+5219233,Sam Keltner,OKST,Big 12,SMU,ACC,True,,K,0,
+5303188,Lachie Pozzobon,OKST,Big 12,Stephen F. Austin,Southland,True,,P,0,
+5150460,John Neider,WVU,Big 12,UConn,FBS Independents,True,3.0,WR,12,1.034
+4898018,Josh Sapp,WVU,Big 12,Clemson,ACC,True,3.0,TE,9,0.965
+5150901,Geimere Latimer II,WVU,Big 12,Wisconsin,Big Ten,True,3.0,CB,0,
+5156440,Jamarice Wilder,USM,Sun Belt,Louisville,ACC,True,3.0,RB,1,1.08
+5153318,AJ Little,USM,Sun Belt,Chattanooga,Southern,True,3.0,WR,11,0.91
+5218891,Mario Sanders,USM,Sun Belt,Illinois,Big Ten,True,3.0,WR,2,1.08
+4685510,Kaden Saunders,USM,Sun Belt,Penn State,Big Ten,True,4.0,WR,0,
+5161233,Preston Kilgore,USM,Sun Belt,East Texas A&M,Southland,True,3.0,TE,6,0.91
+5159277,Michael Robinson III,USM,Sun Belt,UConn,FBS Independents,True,3.0,CB,0,
+5225751,Landon Sylvie,USM,Sun Belt,Southeast Missouri State,OVC-Big South,True,3.0,S,0,
+5229547,A'mari Wilson,USM,Sun Belt,Georgia Southern,Sun Belt,True,3.0,EDGE,0,
+4685294,Jyaire Brown,USM,Sun Belt,UCF,Big 12,True,3.0,CB,0,
+5081081,Kobi Albert,USM,Sun Belt,UConn,FBS Independents,True,3.0,S,0,
+5079707,Jeffery Rush Jr.,USM,Sun Belt,Ole Miss,SEC,True,3.0,EDGE,0,
+4868341,Champ Lewis,USM,Sun Belt,Tulsa,American Athletic,True,3.0,CB,0,
+5223122,Hiroshi Carr,USM,Sun Belt,Morgan State,MEAC,True,3.0,CB,0,
+5394605,Dusty Zimmer,USM,Sun Belt,Washington,Big Ten,True,,P,0,
+5218820,Johnnie Daniels,TULN,American Athletic,Mississippi State,SEC,True,3.0,RB,2,1.08
+4871148,Jaylin Lucas,TULN,American Athletic,Florida State,ACC,True,3.0,RB,12,1.056
+5222239,Dawson Johnson,TULN,American Athletic,Old Dominion,Sun Belt,True,,TE,7,0.99
+5150834,Destyn Hill,TULN,American Athletic,LSU,SEC,True,4.0,WR,2,1.08
+5079686,Bredell Richardson,TULN,American Athletic,UCF,Big 12,True,3.0,WR,0,
+4710027,Ed Smith IV,TULN,American Athletic,South Alabama,Sun Belt,True,3.0,DL,0,
+5209529,Reshad Sterling,TULN,American Athletic,Houston,Big 12,True,3.0,EDGE,0,
+4808758,Kajuan Banks,TULN,American Athletic,South Florida,American Athletic,True,3.0,CB,0,
+4875464,Justin Agu,TULN,American Athletic,Louisville,ACC,True,3.0,CB,0,
+5078109,Macho Stevenson,TULN,American Athletic,Texas Tech,Big 12,True,3.0,CB,0,
+4870645,Rickie Collins,KENN,Conference USA,Syracuse,ACC,True,4.0,QB,7,1.08
+5224714,Latrelle Murrell,KENN,Conference USA,West Georgia,UAC,True,3.0,RB,11,0.917
+5234086,Triston Morgan,KENN,Conference USA,Benedict,SIAC,True,3.0,RB,0,
+5168788,Brayden Munroe,KENN,Conference USA,Northern Colorado,Big Sky,True,3.0,WR,10,0.917
+5075544,Luke Evans,KENN,Conference USA,Miami (OH),Mid-American,True,3.0,CB,0,
+4869593,Perry Fisher,KENN,Conference USA,UAB,American Athletic,True,3.0,CB,0,
+5224275,Josh Anglin,KENN,Conference USA,Tulsa,American Athletic,True,3.0,LB,0,
+4570574,Cam Miller,KENN,Conference USA,Memphis,American Athletic,True,3.0,S,0,
+5382902,Kai Russell,KENN,Conference USA,Wingate,South Atlantic,True,3.0,EDGE,0,
+4890883,Devin Morgan,KENN,Conference USA,Buffalo,Mid-American,True,3.0,DL,0,
+5226926,Alfred Thomas,KENN,Conference USA,Towson,Coastal Athletic,True,3.0,LB,0,
+5296141,Matt McKenzie,KENN,Conference USA,Arizona State,Big 12,True,,P,0,
+5194315,Sultan Badmus,ARST,Sun Belt,Temple,American Athletic,True,3.0,EDGE,0,
+5032145,AJ Thomas,ARST,Sun Belt,McNeese,Southland,True,3.0,EDGE,0,
+4920135,Kalib Hicks,WKU,Conference USA,Oklahoma State,Big 12,True,3.0,RB,6,1.08
+5159234,Nigel Johnson,WKU,Conference USA,South Carolina State,MEAC,False,,,7,0.917
+5125726,CC Ezirim,WKU,Conference USA,Toledo,Mid-American,True,3.0,TE,2,0.995
+5164039,Jeremiah Carroll,WKU,Conference USA,Carson Newman,South Atlantic,True,3.0,WR,0,
+4603185,Markus Allen,MTSU,Conference USA,Mississippi State,SEC,True,3.0,WR,1,1.08
+5084468,Hogan Wasson,MTSU,Conference USA,Central Missouri,Mid America,True,3.0,WR,0,
+5383051,Jason Hardy,MTSU,Conference USA,Grand Valley State,GLIAC,True,2.0,CB,0,
+4588194,Dyson McCutcheon,MTSU,Conference USA,Washington,Big Ten,True,3.0,S,0,
+5383060,Dominic Bourgeois,MTSU,Conference USA,Susquehanna,Landmark Conference,True,,K,0,
+5087930,Jamill Williams,JXST,Conference USA,Albany State,SIAC,True,3.0,WR,1,0.917
+5160197,Darius Cannon,JXST,Conference USA,Murray State,MVFC,True,3.0,WR,12,0.917
+4920148,Rob Billings IV,JXST,Conference USA,Clemson,ACC,True,3.0,S,0,
+5303415,Jonavan Carr,JXST,Conference USA,Albany State,SIAC,True,,CB,0,
+4920155,Andrew Rumph,JXST,Conference USA,UCF,Big 12,True,3.0,DL,0,
+5150822,Angel Toombs,JXST,Conference USA,Wisconsin,Big Ten,True,,EDGE,0,
+5173769,Kaden Cook,JXST,Conference USA,California,ACC,True,3.0,CB,0,
+4921303,Victory Johnson,ARIZ,Big 12,Cal Poly,Big Sky,True,3.0,EDGE,0,
+5086097,Jaheim Merriweather,TROY,Sun Belt,Purdue,Big Ten,True,3.0,RB,1,1.08
+4596666,Bryce Steele,TROY,Sun Belt,Boston College,ACC,True,3.0,LB,0,
+5079476,Kavion Henderson,TROY,Sun Belt,Arkansas,SEC,True,3.0,EDGE,0,
+4701541,Ty Clemons,TROY,Sun Belt,Boston College,ACC,True,3.0,DL,0,
+4877228,Luke Petit,TROY,Sun Belt,Furman,Southern,True,3.0,IOL,0,
+5219720,Ethan Head,TROY,Sun Belt,West Virginia,Big 12,True,,K,0,
+4694500,James Jennette,USU,Pac-12,Virginia Tech,ACC,True,3.0,EDGE,0,
+4831962,Kye Stokes,USU,Pac-12,Cincinnati,Big 12,True,3.0,S,0,
+5233062,Jaylen Middleton,HCU,Southland,Kentucky State,SIAC,False,,,1,1.0
+5299298,Trayjen Llanas-Wilcox,HCU,Southland,Campbell,Coastal Athletic,False,,,8,1.0
+5215310,Chaston Ditta,UNT,American Athletic,East Carolina,American Athletic,True,3.0,QB,4,1.027
+5227742,Nick Osho,UNT,American Athletic,Indiana State,MVFC,True,3.0,RB,12,0.887
+5108225,Josiah Martin,UNT,American Athletic,Oklahoma,SEC,True,3.0,WR,0,
+5165725,Steven Curtis,UNT,American Athletic,Minnesota,Big Ten,True,3.0,DL,0,
+5084944,Christian Lorenzo,UNT,American Athletic,Illinois State,MVFC,True,3.0,DL,0,
+5293670,Keshawn Davila,UNT,American Athletic,Arkansas,SEC,True,3.0,CB,0,
+4870999,Malachi Singleton,APP,Sun Belt,Purdue,Big Ten,True,3.0,QB,11,1.08
+4700811,Ja'Quez Cross,APP,Sun Belt,Arkansas State,Sun Belt,True,3.0,RB,1,1.013
+5146664,Henry Hasselbeck,APP,Sun Belt,UCLA,Big Ten,True,3.0,QB,0,
+5092352,Chris Lofton,APP,Sun Belt,Gardner-Webb,OVC-Big South,True,,WR,12,0.91
+5300543,Sam Pickett III,APP,Sun Belt,Samford,Southern,True,3.0,WR,9,0.91
+4885469,Darrin Fugitt,APP,Sun Belt,Lindenwood,OVC-Big South,True,,TE,8,0.91
+5083898,Alex Mitchell,APP,Sun Belt,Middle Tennessee,Conference USA,True,3.0,LB,0,
+5224443,Carson Sloan,APP,Sun Belt,Samford,Southern,True,,LB,0,
+5147728,Devin Henderson,APP,Sun Belt,Liberty,Conference USA,True,3.0,S,0,
+5295917,Keshawn Thomas,APP,Sun Belt,Old Dominion,Sun Belt,True,3.0,LB,0,
+4826504,Kaleb Purdy,APP,Sun Belt,Tennessee Tech,OVC-Big South,True,3.0,S,0,
+5226944,Aaron Clark,APP,Sun Belt,Towson,Coastal Athletic,True,3.0,DL,0,
+4808742,Ja'Cari Henderson,APP,Sun Belt,UCF,Big 12,True,3.0,CB,0,
+5161640,Dre Walker,APP,Sun Belt,Virginia,ACC,True,3.0,CB,0,
+5219477,Cary Grant,APP,Sun Belt,Charlotte,American Athletic,True,3.0,S,0,
+5056145,Ricky Lolohea,APP,Sun Belt,Oklahoma,SEC,True,3.0,DL,0,
+5153505,Jehchys Brown,APP,Sun Belt,Southeast Missouri State,OVC-Big South,True,,DL,0,
+5159189,Eric Adams,APP,Sun Belt,North Carolina Central,MEAC,True,,S,0,
+5121706,Ki'Shawn Harvey,APP,Sun Belt,East Tennessee State,Southern,True,3.0,DL,0,
+5122552,Khalil Conley,APP,Sun Belt,North Carolina,ACC,True,3.0,CB,0,
+5130410,Jakob Gude,APP,Sun Belt,UCF,Big 12,True,3.0,S,0,
+5166106,James London,APP,Sun Belt,Murray State,MVFC,True,,K,0,
+5221063,Jaxson Dunn,APP,Sun Belt,Arkansas State,Sun Belt,True,,P,0,
+5083042,Skyler Locklear,MOST,Conference USA,UTEP,Conference USA,True,3.0,QB,9,1.002
+4685252,Henry Belin IV,MOST,Conference USA,Duke,ACC,True,3.0,QB,4,1.08
+5077390,Breezy Dubar,MOST,Conference USA,Boise State,Mountain West,True,3.0,RB,1,1.046
+5219476,Isaiah Myers,MOST,Conference USA,Western Kentucky,Conference USA,True,3.0,WR,1,1.002
+4712886,Mekhi Miller,MOST,Conference USA,Tulsa,American Athletic,True,3.0,WR,3,1.057
+5298158,Joel Kpassou,MOST,Conference USA,Duquesne,NEC,True,3.0,CB,0,
+5147152,Stratton Shufelt,MOST,Conference USA,UTEP,Conference USA,True,3.0,LB,0,
+5383064,Jalile Elliott,MOST,Conference USA,Barton,Carolinas,True,3.0,EDGE,0,
+5130606,Kellen Lindstrom,MOST,Conference USA,Tennessee,SEC,True,3.0,EDGE,0,
+5296217,Markell Chapman,MOST,Conference USA,Iowa State,Big 12,True,3.0,DL,0,
+4431508,Dylan Brooks,MOST,Conference USA,Kansas,Big 12,True,3.0,EDGE,0,
+4893420,Josh Lukusa,MOST,Conference USA,Miami (OH),Mid-American,True,3.0,EDGE,0,
+4870843,Theo Melin Ohrstrom,SMU,ACC,Texas A&M,SEC,True,4.0,TE,9,1.042
+4429804,Jimmy Calloway,TLSA,American Athletic,Tulane,American Athletic,True,3.0,WR,5,1.027
+5262779,Grant McAtee,TLSA,American Athletic,North Central College,CCIW,True,3.0,TE,0,
+5125823,DJ McKinney,TLSA,American Athletic,New Mexico,Mountain West,True,,RB,13,1.015
+5081787,Jeremy Evans,ARK,SEC,Baylor,Big 12,True,3.0,LB,0,
+4878788,AJ Johnson,FAU,American Athletic,Villanova,Coastal Athletic,False,,,10,0.887
+5148944,Amar Reynolds,FAU,American Athletic,Illinois,Big Ten,True,3.0,CB,0,
+5220666,Derrick Jameson,ULM,Sun Belt,Utah State,Mountain West,True,3.0,RB,0,
+5153517,Jase Hoath,ULM,Sun Belt,Tennessee State,OVC-Big South,True,3.0,TE,2,0.91
+5082336,CJ Wilson,ULM,Sun Belt,Butler,Pioneer,True,3.0,EDGE,0,
+5168301,Le'Kell Mc'Gowan,ULM,Sun Belt,Memphis,American Athletic,True,3.0,EDGE,0,
+5153818,Jabari Odoemenem,ORST,Pac-12,Duquesne,NEC,True,3.0,LB,0,
+4685418,Tavorus Jones,UTEP,Mountain West,Missouri,SEC,True,3.0,RB,3,1.08
+5081950,Preston Hickey,UTEP,Mountain West,Northwestern State,Southland,True,3.0,DL,0,
+5227849,Jordan Washington,MASS,Mid-American,Murray State,MVFC,True,3.0,RB,12,0.943
+5298739,Logan Inagawa,MASS,Mid-American,Drake,Pioneer,True,3.0,QB,10,0.943
+5219175,Grant Mills,MASS,Mid-American,Ohio State,Big Ten,True,,LS,0,
+5213301,Aubrey Melvin,MASS,Mid-American,UConn,FBS Independents,True,3.0,DL,0,
+5145222,William DePaepe,MASS,Mid-American,Indiana,Big Ten,True,3.0,EDGE,0,
+5158748,Jackson Sharman,SAC,Mid-American,Idaho State,Big Sky,False,,,2,0.943
+5084459,Cincere Rhaney,SAC,Mid-American,San Diego State,Mountain West,True,3.0,RB,1,1.072
+5158759,Raiden Brown,SAC,Mid-American,Idaho State,Big Sky,True,3.0,WR,5,0.943
+5082587,Matt Coleman,SAC,Mid-American,San José State,Mountain West,False,,,8,1.072
+5225846,Kyle Koontz,SAC,Mid-American,Houston Christian,Southland,True,3.0,TE,5,0.943
+4868409,Dionte Thornton,SAC,Mid-American,Portland State,Big Sky,True,3.0,S,0,
+4701591,Boogsie Silvera,SAC,Mid-American,South Florida,American Athletic,True,3.0,S,0,
+4880603,Tim Thomas,SAC,Mid-American,Fresno State,Mountain West,True,3.0,LB,0,
+5179117,Ivan Moore Jr.,SAC,Mid-American,Northern Illinois,Mid-American,True,3.0,EDGE,0,
+5141685,Amari Wallace,SAC,Mid-American,Miami,ACC,True,3.0,CB,0,
+5120904,Isiah Chala Jr.,SAC,Mid-American,Fresno State,Mountain West,True,3.0,EDGE,0,
+5152672,Darson Jeanty,SAC,Mid-American,Lafayette,Patriot,True,3.0,S,0,
+5160656,Jamel Howard Jr.,SAC,Mid-American,Wisconsin,Big Ten,True,3.0,DL,0,
+5227272,Malikai Nichols,SAC,Mid-American,Saint Francis (PA),,True,3.0,CB,0,
+5142706,Caden VerMaas,RICE,American Athletic,Nebraska,Big Ten,True,3.0,S,0,
+4869294,Jake Appleget,FRES,Pac-12,Northern Illinois,Mid-American,True,3.0,TE,6,0.948
+5191162,Alberto Mendoza,GT,ACC,Indiana,Big Ten,True,3.0,QB,8,1.023
+4870760,Justice Haynes,GT,ACC,Michigan,Big Ten,True,4.0,RB,7,1.023
+4703030,Jaiven Plummer,GT,ACC,California,ACC,True,3.0,WR,2,0.983
+5085509,Chris Corbo,GT,ACC,Dartmouth,Ivy,True,3.0,TE,10,0.85
+5154262,Gavin Harris,GT,ACC,New Mexico State,Conference USA,True,3.0,TE,12,0.899
+5105677,Taje McCoy,GT,ACC,Oklahoma State,Big 12,True,3.0,EDGE,0,
+4812383,Tawfiq Thomas,GT,ACC,Colorado,Big 12,True,3.0,DL,0,
+5139096,Noah Carter,GT,ACC,Alabama,SEC,True,4.0,EDGE,0,
+4923251,Jonas Duclona,GT,ACC,South Florida,American Athletic,True,3.0,CB,0,
+5120453,Vincent Carroll-Jackson,GT,ACC,UConn,FBS Independents,True,3.0,DL,0,
+4862220,Alex Bacchetta,GT,ACC,Rice,American Athletic,True,3.0,P,0,
+5153499,Donnie Cheers,NEV,Mountain West,Southeast Missouri State,OVC-Big South,True,3.0,WR,12,0.901
+5226511,Gary Givens III,NEV,Mountain West,Northern Illinois,Mid-American,False,,,7,0.979
+5158756,Damien Morgan,NEV,Mountain West,Idaho State,Big Sky,False,,,12,0.901
+5151405,Jaceon Doss,NEV,Mountain West,Towson,Coastal Athletic,True,3.0,WR,12,0.901
+5295194,Jeremy Naborne-Owens,NEV,Mountain West,Colorado State,Mountain West,True,,LB,0,
+5083200,Joshua Scott,NEV,Mountain West,Eastern Michigan,Mid-American,True,3.0,CB,0,
+5082503,James Gillespie,NEV,Mountain West,Sacramento State,Big Sky,True,,DL,0,
+5220920,Beckham Sunderland,MINN,Big Ten,Michigan,Big Ten,True,,K,0,
+4601283,Trey Cooley,WASH,Big Ten,Troy,Sun Belt,True,3.0,RB,0,
+4920158,Brock Glenn,WKU,Conference USA,Florida State,ACC,True,3.0,QB,4,1.08
+4878394,Ajay Allen,WKU,Conference USA,Tulsa,American Athletic,False,,,11,1.057
+5300775,Sincere Baines,WKU,Conference USA,Maine,Coastal Athletic,True,3.0,RB,12,0.917
+5151200,Qua'Vez Humphreys,WKU,Conference USA,Sam Houston,Conference USA,False,,,6,1.002
+4921322,Zion Taylor,WKU,Conference USA,Georgia Tech,ACC,False,,,6,1.08
+5193652,Geajorm Akpaloo,WKU,Conference USA,Coastal Carolina,Sun Belt,True,,LB,0,
+5169434,Jacob Cosby-Mosley,WKU,Conference USA,Wake Forest,ACC,True,3.0,S,0,
+5220253,James Jones,NMSU,Conference USA,Delaware State,MEAC,True,3.0,RB,12,0.917
+5076584,TJ Washington Jr.,NMSU,Conference USA,Iowa,Big Ten,True,3.0,RB,7,1.08
+5301984,Josiah Thomas,NMSU,Conference USA,Western Carolina,Southern,True,,TE,9,0.917
+5219270,Lyndon Ravare,NMSU,Conference USA,Kennesaw State,Conference USA,True,3.0,WR,9,1.002
+5156057,Myles Libman,NMSU,Conference USA,Stanford,ACC,True,3.0,WR,6,1.08
+5384715,De'Marcus Peters,NMSU,Conference USA,Texas A&M-Kingsville,Lone Star,True,3.0,CB,0,
+5384732,Jordan-Lebron Downey,NMSU,Conference USA,Livingstone,CIAA,True,3.0,DL,0,
+4685528,Kaian Roberts-Day,NMSU,Conference USA,UTSA,American Athletic,True,3.0,DL,0,
+5153880,Izzy Clark-White,NMSU,Conference USA,Monmouth,Coastal Athletic,True,,CB,0,
+5157271,Javon Gillespie,NMSU,Conference USA,East Texas A&M,Southland,True,3.0,CB,0,
+5088938,Ilya Uvaydov,NMSU,Conference USA,Utah Tech,UAC,True,,K,0,
+5174185,Brody Richter,NMSU,Conference USA,Minnesota,Big Ten,True,3.0,P,0,
+4801307,Tayven Jackson,UNT,American Athletic,UCF,Big 12,True,3.0,QB,11,1.071
+4911971,Jahiem White,UNT,American Athletic,West Virginia,Big 12,True,3.0,RB,2,1.071
+5163636,TJ Chukwurah,UNT,American Athletic,Black Hills State,Rocky Mountain,True,3.0,WR,0,
+4827049,Max Reese,UNT,American Athletic,Mississippi State,SEC,True,3.0,TE,1,1.08
+5150777,Ian Ratliff,UNT,American Athletic,App State,Sun Belt,True,,P,1,0.99
+5122082,Justin Stevenson,UNT,American Athletic,Utah,Big 12,True,3.0,WR,0,
+5125905,Corri Milliner,UNT,American Athletic,UAB,American Athletic,True,3.0,WR,5,1.027
+5085503,Grayson O'Bara,UNT,American Athletic,Dartmouth,Ivy,True,3.0,WR,10,0.887
+5295066,Brec Long,UNT,American Athletic,South Alabama,Sun Belt,True,3.0,TE,4,0.99
+4839483,Zakye Barker,UNT,American Athletic,SMU,ACC,True,3.0,LB,0,
+5178689,CJ Coombes,UNT,American Athletic,Wofford,Southern,True,3.0,S,1,0.887
+4869240,Aaron Alexander,UNT,American Athletic,Arkansas State,Sun Belt,True,3.0,LB,0,
+5147217,Jason Cross Jr.,UNT,American Athletic,West Virginia,Big 12,True,3.0,S,0,
+5383036,Peyton Taylor,UNT,American Athletic,Emporia State,Mid America,True,3.0,CB,0,
+5300364,Brandon Jones,UNT,American Athletic,McNeese,Southland,True,3.0,S,0,
+5092439,David Onuoha,UNT,American Athletic,Massachusetts,Mid-American,True,3.0,EDGE,0,
+4870614,Justin Benton,UNT,American Athletic,East Carolina,American Athletic,True,3.0,DL,0,
+5079292,Jaden Allen,UNT,American Athletic,Arkansas,SEC,True,3.0,CB,0,
+5085723,Udoka Ezeani,UNT,American Athletic,UTEP,Conference USA,True,3.0,EDGE,0,
+4923291,Cameren Jenkins,UNT,American Athletic,Baylor,Big 12,True,,S,0,
+4603750,Davion Rhodes,UNT,American Athletic,Georgia Southern,Sun Belt,True,3.0,EDGE,0,
+5231325,Cedric Roberts,UNT,American Athletic,Alcorn State,SWAC,True,3.0,LB,0,
+4927787,Chantz Johnson,UNT,American Athletic,Texas State,Sun Belt,True,3.0,LB,0,
+4702822,Curlee Thomas IV,UNT,American Athletic,California,ACC,True,3.0,EDGE,0,
+5257313,Dominic De Freitas,UNT,American Athletic,App State,Sun Belt,True,,K,0,
+4685699,Damari Alston,TLSA,American Athletic,Auburn,SEC,True,3.0,RB,4,1.08
+5295930,Trequan Jones,TLSA,American Athletic,Old Dominion,Sun Belt,True,3.0,RB,13,0.99
+4710860,Oran Singleton Jr.,TLSA,American Athletic,West Virginia,Big 12,True,3.0,WR,3,1.071
+4565355,Dexter Williams II,TLSA,American Athletic,Kennesaw State,Conference USA,True,3.0,QB,8,0.972
+5157287,David Wells Jr.,TLSA,American Athletic,Oregon State,Pac-12,True,3.0,WR,11,1.0
+5229589,Javon Ross,TLSA,American Athletic,Bethune-Cookman,SWAC,True,3.0,WR,11,0.887
+5092825,Arias Nash,TLSA,American Athletic,Virginia Tech,ACC,True,,DL,0,
+5224053,Rylan Leathers,TLSA,American Athletic,Idaho State,Big Sky,True,,S,0,
+5196927,Kyran Duhon,TLSA,American Athletic,Oklahoma State,Big 12,True,3.0,EDGE,0,
+4683043,Thomas Davis,TLSA,American Athletic,App State,Sun Belt,True,3.0,EDGE,0,
+4710276,Caldra Williford,TLSA,American Athletic,Baylor,Big 12,True,3.0,CB,0,
+5163541,Max Tulen,TLSA,American Athletic,Bethune-Cookman,SWAC,True,,P,0,
+4714300,Holden Geriner,PITT,ACC,Texas State,Sun Belt,True,3.0,QB,1,0.917
+4683234,La'Vell Wright,PITT,ACC,Western Kentucky,Conference USA,True,3.0,RB,13,0.899
+5083135,Carson Kent,PITT,ACC,Oklahoma,SEC,True,3.0,TE,3,1.042
+5075797,Raion Strader,PITT,ACC,Auburn,SEC,True,3.0,CB,0,
+5078256,DeMarco Ward,PITT,ACC,Memphis,American Athletic,True,3.0,LB,0,
+4917983,Alex Sanford Jr.,PITT,ACC,Purdue,Big Ten,True,3.0,LB,0,
+5122153,Eliyt Nairne,PITT,ACC,Tulane,American Athletic,True,3.0,DL,0,
+5092216,Gabe Russo,PITT,ACC,Idaho State,Big Sky,True,2.0,P,0,
+5144078,Ethan Grunkemeyer,VT,ACC,Penn State,Big Ten,True,4.0,QB,10,1.023
+5079402,Tyseer Denmark,VT,ACC,Penn State,Big Ten,True,3.0,WR,2,1.023
+5218787,Que'Sean Brown,VT,ACC,Duke,ACC,True,4.0,WR,14,0.983
+5138451,Luke Reynolds,VT,ACC,Penn State,Big Ten,True,4.0,TE,10,1.023
+5092787,Marlion Jackson,VT,ACC,Louisiana Tech,Conference USA,True,3.0,WR,9,0.899
+5078421,Cam Chadwick Jr.,VT,ACC,UConn,FBS Independents,True,3.0,CB,0,
+4832831,Keon Wylie,VT,ACC,Penn State,Big Ten,True,3.0,LB,0,
+5081211,DQ Smith,VT,ACC,South Carolina,SEC,True,3.0,S,0,
+5295858,Jaquez White,VT,ACC,Troy,Sun Belt,True,3.0,CB,0,
+5079755,Kenny Woseley Jr.,VT,ACC,Penn State,Big Ten,True,3.0,CB,0,
+5141504,Cortez Harris,VT,ACC,Penn State,Big Ten,True,3.0,EDGE,0,
+5149000,Randy Adirika,VT,ACC,Penn State,Big Ten,True,3.0,DL,0,
+4905690,Samuel Okunlola,VT,ACC,Colorado,Big 12,True,3.0,EDGE,0,
+5155697,Curtis Jones Jr.,VT,ACC,West Virginia,Big 12,True,3.0,EDGE,3,0.998
+5163088,Nathan Totten,VT,ACC,Marshall,Sun Belt,True,,P,1,0.917
+5138131,Deshawn Purdie,LIB,Conference USA,Wake Forest,ACC,True,3.0,QB,8,1.08
+4602923,Jaylen Henderson,LIB,Conference USA,West Virginia,Big 12,True,3.0,QB,5,1.08
+5079364,Kam Davis,LIB,Conference USA,Florida State,ACC,True,3.0,RB,3,1.08
+4923298,Peyton Jones,LIB,Conference USA,Duke,ACC,True,3.0,RB,3,1.08
+5150313,Kanye Udoh,LIB,Conference USA,Arizona State,Big 12,True,3.0,RB,9,1.08
+4880964,Terron Kellman,LIB,Conference USA,Wyoming,Mountain West,True,3.0,RB,10,1.046
+5088336,Makai Jackson,LIB,Conference USA,Indiana,Big Ten,True,3.0,WR,1,1.08
+4837159,Izaiah Guy,LIB,Conference USA,South Florida,American Athletic,True,3.0,CB,0,
+5147185,Ashton McShane,LIB,Conference USA,Boston College,ACC,True,3.0,CB,0,
+5295339,Kyle Ferm,LIB,Conference USA,SMU,ACC,True,3.0,LB,0,
+4869971,D-Icey Hopkins,LIB,Conference USA,Georgia State,Sun Belt,True,3.0,S,0,
+5168843,Elijah McKenzie,LIB,Conference USA,Bowie State,CIAA,True,3.0,CB,0,
+5382935,Lorenzo Payne,LIB,Conference USA,West Florida,Gulf South,True,3.0,EDGE,0,
+4887640,Kaderris Roberts,DEL,Conference USA,Bowling Green,Mid-American,True,3.0,RB,9,0.995
+5157266,Bryson Graves,DEL,Conference USA,Coastal Carolina,Sun Belt,True,3.0,WR,12,1.02
+4680024,Da'Wain Lofton,DEL,Conference USA,Oklahoma State,Big 12,False,,,1,1.08
+5230034,Jalen Bell,DEL,Conference USA,LIU Post,,True,,S,0,
+5087158,Jaquise Alexander,DEL,Conference USA,North Dakota State,MVFC,True,3.0,CB,0,
+5166833,George Mullins,DEL,Conference USA,Michigan State,Big Ten,True,3.0,S,0,
+4801299,Rocco Becht,PSU,Big Ten,Iowa State,Big 12,True,4.0,QB,12,0.965
+5077502,Carson Hansen,PSU,Big Ten,Iowa State,Big 12,True,3.0,RB,11,0.965
+5110454,James Peoples,PSU,Big Ten,Ohio State,Big Ten,True,3.0,RB,11,0.99
+4912067,Chase Sowell,PSU,Big Ten,Iowa State,Big 12,True,4.0,WR,10,0.965
+4870608,Benjamin Brahmer,PSU,Big Ten,Iowa State,Big 12,True,4.0,TE,12,0.965
+5148535,Brett Eskildsen,PSU,Big Ten,Iowa State,Big 12,True,3.0,WR,11,0.965
+5296212,Zay Robinson,PSU,Big Ten,Iowa State,Big 12,True,3.0,WR,1,0.965
+5076123,Kooper Ebel,PSU,Big Ten,Iowa State,Big 12,True,3.0,LB,0,
+4431612,Keanu Williams,PSU,Big Ten,UCLA,Big Ten,True,3.0,DL,0,
+5173604,Marcus Neal Jr.,PSU,Big Ten,Iowa State,Big 12,True,4.0,S,0,
+4950395,Jamison Patton,PSU,Big Ten,Iowa State,Big 12,True,3.0,S,0,
+5146686,Cael Brezina,PSU,Big Ten,Iowa State,Big 12,True,3.0,LB,0,
+4833357,Jeremiah Cooper,PSU,Big Ten,Iowa State,Big 12,True,3.0,S,0,
+5215273,Alexander McPherson,PSU,Big Ten,Colorado,Big 12,True,3.0,EDGE,0,
+4427804,Siale Taupaki,PSU,Big Ten,UCLA,Big Ten,True,3.0,DL,0,
+5125968,Armstrong Nnodim,PSU,Big Ten,Oklahoma State,Big 12,True,3.0,DL,0,
+5220003,Dallas Vakalahi,PSU,Big Ten,Utah,Big 12,True,3.0,DL,0,
+4826502,Ikenna Ezeogu,PSU,Big Ten,Iowa State,Big 12,True,3.0,DL,0,
+5081877,Caleb Bacon,PSU,Big Ten,Iowa State,Big 12,True,4.0,LB,0,
+5167309,Alijah Carnell,PSU,Big Ten,Iowa State,Big 12,True,3.0,DL,0,
+5294651,Nathan Tiyce,PSU,Big Ten,Mississippi State,SEC,True,3.0,P,0,
+5075805,Aidan Chiles,NU,Big Ten,Michigan State,Big Ten,True,4.0,QB,8,0.99
+4685545,Gavin Sawchuk,NU,Big Ten,Florida State,ACC,True,3.0,RB,12,0.95
+4569262,Alex Honig,NU,Big Ten,UConn,FBS Independents,True,3.0,TE,9,1.019
+4685448,Kobie McKinzie,NU,Big Ten,Oklahoma,SEC,True,4.0,LB,0,
+4565357,Brenden Deasfernandes,NU,Big Ten,Central Michigan,Mid-American,True,3.0,CB,0,
+4738818,Jamaal Johnson,NU,Big Ten,UCF,Big 12,True,3.0,EDGE,0,
+5085616,Montae Pate,NU,Big Ten,Weber State,Big Sky,True,3.0,CB,0,
+5145736,Dominic Kirks,NU,Big Ten,Ohio State,Big Ten,True,3.0,EDGE,0,
+5122027,Jackson Kleather,NU,Big Ten,Bowling Green,Mid-American,True,2.0,K,0,
+5295920,Ja'Cory Thomas,VAN,SEC,Old Dominion,Sun Belt,True,4.0,WR,12,0.867
+5226567,Talan Carter,VAN,SEC,Jacksonville State,Conference USA,True,3.0,DL,0,
+5079544,Ricardo Jones,VAN,SEC,Clemson,ACC,True,3.0,S,0,
+5080692,Edwin Kolenge,VAN,SEC,Boston College,ACC,True,3.0,EDGE,0,
+5088418,Tyler Ebel,VAN,SEC,South Dakota,MVFC,True,,P,0,
+5127726,Braylon Conley,UGA,SEC,USC,Big Ten,True,3.0,CB,0,
+5078250,Khalil Barnes,UGA,SEC,Clemson,ACC,True,3.0,S,0,
+5214512,Jayden Sanders,ND,FBS Independents,Michigan,Big Ten,True,4.0,CB,0,
+5136784,Francis Brewu,ND,FBS Independents,Pittsburgh,ACC,True,4.0,DL,0,
+4707184,DJ McKinney,ND,FBS Independents,Colorado,Big 12,True,4.0,CB,0,
+4592532,Billy Edwards Jr.,UNC,ACC,Wisconsin,Big Ten,True,3.0,QB,2,1.023
+4871039,Jelani Thurman,UNC,ACC,Ohio State,Big Ten,True,3.0,TE,5,1.023
+4683224,Derek McDonald,UNC,ACC,Syracuse,ACC,True,3.0,LB,0,
+5226835,Peyton Seelmann,UNC,ACC,Richmond,Patriot,True,3.0,LB,0,
+5079439,Jaylen Harvey,UNC,ACC,Penn State,Big Ten,True,3.0,EDGE,0,
+4877894,Donovan Hoilette Jr.,UNC,ACC,Richmond,Patriot,True,3.0,EDGE,0,
+5139524,Aeron Burrell,UNC,ACC,LSU,SEC,True,3.0,K,0,
+5121169,Darian Mensah,MIA,ACC,Duke,ACC,True,4.0,QB,14,0.983
+4804878,Cooper Barkate,MIA,ACC,Duke,ACC,True,4.0,WR,14,0.983
+5196025,Omar Thornton,MIA,ACC,Boston College,ACC,True,4.0,S,0,
+4871089,Damon Wilson II,MIA,ACC,Missouri,SEC,True,4.0,EDGE,0,
+5167747,Jarquez Carter,MIA,ACC,Ohio State,Big Ten,True,3.0,DL,0,
+5123219,Jake Weinberg,MIA,ACC,Florida State,ACC,True,3.0,K,0,
+5219069,Keona Davis,MIA,ACC,Nebraska,Big Ten,True,4.0,DL,0,
+5159948,Chris Johnson Jr.,CLEM,ACC,SMU,ACC,True,3.0,RB,12,0.983
+5193354,Corey Myrick,CLEM,ACC,Southern Miss,Sun Belt,True,3.0,S,0,
+4871026,Elliot Washington II,CLEM,ACC,Penn State,Big Ten,True,3.0,CB,0,
+5194806,Jerome Carter III,CLEM,ACC,Old Dominion,Sun Belt,True,3.0,S,0,
+5141592,London Merritt,CLEM,ACC,Colorado,Big 12,True,3.0,EDGE,0,
+5151892,Ja'Kobi Jackson,OSU,Big Ten,Florida,SEC,True,3.0,RB,4,1.009
+5076952,Devin McCuin,OSU,Big Ten,UTSA,American Athletic,True,3.0,WR,12,0.92
+5120968,Christian Alliegro,OSU,Big Ten,Wisconsin,Big Ten,True,3.0,LB,0,
+5150251,Qua Russaw,OSU,Big Ten,Alabama,SEC,True,4.0,EDGE,0,
+4685437,Earl Little Jr.,OSU,Big Ten,Florida State,ACC,True,4.0,S,0,
+4923052,Cam Calhoun,OSU,Big Ten,Alabama,SEC,True,3.0,CB,0,
+4870969,James Smith,OSU,Big Ten,Alabama,SEC,True,4.0,DL,0,
+4871055,John Walker,OSU,Big Ten,UCF,Big 12,True,3.0,DL,0,
+5156433,Connor Hawkins,OSU,Big Ten,Baylor,Big 12,True,3.0,K,0,
+5155048,L.J. Phillips Jr.,IOWA,Big Ten,South Dakota,MVFC,True,3.0,RB,14,0.85
+5300856,Tony Diaz,IOWA,Big Ten,UT Rio Grande Valley,Southland,True,3.0,WR,12,0.85
+5224813,Kahmari Brown,IOWA,Big Ten,Elon,Coastal Athletic,True,3.0,EDGE,0,
+5157415,Brice Stevenson,IOWA,Big Ten,Holy Cross,Patriot,True,3.0,DL,0,
+5227168,Xavier Styles,IOWA,Big Ten,Robert Morris,NEC,True,3.0,S,0,
+5226950,Anthony Hawkins,IOWA,Big Ten,Villanova,Coastal Athletic,True,3.0,S,0,
+5300482,Evan James,IOWA,Big Ten,Furman,Southern,True,3.0,WR,9,0.85
+4870929,Noah Rogers,ALA,SEC,NC State,ACC,True,4.0,WR,11,0.934
+4430884,Kedrick Bingley-Jones,ALA,SEC,Mississippi State,SEC,True,3.0,DL,0,
+4905925,Devan Thompkins,ALA,SEC,USC,Big Ten,True,4.0,DL,0,
+4954509,Caleb Woodson,ALA,SEC,Virginia Tech,ACC,True,3.0,LB,0,
+5224236,Carmelo O'Neal,ALA,SEC,Mercer,Southern,True,3.0,S,0,
+5158471,Terrance Green,ALA,SEC,Oregon,Big Ten,True,4.0,DL,0,
+5295958,Lorcan Quinn,ALA,SEC,Marshall,Sun Belt,True,3.0,K,0,
+5076106,Marquis Johnson,MSST,SEC,Missouri,SEC,True,4.0,WR,8,0.993
+5079643,Zion Ragins,MSST,SEC,Oklahoma,SEC,True,3.0,WR,0,
+5151090,Kendel Dolby,MSST,SEC,Oklahoma,SEC,True,3.0,S,0,
+5141763,Amaree Williams,MSST,SEC,Florida State,ACC,True,3.0,EDGE,2,0.934
+4603193,Jardin Gilbert,MSST,SEC,LSU,SEC,True,3.0,S,0,
+5079430,Dealyn Evans,MSST,SEC,Texas A&M,SEC,True,4.0,DL,0,
+5081391,Jayson Jenkins,MSST,SEC,Florida State,ACC,True,3.0,EDGE,0,
+4709685,Marcus Williams,MSST,SEC,Rice,American Athletic,True,3.0,S,0,
+5128051,Jamroc Grimsley,MSST,SEC,Florida,SEC,True,3.0,CB,0,
+5141655,Kaylib Singleton,MSST,SEC,Syracuse,ACC,True,3.0,CB,0,
+5145123,Quentin Taylor,MSST,SEC,Iowa State,Big 12,True,3.0,CB,0,
+5132812,Aaron Philo,FLA,SEC,Georgia Tech,ACC,True,3.0,QB,2,0.934
+4941012,London Montgomery,FLA,SEC,East Carolina,American Athletic,True,3.0,RB,12,0.904
+4432757,Evan Pryor,FLA,SEC,Cincinnati,Big 12,True,3.0,RB,10,0.949
+5095360,Eric Singleton Jr.,FLA,SEC,Auburn,SEC,True,4.0,WR,12,0.993
+5218907,Luke Harpring,FLA,SEC,Georgia Tech,ACC,True,3.0,TE,7,0.934
+5125593,Bailey Stockton,FLA,SEC,Georgia Tech,ACC,True,3.0,WR,9,0.934
+4870826,Micah Mays Jr.,FLA,SEC,Wake Forest,ACC,True,3.0,WR,8,0.934
+5303826,Evan Chieca,FLA,SEC,New Haven,NEC,True,3.0,TE,10,0.85
+5121998,Lacota Dippre,FLA,SEC,James Madison,Sun Belt,True,3.0,TE,10,0.867
+5159672,DJ Coleman,FLA,SEC,Baylor,Big 12,True,3.0,S,0,
+5153615,Kanye Clark,FLA,SEC,UCLA,Big Ten,True,3.0,CB,0,
+5226569,Emmanuel Oyebadejo,FLA,SEC,Jacksonville State,Conference USA,True,3.0,DL,0,
+4870873,DK Kalu,FLA,SEC,Baylor,Big 12,True,3.0,DL,0,
+5219725,Patrick Durkin,FLA,SEC,Tulane,American Athletic,True,,K,1,0.904
+5172403,Alec Clark,FLA,SEC,Tulane,American Athletic,True,,P,0,
+5141684,Austin Simmons,MIZ,SEC,Ole Miss,SEC,True,4.0,QB,6,0.993
+5225880,Xai'Shaun Edwards,MIZ,SEC,Houston Christian,Southland,True,3.0,RB,12,0.85
+4870858,Cayden Lee,MIZ,SEC,Ole Miss,SEC,True,4.0,WR,15,0.993
+5120454,Caleb Goodie Sr.,MIZ,SEC,Cincinnati,Big 12,True,3.0,WR,10,0.949
+5141584,Naeshaun Montgomery,MIZ,SEC,Florida,SEC,True,3.0,WR,2,0.993
+5078245,Kenric Lanier II,MIZ,SEC,Minnesota,Big Ten,True,3.0,WR,2,0.974
+4685604,Robert Woodyard Jr.,MIZ,SEC,Auburn,SEC,True,3.0,LB,0,
+5219025,Kensley Louidor-Faustin,MIZ,SEC,Auburn,SEC,True,3.0,S,0,
+5221314,Sione Laulea,MIZ,SEC,Oregon,Big Ten,True,3.0,CB,0,
+5067879,Mark Hensley,MIZ,SEC,Northern Illinois,Mid-American,True,3.0,DL,0,
+5164690,Elijah Dotson,MIZ,SEC,Michigan,Big Ten,True,4.0,CB,0,
+5172033,Donta Simpson,MIZ,SEC,Miami,ACC,True,3.0,DL,0,
+4808749,Chris Graves Jr.,MIZ,SEC,Ole Miss,SEC,True,3.0,CB,0,
+4880351,Jahlil Florence,MIZ,SEC,Oregon,Big Ten,True,3.0,CB,0,
+5216791,Brunno Reus,MIZ,SEC,Florida State,ACC,True,3.0,K,0,
+4870876,Kyler Kasper,BYU,Big 12,Oregon,Big Ten,True,3.0,WR,2,1.006
+5130407,Roger Saleapaga II,BYU,Big 12,Oregon,Big Ten,True,4.0,TE,3,1.006
+5221043,Walker Lyons,BYU,Big 12,USC,Big Ten,True,4.0,TE,11,1.006
+4870235,Jake Clifton,BYU,Big 12,Kansas State,Big 12,True,3.0,LB,0,
+4954453,Cade Uluave,BYU,Big 12,California,ACC,True,4.0,LB,0,
+5083105,Jayven Williams,BYU,Big 12,Mississippi State,SEC,True,3.0,CB,0,
+5083569,Jaden Craig,TCU,Big 12,Harvard,Ivy,True,3.0,QB,11,0.85
+5120735,Landon Walker,TCU,Big 12,Colorado School of Mines,Rocky Mountain,True,3.0,RB,0,
+5220347,John Hoyet Chance,TCU,Big 12,Louisiana Tech,Conference USA,True,,P,1,0.881
+5220340,Omiri Wiggins,MCN,Southland,Louisiana Tech,Conference USA,True,3.0,RB,12,1.08
+4432727,Solo Lewis,MCN,Southland,Nicholls,Southland,False,,,3,1.0
+5078810,Sam Leavitt,LSU,SEC,Arizona State,Big 12,True,5.0,QB,7,0.949
+5224789,Landen Clark,LSU,SEC,Elon,Coastal Athletic,True,3.0,QB,12,0.85
+5141563,Husan Longstreet,LSU,SEC,USC,Big Ten,True,4.0,QB,4,0.974
+5079405,Stacy Gage,LSU,SEC,UCF,Big 12,True,3.0,RB,3,0.949
+5079482,Dilin Jones,LSU,SEC,Wisconsin,Big Ten,True,3.0,RB,7,0.974
+5228646,Rod Gainey Jr.,LSU,SEC,Charlotte,American Athletic,True,3.0,RB,11,0.904
+4921154,Eugene Wilson III,LSU,SEC,Florida,SEC,True,4.0,WR,6,0.993
+5121334,Jayce Brown,LSU,SEC,Kansas State,Big 12,True,4.0,WR,9,0.949
+5295918,Tre' Brown,LSU,SEC,Old Dominion,Sun Belt,True,4.0,WR,13,0.867
+5141697,Winston Watkins Jr.,LSU,SEC,Ole Miss,SEC,True,4.0,WR,11,0.993
+5114311,Jackson Harris,LSU,SEC,Hawai'i,Mountain West,True,3.0,WR,10,0.893
+4870696,Malik Elzy,LSU,SEC,Illinois,Big Ten,True,3.0,WR,4,0.974
+5227998,Roman Mothershed,LSU,SEC,Troy,Sun Belt,True,3.0,WR,9,0.867
+5084904,Josh Jackson,LSU,SEC,McNeese,Southland,True,3.0,WR,6,0.85
+5229444,TJ Dottery,LSU,SEC,Ole Miss,SEC,True,4.0,LB,0,
+5081702,Junior Tuihalamaka,LSU,SEC,Notre Dame,FBS Independents,True,4.0,EDGE,0,
+5112647,Jordan Ross,LSU,SEC,Tennessee,SEC,True,4.0,EDGE,0,
+5117455,Ty Benefield,LSU,SEC,Boise State,Mountain West,True,4.0,S,0,
+4917971,Princewill Umanmielen,LSU,SEC,Ole Miss,SEC,True,5.0,EDGE,0,
+5141428,Faheem Delane,LSU,SEC,Ohio State,Big Ten,True,4.0,S,0,
+4899347,Stephiylan Green,LSU,SEC,Clemson,ACC,True,4.0,DL,0,
+5127027,Malik Blocton,LSU,SEC,Auburn,SEC,True,3.0,DL,0,
+5158867,Treylan James,LSU,SEC,Southern,SWAC,True,3.0,S,2,0.85
+5219533,Scott Starzyk,LSU,SEC,Arkansas,SEC,True,3.0,K,0,
+4923295,Kenny Johnson,TTU,Big 12,Pittsburgh,ACC,True,3.0,WR,13,0.965
+4695195,Jett Carpenter,TTU,Big 12,Nevada,Mountain West,True,3.0,TE,12,0.925
+5220256,Donte Lee Jr.,TTU,Big 12,Liberty,Conference USA,True,3.0,WR,11,0.881
+5084891,Austin Romaine,TTU,Big 12,Kansas State,Big 12,True,3.0,LB,0,
+5085390,Davin Martin,TTU,Big 12,UTSA,American Athletic,True,3.0,CB,0,
+4898201,Trey White,TTU,Big 12,San Diego State,Mountain West,True,3.0,EDGE,0,
+5219124,Bryce Butler,TTU,Big 12,Washington,Big Ten,True,3.0,DL,0,
+5086180,Mateen Ibirogba,TTU,Big 12,Wake Forest,ACC,True,4.0,DL,0,
+4819260,Adam Trick,TTU,Big 12,Miami (OH),Mid-American,True,4.0,EDGE,0,
+5160456,Will Karoll,TTU,Big 12,UCLA,Big Ten,True,3.0,P,1,1.006
+5079771,Isaac Wilson,COLO,Big 12,Utah,Big 12,True,3.0,QB,1,0.981
+4918094,Damian Henderson II,COLO,Big 12,Sacramento State,Big Sky,True,3.0,RB,12,0.85
+4871081,Richard Young,COLO,Big 12,Alabama,SEC,True,3.0,RB,4,1.025
+5078018,Naeten Mitchell,COLO,Big 12,New Mexico State,Conference USA,True,3.0,S,0,
+5301028,JaQuail Smith,COLO,Big 12,Sacramento State,Big Sky,True,3.0,RB,8,0.85
+4870860,DeAndre Moore Jr.,COLO,Big 12,Texas,SEC,True,4.0,WR,11,1.025
+5083249,Fisher Clements,COLO,Big 12,Northern Colorado,Big Sky,True,3.0,TE,3,0.85
+5079370,Ernest Campbell,COLO,Big 12,Sacramento State,Big Sky,True,3.0,WR,11,0.85
+4698710,Santana Hopper,COLO,Big 12,Tulane,American Athletic,True,3.0,DL,0,
+4922985,Randon Fontenette,COLO,Big 12,Vanderbilt,SEC,True,3.0,S,0,
+4870862,Liona Lefau,COLO,Big 12,Texas,SEC,True,4.0,LB,0,
+5148610,Cree Thomas,COLO,Big 12,Notre Dame,FBS Independents,True,3.0,CB,0,
+5087182,Toby Anene,COLO,Big 12,North Dakota State,MVFC,True,3.0,EDGE,0,
+5224360,Dylan Manuel,COLO,Big 12,App State,Sun Belt,True,3.0,DL,0,
+5079381,Boo Carter,COLO,Big 12,Tennessee,SEC,True,4.0,S,0,
+5193219,Immanuel Ezeogu,COLO,Big 12,James Madison,Sun Belt,True,3.0,EDGE,0,
+5219517,Yamil Talib,COLO,Big 12,Charlotte,American Athletic,True,3.0,EDGE,0,
+4880272,Byrum Brown,AUB,SEC,South Florida,American Athletic,True,4.0,QB,12,0.904
+5121879,Keshaun Singleton,AUB,SEC,South Florida,American Athletic,True,3.0,WR,12,0.904
+5081367,Chas Nimrod,AUB,SEC,South Florida,American Athletic,True,3.0,WR,6,0.904
+5296027,Christian Neptune,AUB,SEC,South Florida,American Athletic,True,3.0,WR,10,0.904
+4702556,Arlis Boardingham,AUB,SEC,Bowling Green,Mid-American,True,3.0,TE,0,
+5079382,Jonathan Echols,AUB,SEC,South Florida,American Athletic,True,3.0,TE,7,0.904
+5209679,Jeremiah Koger,AUB,SEC,South Florida,American Athletic,True,3.0,WR,9,0.904
+4880967,Da'Shawn Womack,AUB,SEC,Ole Miss,SEC,True,4.0,EDGE,0,
+5151950,Nate Johnson,AUB,SEC,Missouri,SEC,True,3.0,EDGE,0,
+5294521,Cody Sigler,AUB,SEC,Arkansas State,Sun Belt,True,3.0,DL,0,
+5167752,Walter Mathis Jr.,AUB,SEC,LSU,SEC,True,4.0,DL,0,
+5178087,Kenneth McManus IV,AUB,SEC,Akron,Mid-American,True,3.0,IOL,0,
+5157291,Andre Jordan Jr.,AUB,SEC,UCLA,Big Ten,True,3.0,CB,0,
+5119659,Trent Thomas,TENN,SEC,South Alabama,Sun Belt,True,3.0,TE,3,0.867
+5079483,Dejuan Lane,TENN,SEC,Penn State,Big Ten,True,3.0,S,0,
+5093333,Amare Campbell,TENN,SEC,Penn State,Big Ten,True,3.0,LB,0,
+4870846,TJ Metcalf,TENN,SEC,Michigan,Big Ten,True,3.0,S,0,
+5142798,Tevis Metcalf,TENN,SEC,Michigan,Big Ten,True,3.0,CB,0,
+4870855,Kayin Lee,TENN,SEC,Auburn,SEC,True,3.0,CB,0,
+5146422,Xavier Gilliam,TENN,SEC,Penn State,Big Ten,True,4.0,DL,0,
+5122104,Jordan Norman,TENN,SEC,Tulane,American Athletic,True,3.0,EDGE,0,
+5192420,Cooper Ranvier,TENN,SEC,Louisville,ACC,True,,K,0,
+4923299,Emmanuel Karnley,WASH,Big Ten,Virginia,ACC,True,3.0,CB,0,
+5152808,DeSean Watts,WASH,Big Ten,Sacramento State,Big Sky,True,3.0,DL,0,
+5120377,Darin Conley,WASH,Big Ten,Ball State,Mid-American,True,3.0,DL,0,
+5192957,Kai McClendon,WASH,Big Ten,Mississippi State,SEC,True,3.0,DL,0,
+5158778,Logan George,WASH,Big Ten,Ohio State,Big Ten,True,3.0,EDGE,0,
+5153154,Tyler Robles,WASH,Big Ten,Texas State,Sun Belt,True,,K,0,
+5083238,Hunter Green,WASH,Big Ten,San Diego State,Mountain West,True,2.0,P,0,
+5032961,Tucker Ashcraft,USC,Big Ten,Wisconsin,Big Ten,True,3.0,TE,1,0.99
+5084658,Terrell Anderson,USC,Big Ten,NC State,ACC,True,4.0,WR,13,0.95
+4923048,Deven Bryant,USC,Big Ten,Washington,Big Ten,True,3.0,LB,0,
+4685561,Alex VanSumeren,USC,Big Ten,Michigan State,Big Ten,True,3.0,DL,0,
+4913037,Jontez Williams,USC,Big Ten,Iowa State,Big 12,True,4.0,CB,0,
+5152637,GianCarlo Rufo,USC,Big Ten,Georgetown,Patriot,True,3.0,LB,0,
+5295365,Lachlan Carrigan,USC,Big Ten,Memphis,American Athletic,True,,P,0,
+5085337,Keyone Jenkins,UCF,Big 12,Florida International,Conference USA,True,3.0,QB,10,0.881
+5154248,Kaleb Annett,UCF,Big 12,Boise State,Mountain West,True,3.0,QB,0,
+5136049,Duke Watson,UCF,Big 12,Louisville,ACC,True,3.0,RB,7,0.965
+5078144,Landen Chambers,UCF,Big 12,Central Arkansas,UAC,True,3.0,RB,12,0.85
+5193217,Jonathan Bibbs,UCF,Big 12,UL Monroe,Sun Belt,True,3.0,WR,11,0.899
+5153889,Josh Derry,UCF,Big 12,Monmouth,Coastal Athletic,True,3.0,WR,12,0.85
+5084793,Caleb Flagg,UCF,Big 12,Missouri,SEC,True,3.0,S,0,
+4870659,Tackett Curtis,UCF,Big 12,Wisconsin,Big Ten,True,3.0,LB,0,
+5092328,Jahleel Culbreath,UCF,Big 12,Old Dominion,Sun Belt,True,3.0,LB,0,
+5159158,Rashad Henry,UCF,Big 12,Massachusetts,Mid-American,True,3.0,LB,0,
+5083572,Ty Bartrum,UCF,Big 12,Harvard,Ivy,True,3.0,S,0,
+5086117,Brad Gurley Jr.,UCF,Big 12,Eastern Kentucky,UAC,True,3.0,DL,0,
+5103176,Ken Talley,UCF,Big 12,Arkansas,SEC,True,3.0,EDGE,0,
+5157309,Thomas Collins,UCF,Big 12,Oregon State,Pac-12,True,3.0,DL,0,
+5225963,Kyle Hicks,UCF,Big 12,Tennessee State,OVC-Big South,True,,LS,0,
+5331180,Kahmel Johnson,UCF,Big 12,Wayne State College,,True,3.0,S,0,
+4868929,Will Stone,UCF,Big 12,Texas,SEC,True,2.0,K,0,
+5160651,Atticus Bertrams,UCF,Big 12,Wisconsin,Big Ten,True,2.0,P,0,
+4816098,Makhi Hughes,HOU,Big 12,Oregon,Big Ten,True,3.0,RB,4,1.006
+5120299,Patrick Overmyer,HOU,Big 12,UTSA,American Athletic,True,3.0,TE,13,0.936
+4879567,Trent Walker,HOU,Big 12,Oregon State,Pac-12,True,3.0,WR,11,0.909
+5148848,Javion White,HOU,Big 12,Tulane,American Athletic,True,3.0,S,0,
+5232344,Jalen Mayo,HOU,Big 12,Stephen F. Austin,Southland,False,,,1,0.85
+4918458,De'Marion Thomas,HOU,Big 12,Oklahoma State,Big 12,True,3.0,DL,0,
+5092546,Jaden Yates,HOU,Big 12,Ole Miss,SEC,True,3.0,LB,0,
+4870898,Ashton Porter,HOU,Big 12,Oregon,Big Ten,True,3.0,DL,0,
+5307005,Mason McKenzie,BC,ACC,Saginaw Valley State,GLIAC,True,3.0,QB,1,0.85
+5144853,Landon Wright,BC,ACC,Washington State,Pac-12,True,3.0,WR,6,0.927
+5076122,Evan Dickens,BC,ACC,Liberty,Conference USA,True,3.0,RB,11,0.899
+5146747,Javarius Green,BC,ACC,North Carolina,ACC,True,3.0,WR,6,0.983
+5194641,Demetrius Ballard,BC,ACC,Buffalo,Mid-American,True,3.0,EDGE,0,
+5227820,Anthony Palano,BC,ACC,Washington State,Pac-12,True,2.0,LB,0,
+5148602,Christian Hudson,BC,ACC,Colorado,Big 12,True,3.0,DL,0,
+4871007,KJ Sampson,BC,ACC,Florida State,ACC,True,3.0,DL,0,
+5101120,Kameron Howard,BC,ACC,Alabama,SEC,True,3.0,S,0,
+5100750,Bryce LaFollette,BC,ACC,Towson,Coastal Athletic,True,3.0,P,2,0.85
+4899368,Kendrick Raphael,SMU,ACC,California,ACC,True,4.0,RB,13,0.983
+5155519,Yannick Smith,SMU,ACC,East Carolina,American Athletic,True,4.0,WR,10,0.954
+4870954,Randy Pittman Jr.,SMU,ACC,Florida State,ACC,True,3.0,TE,9,0.983
+4870776,Jalen Hale,SMU,ACC,Alabama,SEC,True,3.0,WR,0,
+5075537,Jarvis Lee,SMU,ACC,South Florida,American Athletic,True,3.0,CB,0,
+4571284,Marques White,SMU,ACC,Massachusetts,Mid-American,True,3.0,EDGE,0,
+4923043,Jamal Anderson,SMU,ACC,Clemson,ACC,True,3.0,LB,0,
+4871075,Jayvon Thomas,SMU,ACC,Texas A&M,SEC,True,3.0,CB,0,
+5156287,Christian Davis,SMU,ACC,Louisiana Tech,Conference USA,True,3.0,DL,0,
+5219393,Malcolm Alcorn-Crowder,SMU,ACC,Kansas State,Big 12,True,3.0,DL,0,
+5081197,Grady Brosterhous,USU,Pac-12,Virginia,ACC,True,3.0,QB,0,
+4923285,McCae Hillstead,USU,Pac-12,BYU,Big 12,True,3.0,QB,4,1.055
+5158829,Javon Robinson,USU,Pac-12,Georgia State,Sun Belt,True,3.0,WR,12,0.973
+5081209,Eli Wood,USU,Pac-12,Virginia,ACC,True,3.0,WR,9,1.04
+5220540,Markie Grant,USU,Pac-12,Wyoming,Mountain West,True,3.0,CB,0,
+5155792,Asher Cunningham,USU,Pac-12,Elon,Coastal Athletic,True,3.0,LB,0,
+4916985,Chapman Lewis,USU,Pac-12,Texas Tech,Big 12,True,3.0,S,0,
+5304040,Adonis Jackson,USU,Pac-12,Mississippi Valley State,SWAC,True,3.0,EDGE,0,
+5089062,BJ Diakite,USU,Pac-12,North Alabama,UAC,True,3.0,EDGE,0,
+5219507,David Kabongo,USU,Pac-12,Oklahoma State,Big 12,True,3.0,S,0,
+5219602,Kian Afrookhteh,USU,Pac-12,Coastal Carolina,Sun Belt,True,,K,0,
+5126514,Harry Stewart III,BOIS,Pac-12,Kansas,Big 12,True,3.0,RB,5,1.055
+5124975,Juelz Goff,BOIS,Pac-12,Pittsburgh,ACC,True,3.0,RB,12,1.04
+5155049,Roman Tillmon,BOIS,Pac-12,South Dakota,MVFC,True,3.0,S,0,
+5154222,JeRico Washington Jr.,BOIS,Pac-12,Kennesaw State,Conference USA,True,3.0,CB,0,
+4918099,Kenny Minchey,UK,SEC,Notre Dame,FBS Independents,True,4.0,QB,5,1.003
+4870609,CJ Baxter,UK,SEC,Texas,SEC,True,3.0,RB,8,0.993
+4685269,Jovantae Barnes,UK,SEC,Oklahoma,SEC,True,3.0,RB,4,0.993
+4699866,Nic Anderson,UK,SEC,LSU,SEC,True,3.0,WR,7,0.993
+5141449,Ja'Kayden Ferguson,UK,SEC,Arkansas,SEC,True,3.0,WR,0,
+5224388,Shane Carr,UK,SEC,Southern Utah,UAC,True,3.0,WR,11,0.85
+5142590,Elijah Barnes,UK,SEC,Texas,SEC,True,4.0,LB,0,
+4870660,Jordan Castell,UK,SEC,Florida,SEC,True,3.0,S,0,
+5148945,Hasaan Sykes,UK,SEC,Western Carolina,Southern,True,3.0,CB,0,
+5125302,Ahmad Breaux,UK,SEC,LSU,SEC,True,3.0,DL,0,
+5125776,Tyler Thomas,UK,SEC,South Alabama,Sun Belt,True,3.0,EDGE,0,
+5243671,Brock Coffman,UK,SEC,Louisville,ACC,True,3.0,WR,0,
+5152347,Adam Zouagui,UK,SEC,South Florida,American Athletic,True,3.0,K,0,
+5141742,Jabree Coleman,SC,SEC,Penn State,Big Ten,True,3.0,RB,0,
+5081213,DJ Black,SC,SEC,UCF,Big 12,True,3.0,WR,11,0.949
+4870667,Kelby Collins,SC,SEC,Alabama,SEC,True,3.0,DL,0,
+5149824,Quay'sheed Scott,SC,SEC,Kentucky,SEC,True,3.0,CB,0,
+4878232,Tomiwa Durojaiye,SC,SEC,Illinois,Big Ten,True,4.0,DL,0,
+4870738,Caleb Herring,SC,SEC,Tennessee,SEC,True,3.0,EDGE,0,
+5298660,Malik Orsan,SC,SEC,Southeast Missouri State,OVC-Big South,True,,K,0,
+5165807,Marcus Stokes,MEM,American Athletic,West Florida,Gulf South,True,3.0,QB,0,
+5079548,Air Noland,MEM,American Athletic,South Carolina,SEC,True,3.0,QB,1,1.08
+5222671,Jaylin Carter,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,WR,10,0.99
+4698727,Dallan Hayden,MEM,American Athletic,Colorado,Big 12,True,3.0,RB,8,1.071
+4922983,Manny Covey,MEM,American Athletic,Cincinnati,Big 12,True,3.0,RB,7,1.071
+5264658,Jermane Hayes,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,WR,2,0.99
+5220352,Hunter Tipton,MEM,American Athletic,Middle Tennessee,Conference USA,True,3.0,TE,12,0.972
+5079354,Stonka Burnside,MEM,American Athletic,Mississippi State,SEC,True,3.0,S,1,1.08
+5294438,Jemyri Davis,MEM,American Athletic,Kansas State,Big 12,True,3.0,WR,2,1.071
+4685290,Tychaun Chapman,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,WR,10,0.99
+4605477,Alante Brown,MEM,American Athletic,Michigan State,Big Ten,True,4.0,WR,0,
+4892983,Terrell Timmons Jr.,MEM,American Athletic,Colorado,Big 12,True,3.0,WR,2,1.071
+5156253,Anthony Richard Jr.,MEM,American Athletic,Southern Miss,Sun Belt,True,,CB,0,
+4685455,KJ Miles,MEM,American Athletic,Temple,American Athletic,True,3.0,DL,0,
+5083052,Ellis Ellis Jr.,MEM,American Athletic,Austin Peay,UAC,True,3.0,CB,0,
+5220922,DeAngelo Thompson,MEM,American Athletic,Syracuse,ACC,True,3.0,EDGE,0,
+5163078,Ian Foster,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,S,0,
+5209942,Zach Ruffin,MEM,American Athletic,Southern Miss,Sun Belt,True,4.0,S,0,
+4685575,J'Mond Tapp,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,EDGE,0,
+4870718,Ahmere Foster,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,S,0,
+4915621,Joseph Head Jr.,MEM,American Athletic,Mississippi State,SEC,True,3.0,EDGE,0,
+5075591,Dylan Smith,MEM,American Athletic,Oklahoma State,Big 12,True,3.0,S,0,
+4941004,Jaden McKinney,MEM,American Athletic,Southern Miss,Sun Belt,True,3.0,DL,0,
+5296461,Devan Lowe,MEM,American Athletic,Georgia Southern,Sun Belt,True,3.0,DL,0,
+5265058,Philippe Laforge,MEM,American Athletic,Coastal Carolina,Sun Belt,True,3.0,K,0,
+5168859,Harrison Tuck,MEM,American Athletic,Alabama State,SWAC,True,3.0,P,0,
+5089540,Cole Gonzales,CLT,American Athletic,Pittsburgh,ACC,True,,QB,3,1.056
+5148741,Khamani Alexander,CLT,American Athletic,App State,Sun Belt,True,3.0,RB,3,0.99
+5295750,D'Mariun Perteet,CLT,American Athletic,Coastal Carolina,Sun Belt,True,3.0,RB,0,
+5153730,Jaden Barnes,CLT,American Athletic,App State,Sun Belt,True,3.0,WR,9,0.99
+4606685,Logan Mauldin,CLT,American Athletic,McNeese,Southland,True,3.0,TE,10,0.887
+5178078,Shamar McIntosh,CLT,American Athletic,Maryland,Big Ten,True,3.0,S,0,
+5210130,Devin Ancrum,CLT,American Athletic,North Carolina,ACC,True,3.0,DL,0,
+4920194,Jameel Croft Jr.,CLT,American Athletic,Kansas,Big 12,True,3.0,CB,0,
+5296238,Henry Searcy,CLT,American Athletic,Pittsburgh,ACC,True,3.0,LS,0,
+4685436,Antonio Martin,MTSU,Conference USA,Kansas State,Big 12,True,3.0,RB,5,1.08
+5306988,Terrence Brown,MTSU,Conference USA,Saginaw Valley State,GLIAC,False,,,1,0.917
+5084049,Ashton Taylor,MTSU,Conference USA,Jackson State,SWAC,True,3.0,LB,0,
+5195681,James Johnson,MTSU,Conference USA,USC,Big Ten,True,3.0,CB,2,1.08
+5149743,Justin Bodford,MTSU,Conference USA,Missouri,SEC,True,3.0,DL,0,
+4870649,Kaven Call,MTSU,Conference USA,East Tennessee State,Southern,True,3.0,EDGE,0,
+5121759,La'Garrius Sims,MTSU,Conference USA,East Central,Great American,True,,EDGE,0,
+4986096,Chase Jenkins,KU,Big 12,Rice,American Athletic,True,3.0,QB,12,0.936
+4918414,Dylan Edwards,KU,Big 12,Kansas State,Big 12,True,3.0,RB,3,0.981
+5193112,Jalen Dupree,KU,Big 12,Colorado State,Mountain West,True,3.0,RB,9,0.925
+5146742,Khijohnn Cummings-Coleman,KU,Big 12,Iowa State,Big 12,True,3.0,S,0,
+5296407,Nahzae Cox,KU,Big 12,Middle Tennessee,Conference USA,True,3.0,WR,10,0.881
+4869730,Nik McMillan,KU,Big 12,Buffalo,Mid-American,True,3.0,WR,12,0.874
+4870279,Corey Gordon,KU,Big 12,Louisville,ACC,True,3.0,S,0,
+5223133,David Santiago,KU,Big 12,Michigan State,Big Ten,True,3.0,EDGE,0,
+5327914,Jibriel Conde,KU,Big 12,Grand Valley State,GLIAC,True,3.0,DL,0,
+4901380,Jaden Harris,KU,Big 12,Georgia,SEC,True,3.0,S,0,
+5120485,Quincy Davis,KU,Big 12,New Mexico State,Conference USA,True,3.0,LB,0,
+4921452,Eamon Smalls,KU,Big 12,UAB,American Athletic,True,3.0,DL,0,
+5157627,Martin Connington,KU,Big 12,Michigan State,Big Ten,True,3.0,K,0,
+5079465,Michael Hawkins Jr.,WVU,Big 12,Oklahoma,SEC,True,3.0,QB,2,1.025
+4918103,Cam Cook,WVU,Big 12,Jacksonville State,Conference USA,True,3.0,RB,13,0.881
+5082584,DJ Epps,WVU,Big 12,Troy,Sun Belt,True,3.0,WR,12,0.899
+5151353,Prince Strachan,WVU,Big 12,USC,Big Ten,True,3.0,WR,1,1.006
+5166306,Andrew Powdrell,WVU,Big 12,UNLV,Mountain West,True,3.0,CB,0,
+5145739,Isaiah Patterson,WVU,Big 12,UNLV,Mountain West,True,3.0,LB,0,
+5146973,Harper Holloman,WVU,Big 12,Western Kentucky,Conference USA,True,3.0,EDGE,0,
+4685625,Kamari Wilson,WVU,Big 12,Memphis,American Athletic,True,3.0,S,0,
+5096044,Chams Diagne,WVU,Big 12,Georgia State,Sun Belt,True,3.0,CB,0,
+5122015,David Afogho,WVU,Big 12,Bowling Green,Mid-American,True,3.0,EDGE,0,
+4912915,Wes King,WVU,Big 12,Wyoming,Mountain West,True,3.0,IOL,0,
+5154004,Jason Hall Jr.,WVU,Big 12,Villanova,Coastal Athletic,True,3.0,LB,0,
+5228824,Kameron Reddic,WVU,Big 12,Stephen F. Austin,Southland,True,3.0,S,0,
+5295665,Jack Cassidy,WVU,Big 12,Western Kentucky,Conference USA,True,3.0,K,0,
+5082263,Bryan Hansen,WVU,Big 12,Colorado State,Mountain West,True,,P,1,0.925
+5080403,Jaylen Raynor,ISU,Big 12,Arkansas State,Sun Belt,True,3.0,QB,13,0.899
+5194663,Cameron Pettaway,ISU,Big 12,Bowling Green,Mid-American,True,3.0,RB,9,0.874
+5110516,Arnold Barnes III,ISU,Big 12,Tulane,American Athletic,True,3.0,RB,11,0.936
+4875853,Cody Jackson,ISU,Big 12,Tarleton State,UAC,True,3.0,WR,11,0.85
+4837269,Omari Hayes,ISU,Big 12,Tulane,American Athletic,True,3.0,WR,12,0.936
+5220808,Malaki Ta'ase,ISU,Big 12,Washington State,Pac-12,True,3.0,EDGE,0,
+5224370,Seth Johnson,ISU,Big 12,Montana State,Big Sky,True,3.0,CB,0,
+5264502,Sullivan Schlimgen,ISU,Big 12,Washington State,Pac-12,True,3.0,LB,0,
+5085122,Bryson Lamb,ISU,Big 12,Washington State,Pac-12,True,3.0,DL,0,
+4431120,Micah Harper,ISU,Big 12,Montana,Big Sky,True,3.0,S,0,
+5084892,Isaac Terrell,ISU,Big 12,Washington State,Pac-12,True,3.0,EDGE,0,
+5263782,Brody Miller,ISU,Big 12,Washington State,Pac-12,True,3.0,S,0,
+5174446,Keyon Washington,ISU,Big 12,Bowling Green,Mid-American,True,3.0,CB,0,
+4695426,Max Baloun,ISU,Big 12,Washington State,Pac-12,True,3.0,DL,0,
+5147044,Montreze Smith Jr.,ISU,Big 12,Austin Peay,UAC,True,3.0,LB,0,
+5085573,Duhron Goodman,ISU,Big 12,Washington State,Pac-12,True,3.0,S,0,
+4878681,Davis Warren,STAN,ACC,Michigan,Big Ten,True,3.0,QB,0,
+5094032,Nico Brown,STAN,ACC,Yale,Ivy,True,3.0,WR,10,0.85
+5078420,Leroy Bryant,STAN,ACC,Washington,Big Ten,True,3.0,CB,0,
+4920227,Gio Lopez,WAKE,ACC,North Carolina,ACC,True,3.0,QB,11,0.983
+5222223,KD Daniels,WAKE,ACC,Florida,SEC,True,3.0,RB,8,1.042
+5151274,Drayden Dickmann,WAKE,ACC,Rice,American Athletic,True,3.0,WR,12,0.954
+5121666,Kam Shanks,WAKE,ACC,Arkansas,SEC,True,3.0,WR,4,1.042
+5099305,Antonio Meeks,WAKE,ACC,Louisville,ACC,True,3.0,WR,9,0.983
+5156757,Vincent Firenze,WAKE,ACC,Dayton,Pioneer,True,3.0,S,0,
+5085622,Matt Herron,WAKE,ACC,Weber State,Big Sky,True,3.0,DL,0,
+5226707,D.J. Johnson,WAKE,ACC,New Hampshire,Coastal Athletic,True,3.0,EDGE,0,
+5092271,Buom Jock,WAKE,ACC,California,ACC,True,3.0,LB,0,
+4870908,Sydir Mitchell,WAKE,ACC,LSU,SEC,True,3.0,DL,0,
+5153782,Amari Odom,SYR,ACC,Kennesaw State,Conference USA,True,3.0,QB,12,0.899
+5154420,Ahmad Miller,SYR,ACC,Jackson State,SWAC,True,3.0,RB,12,0.85
+5122076,Cole Weaver,SYR,ACC,Miami (OH),Mid-American,True,3.0,WR,12,0.892
+5121720,Noah Meyers,SYR,ACC,Western Kentucky,Conference USA,True,3.0,TE,11,0.899
+5158837,Keyshawn Johnson,SYR,ACC,UT Martin,OVC-Big South,True,3.0,EDGE,0,
+5092238,Chris D'Appolonia,SYR,ACC,Toledo,Mid-American,True,3.0,LB,0,
+4432655,Tunmise Adeleye,SYR,ACC,UNLV,Mountain West,True,3.0,DL,0,
+5103802,Nazir Ward,SYR,ACC,Western Kentucky,Conference USA,True,3.0,CB,0,
+4921432,Dillan Fontus,SYR,ACC,Maryland,Big Ten,True,3.0,DL,0,
+5239116,Jartavius Flounoy,SYR,ACC,Georgia State,Sun Belt,True,3.0,DL,0,
+5079619,Kalieb Osborne,CONN,FBS Independents,Toledo,Mid-American,True,3.0,QB,7,0.855
+5296247,Cyncir Bowers,CONN,FBS Independents,West Virginia,Big 12,True,,RB,10,0.962
+5075952,Trey Cornist,CONN,FBS Independents,Central Michigan,Mid-American,True,3.0,RB,13,0.855
+5228882,Ryder Treadway,CONN,FBS Independents,Toledo,Mid-American,True,3.0,WR,7,0.855
+5300740,Ky Wilson,CONN,FBS Independents,Youngstown State,MVFC,True,,WR,13,0.85
+5193720,Javon Brown,CONN,FBS Independents,Toledo,Mid-American,True,3.0,WR,4,0.855
+4698471,Matt Ragan,CONN,FBS Independents,Boston College,ACC,True,3.0,TE,0,
+5278798,Cam Abshire,CONN,FBS Independents,Oklahoma State,Big 12,True,3.0,WR,8,0.962
+5220131,K'Von Sherman,CONN,FBS Independents,Toledo,Mid-American,True,3.0,LB,0,
+5084414,John Lista,CONN,FBS Independents,Pennsylvania,Ivy,True,3.0,LB,0,
+5222645,Jayden Price,CONN,FBS Independents,Toledo,Mid-American,True,3.0,S,0,
+5166798,Renick Dorilas,CONN,FBS Independents,Rutgers,Big Ten,True,3.0,CB,0,
+5082306,Jayden Davis,CONN,FBS Independents,Fresno State,Mountain West,True,3.0,S,0,
+5089304,Tahjae Mullix,CONN,FBS Independents,Oregon State,Pac-12,True,,DL,0,
+5157300,Zakaih Saez,CONN,FBS Independents,Oregon State,Pac-12,True,3.0,EDGE,0,
+4870938,Joshua Mickens,CONN,FBS Independents,Ohio State,Big Ten,True,3.0,EDGE,0,
+5084343,Anas Luqman,CONN,FBS Independents,Ohio,Mid-American,True,3.0,EDGE,0,
+5147933,Rickey Williams,CONN,FBS Independents,Toledo,Mid-American,True,3.0,LB,0,
+5077896,Desmond Aladuge,CONN,FBS Independents,Duke,ACC,True,3.0,DL,0,
+5125554,Chamberlain Campbell,CONN,FBS Independents,Toledo,Mid-American,True,3.0,EDGE,0,
+5151689,Julian Allen,CONN,FBS Independents,Toledo,Mid-American,True,3.0,WR,2,0.855
+5382615,Tommy Warner,CONN,FBS Independents,Northwest Missouri State,Mid America,True,,P,0,
+5214557,JJ Buchanan,MICH,Big Ten,Utah,Big 12,True,4.0,WR,11,0.965
+4896290,Aisea Moa,MICH,Big Ten,Michigan State,Big Ten,True,3.0,LB,0,
+5087172,Nathaniel Staehling,MICH,Big Ten,North Dakota State,MVFC,True,3.0,LB,0,
+5078910,Chris Bracy,MICH,Big Ten,Memphis,American Athletic,True,3.0,S,0,
+4918445,Smith Snowden,MICH,Big Ten,Utah,Big 12,True,4.0,CB,4,0.965
+4891197,Jonah Lea'ea,MICH,Big Ten,Utah,Big 12,True,3.0,DL,0,
+4878106,Max Alford,MICH,Big Ten,BYU,Big 12,True,3.0,LB,0,
+5296243,Trey Butkowski,MICH,Big Ten,Pittsburgh,ACC,True,3.0,K,0,
+5224792,TJ Thomas,MINN,Big Ten,Elon,Coastal Athletic,True,3.0,RB,9,0.85
+5164749,Noah Jennings,MINN,Big Ten,Cincinnati,Big 12,True,3.0,WR,11,0.965
+5295954,Naquan Crowder,MINN,Big Ten,Marshall,Sun Belt,True,3.0,DL,0,
+4917620,TJ Bush Jr.,MINN,Big Ten,California,ACC,True,3.0,EDGE,0,
+5216702,Aydan West,MINN,Big Ten,Michigan State,Big Ten,True,3.0,CB,0,
+5295583,Xion Chapman,MINN,Big Ten,Florida International,Conference USA,True,4.0,DL,0,
+4700135,Cam Fancher,MSU,Big Ten,UCF,Big 12,True,3.0,QB,3,0.965
+5081332,Jaziun Patterson,MSU,Big Ten,Iowa,Big Ten,True,3.0,RB,10,0.99
+5258024,Marvis Parrish,MSU,Big Ten,Western Kentucky,Conference USA,False,,,13,0.865
+4905609,Fredrick Moore,MSU,Big Ten,Michigan,Big Ten,True,3.0,WR,0,
+5150418,KK Smith,MSU,Big Ten,Notre Dame,FBS Independents,True,3.0,WR,5,1.019
+4870681,Dion Crawford,MSU,Big Ten,Buffalo,Mid-American,True,3.0,LB,0,
+5153819,Devin Vaught,MSU,Big Ten,Maine,Coastal Athletic,True,3.0,S,0,
+4431626,Charles Brantley,MSU,Big Ten,Miami,ACC,True,3.0,CB,0,
+4832042,Kenny Soares Jr.,MSU,Big Ten,NC State,ACC,True,3.0,LB,0,
+5086080,Tre Bell,MSU,Big Ten,Iowa State,Big 12,True,3.0,CB,0,
+4686331,Keahnist Thompson,MSU,Big Ten,Weber State,Big Sky,True,3.0,EDGE,0,
+4869121,Caleb Wheatland,MSU,Big Ten,Auburn,SEC,True,3.0,LB,0,
+5297778,Eli Coenen,MSU,Big Ten,Illinois,Big Ten,True,3.0,DL,0,
+5174993,Kenneth Williams,MSU,Big Ten,Nebraska,Big Ten,True,3.0,RB,2,0.99
+5081440,Liam Boyd,MSU,Big Ten,Charlotte,American Athletic,True,,K,0,
+5192953,Rhys Dakin,MSU,Big Ten,Iowa,Big Ten,True,3.0,P,0,
+5125715,Colton Joseph,WIS,Big Ten,Old Dominion,Sun Belt,True,3.0,QB,12,0.883
+5079500,Bryan Jackson II,WIS,Big Ten,USC,Big Ten,True,3.0,RB,8,0.99
+4917947,Malachi Coleman,WIS,Big Ten,Minnesota,Big Ten,True,3.0,WR,5,0.99
+5122018,Jacob Harris,WIS,Big Ten,Bowling Green,Mid-American,True,3.0,TE,10,0.858
+4596362,Justus Boone,WIS,Big Ten,Arkansas,SEC,True,3.0,EDGE,0,
+4896318,Javan Robinson,WIS,Big Ten,Arizona State,Big 12,True,3.0,CB,0,
+5079737,Bryce West,WIS,Big Ten,Ohio State,Big Ten,True,3.0,CB,0,
+5146110,Jon Jon Kamara,WIS,Big Ten,Kansas,Big 12,True,3.0,LB,0,
+5122016,Junior Poyser,WIS,Big Ten,Buffalo,Mid-American,True,3.0,DL,0,
+5146814,Carson Van Dinter,WIS,Big Ten,Iowa State,Big 12,True,3.0,S,0,
+5146890,DeNigel Cooper,WIS,Big Ten,App State,Sun Belt,True,3.0,DL,0,
+5220126,James Roe,WIS,Big Ten,Toledo,Mid-American,True,3.0,LS,0,
+5332257,Liam Danitz,WIS,Big Ten,Hope ,,True,3.0,EDGE,0,
+4603090,Hammond Russell IV,WIS,Big Ten,West Virginia,Big 12,True,3.0,DL,0,
+4870652,Marvin Burks Jr.,WIS,Big Ten,Missouri,SEC,True,3.0,S,0,
+5149152,Eric Fletcher Jr.,WIS,Big Ten,Oklahoma State,Big 12,True,3.0,CB,0,
+5218736,Emazon Littlejohn,WMU,Mid-American,South Carolina,SEC,True,,WR,0,
+5157528,Nate Levicki,WMU,Mid-American,Presbyterian,Pioneer,False,,,12,0.943
+4816083,Daeh McCullough,WMU,Mid-American,Louisville,ACC,True,3.0,S,0,
+5294561,Austin Alexander,WMU,Mid-American,North Carolina,ACC,True,3.0,EDGE,0,
+5219059,Ahmed Tounkara,WMU,Mid-American,Ohio State,Big Ten,True,3.0,DL,0,
+4868896,DeJuan Echoles Jr.,WMU,Mid-American,Ball State,Mid-American,True,3.0,LB,0,
+5195950,Brenden Anes,WMU,Mid-American,Tennessee,SEC,True,3.0,LB,0,
+5387620,Zach Bergmann,BUFF,Mid-American,Missouri Southern State,Mid America,True,3.0,LB,0,
+5387614,Logan Goodwin,BUFF,Mid-American,IU Pennsylvania,Pennsylvania State Athletic,True,3.0,EDGE,0,
+4838522,Stevie Bracey,BUFF,Mid-American,Virginia,ACC,True,3.0,LB,0,
+5387613,Sedrick Vessah,BUFF,Mid-American,California (PA),Pennsylvania State Athletic,True,,EDGE,0,
+5159883,Joseph Stoever,BUFF,Mid-American,Georgia Tech,ACC,True,,LS,0,
+5092811,CJ Miller,TOL,Mid-American,Mercer,Southern,True,3.0,RB,12,0.943
+5164730,Autavius Ison,TOL,Mid-American,Mercer,Southern,True,3.0,RB,0,
+5153399,Adjatay Dabbs,TOL,Mid-American,Mercer,Southern,True,3.0,WR,11,0.943
+5225646,Rico Bond,TOL,Mid-American,Lindenwood,OVC-Big South,True,3.0,WR,12,0.943
+5224269,Andrew Zock,TOL,Mid-American,Mercer,Southern,True,3.0,EDGE,0,
+5227167,Israel Petite,TOL,Mid-American,Robert Morris,NEC,True,2.0,CB,0,
+4683014,Armorion Smith,TOL,Mid-American,Michigan State,Big Ten,True,3.0,S,0,
+5157388,Cam Jones,TOL,Mid-American,Holy Cross,Patriot,True,3.0,CB,0,
+5153403,Donovan Watkins,TOL,Mid-American,Mercer,Southern,True,3.0,CB,0,
+5252597,Zach Johnson,TOL,Mid-American,UAB,American Athletic,True,3.0,EDGE,0,
+4941014,Ezra Odinjor,TOL,Mid-American,UAB,American Athletic,True,3.0,EDGE,0,
+5300317,KJ Thomas,TOL,Mid-American,Mercer,Southern,True,3.0,CB,0,
+5092826,Caden Camese,TOL,Mid-American,Mercer,Southern,True,3.0,DL,0,
+5153413,Reice Griffith,TOL,Mid-American,Mercer,Southern,True,,K,0,
+5300311,Markus Meincke,TOL,Mid-American,Mercer,Southern,True,,P,0,
+5075392,Keldric Luster,BALL,Mid-American,Texas State,Sun Belt,True,3.0,QB,2,1.046
+5152153,Tyler Mizzell,BALL,Mid-American,Concord,Mountain East,True,3.0,QB,0,
+4899137,Johnny Thompson Jr.,BALL,Mid-American,Kansas,Big 12,True,3.0,RB,3,1.08
+5078533,Jabari Smith,BALL,Mid-American,Florida Atlantic,American Athletic,True,3.0,WR,8,1.08
+5082283,Alex Scherle,BALL,Mid-American,Rice,American Athletic,True,3.0,TE,0,
+4808990,Cincear Lewis,BALL,Mid-American,Cincinnati,Big 12,True,3.0,LB,0,
+5088773,Maverick Gracio,BALL,Mid-American,Pittsburgh,ACC,True,3.0,EDGE,0,
+5219137,Chris Jackson,BALL,Mid-American,Colorado State,Mountain West,True,,CB,0,
+5081906,Gavin Forsha,BALL,Mid-American,Tennessee State,OVC-Big South,True,3.0,LB,0,
+4705514,Jared Badie,BALL,Mid-American,San Diego State,Mountain West,True,3.0,EDGE,0,
+5147222,Cedric Franklin II,BALL,Mid-American,Arkansas State,Sun Belt,True,3.0,CB,0,
+5161691,Keilan Smith,BALL,Mid-American,Cincinnati,Big 12,True,3.0,DL,0,
+5385748,Austin Stief,BALL,Mid-American,Davenport,GLIAC,True,3.0,EDGE,0,
+4899476,Kendrick Gilbert,BALL,Mid-American,Louisville,ACC,True,3.0,DL,0,
+5054036,Jackson Brousseau,CAL,ACC,Colorado State,Mountain West,True,3.0,QB,9,0.942
+5192899,Ashten Emory,CAL,ACC,UTEP,Conference USA,True,3.0,RB,12,0.899
+5075390,Ian Strong,CAL,ACC,Rutgers,Big Ten,True,4.0,WR,10,1.023
+5141597,Cooper Perry,CAL,ACC,Oregon,Big Ten,True,3.0,WR,6,1.023
+4921110,Chase Hendricks,CAL,ACC,Ohio,Mid-American,True,4.0,WR,12,0.892
+5249499,AJ Tuitele,CAL,ACC,USC,Big Ten,True,3.0,LB,0,
+4870753,Daniel Harris,CAL,ACC,Georgia,SEC,True,3.0,CB,0,
+5085574,Michael Hurst Jr.,CAL,ACC,Northern Arizona,Big Sky,True,3.0,S,0,
+5135202,Tristan Jernigan,CAL,ACC,Texas A&M,SEC,True,3.0,LB,0,
+5127001,Solomon Williams,CAL,ACC,Texas A&M,SEC,True,3.0,EDGE,0,
+5126998,Jericho Johnson,CAL,ACC,Oregon,Big Ten,True,4.0,DL,0,
+5110496,Kamar Mothudi,CAL,ACC,Oregon,Big Ten,True,3.0,LB,0,
+4568099,Justin Beadles,CAL,ACC,Louisville,ACC,True,3.0,EDGE,0,
+5218832,Ashun Shepphard,CAL,ACC,Mississippi State,SEC,True,3.0,DL,0,
+4869387,Ricky Fletcher,CAL,ACC,Ole Miss,SEC,True,3.0,CB,0,
+5194311,Jayden Williams,CAL,ACC,North Texas,American Athletic,True,3.0,DL,0,
+5192416,Towns McGough,CAL,ACC,Auburn,SEC,True,3.0,K,0,
+5151623,Angus Davies,CAL,ACC,Tulsa,American Athletic,True,,P,1,0.954
+4870607,Jackson Arnold,UNLV,Mountain West,Auburn,SEC,True,3.0,QB,10,1.08
+4870965,Taz Reddicks,UNLV,Mountain West,Oregon State,Pac-12,True,3.0,WR,10,1.015
+4685289,Keyan Burnett,UNLV,Mountain West,Arizona,Big 12,True,3.0,TE,2,1.08
+4587722,Troy Stellato,UNLV,Mountain West,Kentucky,SEC,True,3.0,WR,1,1.08
+5157395,Cam Santee,UNLV,Mountain West,Holy Cross,Patriot,True,3.0,LB,0,
+4870682,Dee Crayton,UNLV,Mountain West,Clemson,ACC,True,3.0,LB,0,
+5142603,Mark Iheanachor,UNLV,Mountain West,SMU,ACC,True,3.0,LB,0,
+5146859,Herb Gray,UNLV,Mountain West,Tennessee,SEC,True,3.0,DL,0,
+5078278,Lincoln Kienholz,LOU,ACC,Ohio State,Big Ten,True,3.0,QB,6,1.023
+5294063,Tre Richardson,LOU,ACC,Vanderbilt,SEC,True,4.0,WR,12,1.042
+5086096,Lawayne McCoy,LOU,ACC,Florida State,ACC,True,4.0,WR,10,0.983
+5077877,Justyn Reid,LOU,ACC,Tulane,American Athletic,True,3.0,TE,12,0.954
+5144023,Jackson Voth,LOU,ACC,Drake,Pioneer,True,3.0,WR,11,0.85
+5079321,Kaleb Beasley,LOU,ACC,Tennessee,SEC,True,3.0,S,0,
+5224791,Brycen Scott,LOU,ACC,Elon,Coastal Athletic,True,3.0,CB,0,
+5079312,TJ Banks,LOU,ACC,Ole Miss,SEC,True,3.0,S,0,
+5079697,Jerod Smith II,LOU,ACC,Kentucky,SEC,True,3.0,DL,0,
+5146111,Daylen Russell,LOU,ACC,Miami,ACC,True,3.0,DL,0,
+4921271,Tyler Thompson,LOU,ACC,North Carolina,ACC,True,3.0,EDGE,0,
+5092262,DJ Waller Jr.,LOU,ACC,Kentucky,SEC,True,3.0,CB,0,
+4918459,Tommy Ziesmer,LOU,ACC,Eastern Kentucky,UAC,True,3.0,DL,0,
+5147384,Demeco Kennedy,LOU,ACC,Purdue,Big Ten,True,3.0,DL,0,
+5079745,Joshisa Trader,NCSU,ACC,Miami,ACC,True,3.0,WR,7,0.983
+5079468,Davion Gause,NCSU,ACC,North Carolina,ACC,True,3.0,RB,12,0.983
+5160003,Tyran Warren,NCSU,ACC,Alcorn State,SWAC,True,3.0,WR,9,0.85
+5084967,Victor Snow,NCSU,ACC,Buffalo,Mid-American,True,3.0,WR,12,0.892
+5172608,Hunter Provience,NCSU,ACC,Montana State,Big Sky,True,3.0,TE,6,0.85
+5079661,Chance Robinson,NCSU,ACC,Miami,ACC,True,3.0,WR,0,
+4870590,Popo Aguirre,NCSU,ACC,Miami,ACC,True,3.0,LB,0,
+4901373,Harvey Dyson III,NCSU,ACC,Tulane,American Athletic,True,3.0,EDGE,0,
+4870957,Da'Kaari Nelson,NCSU,ACC,Penn State,Big Ten,True,3.0,LB,0,
+4870877,King Mack,NCSU,ACC,Penn State,Big Ten,True,3.0,S,0,
+4432697,Katron Evans,NCSU,ACC,Marshall,Sun Belt,True,3.0,DL,0,
+5219235,Jackson Waller,NCSU,ACC,SMU,ACC,True,,P,0,
+4685696,Beau Pribula,UVA,ACC,Missouri,SEC,True,4.0,QB,10,1.042
+5121721,Jekail Middlebrook,UVA,ACC,Middle Tennessee,Conference USA,True,3.0,RB,11,0.899
+5222394,Da'Shawn Martin,UVA,ACC,Kent State,Mid-American,True,3.0,WR,11,0.892
+4900879,Jacquon Gibson,UVA,ACC,Massachusetts,Mid-American,True,3.0,WR,9,0.892
+4870713,Rico Flores Jr.,UVA,ACC,UCLA,Big Ten,True,3.0,WR,8,1.023
+5103804,Brandyn Hillman,UVA,ACC,Michigan,Big Ten,True,3.0,S,0,
+5151319,Nnanna Anyanwu,UVA,ACC,UTSA,American Athletic,True,3.0,EDGE,0,
+4918427,Matthew Fobbs-White,UVA,ACC,Baylor,Big 12,True,3.0,EDGE,0,
+5220493,Justin Ross,UVA,ACC,Navy,American Athletic,True,3.0,CB,0,
+4869804,Jacobie Henderson,UVA,ACC,Rutgers,Big Ten,True,3.0,CB,0,
+5079295,Omillio Agard,UVA,ACC,Wisconsin,Big Ten,True,3.0,CB,0,
+5125721,Jonathan Allen,UVA,ACC,UAB,American Athletic,True,3.0,DL,0,
+4837327,Christian Ellis,UVA,ACC,Virginia Tech,ACC,True,3.0,S,0,
+5094038,Ezekiel Larry,UVA,ACC,Yale,Ivy,True,3.0,EDGE,0,
+4838679,Ashton Daniels,FSU,ACC,Auburn,SEC,True,3.0,QB,4,1.042
+4871076,Quintrevion Wisner,FSU,ACC,Texas,SEC,True,4.0,RB,9,1.042
+4683154,Mikai Gbayor,FSU,ACC,North Carolina,ACC,True,4.0,LB,0,
+5228122,Chris Jones,FSU,ACC,Southern Miss,Sun Belt,True,3.0,LB,0,
+5116973,Rylan Kennedy,FSU,ACC,Texas A&M,SEC,True,3.0,EDGE,0,
+5144685,Ma'Khi Jones,FSU,ACC,Duke,ACC,True,3.0,S,0,
+5227705,CJ Richard Jr.,FSU,ACC,Illinois State,MVFC,True,3.0,S,0,
+5160086,Desirrio Riles,FSU,ACC,East Carolina,American Athletic,True,3.0,TE,10,0.954
+5083549,Gabe Panikowski,FSU,ACC,Oklahoma State,Big 12,True,3.0,K,0,
+5296606,Daniel Hughes,FSU,ACC,New Mexico,Mountain West,True,,P,0,
+4870864,Gabarri Johnson,SAM,Southern,Oregon State,Pac-12,False,,,10,1.08
+5441436,Marquise Henderson,SAM,Southern,Clemson,ACC,True,4.0,RB,0,
+4918110,Rod Robinson II,UAB,American Athletic,Georgia,SEC,True,3.0,RB,3,1.08
+4897730,Bam McReynolds,UAB,American Athletic,UL Monroe,Sun Belt,True,3.0,RB,12,0.99
+5219011,EJ Reid,UAB,American Athletic,Wake Forest,ACC,True,3.0,WR,0,
+5157261,Ja'Vin Simpkins,UAB,American Athletic,Coastal Carolina,Sun Belt,True,3.0,RB,13,0.99
+4711421,CJ Smith,UAB,American Athletic,Memphis,American Athletic,True,3.0,WR,2,1.027
+5092470,Ty Mims,UAB,American Athletic,Texas State,Sun Belt,True,3.0,WR,0,
+5081640,Scott Isacks,UAB,American Athletic,Florida,SEC,True,3.0,TE,0,
+5122390,KJ Daniels,UAB,American Athletic,Oklahoma,SEC,True,3.0,WR,0,
+5092287,Muaaz Byard,UAB,American Athletic,Middle Tennessee,Conference USA,True,3.0,LB,0,
+5195616,Jo'Tavion Pierce,UAB,American Athletic,Oklahoma State,Big 12,True,3.0,S,0,
+5152135,Tylin Jackson,UAB,American Athletic,Eastern Washington,Big Sky,True,3.0,EDGE,0,
+5086373,Ike Esonwune,UAB,American Athletic,Oklahoma State,Big 12,True,3.0,LB,0,
+5152798,Anta'Veon McKenzie,UAB,American Athletic,Sacramento State,Big Sky,True,3.0,S,0,
+5192677,Jeremiah Jordan,UAB,American Athletic,Memphis,American Athletic,True,3.0,S,1,1.027
+5148648,Draden Fullbright,UAB,American Athletic,Oklahoma State,Big 12,True,3.0,CB,0,
+5220652,Marlin Dean,UAB,American Athletic,Georgia State,Sun Belt,True,3.0,EDGE,0,
+5078469,Darrell Sweeting,UAB,American Athletic,Marshall,Sun Belt,True,3.0,CB,0,
+5157112,Raymond Macias,UAB,American Athletic,Campbell,Coastal Athletic,True,3.0,DL,0,
+5300742,Cam Cunningham,UAB,American Athletic,Youngstown State,MVFC,True,3.0,DL,0,
+5212634,Sterling Sanders,UAB,American Athletic,Boston College,ACC,True,3.0,DL,0,
+5232192,Noah Nelson,UAB,American Athletic,Georgia State,Sun Belt,True,3.0,DL,0,
+5224205,Braden Sullivan,UAB,American Athletic,Eastern Kentucky,UAC,True,3.0,LB,0,
+5223954,Diezel Wilkinson,UAB,American Athletic,Montana,Big Sky,True,3.0,S,0,
+4898589,Oliver Straw,UAB,American Athletic,West Virginia,Big 12,False,,,1,1.071
+4838536,Tyler Hughes,WYO,Mountain West,William & Mary,Coastal Athletic,True,3.0,QB,12,0.901
+5227257,Markell Holman,WYO,Mountain West,Western Illinois,OVC-Big South,True,3.0,RB,12,0.901
+4826579,Tyler Siddons,WYO,Mountain West,Northwestern State,Southland,True,3.0,TE,3,0.901
+5159256,Jack Dunkley,WYO,Mountain West,Duquesne,NEC,True,3.0,EDGE,0,
+4880300,Donnie Wingate,WYO,Mountain West,Southern Illinois,MVFC,True,,EDGE,0,
+5151386,Jett Vincent,WYO,Mountain West,Colorado State,Mountain West,True,3.0,ATH,0,
+5157399,Nyeoti Punni,NDSU,Mountain West,Holy Cross,Patriot,False,,,12,0.901
+5225023,Keith Williams,NDSU,Mountain West,Cornell,Ivy,True,,LB,0,
+5193102,Miles Burris,AKR,Mid-American,Charlotte,American Athletic,True,3.0,WR,9,1.08
+5219852,Dwight Nunoo,AKR,Mid-American,Florida International,Conference USA,True,3.0,LB,0,
+5225778,Caiden Newsome,AKR,Mid-American,Holy Cross,Patriot,True,,CB,0,
+5236374,Khory Moss,AKR,Mid-American,Miami (OH),Mid-American,True,3.0,CB,0,
+5157391,Jayden Clerveaux,CMU,Mid-American,Holy Cross,Patriot,True,,RB,12,0.943
+5305463,Nick Woodford,CMU,Mid-American,Morehouse,SIAC,False,,,1,0.943
+5122147,Vaughn Blue,CMU,Mid-American,Liberty,Conference USA,True,,RB,10,1.028
+5221139,Shawn Foster II,CMU,Mid-American,Michigan State,Big Ten,True,2.0,WR,0,
+5069279,Justin Taylor,CMU,Mid-American,Wyoming,Mountain West,True,3.0,S,0,
+5229975,Darrell Bryant Jr.,CMU,Mid-American,Northern Colorado,Big Sky,True,3.0,S,0,
+5079665,Donavan Philord,CMU,Mid-American,Campbell,Coastal Athletic,True,3.0,CB,0,
+4608922,Braydon Bennett,EMU,Mid-American,Virginia Tech,ACC,True,3.0,RB,2,1.08
+5192778,Joseph Oluwayemi,EMU,Mid-American,Harding,Great American,True,,DL,0,
+5154956,Peyton Christian,EMU,Mid-American,Lamar,Southland,True,,DL,0,
+4920153,William Watson III,MASS,Mid-American,Virginia Tech,ACC,True,3.0,QB,4,1.08
+5081363,Justin Williams-Thomas,MASS,Mid-American,Marshall,Sun Belt,True,3.0,RB,9,1.046
+5164566,Joshua Iseah,MASS,Mid-American,North Carolina A&T,Coastal Athletic,True,3.0,LB,0,
+4876462,Isaiah Reed,MASS,Mid-American,UCF,Big 12,True,3.0,CB,0,
+4870693,Andrew DePaepe,MASS,Mid-American,Indiana,Big Ten,True,4.0,EDGE,0,
+5265472,Khari Bendolph,MASS,Mid-American,Jacksonville State,Conference USA,True,3.0,LB,0,
+5227011,Justin Krueger,MASS,Mid-American,William & Mary,Coastal Athletic,True,3.0,EDGE,0,
+4899709,Jahmad Harmon,MASS,Mid-American,Ball State,Mid-American,True,3.0,S,0,
+5171031,Matt Vezza,OHIO,Mid-American,New Hampshire,Coastal Athletic,True,,QB,13,0.943
+4873234,Victor Rosa,OHIO,Mid-American,UConn,FBS Independents,True,3.0,RB,13,1.08
+5221306,Jake Furtney,OHIO,Mid-American,Illinois,Big Ten,True,3.0,TE,0,
+5211691,Preston Bowman,OHIO,Mid-American,Kentucky,SEC,True,3.0,WR,0,
+5394410,Riley Palmeter,OHIO,Mid-American,Marian,,True,3.0,TE,0,
+4689196,Tyler Gillison,OHIO,Mid-American,Michigan State,Big Ten,True,3.0,EDGE,0,
+5156218,Barry Dillon,OHIO,Mid-American,Incarnate Word,Southland,True,,CB,0,
+5155789,Darren James-Hamilton,OHIO,Mid-American,Elon,Coastal Athletic,True,3.0,S,0,
+4868461,Isaiah Street,OHIO,Mid-American,Western Michigan,Mid-American,True,3.0,EDGE,0,
+4917286,Will Hryszko,OHIO,Mid-American,Kent State,Mid-American,True,,K,0,
+4875755,Mason King,KENT,Mid-American,Illinois State,MVFC,True,,RB,3,0.943
+5160198,Hayden Dawahare,KENT,Mid-American,Kentucky,SEC,True,3.0,LB,0,
+5082969,Rocco Nicholl,KENT,Mid-American,South Florida,American Athletic,True,3.0,LB,0,
+5227117,Quan Rhodes-McKee,KENT,Mid-American,Duquesne,NEC,True,3.0,LB,0,
+5227659,Drey Braxton,BGSU,Mid-American,North Carolina Central,MEAC,True,3.0,CB,0,
+4832020,Kade Kostus,BGSU,Mid-American,Central Michigan,Mid-American,True,3.0,DL,0,
+5083106,Nick Sawyer,BGSU,Mid-American,Charleston Southern,OVC-Big South,True,3.0,CB,0,
+4685288,Selah Brown,BGSU,Mid-American,Louisville,ACC,True,3.0,DL,0,
+5222382,Armahn Hale,BGSU,Mid-American,New Mexico State,Conference USA,True,3.0,S,0,
+5225939,Sanders Ellis,BGSU,Mid-American,Purdue,Big Ten,True,,LB,0,
+4917426,Ryan Kingston,BGSU,Mid-American,Southeast Missouri State,OVC-Big South,True,3.0,P,0,
+5153885,Rodney Nelson,M-OH,Mid-American,Monmouth,Coastal Athletic,True,3.0,RB,12,0.943
+5214639,Lazaro Rogers,M-OH,Mid-American,Northern Illinois,Mid-American,False,,,7,1.021
+5079772,Damarion Witten,M-OH,Mid-American,Ohio State,Big Ten,True,3.0,WR,0,
+4876642,Maleek Huggins,M-OH,Mid-American,Bethune-Cookman,SWAC,False,,,11,0.943
+5164357,Carl Jenkins,M-OH,Mid-American,UCF,Big 12,False,,,2,1.08
+4685592,Dillon Tatum,M-OH,Mid-American,Northwestern,Big Ten,True,4.0,S,0,
+4893102,Amariyun Knighten,M-OH,Mid-American,Indiana,Big Ten,True,,CB,0,
+4916956,Blayne Myrick,M-OH,Mid-American,South Alabama,Sun Belt,True,3.0,LB,0,
+5086467,Ben Minich,M-OH,Mid-American,Notre Dame,FBS Independents,True,4.0,S,0,
+5091836,Jaxon Potter,ODU,Sun Belt,Washington State,Pac-12,True,3.0,QB,3,1.024
+5294446,Trey Hall,ODU,Sun Belt,Ole Miss,SEC,True,3.0,RB,0,
+4832875,Leon Haughton Jr.,ODU,Sun Belt,Maryland,Big Ten,True,3.0,TE,4,1.08
+5153408,Kendall Harris,ODU,Sun Belt,Mercer,Southern,False,,,10,0.91
+5083490,Ayden Pereira,GAST,Sun Belt,Merrimack,FCS Independents,True,3.0,QB,12,0.91
+5233868,Lanear McCrary Jr.,GAST,Sun Belt,Shorter,Carolinas,True,3.0,RB,0,
+5225717,Savion Hart,GAST,Sun Belt,Georgetown,Patriot,True,3.0,RB,11,0.91
+5225013,Rodshaun Dorsey,GAST,Sun Belt,Erskine,Carolinas,True,3.0,WR,1,0.91
+5175175,Owen Dupree,GAST,Sun Belt,West Georgia,UAC,True,3.0,WR,8,0.91
+5218720,Isaiah Stone,GAST,Sun Belt,LSU,SEC,True,3.0,WR,0,
+4611768,Jaydon Hood,GAST,Sun Belt,Michigan,Big Ten,True,3.0,LB,0,
+5153891,Deuce Lee,GAST,Sun Belt,Monmouth,Coastal Athletic,True,3.0,S,0,
+5381392,Mandjou Berte,GAST,Sun Belt,Wingate,South Atlantic,True,3.0,DL,0,
+5381373,Donovan Faria,GAST,Sun Belt,Gannon,Pennsylvania State Athletic,True,3.0,CB,0,
+4685483,Keenan Nelson,GAST,Sun Belt,Ohio State,Big Ten,True,4.0,S,0,
+5153760,Toby Bolton,GAST,Sun Belt,Tennessee Tech,OVC-Big South,True,3.0,CB,0,
+5381379,Ryan Green,GAST,Sun Belt,Wingate,South Atlantic,True,3.0,LB,0,
+5095071,Darius Johnson Jr.,GAST,Sun Belt,Gardner-Webb,OVC-Big South,True,3.0,CB,0,
+5157301,Kelze Howard,GAST,Sun Belt,Oregon State,Pac-12,True,4.0,DL,0,
+5298905,Samer Layous,GAST,Sun Belt,Marist,Pioneer,True,,K,0,
+5381374,Christian Teeter,GAST,Sun Belt,Wingate,South Atlantic,True,,P,0,
+5158251,Khalil Wilkins,MRSH,Sun Belt,West Virginia,Big 12,True,3.0,QB,6,1.08
+5225343,Owen Sweeney,MRSH,Sun Belt,VMI,Southern,True,,WR,10,0.91
+5300926,TJ Lester,MRSH,Sun Belt,West Georgia,UAC,True,3.0,RB,11,0.91
+4870739,Christian Hamilton,MRSH,Sun Belt,West Virginia,Big 12,True,3.0,WR,1,1.08
+5147685,Josiah McLaurin,MRSH,Sun Belt,Maryland,Big Ten,True,3.0,RB,1,1.08
+4899472,Chris Culliver,MRSH,Sun Belt,North Carolina,ACC,True,3.0,WR,4,1.08
+5151374,Charles McCartherens,MRSH,Sun Belt,Buffalo,Mid-American,True,2.0,CB,0,
+5151813,Terrente Hinton,MRSH,Sun Belt,NC State,ACC,True,3.0,S,0,
+5196575,Cole Funderburk,MRSH,Sun Belt,Wake Forest,ACC,True,3.0,EDGE,0,
+5089262,Brayden Hall,MRSH,Sun Belt,Central Connecticut,NEC,True,3.0,CB,1,0.91
+5075566,Kelvon McBride,MRSH,Sun Belt,NC State,ACC,True,3.0,LB,0,
+5304562,Chase Ortiz,MRSH,Sun Belt,Stetson,Pioneer,True,3.0,LS,0,
+5033015,Eddie Pleasant III,MRSH,Sun Belt,Buffalo,Mid-American,True,3.0,CB,0,
+5227437,Kendell Anderson,MRSH,Sun Belt,Morgan State,MEAC,True,,S,0,
+5229438,Kenyatta Hardge,MRSH,Sun Belt,Kentucky,SEC,True,,DL,0,
+5294118,Jorge Diaz Nicolas,MRSH,Sun Belt,Virginia,ACC,True,,K,0,
+5298748,Nick Herman,JMU,Sun Belt,Drake,Pioneer,True,3.0,RB,11,0.91
+5225435,Seth Cromwell,JMU,Sun Belt,Northern Arizona,Big Sky,True,3.0,RB,11,0.91
+5165803,Corey Scott,JMU,Sun Belt,West Florida,Gulf South,True,3.0,WR,0,
+5225335,Noah Grevious,JMU,Sun Belt,VMI,Southern,True,3.0,WR,12,0.91
+5301871,Cole Keller,JMU,Sun Belt,East Tennessee State,Southern,False,,,8,0.91
+5301873,Jeremiah Harrison,JMU,Sun Belt,East Tennessee State,Southern,True,3.0,WR,11,0.91
+5227231,KD Mosley,JMU,Sun Belt,Howard,MEAC,True,3.0,TE,8,0.91
+5390279,JT Hooten,JMU,Sun Belt,West Alabama,Gulf South,True,3.0,LB,0,
+5328370,Jayon Harvey,JMU,Sun Belt,Findlay,Great Midwest Athletic,True,3.0,CB,0,
+5083535,Nakian Jackson,JMU,Sun Belt,Nevada,Mountain West,True,3.0,LB,1,1.039
+4869399,Danny Royster,JMU,Sun Belt,Indianapolis,Great Lakes,True,3.0,EDGE,0,
+5225537,Terrence Jones,JMU,Sun Belt,Fordham,Patriot,True,3.0,CB,0,
+5390276,Mason Purham,JMU,Sun Belt,Emory & Henry,South Atlantic,True,3.0,EDGE,0,
+4837162,Rasheed Lovelace,JMU,Sun Belt,Nicholls,Southland,True,3.0,DL,0,
+5390286,Jakolbi Wilson,JMU,Sun Belt,Fort Hays,Mid America,True,,DL,0,
+5390278,Kevin Roberts,JMU,Sun Belt,West Florida,Gulf South,True,3.0,DL,0,
+5154927,Kei'Trone Simpson,JMU,Sun Belt,Lamar,Southland,True,3.0,EDGE,0,
+5221151,Chukwunedu Okeke,JMU,Sun Belt,Western Kentucky,Conference USA,True,3.0,DL,0,
+5079770,Ernest Willor Jr.,JMU,Sun Belt,Wisconsin,Big Ten,True,3.0,EDGE,0,
+5295448,DJ Kelly,JMU,Sun Belt,Toledo,Mid-American,True,3.0,CB,0,
+5193298,Chris Durr Jr.,MD,Big Ten,Wyoming,Mountain West,True,3.0,WR,10,0.909
+5194795,Na'eem Abdul-Rahim Gladding,MD,Big Ten,Old Dominion,Sun Belt,True,3.0,WR,13,0.883
+4838539,Amari Jackson,MD,Big Ten,Boston College,ACC,True,3.0,CB,0,
+4870792,Derrick LeBlanc,MD,Big Ten,UCF,Big 12,True,3.0,DL,0,
+4916379,Jayvon Parker,MD,Big Ten,Washington,Big Ten,True,3.0,DL,0,
+5044387,Anthony Colandrea,NEB,Big Ten,UNLV,Mountain West,True,3.0,QB,14,0.909
+5127885,Kwazi Gilmer,NEB,Big Ten,UCLA,Big Ten,True,3.0,WR,12,0.99
+4921290,Owen Chambliss,NEB,Big Ten,San Diego State,Mountain West,True,3.0,LB,0,
+4711228,Anthony Jones Jr.,NEB,Big Ten,UCLA,Big Ten,True,3.0,EDGE,0,
+5155866,Dexter Foster,NEB,Big Ten,Oregon State,Pac-12,True,3.0,LB,0,
+5075792,Victor Evans III,NEB,Big Ten,Florida International,Conference USA,True,3.0,CB,0,
+5084740,Dwayne McDougle III,NEB,Big Ten,San Diego State,Mountain West,True,3.0,S,0,
+5079765,Jahsear Whittington,NEB,Big Ten,Pittsburgh,ACC,True,3.0,DL,0,
+5226921,Jasin Shiggs,NEB,Big Ten,Towson,Coastal Athletic,True,3.0,S,0,
+5141395,EJ Colson Jr.,UTEP,Mountain West,Incarnate Word,Southland,True,3.0,QB,10,0.901
+5232049,Raymond Moore III,UTEP,Mountain West,Morgan State,MEAC,True,3.0,QB,8,0.901
+5168770,Carver Cheeks,UTEP,Mountain West,Northern Colorado,Big Sky,False,,,12,0.901
+5227848,Esteban Guillory,UTEP,Mountain West,Western Illinois,OVC-Big South,True,2.0,S,0,
+5096987,Isaiah Bogerty,UTEP,Mountain West,Texas Southern,SWAC,True,3.0,LB,0,
+4565306,Sterling Miles,UTEP,Mountain West,Eastern Michigan,Mid-American,True,3.0,EDGE,0,
+5166159,Elijah Fields,UTEP,Mountain West,Stephen F. Austin,Southland,True,,DL,0,
+5155504,LaTristan Thompson,UTEP,Mountain West,Utah,Big 12,True,3.0,CB,0,
+5299332,Kaleb Miles,UTEP,Mountain West,East Texas A&M,Southland,True,3.0,CB,0,
+5162535,Donavan Howard,UTEP,Mountain West,Virginia State,CIAA,True,3.0,S,0,
+5299485,Brady Braun,UTEP,Mountain West,Gardner-Webb,OVC-Big South,True,,P,0,
+5122887,Luke Moga,UNM,Mountain West,Oregon,Big Ten,True,3.0,QB,3,1.08
+5146726,Kiefer Sibley,UNM,Mountain West,North Texas,American Athletic,False,,,8,1.041
+5084027,Miles Williams,UNM,Mountain West,Eastern Washington,Big Sky,False,,,10,0.901
+5083172,Ormanie Arnold,UNM,Mountain West,Cincinnati,Big 12,True,3.0,CB,0,
+5149176,Clay Martineau,UNM,Mountain West,Boise State,Mountain West,True,3.0,LB,0,
+5149264,Jalen Charles,UNM,Mountain West,Memphis,American Athletic,True,3.0,EDGE,0,
+5194657,Eric McClain,UNM,Mountain West,Ball State,Mid-American,True,3.0,CB,0,
+5089328,Michael Kern,UNM,Mountain West,California,ACC,True,3.0,P,0,
+5218961,Fame Ijeboi,PUR,Big Ten,Minnesota,Big Ten,True,3.0,RB,11,0.99
+5079410,Jerrick Gibson,PUR,Big Ten,Texas,SEC,True,3.0,RB,4,1.009
+4808767,Xavier Townsend,PUR,Big Ten,Iowa State,Big 12,True,3.0,WR,8,0.965
+4871062,Asaad Waseem,PUR,Big Ten,Florida Atlantic,American Athletic,True,3.0,WR,12,0.92
+5084408,Bisi Owens,PUR,Big Ten,Pennsylvania,Ivy,True,3.0,WR,10,0.85
+5154324,Jojo Hayden,PUR,Big Ten,Illinois,Big Ten,True,3.0,LB,0,
+5083141,Don Saunders,PUR,Big Ten,Utah,Big 12,True,3.0,CB,0,
+4831987,Jaden Mangham,PUR,Big Ten,Michigan,Big Ten,True,3.0,S,0,
+4918115,John Slaughter,PUR,Big Ten,Colorado,Big 12,True,3.0,S,0,
+4873443,Keyshawn Burgos,PUR,Big Ten,Virginia Tech,ACC,True,3.0,EDGE,0,
+5077897,Rodney Lora,PUR,Big Ten,UCF,Big 12,True,3.0,DL,0,
+5141971,Justin Denson,PUR,Big Ten,Michigan State,Big Ten,True,3.0,S,0,
+5092668,Hudson Miller,PUR,Big Ten,Toledo,Mid-American,True,3.0,LB,0,
+5089578,Wisdom Simms,PUR,Big Ten,North Carolina Central,MEAC,True,3.0,DL,0,
+5227400,Travis Terrell Jr.,PUR,Big Ten,Jackson State,SWAC,True,3.0,RB,12,0.85
+5220031,Dylan Drennan,PUR,Big Ten,Buffalo,Mid-American,True,,P,0,
+4795295,Katin Houser,ILL,Big Ten,East Carolina,American Athletic,True,3.0,QB,12,0.92
+4689721,Ty Robinson,ILL,Big Ten,Ball State,Mid-American,True,3.0,WR,8,0.858
+5084423,Carter Janki,ILL,Big Ten,Pennsylvania,Ivy,True,3.0,DL,0,
+5158882,Robert Edmonson,ILL,Big Ten,Colorado State,Mountain West,True,3.0,LB,0,
+5369903,Ean Rhea,ILL,Big Ten,Emory & Henry,South Atlantic,True,3.0,EDGE,0,
+4870578,Ethan Moczulski,ILL,Big Ten,Washington,Big Ten,True,3.0,K,0,
+5212654,Braden Atkinson,ORST,Pac-12,Mercer,Southern,True,3.0,QB,11,0.87
+4917981,AJ Newberry,ORST,Pac-12,Vanderbilt,SEC,True,3.0,RB,10,1.08
+5079357,Aaron Butler,ORST,Pac-12,Texas,SEC,False,,,1,1.08
+4869821,DeCorion Temple,ORST,Pac-12,Central Michigan,Mid-American,True,3.0,TE,8,0.948
+5088952,Eric Olsen,ORST,Pac-12,Utah Tech,UAC,True,3.0,TE,12,0.87
+5293573,Aeryn Hampton,ORST,Pac-12,Alabama,SEC,True,3.0,WR,0,
+5161892,Xayvion Noland,ORST,Pac-12,UT Rio Grande Valley,Southland,True,,WR,12,0.87
+5083176,Dylan Layne,ORST,Pac-12,Idaho,Big Sky,True,3.0,LB,0,
+5161639,Jadyn Oh,ORST,Pac-12,Syracuse,ACC,True,3.0,K,0,
+5225274,Isaiah Houi,ORST,Pac-12,Eastern Illinois,OVC-Big South,True,3.0,CB,0,
+5165051,Daniel Matagi,ORST,Pac-12,Portland State,Big Sky,True,3.0,DL,0,
+5212610,K'saan Farrar,CSU,Pac-12,UConn,FBS Independents,False,,,3,1.08
+5193168,Terrence Smith Jr.,CSU,Pac-12,UConn,FBS Independents,True,3.0,WR,9,1.08
+4894661,Durell Robinson,CSU,Pac-12,Auburn,SEC,True,3.0,RB,2,1.08
+5095078,Mel Brown,CSU,Pac-12,UConn,FBS Independents,True,3.0,RB,5,1.08
+5193222,Oliver Lundberg,CSU,Pac-12,UConn,FBS Independents,False,,,10,1.08
+5232343,RJ Vick,CSU,Pac-12,Wake Forest,ACC,True,,WR,0,
+4899418,Juice Vereen,CSU,Pac-12,UConn,FBS Independents,True,3.0,TE,8,1.08
+5121898,Nader Chirchi,CSU,Pac-12,UConn,FBS Independents,True,3.0,TE,3,1.08
+5121899,Oumar Diomande,CSU,Pac-12,UConn,FBS Independents,True,3.0,LB,0,
+5224718,Tre'Shawn Moore,CSU,Pac-12,West Georgia,UAC,True,,S,0,
+5086188,Marc Pretto,CSU,Pac-12,Northern Illinois,Mid-American,True,3.0,LB,0,
+5077224,Brandon Kelley,CSU,Pac-12,UConn,FBS Independents,True,3.0,EDGE,0,
+4894437,Robby Harrison,CSU,Pac-12,Western Kentucky,Conference USA,True,3.0,DL,0,
+5089561,Antarron Turner,CSU,Pac-12,Wisconsin,Big Ten,True,,LB,0,
+4430782,Stephon Wright,CSU,Pac-12,UConn,FBS Independents,True,4.0,DL,0,
+5078280,Caleb Otlewski,CSU,Pac-12,Montana,Big Sky,True,3.0,EDGE,0,
+5446697,Khamani Potts,CSU,Pac-12,Grand Valley State,GLIAC,True,3.0,EDGE,0,
+5225622,Cavan Craig,CSU,Pac-12,Wofford,Southern,True,,P,0,
+4917305,Cam'Ron McCoy,TXSO,SWAC,Southern,SWAC,False,,,10,1.0
+5160158,David Kency,TXSO,SWAC,Nicholls,Southland,False,,,3,1.0
+4522107,Daveon Walker,TXSO,SWAC,Alabama A&M,SWAC,True,3.0,WR,10,1.0
+5219898,Drew Devillier,FAU,American Athletic,Rice,American Athletic,True,3.0,QB,6,1.027
+5122155,Brady Tillman III,FAU,American Athletic,Edward Waters,SIAC,True,3.0,RB,1,0.887
+5390418,Leonard Farrow,FAU,American Athletic,Fairmont State,Mountain East,True,3.0,RB,0,
+4920163,Kelby Valsin,FAU,American Athletic,Texas Tech,Big 12,False,,,3,1.071
+4840118,Tucker Holloway,FAU,American Athletic,Virginia Tech,ACC,False,,,3,1.056
+4683543,RJ Garcia II,FAU,American Athletic,Bowling Green,Mid-American,True,3.0,WR,10,0.965
+5081803,JK Johnson,FAU,American Athletic,Oklahoma State,Big 12,True,3.0,CB,0,
+5159365,Bo Simpson-Nealy,FAU,American Athletic,Western Carolina,Southern,True,3.0,S,0,
+4837215,Joseph Sipp Jr.,FAU,American Athletic,Kansas,Big 12,True,3.0,LB,0,
+4921426,Jonathan Bax,FAU,American Athletic,TCU,Big 12,True,3.0,EDGE,0,
+5079431,Wallace Foster IV,FAU,American Athletic,LSU,SEC,True,3.0,CB,0,
+5121609,Jay Crable,FAU,American Athletic,Ohio,Mid-American,True,3.0,EDGE,0,
+5390419,Kenyon Garner,FAU,American Athletic,Livingstone,CIAA,True,3.0,EDGE,0,
+5084095,Collin Rogers,FAU,American Athletic,SMU,ACC,True,2.0,K,0,
+5225888,Reed Chandley,FAU,American Athletic,Georgia State,Sun Belt,True,,P,0,
+4805256,Sutton Smith,ARK,SEC,Memphis,American Athletic,True,3.0,RB,12,0.904
+5214410,Jasper Parker,ARK,SEC,Michigan,Big Ten,True,3.0,RB,5,0.974
+4717430,Chris Marshall,ARK,SEC,Boise State,Mountain West,True,3.0,WR,10,0.893
+5159139,Donovan Faupel,ARK,SEC,New Mexico State,Conference USA,True,3.0,WR,10,0.85
+5086143,Ben Bogle,ARK,SEC,West Virginia,Big 12,True,3.0,LB,0,
+5147145,Khmori House,ARK,SEC,North Carolina,ACC,True,4.0,LB,0,
+5227212,Ja'Quavion Smith,ARK,SEC,Howard,MEAC,True,3.0,LB,1,0.85
+5081387,Christian Harrison,ARK,SEC,Cincinnati,Big 12,True,3.0,S,0,
+5075675,Carter Stoutmire,ARK,SEC,Colorado,Big 12,True,3.0,S,0,
+4921499,Shelton Lewis,ARK,SEC,Clemson,ACC,True,3.0,CB,0,
+5141966,La'khi Roland,ARK,SEC,Maryland,Big Ten,True,3.0,CB,0,
+4870878,Hunter Osborne,ARK,SEC,Virginia,ACC,True,3.0,DL,0,
+5146899,Carlon Jones,ARK,SEC,USC,Big Ten,True,3.0,DL,0,
+4875604,Phoenix Jackson,ARK,SEC,Baylor,Big 12,True,3.0,LB,0,
+5079718,Xadavien Sims,ARK,SEC,Oregon,Big Ten,True,3.0,DL,0,
+5193556,Adam Hawkes,ARK,SEC,Oregon State,Pac-12,True,3.0,OT,0,
+4917349,Jamari Hawkins,ARK,SEC,Memphis,American Athletic,True,3.0,WR,13,0.904
+5195615,Trajen Odom,ARK,SEC,Ohio State,Big Ten,True,3.0,DL,0,
+5150450,Max Gilbert,ARK,SEC,Tennessee,SEC,True,,K,0,
+5258292,DeDe Murray,TA&M,SEC,Arkansas State,Sun Belt,True,3.0,RB,0,
+4685383,Isaiah Horton,TA&M,SEC,Alabama,SEC,True,4.0,WR,14,0.993
+4801276,Houston Thomas,TA&M,SEC,UTSA,American Athletic,True,3.0,TE,12,0.904
+4923053,Tawfiq Byard,TA&M,SEC,Colorado,Big 12,True,3.0,S,0,
+4869658,CJ Mims,TA&M,SEC,North Carolina,ACC,True,3.0,DL,0,
+5142705,Angelo McCullom,TA&M,SEC,Illinois,Big Ten,True,3.0,DL,0,
+5153340,Ray Coney,TA&M,SEC,Tulsa,American Athletic,True,3.0,LB,0,
+4858848,Anto Saka,TA&M,SEC,Northwestern,Big Ten,True,4.0,EDGE,0,
+4895773,Ryan Henderson,TA&M,SEC,San Diego State,Mountain West,True,3.0,EDGE,0,
+5079398,Brandon Davis-Swain,TA&M,SEC,Colorado,Big 12,True,3.0,DL,0,
+5077223,David Olano,TA&M,SEC,Illinois,Big Ten,True,3.0,K,0,
+5078422,Brandon High Jr.,UTSA,American Athletic,California,ACC,True,3.0,RB,5,1.056
+5296013,Mark Wiepert,UTSA,American Athletic,Oregon,Big Ten,True,3.0,QB,0,
+5146987,Brandon Young Jr.,UTSA,American Athletic,North Texas,American Athletic,True,3.0,TE,2,1.027
+5086109,Jeremiah Bailey,UTSA,American Athletic,Eastern Kentucky,UAC,True,3.0,EDGE,1,0.887
+5197133,Elijah Baldwin,UTSA,American Athletic,UTEP,Conference USA,True,3.0,EDGE,0,
+5146681,Eze Osondu,UTSA,American Athletic,California,ACC,True,3.0,LB,0,
+5079594,Eddy Smith,UTSA,American Athletic,Texas Tech,Big 12,True,3.0,DL,0,
+5225990,Nate Robinson Jr.,UTSA,American Athletic,Marist,Pioneer,True,,S,0,
+5124002,Joel Rogers,UTSA,American Athletic,LSU,SEC,True,3.0,S,0,
+5394650,Jusiah Sampleton,UTSA,American Athletic,CSU-Pueblo,,True,3.0,DL,0,
+4685291,Jacurri Brown,RICE,American Athletic,UCF,Big 12,True,4.0,QB,3,1.071
+5087069,Max Mosey,RICE,American Athletic,Holy Cross,Patriot,True,3.0,WR,12,0.887
+5144288,Ben Grice,RICE,American Athletic,Wake Forest,ACC,True,3.0,WR,0,
+4923288,Barry Jackson Jr.,RICE,American Athletic,Cincinnati,Big 12,True,3.0,WR,0,
+5102179,Koa Akui,RICE,American Athletic,Sacramento State,Big Sky,True,3.0,S,0,
+5082374,AJ Brown,RICE,American Athletic,UAB,American Athletic,True,3.0,S,0,
+4912226,Stone Combs,RICE,American Athletic,Nevada,Mountain West,False,,,1,1.015
+5082673,Austin Harnetiaux,RICE,American Athletic,Nevada,Mountain West,True,3.0,LB,0,
+5147166,Kyren Condoll,RICE,American Athletic,Duke,ACC,True,3.0,CB,0,
+5079325,Jamir Benjamin,RICE,American Athletic,UCLA,Big Ten,True,3.0,CB,0,
+5084041,Tariq May,RICE,American Athletic,Eastern Washington,Big Sky,True,3.0,EDGE,0,
+4917266,Charlie Durkin,RICE,American Athletic,Kent State,Mid-American,True,,P,0,
+4685740,Max Johnson,GASO,Sun Belt,North Carolina,ACC,True,3.0,QB,4,1.08
+5079736,Alex Taylor,GASO,Sun Belt,North Carolina,ACC,True,3.0,WR,3,1.08
+4685364,Andre Greene Jr.,GASO,Sun Belt,Virginia,ACC,True,3.0,WR,1,1.08
+5102931,Anthony Bynum,GASO,Sun Belt,Middle Tennessee,Conference USA,True,3.0,EDGE,0,
+5091788,Aaron Sears,GASO,Sun Belt,Stephen F. Austin,Southland,True,3.0,CB,0,
+5083242,Noah Mangham,GASO,Sun Belt,Abilene Christian,UAC,True,3.0,CB,0,
+4833237,Blake Ford,GASO,Sun Belt,Arkansas,SEC,True,,K,0,
+5296439,Deuce Bailey,CCU,Sun Belt,Missouri State,Conference USA,False,,,3,0.995
+5193388,Jaden Allen-Hendrix,CCU,Sun Belt,Oklahoma State,Big 12,True,3.0,RB,0,
+5126470,Trever Jackson,CCU,Sun Belt,Arkansas,SEC,True,3.0,QB,1,1.08
+5265446,Clayton Coppock Jr.,CCU,Sun Belt,Kennesaw State,Conference USA,True,3.0,WR,9,0.995
+5296438,Tristian Gardner,CCU,Sun Belt,Missouri State,Conference USA,True,3.0,WR,12,0.995
+5150845,Goldie Lawrence,CCU,Sun Belt,Florida A&M,SWAC,True,3.0,WR,10,0.91
+4918441,Marcellius Pulliam,CCU,Sun Belt,Michigan State,Big Ten,True,3.0,LB,0,
+5222870,Ahmad Poole,CCU,Sun Belt,Missouri State,Conference USA,True,,DL,0,
+5086520,Jesse Powell II,CCU,Sun Belt,Elon,Coastal Athletic,True,3.0,LB,0,
+5300001,Xzavier Booker,CCU,Sun Belt,Alabama A&M,SWAC,True,3.0,DL,0,
+4836468,Reggie Jean,CCU,Sun Belt,Northern Illinois,Mid-American,True,3.0,DL,0,
+5154291,Mitchell Toney,CCU,Sun Belt,Missouri State,Conference USA,True,3.0,DL,0,
+5226953,Damill Bostic Jr.,CCU,Sun Belt,Villanova,Coastal Athletic,True,3.0,CB,0,
+5161775,Donovan Grayson,CCU,Sun Belt,Samford,Southern,True,3.0,EDGE,0,
+5226273,Azarel Juste,CCU,Sun Belt,Bryant,Coastal Athletic,True,3.0,LB,0,
+5231155,Gabe White,CCU,Sun Belt,Bethune-Cookman,SWAC,True,3.0,CB,0,
+5304544,Nico Cavanillas Alti,CCU,Sun Belt,South Carolina State,MEAC,True,,K,0,
+5258479,Roland Podesta,CCU,Sun Belt,Boise State,Mountain West,True,3.0,P,0,
+5382856,Bryson Roland,ULM,Sun Belt,Arkansas Tech,Great American,True,3.0,RB,0,
+5218754,Parker Fulghum,ULM,Sun Belt,Clemson,ACC,True,3.0,WR,0,
+5225330,Cade Callahan,ULM,Sun Belt,Merrimack,FCS Independents,True,3.0,TE,10,0.91
+5295371,Bryce Anderson,ULM,Sun Belt,Memphis,American Athletic,True,3.0,TE,7,1.05
+5382848,Chris Payne,ULM,Sun Belt,Lake Erie,Great Midwest Athletic,True,3.0,S,0,
+5222256,Taijh Overton,ULM,Sun Belt,Arkansas,SEC,True,3.0,S,0,
+5297103,Armoni Rue,ULM,Sun Belt,Michigan State,Big Ten,True,2.0,CB,0,
+5295751,Larell Howling,ULM,Sun Belt,Coastal Carolina,Sun Belt,True,3.0,CB,0,
+5085351,Abram Murray,ULM,Sun Belt,California,ACC,True,3.0,K,0,
+5151609,Everett Hunter,USA,Sun Belt,Nicholls,Southland,True,3.0,TE,11,0.91
+5084222,Masey Lewis,USA,Sun Belt,McNeese,Southland,True,3.0,EDGE,0,
+5077268,Jaylen Moson,USA,Sun Belt,Utah,Big 12,True,3.0,CB,0,
+5087083,Christian Ross,USA,Sun Belt,Holy Cross,Patriot,True,,EDGE,0,
+5301748,Andrew Hines,USA,Sun Belt,Eastern Kentucky,UAC,True,3.0,DL,0,
+5078166,Ajani Sheppard,TEM,American Athletic,Washington State,Pac-12,True,3.0,QB,0,
+5087747,Jayce Freeman,TEM,American Athletic,Stony Brook,Coastal Athletic,True,3.0,WR,9,0.887
+4898892,Joey Schlaffer,TEM,American Athletic,Penn State,Big Ten,True,3.0,TE,1,1.08
+4924137,Saboor Karriem,TEM,American Athletic,Illinois,Big Ten,True,3.0,S,0,
+4870278,Kaleb Artis,TEM,American Athletic,Penn State,Big Ten,True,3.0,DL,0,
+5388304,Kevin Hornbeak Jr.,TEM,American Athletic,Tiffin University,Great Midwest Athletic,True,3.0,DL,0,
+5296819,JaMair Diaz,TEM,American Athletic,Sam Houston,Conference USA,True,,LB,0,
+4685353,Jaeden Gould,TEM,American Athletic,UCF,Big 12,True,4.0,S,0,
+5215499,Lamar Fairfax,TEM,American Athletic,Memphis,American Athletic,True,3.0,DL,0,
+5152685,Jaylon Joseph,TEM,American Athletic,Lafayette,Patriot,True,,EDGE,0,
+5079620,Michael Van Buren Jr.,USF,American Athletic,LSU,SEC,True,3.0,QB,7,1.08
+5085507,D.J. Crowther,USF,American Athletic,Dartmouth,Ivy,True,3.0,RB,10,0.887
+5154559,Jason Collins Jr.,USF,American Athletic,Morgan State,MEAC,True,3.0,RB,6,0.887
+4870941,Cameron Seldon,USF,American Athletic,Virginia Tech,ACC,True,3.0,WR,11,1.056
+4870927,Bryson Rodgers,USF,American Athletic,Ohio State,Big Ten,True,3.0,WR,3,1.08
+4685372,C.J. Hicks,USF,American Athletic,Ohio State,Big Ten,True,3.0,EDGE,0,
+4870828,Grayson Howard,USF,American Athletic,Florida,SEC,True,3.0,LB,0,
+5148634,Amarion Fortenberry,USF,American Athletic,Kansas State,Big 12,True,3.0,CB,0,
+5219636,Israel Boyce,USF,American Athletic,West Virginia,Big 12,True,3.0,S,0,
+4685258,Tayvion Beasley,USF,American Athletic,BYU,Big 12,True,3.0,CB,0,
+5301389,Major Dillard,USF,American Athletic,Norfolk State,MEAC,True,,DL,0,
+4911975,Asani Redwood,USF,American Athletic,West Virginia,Big 12,True,3.0,DL,0,
+4918440,Terry Simmons Jr.,USF,American Athletic,Duke,ACC,True,3.0,DL,0,
+5147170,Teddy Foster,USF,American Athletic,Florida,SEC,True,3.0,CB,0,
+5219163,Malcolm Ziglar,USF,American Athletic,North Carolina,ACC,True,3.0,S,0,
+5224217,Marcus Calwise Jr.,LT,Sun Belt,Eastern Kentucky,UAC,True,3.0,WR,10,0.91
+4685517,Talyn Shettron,LT,Sun Belt,Oklahoma State,Big 12,True,3.0,WR,0,
+5231369,Demario Bookhart,LT,Sun Belt,South Carolina State,MEAC,True,3.0,CB,0,
+4884299,Justice Williams,LT,Sun Belt,West Florida,Gulf South,True,,DL,0,
+4685401,Josh Hoover,IU,Big Ten,TCU,Big 12,True,4.0,QB,12,0.965
+5146724,Turbo Richard,IU,Big Ten,Boston College,ACC,True,3.0,RB,11,0.95
+5079600,Nick Marsh,IU,Big Ten,Michigan State,Big Ten,True,4.0,WR,12,0.99
+4685516,Shazz Preston,IU,Big Ten,Tulane,American Athletic,True,3.0,WR,14,0.92
+4857878,Tobi Osunsanmi,IU,Big Ten,Kansas State,Big 12,True,4.0,EDGE,0,
+4605838,Preston Zachman,IU,Big Ten,Wisconsin,Big Ten,True,3.0,S,0,
+5219790,Joe Hjelle,IU,Big Ten,Tulsa,American Athletic,True,3.0,DL,0,
+4685299,Josh Burnham,IU,Big Ten,Notre Dame,FBS Independents,False,,,1,1.019
+5085229,Chiddi Obiazor,IU,Big Ten,Kansas State,Big 12,True,3.0,EDGE,0,
+5295243,Billy Gowers,IU,Big Ten,Hawai'i,Mountain West,True,,P,1,0.909
+4870900,Dylan Lonergan,RUTG,Big Ten,Boston College,ACC,True,3.0,QB,10,0.95
+5296378,Clay Thevenin,RUTG,Big Ten,Louisiana Tech,Conference USA,True,3.0,RB,13,0.865
+5153430,Bradlee Jones,RUTG,Big Ten,The Citadel,Southern,True,3.0,CB,0,
+5151284,Ty Morris,RUTG,Big Ten,Rice,American Athletic,True,3.0,LB,0,
+5085690,Sean Allison,RUTG,Big Ten,Drake,Pioneer,True,3.0,LB,0,
+5219872,Sekou Kromah,RUTG,Big Ten,Temple,American Athletic,True,3.0,DL,0,
+5227946,Mikey Munn,RUTG,Big Ten,South Dakota,MVFC,True,3.0,CB,0,
+5218732,Rondo Porter,RUTG,Big Ten,App State,Sun Belt,True,3.0,DL,0,
+5154001,Zahmir Dawud,RUTG,Big Ten,Villanova,Coastal Athletic,True,3.0,CB,0,
+4789223,Malachi Davis,RUTG,Big Ten,Toledo,Mid-American,True,3.0,EDGE,0,
+5123665,Trey Owens,ARST,Sun Belt,Texas,SEC,True,3.0,QB,0,
+5156215,Timothy Carter,ARST,Sun Belt,Incarnate Word,Southland,False,,,7,0.91
+4713649,Drew Dickey,ARST,Sun Belt,Vanderbilt,SEC,True,3.0,QB,1,1.08
+4432669,Joshua Burrell,ARST,Sun Belt,Furman,Southern,True,3.0,WR,11,0.91
+5154884,Makai Shahid,ARST,Sun Belt,Youngstown State,MVFC,True,3.0,S,1,0.91
+4812380,Kam Moore,ARST,Sun Belt,UCF,Big 12,True,3.0,LB,0,
+5148417,Dontrae Henderson,ARST,Sun Belt,Indiana,Big Ten,True,2.0,CB,0,
+5221571,Five Hamilton,ARST,Sun Belt,Kennesaw State,Conference USA,True,3.0,CB,0,
+5300797,Elias Sherman,ARST,Sun Belt,Maine,Coastal Athletic,True,,DL,0,
+5094086,Gavin Taylor,ARST,Sun Belt,Central Connecticut,NEC,True,3.0,EDGE,0,
+4871078,Shakai Woods,ARST,Sun Belt,Middle Tennessee,Conference USA,True,3.0,DL,0,
+5151522,Daniel Vuckovic,ARST,Sun Belt,Northern Illinois,Mid-American,True,,P,0,
+5227209,Anthony Reagan Jr.,UL,Sun Belt,Howard,MEAC,True,3.0,RB,10,0.91
+5227698,Tito Chikere,UL,Sun Belt,East Texas A&M,Southland,True,3.0,EDGE,0,
+5151347,Dylan Hampsten,FRES,Pac-12,Sacramento State,Big Sky,True,3.0,EDGE,0,
+5134552,Taylor Powell,FRES,Pac-12,Northern Illinois,Mid-American,True,3.0,S,0,
+4918420,Maverick Noonan,FRES,Pac-12,Nebraska,Big Ten,True,3.0,EDGE,0,
+3933587,Manaki Watanabe,FRES,Pac-12,Ashland University,,True,3.0,K,0,
+5226019,Caden Pinnick,WSU,Pac-12,UC Davis,Big Sky,True,3.0,QB,12,0.87
+5222221,Tank Hawkins Jr.,WSU,Pac-12,Florida,SEC,True,3.0,WR,2,1.08
+4685297,Darrius Clemons,WSU,Pac-12,Oregon State,Pac-12,True,3.0,WR,0,
+5119307,Daniel Blood,WSU,Pac-12,Missouri,SEC,True,3.0,WR,4,1.08
+4685492,Jack Pedersen,WSU,Pac-12,UCLA,Big Ten,True,3.0,TE,7,1.08
+4911919,Khamari Terrell,WSU,Pac-12,Texas State,Sun Belt,True,3.0,CB,0,
+4782663,Linus Zunk,WSU,Pac-12,Vanderbilt,SEC,True,3.0,EDGE,0,
+5223910,Jeremiah Bernard,WSU,Pac-12,Cal Poly,Big Sky,True,3.0,S,0,
+4685584,Jalil Tucker,WSU,Pac-12,Oregon State,Pac-12,True,3.0,CB,0,
+5165156,Matyus McLain,WSU,Pac-12,Idaho,Big Sky,True,2.0,EDGE,0,
+5220604,Jaylen Thomas,WSU,Pac-12,San José State,Mountain West,True,3.0,CB,0,
+5152136,Jirah Leaupepetele,WSU,Pac-12,Eastern Washington,Big Sky,True,3.0,DL,0,
+5298065,CJ Solis-Lumar,WSU,Pac-12,Cal Poly,Big Sky,True,3.0,CB,0,
+5149495,DJ Warner,WSU,Pac-12,SMU,ACC,True,3.0,EDGE,0,
+4431227,Damarjhe Lewis,WSU,Pac-12,SMU,ACC,True,3.0,DL,0,
+5086070,Paul Hutson III,WSU,Pac-12,Marshall,Sun Belt,True,3.0,EDGE,0,
+5220804,Max Dean,WSU,Pac-12,New Mexico State,Conference USA,True,,P,0,
+5079555,DJ Lagway,BAY,Big 12,Florida,SEC,True,4.0,QB,12,1.025
+4896289,Gavin Freeman,BAY,Big 12,Oklahoma State,Big 12,True,3.0,WR,12,0.981
+4883774,Jayden McGowan,BAY,Big 12,Charlotte,American Athletic,True,3.0,WR,1,0.936
+5121893,Tony Livingston,BAY,Big 12,Florida,SEC,True,3.0,TE,8,1.025
+5079612,Dre'lon Miller,BAY,Big 12,Colorado,Big 12,True,3.0,WR,11,0.981
+5295463,Stilton McKelvey,BAY,Big 12,New Mexico State,Conference USA,True,,CB,0,
+5295775,Kedrick Walker,BAY,Big 12,Georgia State,Sun Belt,True,3.0,LB,0,
+5147178,Devon Jordan,BAY,Big 12,Oklahoma,SEC,True,3.0,CB,0,
+5151076,Daniel Cobbs,BAY,Big 12,Kansas State,Big 12,True,3.0,S,0,
+4816073,Colby McCalister,BAY,Big 12,Kansas State,Big 12,True,3.0,S,0,
+5085436,Hosea Wheeler,BAY,Big 12,Indiana,Big Ten,True,4.0,DL,0,
+4879531,Kamren Washington,BAY,Big 12,Texas State,Sun Belt,True,3.0,DL,0,
+5084043,Ryan Davis,BAY,Big 12,Kansas State,Big 12,True,3.0,EDGE,0,
+5093198,Garrick Ponder,BAY,Big 12,Southern Miss,Sun Belt,True,3.0,EDGE,0,
+5153853,Anthony Crenshaw Jr.,BAY,Big 12,Delaware,Conference USA,True,3.0,S,0,
+5294283,Zavion Hardy,BAY,Big 12,South Carolina,SEC,True,3.0,DL,0,
+5295766,Jordan Mack,BAY,Big 12,Coastal Carolina,Sun Belt,True,3.0,DL,0,
+5141378,Cutter Boley,ASU,Big 12,Kentucky,SEC,True,3.0,QB,11,1.025
+4900771,Marquis Gillis,ASU,Big 12,Delaware State,MEAC,True,3.0,RB,12,0.85
+5226949,David Avit,ASU,Big 12,Villanova,Coastal Athletic,True,3.0,RB,10,0.85
+4870850,Omarion Miller,ASU,Big 12,Colorado,Big 12,True,4.0,WR,11,0.981
+5031157,Reed Harris,ASU,Big 12,Boston College,ACC,True,4.0,WR,11,0.965
+5164362,Raiden Vines-Bright,ASU,Big 12,Washington,Big Ten,True,3.0,WR,12,1.006
+5219133,Owen Long,ASU,Big 12,Colorado State,Mountain West,True,4.0,LB,0,
+5264247,Jessiah McGrew,ASU,Big 12,Florida International,Conference USA,True,3.0,S,0,
+5141410,Caleb Chester,ASU,Big 12,Texas,SEC,True,3.0,CB,0,
+4870992,Jalen Thompson,ASU,Big 12,Michigan State,Big Ten,True,3.0,EDGE,0,
+5078918,Ashton Stamps,ASU,Big 12,LSU,SEC,True,3.0,CB,0,
+4602193,Lyrik Rawls,ASU,Big 12,Kansas,Big 12,True,3.0,S,0,
+4685626,Emar'rion Winston,ASU,Big 12,Baylor,Big 12,True,3.0,EDGE,0,
+4872845,Carson Smith,ASU,Big 12,Austin Peay,UAC,True,,K,0,
+5219054,Nick McLarty,ASU,Big 12,Ohio State,Big Ten,True,,P,0,
+5216509,Davian Jackson,TXST,Pac-12,Mississippi State,SEC,True,3.0,WR,0,
+5138042,Zechariah Sample,TXST,Pac-12,Arizona State,Big 12,True,3.0,WR,0,
+4904970,Javante Mackey,TXST,Pac-12,Arkansas State,Sun Belt,True,3.0,LB,0,
+5084220,Phillip Bradford,TXST,Pac-12,McNeese,Southland,True,3.0,DL,0,
+5077694,Michael Patterson III,TXST,Pac-12,Stephen F. Austin,Southland,True,3.0,CB,0,
+5156286,Chancellor Owens,TXST,Pac-12,Arizona,Big 12,True,3.0,DL,0,
+4912252,Gavriel Lightfoot,SDSU,Pac-12,Colorado,Big 12,True,3.0,DL,0,
+4685379,Sione Hala,SDSU,Pac-12,Weber State,Big Sky,True,3.0,LB,1,0.87
+5121452,Djibril Rahman,SDSU,Pac-12,Rutgers,Big Ten,True,3.0,EDGE,0,
+5394480,Cameron Cooper,SDSU,Pac-12,Western Colorado,Rocky Mountain,True,3.0,LB,0,
+5092260,Jalen Thomeson,SDSU,Pac-12,Ohio,Mid-American,True,2.0,S,0,
+5152190,Kai Wallin,SDSU,Pac-12,Oregon State,Pac-12,True,3.0,EDGE,0,
+5224059,Mike Lindsay,SDSU,Pac-12,Idaho State,Big Sky,True,3.0,CB,0,
+5298298,Caleb Ricks,SDSU,Pac-12,Idaho,Big Sky,True,3.0,CB,0,
+5171015,Isaiah Green,SDSU,Pac-12,Portland State,Big Sky,True,3.0,S,0,
+4685345,JC French IV,CIN,Big 12,Georgia Southern,Sun Belt,True,3.0,QB,13,0.899
+4685509,Gi'Bran Payne,CIN,Big 12,Notre Dame,FBS Independents,True,3.0,RB,2,1.034
+5107875,Cole Tabb,CIN,Big 12,Stanford,ACC,True,3.0,RB,11,0.965
+5155062,Larenzo Fenner,CIN,Big 12,South Dakota,MVFC,True,3.0,WR,14,0.85
+5152045,Malachi Henry,CIN,Big 12,Central Arkansas,UAC,True,3.0,WR,12,0.85
+5296144,Jasper Beeler,CIN,Big 12,Northern Illinois,Mid-American,True,3.0,S,0,
+5087223,MJ Cannon,CIN,Big 12,Bowling Green,Mid-American,True,3.0,CB,0,
+5147692,Damaine Wilson,CIN,Big 12,Georgia State,Sun Belt,True,3.0,LB,0,
+4912182,Jacob Finley,CIN,Big 12,Northern Illinois,Mid-American,True,3.0,CB,0,
+5170076,Kenny Worthy,CIN,Big 12,Washington State,Pac-12,True,3.0,CB,0,
+5168724,Patrick Bauer,CIN,Big 12,Illinois State,MVFC,True,3.0,LB,0,
+4612214,Josh Hough,CIN,Big 12,California (PA),Pennsylvania State Athletic,True,3.0,DL,0,
+5084961,KK Meier,CIN,Big 12,UTSA,American Athletic,True,3.0,CB,0,
+5102177,Thomas Johnson,CIN,Big 12,North Carolina Central,MEAC,True,3.0,EDGE,0,
+5151511,Filip Maciorowski,CIN,Big 12,Northern Illinois,Mid-American,True,3.0,LB,0,
+4612624,Antwan Roberts Jr.,ARIZ,Big 12,Marshall,Sun Belt,True,3.0,RB,11,0.899
+5236393,Shane King,ARIZ,Big 12,Southern Miss,Sun Belt,True,3.0,TE,1,0.899
+5086035,Lee Molette III,ARIZ,Big 12,UConn,FBS Independents,True,3.0,S,0,
+4910223,Malcolm Hartzog Jr.,ARIZ,Big 12,Nebraska,Big Ten,True,3.0,S,0,
+5229997,Cam Chapa,ARIZ,Big 12,Northern Colorado,Big Sky,True,3.0,S,0,
+5220541,Tyrese Boss,ARIZ,Big 12,Wyoming,Mountain West,True,3.0,CB,0,
+5152639,Cooper Blomstrom,ARIZ,Big 12,Georgetown,Patriot,True,3.0,EDGE,0,
+4870618,Dwight Bootle II,ARIZ,Big 12,Charlotte,American Athletic,True,3.0,CB,0,
+4870982,Everett Roussaw Jr.,ARIZ,Big 12,Memphis,American Athletic,True,3.0,LB,0,
+5295238,Luke Weaver,SJSU,Mountain West,Hawai'i,Mountain West,True,3.0,QB,5,1.03
+4920229,Jerry McClure,SJSU,Mountain West,San Diego State,Mountain West,True,3.0,WR,1,1.03
+5079299,Jordan Anderson,SJSU,Mountain West,Sacramento State,Big Sky,False,,,11,0.901
+5225861,Jayland McGlothen,SJSU,Mountain West,Sacramento State,Big Sky,True,3.0,DL,0,
+5083138,Brian Dukes Jr.,SJSU,Mountain West,Cal Poly,Big Sky,True,3.0,S,0,
+5229951,Aizik Mahuka,SJSU,Mountain West,Weber State,Big Sky,True,3.0,LB,0,
+5219662,Dominique McKenzie,SJSU,Mountain West,BYU,Big 12,True,3.0,WR,1,1.08
+5079651,DeVon Rice,HAW,Mountain West,Kansas State,Big 12,True,3.0,RB,6,1.08
+4917119,Devin Alves,HAW,Mountain West,Virginia Tech,ACC,True,3.0,WR,2,1.071
+5081863,Carson Brown,HAW,Mountain West,Iowa State,Big 12,True,3.0,WR,4,1.08
+5388753,Ozzy Pollard,HAW,Mountain West,Marian,,True,3.0,DL,0,
+5083969,Geoffrey Speight Jr.,HAW,Mountain West,West Georgia,UAC,True,3.0,DL,0,
+4891196,Jeremiah Hughes,HAW,Mountain West,Michigan State,Big Ten,True,3.0,CB,0,

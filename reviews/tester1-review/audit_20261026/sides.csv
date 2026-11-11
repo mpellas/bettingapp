@@ -1,0 +1,75 @@
+list,date,player,side,line,dk,shop_at,on_card,card_source,nhl_id,gameId,event,game,nv_over_list,actual,game_state,gid_in_score,hit,u_shop,u_dk,graded_actual,close_timing,clv_pts,era
+20261017_1016,20261017,Brandon Hagel,OVER,3.5,115,132,True,post,8479542,2026020123,401892521,Vancouver Canucks at Tampa Bay Lightning,0.4305,5,OFF,True,1,1.3200000000000003,1.15,5.0,on_time,,pre-floor
+20261017_1016,20261017,Elias Pettersson,UNDER,1.5,100,115,True,post,8480012,2026020123,401892521,Vancouver Canucks at Tampa Bay Lightning,0.5347,2,OFF,True,0,-1.0,-1.0,2.0,on_time,-1.35,pre-floor
+20261017_1222,20261017,Sam Reinhart,OVER,2.5,100,113,True,post,8477933,2026020124,401892522,Seattle Kraken at Florida Panthers,0.4694,3,OFF,True,1,1.13,1.0,3.0,on_time,1.59,pre-floor
+20261017_1222,20261017,Mackie Samoskevich,UNDER,1.5,100,115,True,post,8482713,2026020124,401892522,Seattle Kraken at Florida Panthers,0.5347,1,OFF,True,1,1.15,1.0,1.0,on_time,-0.99,pre-floor
+20261017_1317,20261017,Noah Dobson,UNDER,2.5,-180,-152,True,post,8480865,2026020126,401892524,Buffalo Sabres at Montreal Canadiens,0.3983,3,OFF,True,0,-1.0,-1.0,3.0,on_time,-0.0,pre-floor
+20261017_1317,20261017,Tyler Toffoli,OVER,1.5,-160,-133,True,post,8475726,2026020127,401892525,San Jose Sharks at Detroit Red Wings,0.5695,0,OFF,True,0,-1.0,-1.0,0.0,on_time,0.0,pre-floor
+20261017_1317,20261017,Moritz Seider,OVER,1.5,-145,-126,True,post,8481542,2026020127,401892525,San Jose Sharks at Detroit Red Wings,0.5541,2,OFF,True,1,0.7936507936507935,0.6896551724137931,2.0,on_time,3.21,pre-floor
+20261017_1317,20261017,Will Smith,UNDER,2.5,-145,-123,True,post,8484227,2026020127,401892525,San Jose Sharks at Detroit Red Wings,0.4518,4,OFF,True,0,-1.0,-1.0,4.0,on_time,-0.36,pre-floor
+20261017_1317,20261017,Mika Zibanejad,UNDER,2.5,-130,-112,True,post,8476459,2026020129,401892527,New York Rangers at Columbus Blue Jackets,0.4754,1,OFF,True,1,0.8928571428571428,0.7692307692307692,1.0,on_time,-0.0,pre-floor
+20261017_1421,20261017,Steven Stamkos,OVER,2.5,100,117,True,room,8474564,2026020131,401892529,St. Louis Blues at Nashville Predators,0.4615,1,OFF,True,0,-1.0,-1.0,1.0,on_time,-0.97,pre-floor
+20261017_1421,20261017,Roman Josi,OVER,2.5,115,132,True,room,8474600,2026020131,401892529,St. Louis Blues at Nashville Predators,0.4305,1,OFF,True,0,-1.0,-1.0,1.0,on_time,0.0,pre-floor
+20261017_1421,20261017,Matthew Wood,OVER,1.5,105,121,True,room,8484241,2026020131,401892529,St. Louis Blues at Nashville Predators,0.4518,0,OFF,True,0,-1.0,-1.0,0.0,on_time,0.0,pre-floor
+20261017_1520,20261017,David Pastrnak,OVER,3.5,115,132,True,room,8477956,2026020132,401892530,Boston Bruins at Los Angeles Kings,0.4305,3,OFF,True,0,-1.0,-1.0,3.0,early_close,,pre-floor
+20261017_1520,20261017,Adrian Kempe,OVER,2.5,-165,-138,True,room,8477960,2026020132,401892530,Boston Bruins at Los Angeles Kings,0.578,1,OFF,True,0,-1.0,-1.0,1.0,early_close,,pre-floor
+20261017_1520,20261017,Charlie McAvoy,UNDER,1.5,-105,108,True,room,8479325,2026020132,401892530,Boston Bruins at Los Angeles Kings,0.5203,2,OFF,True,0,-1.0,-1.0,2.0,early_close,,pre-floor
+20261017_1520,20261017,JJ Peterka,UNDER,1.5,100,114,True,room,8482175,2026020132,401892530,Boston Bruins at Los Angeles Kings,0.5347,2,OFF,True,0,-1.0,-1.0,2.0,early_close,,pre-floor
+20261017_1618,20261017,Connor McDavid,UNDER,3.5,-150,-128,True,room,8478402,2026020133,401892531,Edmonton Oilers at Utah Mammoth,0.4425,2,OFF,True,1,0.78125,0.6666666666666665,2.0,capture_gap,,pre-floor
+20261017_1618,20261017,Brayden McNabb,UNDER,1.5,-190,-158,True,room,8475188,2026020134,401892532,Pittsburgh Penguins at Vegas Golden Knights,0.3887,1,OFF,True,1,0.6329113924050633,0.5263157894736841,1.0,capture_gap,,pre-floor
+20261017_1618,20261017,Mark Stone,UNDER,2.5,-165,-138,True,room,8475913,2026020134,401892532,Pittsburgh Penguins at Vegas Golden Knights,0.422,1,OFF,True,1,0.7246376811594204,0.606060606060606,1.0,capture_gap,,pre-floor
+20261017_1618,20261017,Bryan Rust,UNDER,1.5,135,150,True,room,8475810,2026020134,401892532,Pittsburgh Penguins at Vegas Golden Knights,0.6017,1,OFF,True,1,1.5,1.35,1.0,capture_gap,,pre-floor
+20261017_1618,20261017,Mitch Marner,OVER,2.5,145,160,True,room,8478483,2026020134,401892532,Pittsburgh Penguins at Vegas Golden Knights,0.3818,1,OFF,True,0,-1.0,-1.0,1.0,capture_gap,,pre-floor
+20261017_AM,20261017,Dylan Strome,UNDER,1.5,105,119,True,post,8478440,2026020121,401892519,New Jersey Devils at Washington Capitals,0.5446,3,OFF,True,0,-1.0,-1.0,3.0,on_time,-0.0,pre-floor
+20261017_AM,20261017,Timo Meier,OVER,2.5,-140,-120,True,post,8478414,2026020121,401892519,New Jersey Devils at Washington Capitals,0.5446,3,OFF,True,1,0.8333333333333335,0.7142857142857144,3.0,on_time,-0.61,pre-floor
+20261017_AM,20261017,Jakob Chychrun,UNDER,2.5,-140,-121,True,post,8479345,2026020121,401892519,New Jersey Devils at Washington Capitals,0.4554,1,OFF,True,1,0.8264462809917354,0.7142857142857144,1.0,on_time,-0.99,pre-floor
+20261017_AM,20261017,Arseny Gritsyuk,OVER,1.5,-140,-120,True,post,8481721,2026020121,401892519,New Jersey Devils at Washington Capitals,0.5446,6,OFF,True,1,0.8333333333333335,0.7142857142857144,6.0,on_time,2.19,pre-floor
+20261017_AM,20261017,Sebastian Aho,OVER,2.5,-110,106,True,post,8478427,2026020122,401892520,Carolina Hurricanes at Winnipeg Jets,0.4853,0,OFF,True,0,-1.0,-1.0,0.0,on_time,0.0,pre-floor
+20261018_1224,20261018,Matthew Knies,UNDER,1.5,-120,-106,True,post,8482720,2026020135,401892533,Columbus Blue Jackets at Minnesota Wild,0.4899,1,OFF,True,1,0.9433962264150944,0.8333333333333335,1.0,capture_gap,,pre-floor
+20261018_1224,20261018,Maxim Shabanov,UNDER,1.5,-125,-108,True,post,8485702,2026020135,401892533,Columbus Blue Jackets at Minnesota Wild,0.4853,0,OFF,True,1,0.925925925925926,0.8,0.0,capture_gap,,pre-floor
+20261018_1358,20261018,Nikolaj Ehlers,UNDER,2.5,-165,-137,True,room,8477940,2026020136,401892534,Carolina Hurricanes at Calgary Flames,0.422,3,OFF,True,0,-1.0,-1.0,3.0,on_time,-1.15,pre-floor
+20261018_1358,20261018,Sebastian Aho,OVER,2.5,-110,104,True,room,8478427,2026020136,401892534,Carolina Hurricanes at Calgary Flames,0.4899,3,OFF,True,1,1.04,0.9090909090909092,3.0,on_time,-1.02,pre-floor
+20261019_1247,20261019,J.T. Miller,UNDER,1.5,125,140,True,room,8476468,2026020137,401892535,Anaheim Ducks at New York Rangers,0.5862,2,OFF,True,0,-1.0,-1.0,2.0,on_time,-0.0,pre-floor
+20261019_1247,20261019,Eeli Tolvanen,UNDER,1.5,-125,-108,True,room,8480009,2026020137,401892535,Anaheim Ducks at New York Rangers,0.4853,1,OFF,True,1,0.925925925925926,0.8,1.0,on_time,0.99,pre-floor
+20261019_1247,20261019,Jackson LaCombe,UNDER,1.5,-125,-107,True,room,8481605,2026020137,401892535,Anaheim Ducks at New York Rangers,0.4853,1,OFF,True,1,0.9345794392523366,0.8,1.0,on_time,-0.0,pre-floor
+20261019_1247,20261019,Beckett Sennecke,UNDER,2.5,-110,105,True,room,8484762,2026020137,401892535,Anaheim Ducks at New York Rangers,0.5147,4,OFF,True,0,-1.0,-1.0,4.0,on_time,2.48,pre-floor
+20261019_1247,20261019,Artturi Lehkonen,UNDER,1.5,115,130,True,room,8477476,2026020138,401892536,Colorado Avalanche at Philadelphia Flyers,0.5665,2,OFF,True,0,-1.0,-1.0,2.0,on_time,-0.0,pre-floor
+20261019_1319,20261019,Nick Paul,UNDER,1.5,-155,-131,True,room,8477426,2026020139,401892537,San Jose Sharks at Toronto Maple Leafs,0.4335,1,OFF,True,1,0.7633587786259541,0.6451612903225805,1.0,capture_gap,,pre-floor
+20261019_1518,20261019,Anders Lee,OVER,1.5,-150,-128,True,room,8475314,2026020140,401892538,Pittsburgh Penguins at Utah Mammoth,0.5575,1,OFF,True,0,-1.0,-1.0,1.0,on_time,-2.28,pre-floor
+20261019_1518,20261019,Rickard Rakell,UNDER,2.5,-135,-116,True,room,8476483,2026020140,401892538,Pittsburgh Penguins at Utah Mammoth,0.4653,3,OFF,True,0,-1.0,-1.0,3.0,on_time,3.18,pre-floor
+20261019_1518,20261019,Logan Cooley,UNDER,2.5,-180,-154,True,room,8483431,2026020140,401892538,Pittsburgh Penguins at Utah Mammoth,0.3983,2,OFF,True,1,0.6493506493506493,0.5555555555555556,2.0,on_time,,pre-floor
+20261020_1305,20261020,Tony DeAngelo,UNDER,1.5,-130,-112,True,room,8477950,2026020143,401892541,Anaheim Ducks at New York Islanders,0.4754,0,OFF,True,1,0.8928571428571428,0.7692307692307692,0.0,on_time,1.01,pre-floor
+20261020_1305,20261020,Jackson LaCombe,UNDER,1.5,-125,-108,True,room,8481605,2026020143,401892541,Anaheim Ducks at New York Islanders,0.4853,0,OFF,True,1,0.925925925925926,0.8,0.0,on_time,4.28,pre-floor
+20261020_1305,20261020,Aliaksei Protas,UNDER,1.5,-125,-110,True,room,8481656,2026020144,401892542,Los Angeles Kings at Washington Capitals,0.4797,1,OFF,True,1,0.9090909090909092,0.8,1.0,on_time,-0.0,pre-floor
+20261020_1305,20261020,Morgan Rielly,UNDER,1.5,-145,-123,True,room,8476853,2026020145,401892543,Toronto Maple Leafs at Columbus Blue Jackets,0.4518,0,OFF,True,1,0.8130081300813008,0.6896551724137931,0.0,on_time,1.51,pre-floor
+20261020_1305,20261020,Kirill Marchenko,UNDER,2.5,-105,108,True,room,8480893,2026020145,401892543,Toronto Maple Leafs at Columbus Blue Jackets,0.5246,2,OFF,True,1,1.08,0.9523809523809523,2.0,on_time,-0.0,pre-floor
+20261020_1406,20261020,Jimmy Snuggerud,OVER,2.5,110,123,True,room,8483516,2026020146,401892544,Winnipeg Jets at St. Louis Blues,0.4459,2,OFF,True,0,-1.0,-1.0,2.0,no_lines,,pre-floor
+20261020_1406,20261020,Charlie McAvoy,UNDER,1.5,-110,105,True,room,8479325,2026020147,401892545,Boston Bruins at Dallas Stars,0.5147,0,OFF,True,1,1.0499999999999998,0.9090909090909092,0.0,no_lines,,pre-floor
+20261020_1406,20261020,Morgan Geekie,UNDER,1.5,-105,109,True,room,8479987,2026020147,401892545,Boston Bruins at Dallas Stars,0.5246,1,OFF,True,1,1.0899999999999999,0.9523809523809523,1.0,no_lines,,pre-floor
+20261020_1406,20261020,JJ Peterka,UNDER,1.5,105,118,True,room,8482175,2026020147,401892545,Boston Bruins at Dallas Stars,0.5446,1,OFF,True,1,1.1799999999999997,1.0499999999999998,1.0,no_lines,,pre-floor
+20261020_1406,20261020,Wyatt Johnston,UNDER,2.5,-105,109,True,room,8482740,2026020147,401892545,Boston Bruins at Dallas Stars,0.5246,4,OFF,True,0,-1.0,-1.0,4.0,no_lines,,pre-floor
+20261020_1508,20261020,Kasperi Kapanen,UNDER,1.5,-125,-110,True,room,8477953,2026020148,401892546,Minnesota Wild at Edmonton Oilers,0.4797,0,OFF,True,1,0.9090909090909092,0.8,0.0,no_lines,,pre-floor
+20261020_1508,20261020,Kirill Kaprizov,UNDER,3.5,-140,-121,True,room,8478864,2026020148,401892546,Minnesota Wild at Edmonton Oilers,0.4554,3,OFF,True,1,0.8264462809917354,0.7142857142857144,3.0,no_lines,,pre-floor
+20261020_1508,20261020,Alex Formenton,UNDER,1.5,-135,-115,True,room,8480029,2026020148,401892546,Minnesota Wild at Edmonton Oilers,0.4653,3,OFF,True,0,-1.0,-1.0,3.0,no_lines,,pre-floor
+20261020_1508,20261020,Maxim Shabanov,UNDER,1.5,-175,-145,True,room,8485702,2026020148,401892546,Minnesota Wild at Edmonton Oilers,0.4112,1,OFF,True,1,0.6896551724137931,0.5714285714285714,1.0,no_lines,,pre-floor
+20261020_1513,20261020,Vince Dunn,UNDER,2.5,-155,-133,True,room,8478407,2026020149,401892547,Detroit Red Wings at Seattle Kraken,0.4335,1,OFF,True,1,0.7518796992481203,0.6451612903225805,1.0,no_lines,,post-floor
+20261020_1513,20261020,Kaapo Kakko,UNDER,1.5,-165,-140,True,room,8481554,2026020149,401892547,Detroit Red Wings at Seattle Kraken,0.422,0,OFF,True,1,0.7142857142857144,0.606060606060606,0.0,no_lines,,post-floor
+20261020_1513,20261020,Mackie Samoskevich,UNDER,1.5,130,146,True,room,8482713,2026020149,401892547,Detroit Red Wings at Seattle Kraken,0.5965,2,OFF,True,0,-1.0,-1.0,2.0,no_lines,,post-floor
+20261020_1548,20261020,Shayne Gostisbehere,OVER,1.5,-145,-122,True,room,8476906,2026020150,401892548,Carolina Hurricanes at Vancouver Canucks,0.5482,0,OFF,True,0,-1.0,-1.0,0.0,no_lines,,post-floor
+20261024_0922,20261024,Jesper Bratt,OVER,1.5,-190,-159,True,room,8479407,2026020169,401892567,Los Angeles Kings at New Jersey Devils,0.6113,0,OFF,True,0,-1.0,-1.0,0.0,capture_gap,,post-floor
+20261024_0922,20261024,Alex Laferriere,UNDER,2.5,-110,104,True,room,8482155,2026020169,401892567,Los Angeles Kings at New Jersey Devils,0.5147,0,OFF,True,1,1.04,0.9090909090909092,0.0,capture_gap,,post-floor
+20261024_1307,20261024,Tyler Toffoli,OVER,1.5,-115,101,True,room,8475726,2026020170,401892568,San Jose Sharks at Boston Bruins,0.4951,3,OFF,True,1,1.0099999999999998,0.8695652173913042,3.0,capture_gap,,post-floor
+20261024_1307,20261024,Tom Wilson,UNDER,2.5,-200,-166,True,room,8476880,2026020173,401892571,Buffalo Sabres at Washington Capitals,0.3797,3,OFF,True,0,-1.0,-1.0,3.0,capture_gap,,post-floor
+20261024_1307,20261024,Mattias Samuelsson,UNDER,1.5,-140,-119,True,room,8480807,2026020173,401892571,Buffalo Sabres at Washington Capitals,0.4615,1,OFF,True,1,0.8403361344537816,0.7142857142857144,1.0,capture_gap,,post-floor
+20261024_1307,20261024,Sebastian Aho,OVER,2.5,100,116,True,room,8478427,2026020175,401892573,Carolina Hurricanes at St. Louis Blues,0.4615,1,OFF,True,0,-1.0,-1.0,1.0,capture_gap,,post-floor
+20261024_1307,20261024,Darren Raddysh,UNDER,2.5,-135,-117,True,room,8478178,2026020176,401892574,Toronto Maple Leafs at Edmonton Oilers,0.4653,0,OFF,True,1,0.8547008547008548,0.7407407407407407,0.0,capture_gap,,post-floor
+20261024_1512,20261024,Barrett Hayton,UNDER,1.5,105,120,True,room,8480849,2026020177,401892575,Tampa Bay Lightning at Utah Mammoth,0.5482,3,OFF,True,0,-1.0,-1.0,3.0,on_time,1.35,post-floor
+20261024_1609,20261024,Matt Coronato,UNDER,2.5,-140,-118,True,room,8482679,2026020178,401892576,Detroit Red Wings at Calgary Flames,0.4615,2,OFF,True,1,0.847457627118644,0.7142857142857144,2.0,capture_gap,,post-floor
+20261024_1609,20261024,Emmitt Finnie,OVER,1.5,-105,109,True,room,8484471,2026020178,401892576,Detroit Red Wings at Calgary Flames,0.4754,0,OFF,True,0,-1.0,-1.0,0.0,capture_gap,,post-floor
+20261024_1609,20261024,Vince Dunn,UNDER,2.5,-190,-159,True,room,8478407,2026020179,401892577,Minnesota Wild at Seattle Kraken,0.3887,4,OFF,True,0,-1.0,-1.0,4.0,capture_gap,,post-floor
+20261025_0922,20261025,Roman Kantserov,UNDER,1.5,100,115,True,room,8484390,2026020180,401892578,Florida Panthers at Chicago Blackhawks,0.5385,2,OFF,True,0,-1.0,-1.0,,on_time,1.82,post-floor
+20261025_1202,20261025,Brayden Schenn,OVER,1.5,-105,109,True,room,8475170,2026020181,401892579,New York Islanders at Dallas Stars,0.4754,2,OFF,True,1,1.0899999999999999,0.9523809523809523,,on_time,0.99,post-floor
+20261025_1202,20261025,Roope Hintz,UNDER,2.5,-185,-157,True,room,8478449,2026020181,401892579,New York Islanders at Dallas Stars,0.3909,2,OFF,True,1,0.6369426751592355,0.5405405405405406,,on_time,-0.51,post-floor
+20261025_1202,20261025,Miro Heiskanen,UNDER,1.5,130,145,True,room,8480036,2026020181,401892579,New York Islanders at Dallas Stars,0.5941,4,OFF,True,0,-1.0,-1.0,,on_time,-1.5,post-floor
+20261025_1404,20261025,Roman Josi,OVER,1.5,-195,-164,True,room,8474600,2026020183,401892580,Colorado Avalanche at Nashville Predators,0.6182,4,OFF,True,1,0.6097560975609757,0.5128205128205128,,capture_gap,,post-floor
+20261025_1404,20261025,Sam Malinski,UNDER,1.5,-105,109,True,room,8484258,2026020183,401892580,Colorado Avalanche at Nashville Predators,0.5246,0,OFF,True,1,1.0899999999999999,0.9523809523809523,,capture_gap,,post-floor

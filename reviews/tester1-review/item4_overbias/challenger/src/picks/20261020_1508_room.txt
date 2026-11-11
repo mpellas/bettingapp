@@ -1,0 +1,26 @@
+NHL shots window pass 3:08 PM PT for the 6:00 PM PT game: Minnesota Wild at Edmonton Oilers.
+
+DraftKings list: nothing qualifies. None of the 17 lines has a side with positive blended EV at DraftKings.
+
+Fliff check (4), all puck drop 6:00 PM PT. Fliff has posted this game, and all four are priced worse than the shop-at price right now (Fliff price pulled 3:09 PM PT), so skip them on Fliff unless Fliff improves to the shop-at price:
+1. Kasperi Kapanen (EDM, F) UNDER 1.5 shots on goal, Minnesota Wild at Edmonton Oilers. DK -125, Fliff at -110 or better (Fliff now -130, skip). PrizePicks: none.
+   Model +8.1 pts vs no-vig; recent form +5.4 pts.
+   Role: history F_top6+PP1, today f2/pp2 (demotion, so the over is skipped and the under is allowed); TOI last 5 17.2 min vs 15.7 over the last 30, PP TOI last 5 2.3 vs 1.0; opponent allows +3% to F_top6+PP1 (Wild allow 26.2 shots per game over the last 20).
+   Evidence: agrees 2 of 7 (champion +8.1; challenger +5.1). Against: shrunk form -5.3 pts and no-vig moved 2.4 pts away from side since open. Weakest support on the list.
+2. Kirill Kaprizov (MIN, F) UNDER 3.5 shots on goal, Minnesota Wild at Edmonton Oilers. DK -140, Fliff at -121 or better (Fliff now -185, skip). PrizePicks: flex5, flex6.
+   Model +8.5 pts vs no-vig; recent form +9.1 pts.
+   Role: history F_top6+PP1, today still on PP1 (no role change flagged); TOI last 5 21.1 min vs 21.6 over the last 30, PP TOI last 5 3.3 vs 3.5; opponent allows -4% to F_top6+PP1 (Oilers allow 25.3 shots per game).
+   Evidence: agrees 4 of 7 (champion +8.5; challenger +7.2; shrunk form +6.0; opponent allows -4%). Against: on PP1 and no-vig moved 3.3 pts away from side since open.
+3. Alex Formenton (EDM, F) UNDER 1.5 shots on goal, Minnesota Wild at Edmonton Oilers. DK -135, Fliff at -115 or better (Fliff now -165, skip). PrizePicks: none.
+   Model +3.1 pts vs no-vig; recent form +4.5 pts.
+   Role: history F_top6, today f3 with no PP (demotion, so the over is skipped and the under is allowed); TOI last 5 14.4 min vs 16.0 over the last 30, PP TOI last 5 0.0 vs 0.6; opponent allows +1% to F_top6 (Wild allow 26.2 shots per game).
+   Evidence: agrees 5 of 7 (champion +3.1; challenger +2.3; shrunk form +2.1; f3 line, no PP; no-vig moved 4.0 pts toward side since open). Nothing against, but the edge is thin.
+4. Maxim Shabanov (MIN, F) UNDER 1.5 shots on goal, Minnesota Wild at Edmonton Oilers. DK -175, Fliff at -145 or better (Fliff now -180, skip). PrizePicks: power2, power3, flex3, flex4, flex5, flex6.
+   Model +9.0 pts vs no-vig; recent form +12.7 pts.
+   Role: history F_top6+PP1, today f3/pp1 (demotion at even strength, so the over is skipped and the under is allowed); TOI last 5 14.2 min vs 13.7 over the last 30, PP TOI last 5 3.3 vs 1.8; opponent allows -4% to F_top6+PP1 (Oilers allow 25.3 shots per game).
+   Evidence: agrees 4 of 7 (champion +9.0; challenger +8.8; shrunk form +9.5; opponent allows -4%). Against: on PP1 and no-vig moved 1.5 pts away from side since open.
+Correlation: all four are unders in the same game, Wild at Oilers (a low-event game helps all four, a high-event game hurts all four), and Kapanen and Formenton are both Edmonton while Kaprizov and Shabanov are both Minnesota. Treat them as one bet's worth of exposure.
+
+Role changes flagged in this game: 3 demotions (Kapanen, Formenton, Shabanov, only their overs are skipped) and 2 promotions (Hartman and Brink, unders skipped; neither listed).
+Spreadsheet: /workspace/nhl-sog/sheets/20261020_D_1508_picks.xlsx
+Fliff credits today: 6 of 10 used.

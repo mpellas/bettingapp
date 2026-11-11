@@ -1,0 +1,1598 @@
+season,week,id,home,away,level,min_games,provider,close_spread,model_spread,close_total,model_total,actual_spread,actual_total
+2025,p1,401778123,Prairie View A&M,South Carolina State,FCS/FCS,12,DraftKings,-3,-2.05,53.5,53.25,2,78
+2025,p1,401778302,Washington,Boise State,G5,12,DraftKings,-10,-5.3,55.5,53.36,-28,48
+2025,p1,401778303,Jacksonville State,Troy,G5,13,DraftKings,-3,0.51,47.5,50.9,-4,30
+2025,p1,401778304,South Florida,Old Dominion,G5,12,DraftKings,-4,-8.4,52.5,58.81,14,34
+2025,p1,401778305,Delaware,Louisiana,G5,12,DraftKings,1.5,2.51,60.5,61.46,-7,33
+2025,p1,401838053,Arkansas State,Missouri State,G5,12,DraftKings,-1.5,3.08,55.5,52.88,-6,62
+2025,p1,401778306,Western Michigan,Kennesaw State,G5,13,DraftKings,-3.5,-2.3,47.5,48.56,-35,47
+2025,p1,401778307,NC State,Memphis,G5,12,DraftKings,-3.5,2.05,56.5,57.7,-24,38
+2025,p1,401779840,Oklahoma,Alabama,P4,12,DraftKings,-2.5,-2.52,42.5,44.42,10,58
+2025,p1,401779841,Texas A&M,Miami,P4,12,DraftKings,-3,3.74,48.5,53.05,7,13
+2025,p1,401779842,Ole Miss,Tulane,G5,12,DraftKings,-16.5,-11.44,57.5,54.51,-31,51
+2025,p1,401833989,Montana State,Montana,FCS/FCS,13,DraftKings,-6.5,-6.87,56.5,61.01,-25,71
+2025,p1,401833990,Villanova,Illinois State,FCS/FCS,13,DraftKings,-1.5,-3.69,51.5,50.76,16,44
+2025,p1,401779843,Oregon,James Madison,G5,12,DraftKings,-20.5,-9.72,47.5,53.65,-17,85
+2025,p1,401778308,Utah State,Washington State,G5,12,DraftKings,-1.5,3.33,50.5,51.07,13,55
+2025,p1,401778309,Louisville,Toledo,G5,12,DraftKings,-11.5,-0.4,44.5,48.05,-5,49
+2025,p1,401778310,Southern Miss,Western Kentucky,G5,12,DraftKings,-2.5,4.19,59.5,54.82,11,43
+2025,p1,401778311,Ohio,UNLV,G5,12,DraftKings,6.5,4.34,64.5,59.71,-7,27
+2025,p1,401778312,Hawai'i,California,G5,12,DraftKings,-1.5,-3.51,50.5,53.4,-4,66
+2025,p1,401778313,Northwestern,Central Michigan,G5,12,DraftKings,-13.5,-6.02,43.5,45.36,-27,41
+2025,p1,401778314,Minnesota,New Mexico,G5,12,DraftKings,-1.5,3.13,44.5,49.2,-3,37
+2025,p1,401778315,UTSA,Florida International,G5,12,DraftKings,-7.5,-6.36,63.5,60.36,-37,77
+2025,p1,401778316,East Carolina,Pittsburgh,G5,12,DraftKings,13.5,1.54,51.5,57.67,-6,40
+2025,p1,401778317,Clemson,Penn State,P4,12,DraftKings,-2.5,4.19,47.5,52.54,12,32
+2025,p1,401778318,Army,UConn,G5,11,DraftKings,-7.5,1.75,41.5,51.73,-25,57
+2025,p1,401778319,BYU,Georgia Tech,P4,12,DraftKings,-3.5,-7.37,55.5,53.86,-4,46
+2025,p1,401778320,Fresno State,Miami (OH),G5,12,DraftKings,-5.5,-0.46,40.5,47.24,-15,21
+2025,p1,401778321,San Diego State,North Texas,G5,12,DraftKings,7.5,8.1,55.5,55.2,2,96
+2025,p1,401778322,Missouri,Virginia,P4,12,DraftKings,-4,-2.31,43.5,49.0,6,20
+2025,p1,401778323,Houston,LSU,P4,12,DraftKings,-1.5,3.27,43.5,44.61,-3,73
+2025,p1,401778324,App State,Georgia Southern,G5,12,DraftKings,10,0.6,58.5,58.56,19,39
+2025,p1,401778325,Louisiana Tech,Coastal Carolina,G5,12,DraftKings,-10,-11.23,51.5,55.47,-9,37
+2025,p1,401778326,Illinois,Tennessee,P4,12,DraftKings,3,3.5,61.5,60.04,-2,58
+2025,p1,401778327,TCU,USC,P4,12,DraftKings,4.5,6.51,56.5,56.87,-3,57
+2025,p1,401778328,Vanderbilt,Iowa,P4,12,DraftKings,-3,-2.41,47.5,53.84,7,61
+2025,p1,401778329,Duke,Arizona State,P4,12,DraftKings,-4,-0.83,49.5,55.17,-3,81
+2025,p1,401778330,Texas,Michigan,P4,12,DraftKings,-4,-2.02,50.5,49.06,-14,68
+2025,p1,401778331,Utah,Nebraska,P4,12,DraftKings,-13.5,-17.39,51.5,57.04,-22,66
+2025,p1,401769070,Ohio State,Miami,P4,12,DraftKings,-7.5,-5.06,39.5,44.92,10,38
+2025,p1,401769071,Texas Tech,Oregon,P4,12,DraftKings,-1.5,-3.04,50.5,53.9,23,23
+2025,p1,401769072,Indiana,Alabama,P4,13,DraftKings,-7.5,-11.43,46.5,51.51,-35,41
+2025,p1,401769073,Georgia,Ole Miss,P4,12,DraftKings,-6,-2.02,53.5,52.3,5,73
+2025,p1,401778332,Texas State,Rice,G5,12,DraftKings,-19.5,-12.09,55.5,59.06,-31,51
+2025,p1,401778333,Cincinnati,Navy,G5,11,DraftKings,7.5,0.06,57.5,56.53,22,48
+2025,p1,401831583,SMU,Arizona,P4,12,DraftKings,-2.5,-1.19,55.5,52.34,-5,43
+2025,p1,401778334,Mississippi State,Wake Forest,P4,12,DraftKings,-3,2.16,52.5,55.05,14,72
+2025,p1,401833680,Montana State,Illinois State,FCS/FCS,14,DraftKings,-10.5,-12.44,58.5,54.35,-1,69
+2025,p1,401769075,Ole Miss,Miami,P4,12,DraftKings,3,4.51,52.5,53.66,4,58
+2025,p1,401769074,Indiana,Oregon,P4,12,DraftKings,-3,-3.51,50.5,53.69,-34,78
+2025,p1,401769076,Indiana,Miami,P4,12,DraftKings,-7.5,-4.8,47.5,50.46,-6,48
+2025,r1,401756846,Kansas State,Iowa State,P4,0,DraftKings,-3.5,-0.05,49.5,53.92,3,45
+2025,r1,401767476,Nicholls,Incarnate Word,FCS/FCS,0,ESPN Bet,13.5,5.51,50.5,52.35,-14,26
+2025,r1,401760371,UNLV,Idaho State,FCS/G5,0,ESPN Bet,-30.5,-11.88,67.5,55.62,-7,69
+2025,r1,401767126,Portland State,Tarleton State,FCS/FCS,0,ESPN Bet,16.5,4.71,55.5,55.0,42,42
+2025,r1,401756847,Kansas,Fresno State,G5,0,DraftKings,-14,-6.06,51.5,52.79,-24,38
+2025,r1,401757218,Western Kentucky,Sam Houston,G5,0,DraftKings,-9.5,-0.95,60.5,50.46,-17,65
+2025,r1,401767410,Southern,North Carolina Central,FCS/FCS,0,ESPN Bet,10.5,7.52,47.5,51.31,17,45
+2025,r1,401754516,Hawai'i,Stanford,G5,0,DraftKings,-1.5,-3.2,53.5,52.92,-3,43
+2025,r1,401762522,South Florida,Boise State,G5,0,DraftKings,8.5,4.84,63.5,55.2,-27,41
+2025,r1,401752794,Rutgers,Ohio,G5,0,DraftKings,-11.5,3.62,46.5,52.55,-3,65
+2025,r1,401767549,Youngstown State,Mercyhurst,FCS/FCS,0,ESPN Bet,-24,-0.4,59.5,54.94,-9,39
+2025,r1,401762790,Bowling Green,Lafayette,FCS/G5,0,ESPN Bet,-21.5,-4.99,53.5,51.55,-19,33
+2025,r1,401754373,NC State,East Carolina,G5,0,DraftKings,-12.5,-0.14,58.5,54.83,-7,41
+2025,r1,401762789,Akron,Wyoming,G5,0,DraftKings,8.5,-1.72,49.5,51.55,10,10
+2025,r1,401761588,UL Monroe,Saint Francis,FCS/G5,0,ESPN Bet,-30.5,-1.61,47.5,50.35,-29,29
+2025,r1,401767327,Norfolk State,Towson,FCS/FCS,0,ESPN Bet,8.5,3.61,49.5,52.3,20,34
+2025,r1,401756848,UCF,Jacksonville State,G5,0,DraftKings,-16.5,2.25,53.5,54.94,-7,27
+2025,r1,401757219,Delaware,Delaware State,FCS/G5,0,ESPN Bet,-30.5,-17.55,55.5,53.9,-18,52
+2025,r1,401767209,St. Thomas (MN),Lindenwood,FCS/FCS,0,ESPN Bet,6.5,-4.09,51.5,52.6,-22,48
+2025,r1,401767171,Eastern Illinois,Dayton,FCS/FCS,0,ESPN Bet,-9.5,4.97,47.5,50.28,-10,38
+2025,r1,401756876,Oklahoma State,UT Martin,FCS/P4,0,Bovada,-26,5.94,56.5,54.71,-20,34
+2025,r1,401752674,Missouri,Central Arkansas,FCS/P4,0,ESPN Bet,-39.5,-6.33,53.5,53.21,-55,67
+2025,r1,401767298,Samford,West Georgia,FCS/FCS,0,ESPN Bet,-6.5,-1.9,55.5,52.59,31,37
+2025,r1,401754517,Duke,Elon,FCS/P4,0,Bovada,-36.5,-2.92,51.5,52.79,-28,62
+2025,r1,401752793,Minnesota,Buffalo,G5,0,DraftKings,-16.5,-6.07,45.5,51.65,-13,33
+2025,r1,401767369,Northwestern State,Alcorn State,FCS/FCS,0,ESPN Bet,10.5,11.75,49.5,52.7,-10,30
+2025,r1,401756852,Houston,Stephen F. Austin,FCS/P4,0,ESPN Bet,-23.5,6.68,54.5,50.14,-27,27
+2025,r1,401762430,UAB,Alabama State,FCS/G5,0,ESPN Bet,-21.5,3.95,53.5,51.81,-10,94
+2025,r1,401762791,Wisconsin,Miami (OH),G5,0,DraftKings,-17.5,1.4,40.5,50.02,-17,17
+2025,r1,401752796,Cincinnati,Nebraska,P4,0,DraftKings,6.5,2.61,52.5,50.45,3,37
+2025,r1,401760357,San Diego State,Stony Brook,FCS/G5,0,Bovada,-19.5,5.41,53.5,53.21,-42,42
+2025,r1,401762432,Army,Tarleton State,FCS/G5,0,ESPN Bet,-14.5,-5.62,47.5,52.06,3,57
+2025,r1,401767140,Rhode Island,Campbell,FCS/FCS,0,ESPN Bet,-11.5,-9.08,56.5,52.07,-11,51
+2025,r1,401766898,Florida International,Bethune-Cookman,FCS/G5,0,ESPN Bet,-26.5,-7.98,54.5,52.82,-33,51
+2025,r1,401767256,Colgate,Monmouth,FCS/FCS,0,ESPN Bet,14.5,7.04,65.5,56.01,3,81
+2025,r1,401752802,Michigan State,Western Michigan,G5,0,DraftKings,-18.5,0.73,49.5,52.87,-17,29
+2025,r1,401779329,Marist,New Haven,FCS/FCS,0,ESPN Bet,3.5,14.07,48.5,51.83,-17,45
+2025,r1,401761589,Charlotte,App State,G5,0,DraftKings,8.5,3.29,53.5,54.57,23,45
+2025,r1,401754374,Wake Forest,Kennesaw State,G5,0,DraftKings,-17.5,-6.28,51.5,52.71,-1,19
+2025,r1,401756854,Kansas,Wagner,FCS/P4,0,ESPN Bet,-45.5,-10.59,57.5,52.03,-39,53
+2025,r1,401752795,Illinois,Western Illinois,FCS/P4,0,ESPN Bet,-48.5,-10.22,63.5,55.93,-49,55
+2025,r1,401754375,Colorado,Georgia Tech,P4,0,DraftKings,4,-5.76,55.5,53.84,7,47
+2025,r1,401752667,Baylor,Auburn,P4,0,DraftKings,1.5,-4.28,57.5,53.94,14,62
+2025,r1,401757224,Sam Houston,UNLV,G5,0,DraftKings,13.5,5.41,58.5,51.37,17,59
+2025,r1,401760358,San José State,Central Michigan,G5,0,DraftKings,-11.5,-5.66,50.5,53.07,2,30
+2025,r1,401752803,Tulane,Northwestern,G5,0,DraftKings,-6.5,-12.47,47.5,52.01,-20,26
+2025,r1,401762434,Navy,VMI,FCS/G5,0,ESPN Bet,-42.5,-17.47,54.5,51.21,-45,59
+2025,r1,401752797,Maryland,Florida Atlantic,G5,0,DraftKings,-16.5,-1.86,57.5,53.71,-32,46
+2025,r1,401754520,Pittsburgh,Duquesne,FCS/P4,0,ESPN Bet,-39.5,-0.15,58.5,54.26,-52,70
+2025,r1,401762792,Kent State,Merrimack,FCS/G5,0,Bovada,-5.5,10.66,50.5,52.38,-4,38
+2025,r1,401752676,Tennessee,Syracuse,P4,0,DraftKings,-13.5,-3.31,53.5,54.69,-19,71
+2025,r1,401752677,Ohio State,Texas,P4,0,DraftKings,-3,-6.73,47.5,50.89,-7,21
+2025,r1,401752673,Southern Miss,Mississippi State,G5,0,DraftKings,11.5,6.42,59.5,53.91,17,51
+2025,r1,401752801,Purdue,Ball State,G5,0,DraftKings,-16.5,2.05,50.5,55.17,-31,31
+2025,r1,401752670,Kentucky,Toledo,G5,0,DraftKings,-10,-0.26,48.5,51.41,-8,40
+2025,r1,401767602,Davidson,Georgetown,FCS/FCS,0,ESPN Bet,3.5,-9.89,55.5,52.89,37,65
+2025,r1,401767657,Sacred Heart,Stonehill,FCS/FCS,0,ESPN Bet,-6.5,-9.49,45.5,50.81,-5,19
+2025,r1,401767536,Northern Iowa,Butler,FCS/FCS,0,ESPN Bet,-16.5,10.17,53.5,53.22,-24,52
+2025,r1,401754518,Boston College,Fordham,FCS/P4,0,ESPN Bet,-34.5,-9.31,52.5,51.63,-56,76
+2025,r1,401767339,Furman,William & Mary,FCS/FCS,0,ESPN Bet,-2.5,4.14,49.5,51.96,-2,44
+2025,r1,401757167,UConn,Central Connecticut,FCS/G5,0,ESPN Bet,-29.5,-5.1,51.5,52.09,-46,72
+2025,r1,401756878,West Virginia,Robert Morris,FCS/P4,0,ESPN Bet,-43.5,-0.7,58.5,52.81,-42,48
+2025,r1,401752806,Indiana,Old Dominion,G5,0,DraftKings,-23.5,-11.33,54.5,54.06,-13,41
+2025,r1,401767179,Jackson State,Hampton,FCS/FCS,0,ESPN Bet,-18.5,-11.86,58.5,53.41,-14,42
+2025,r1,401754519,Louisville,Eastern Kentucky,FCS/P4,0,ESPN Bet,-37.5,-9.3,57.5,52.99,-34,68
+2025,r1,401752665,Florida State,Alabama,P4,0,DraftKings,13.5,11.46,50.5,50.76,-14,48
+2025,r1,401762793,Northern Illinois,Holy Cross,FCS/G5,0,ESPN Bet,-13.5,-2.33,48.5,50.67,-2,36
+2025,r1,401760359,Air Force,Bucknell,FCS/G5,0,ESPN Bet,-30.5,-1.96,53.5,52.3,-36,62
+2025,r1,401756853,Iowa State,South Dakota,FCS/P4,0,ESPN Bet,-13.5,2.57,47.5,53.2,-48,62
+2025,r1,401752807,Penn State,Nevada,G5,0,DraftKings,-45.5,-16.93,58.5,52.06,-35,57
+2025,r1,401762456,Massachusetts,Temple,G5,0,DraftKings,3,-3.2,51.5,54.27,32,52
+2025,r1,401752669,Georgia,Marshall,G5,0,DraftKings,-39.5,-4.57,55.5,53.07,-38,52
+2025,r1,401767350,Florida A&M,Howard,FCS/FCS,0,ESPN Bet,-7.5,-2.98,48.5,51.58,1,19
+2025,r1,401757220,Liberty,Maine,FCS/G5,0,ESPN Bet,-25.5,-5.64,50.5,52.55,-21,35
+2025,r1,401752804,Oregon,Montana State,FCS/P4,0,ESPN Bet,-28.5,2.27,55.5,54.68,-46,72
+2025,r1,401752666,Arkansas,Alabama A&M,FCS/P4,0,ESPN Bet,-45.5,-4.53,62.5,54.57,-45,59
+2025,r1,401762433,Memphis,Chattanooga,FCS/G5,0,ESPN Bet,-30.5,-5.17,55.5,53.32,-35,55
+2025,r1,401767223,Tennessee State,North Carolina A&T,FCS/FCS,0,ESPN Bet,-6.5,-13.96,50.5,52.44,-3,45
+2025,r1,401767425,Mississippi Valley State,Southern,FCS/FCS,0,ESPN Bet,12.5,7.06,49.5,52.02,5,63
+2025,r1,401767454,East Tennessee State,Murray State,FCS/FCS,0,ESPN Bet,-31,-15.79,54.5,53.9,-28,62
+2025,r1,401752675,Oklahoma,Illinois State,FCS/P4,0,ESPN Bet,-38.5,-4.03,60.5,51.22,-32,38
+2025,r1,401767201,Western Carolina,Gardner-Webb,FCS/FCS,0,ESPN Bet,-6.5,-7.13,57.5,54.85,7,97
+2025,r1,401767572,Mercer,Presbyterian,FCS/FCS,0,ESPN Bet,-22.5,-4.97,51.5,52.49,5,25
+2025,r1,401767415,South Carolina State,Wofford,FCS/FCS,0,ESPN Bet,-9.5,-13.09,49.5,51.56,-1,31
+2025,r1,401752799,Iowa,UAlbany,FCS/P4,0,ESPN Bet,-39.5,-11.8,48.5,50.74,-27,41
+2025,r1,401761590,James Madison,Weber State,FCS/G5,0,ESPN Bet,-27.5,-7.91,54.5,53.49,-35,55
+2025,r1,401767265,North Carolina Central,New Hampshire,FCS/FCS,0,ESPN Bet,-4.5,-7.5,50.5,51.38,17,37
+2025,r1,401754616,Virginia,Coastal Carolina,G5,0,DraftKings,-12.5,-1.9,57.5,53.5,-41,55
+2025,r1,401752678,Texas A&M,UTSA,G5,0,DraftKings,-21.5,-4.35,56.5,54.86,-18,66
+2025,r1,401761591,Arkansas State,Southeast Missouri State,FCS/G5,0,ESPN Bet,-15.5,2.65,59.5,54.08,-18,66
+2025,r1,401752679,Vanderbilt,Charleston Southern,FCS/P4,0,ESPN Bet,-38.5,-12.19,50.5,50.56,-42,48
+2025,r1,401761595,Troy,Nicholls,FCS/G5,0,ESPN Bet,-16.5,-3.42,46.5,51.98,-18,58
+2025,r1,401756855,Kansas State,North Dakota,FCS/P4,0,ESPN Bet,-27.5,-6.92,55.5,54.56,-3,73
+2025,r1,401757226,Western Kentucky,North Alabama,FCS/G5,0,ESPN Bet,-27.5,-4.49,60.5,52.04,-49,61
+2025,r1,401761593,South Alabama,Morgan State,FCS/G5,0,ESPN Bet,-28.5,-5.91,50.5,53.03,-17,59
+2025,r1,401752668,Florida,Long Island University,FCS/P4,0,ESPN Bet,-46.5,-9.75,56.5,52.2,-55,55
+2025,r1,401767059,Incarnate Word,Eastern Washington,FCS/FCS,0,ESPN Bet,-10,-6.42,57.5,56.48,-10,52
+2025,r1,401757222,Middle Tennessee,Austin Peay,FCS/G5,0,ESPN Bet,-16.5,4.28,53.5,52.2,20,48
+2025,r1,401767130,South Dakota State,Sacramento State,FCS/FCS,0,ESPN Bet,-11.5,-19.67,57.5,54.08,-17,23
+2025,r1,401757221,Louisiana Tech,SE Louisiana,FCS/G5,0,ESPN Bet,-14.5,-0.53,50.5,49.93,-24,24
+2025,r1,401752808,Michigan,New Mexico,G5,0,DraftKings,-36.5,-8.5,52.5,53.46,-17,51
+2025,r1,401757225,Utah State,UTEP,G5,0,DraftKings,-3.5,-6.2,59.5,55.72,-12,44
+2025,r1,401752671,Clemson,LSU,P4,0,DraftKings,-3.5,-3.53,57.5,54.05,7,27
+2025,r1,401756877,Texas Tech,Arkansas-Pine Bluff,FCS/P4,0,Bovada,-54.5,-11.82,63.5,56.75,-60,74
+2025,r1,401752798,USC,Missouri State,G5,0,DraftKings,-34.5,-4.46,59.5,55.3,-60,86
+2025,r1,401752672,Ole Miss,Georgia State,G5,0,DraftKings,-38.5,-18.33,62.5,53.8,-56,70
+2025,r1,401762435,North Texas,Lamar,FCS/G5,0,ESPN Bet,-27.5,-1.8,62.5,54.06,-51,51
+2025,r1,401756851,BYU,Portland State,FCS/P4,0,ESPN Bet,-44.5,-11.47,62.5,53.91,-69,69
+2025,r1,401767431,Texas Southern,Prairie View A&M,FCS/FCS,0,ESPN Bet,-1.5,-2.29,47.5,51.62,1,43
+2025,r1,401761594,Texas State,Eastern Michigan,G5,0,DraftKings,-14,-9.22,58.5,54.48,-25,79
+2025,r1,401767070,San Diego,Cal Poly,FCS/FCS,0,ESPN Bet,-1.5,-12.55,49.5,51.85,24,58
+2025,r1,401761592,Louisiana,Rice,G5,0,DraftKings,-14.5,-5.97,49.5,52.09,2,26
+2025,r1,401762457,Tulsa,Abilene Christian,FCS/G5,0,ESPN Bet,-5.5,11.24,59.5,57.07,-28,42
+2025,r1,401767080,Southern Utah,Idaho State,FCS/FCS,0,ESPN Bet,-4.5,-6.32,62.5,56.28,-22,70
+2025,r1,401757223,New Mexico State,Bryant,FCS/G5,0,ESPN Bet,-19.5,-1.5,52.5,54.32,-16,22
+2025,r1,401754521,SMU,East Texas A&M,FCS/P4,0,ESPN Bet,-50.5,-16.01,64.5,53.62,-29,55
+2025,r1,401760361,Fresno State,Georgia Southern,G5,0,DraftKings,-2.5,-0.44,54.5,52.47,-28,56
+2025,r1,401756850,Arizona State,Northern Arizona,FCS/P4,0,ESPN Bet,-29.5,-6.56,52.5,52.05,-19,57
+2025,r1,401752947,Washington State,Idaho,FCS/G5,0,ESPN Bet,-16.5,-0.78,50.5,55.23,-3,23
+2025,r1,401767156,Utah Tech,UC Davis,FCS/FCS,0,ESPN Bet,18.5,11.87,56.5,54.39,7,55
+2025,r1,401752936,Oregon State,California,G5,0,DraftKings,-3,2.9,51.5,52.01,19,49
+2025,r1,401756849,Arizona,Hawai'i,G5,0,DraftKings,-13.5,0.06,55.5,52.36,-34,46
+2025,r1,401752805,Washington,Colorado State,G5,0,DraftKings,-20.5,-4.2,52.5,51.97,-17,59
+2025,r1,401752800,UCLA,Utah,P4,0,DraftKings,6.5,0.21,50.5,50.01,33,53
+2025,r1,401752680,South Carolina,Virginia Tech,P4,0,DraftKings,-8.5,-4.64,48.5,51.46,-13,35
+2025,r1,401754522,Miami,Notre Dame,P4,0,DraftKings,2.5,3.32,53.5,55.68,-3,51
+2025,r1,401754523,North Carolina,TCU,P4,0,DraftKings,3,2.92,59.5,54.17,34,62
+2025,r2,401754528,Louisville,James Madison,G5,1,ESPN Bet,-15.5,-6.17,56.5,55.36,-14,42
+2025,r2,401752826,Maryland,Northern Illinois,G5,1,ESPN Bet,-16.5,-6.66,44.5,48.65,-11,29
+2025,r2,401752817,Northwestern,Western Illinois,FCS/P4,1,ESPN Bet,-30.5,-10.73,48.5,51.66,-35,49
+2025,r2,401760363,Boise State,Eastern Washington,FCS/G5,1,ESPN Bet,-33.5,-5.59,60.5,53.86,-37,65
+2025,r2,401754525,SMU,Baylor,P4,1,ESPN Bet,-2.5,-10.7,65.5,55.63,3,93
+2025,r2,401757227,Jacksonville State,Liberty,G5,1,ESPN Bet,6.5,-3.08,50.5,48.65,-10,58
+2025,r2,401752693,Texas,San José State,G5,1,ESPN Bet,-36.5,-17.64,52.5,46.71,-31,45
+2025,r2,401754529,Pittsburgh,Central Michigan,G5,1,ESPN Bet,-21.5,-15.54,48.5,52.42,-28,62
+2025,r2,401767658,Lehigh,Sacred Heart,FCS/FCS,1,ESPN Bet,-20,-11.33,42.5,45.05,-18,38
+2025,r2,401752811,Penn State,Florida International,G5,1,ESPN Bet,-41.5,-13.01,53.5,52.19,-34,34
+2025,r2,401754524,NC State,Virginia,P4,1,ESPN Bet,-2.5,3.51,52.5,51.5,-4,66
+2025,r2,401756885,Texas Tech,Kent State,G5,1,ESPN Bet,-47.5,-22.77,59.5,56.23,-48,76
+2025,r2,401752822,Iowa State,Iowa,P4,1,DraftKings,-1.5,-7.08,,50.73,-3,29
+2025,r2,401752813,Minnesota,Northwestern State,FCS/P4,1,Bovada,-43,-21.39,50.5,46.66,-66,66
+2025,r2,401752825,Duke,Illinois,P4,1,ESPN Bet,2.5,3.18,49.5,53.04,26,64
+2025,r2,401754618,Syracuse,UConn,G5,1,ESPN Bet,-7.5,6.45,57.5,58.18,-7,47
+2025,r2,401754621,Florida State,East Texas A&M,FCS/P4,1,ESPN Bet,-43.5,-13.83,56.5,50.85,-74,80
+2025,r2,401752812,Indiana,Kennesaw State,G5,1,ESPN Bet,-35.5,-18.76,51.5,47.27,-47,65
+2025,r2,401779511,Mercyhurst,New Haven,FCS/FCS,1,ESPN Bet,-12.5,2.63,52.5,49.38,-34,62
+2025,r2,401752694,Texas A&M,Utah State,G5,1,ESPN Bet,-34.5,-12.85,57.5,55.01,-22,66
+2025,r2,401767332,Delaware State,UAlbany,FCS/FCS,1,ESPN Bet,12.5,2.69,50.5,51.02,-5,69
+2025,r2,401767719,Georgetown,Wagner,FCS/FCS,1,ESPN Bet,-16,-19.43,48.5,51.4,-11,51
+2025,r2,401767172,Indiana State,Eastern Illinois,FCS/FCS,1,ESPN Bet,-3.5,-4.74,50.5,51.85,-24,52
+2025,r2,401767231,Tennessee Tech,Chattanooga,FCS/FCS,1,ESPN Bet,-5.5,-15.17,48.5,51.85,-28,62
+2025,r2,401767626,Marist,Bucknell,FCS/FCS,1,ESPN Bet,12,-10.59,56.5,53.5,11,57
+2025,r2,401767771,Stonehill,Lafayette,FCS/FCS,1,ESPN Bet,14,5.23,45.5,46.05,16,68
+2025,r2,401767550,Youngstown State,Robert Morris,FCS/FCS,1,ESPN Bet,-19.5,-11.53,50.5,50.01,-39,73
+2025,r2,401767565,Furman,Presbyterian,FCS/FCS,1,ESPN Bet,-8.5,6.05,44.5,47.64,1,77
+2025,r2,401754620,Wake Forest,Western Carolina,FCS/P4,1,ESPN Bet,-17.5,-1.82,59.5,55.6,-32,52
+2025,r2,401762462,Temple,Howard,FCS/G5,1,ESPN Bet,-27.5,-9.54,45.5,47.74,-48,62
+2025,r2,401767224,Tennessee State,North Dakota State,FCS/FCS,1,ESPN Bet,32.5,16.45,49.5,50.55,56,62
+2025,r2,401760366,New Mexico,Idaho State,FCS/G5,1,ESPN Bet,-17.5,-4.64,60.5,59.59,-10,54
+2025,r2,401752689,Missouri,Kansas,P4,1,DraftKings,-7,-0.6,,52.36,-11,73
+2025,r2,401762461,Western Michigan,North Texas,G5,1,ESPN Bet,12.5,12.31,56.5,52.46,3,63
+2025,r2,401752815,Ohio State,Grambling,FCS/P4,1,ESPN Bet,-51.5,-14.5,64.5,48.92,-70,70
+2025,r2,401756880,Cincinnati,Bowling Green,G5,1,ESPN Bet,-21.5,-0.29,46.5,47.81,-14,54
+2025,r2,401752686,Kentucky,Ole Miss,P4,1,ESPN Bet,7.5,12.64,51.5,51.54,7,53
+2025,r2,401761596,App State,Lindenwood,FCS/G5,1,ESPN Bet,-29.5,-12.56,54.5,51.81,-7,33
+2025,r2,401752824,Oregon,Oklahoma State,P4,1,ESPN Bet,-28.5,-17.63,55.5,54.02,-66,72
+2025,r2,401752818,Rutgers,Miami (OH),G5,1,ESPN Bet,-15.5,-7.23,45.5,49.43,-28,62
+2025,r2,401752937,Oregon State,Fresno State,G5,1,ESPN Bet,-1.5,7.47,44.5,50.74,9,63
+2025,r2,401761603,UTSA,Texas State,G5,1,ESPN Bet,-4.5,5.11,64.5,59.26,7,79
+2025,r2,401762458,Navy,UAB,G5,1,ESPN Bet,-22.5,-11.75,58.5,58.47,-14,62
+2025,r2,401754637,Clemson,Troy,G5,1,ESPN Bet,-29.5,-4.09,51.5,51.71,-11,43
+2025,r2,401752692,Tennessee,East Tennessee State,FCS/P4,1,ESPN Bet,-40.5,-11.39,58.5,54.05,-55,89
+2025,r2,401767579,Samford,The Citadel,FCS/FCS,1,ESPN Bet,-2.5,-2.96,45.5,47.35,27,53
+2025,r2,401756881,Colorado,Delaware,G5,1,ESPN Bet,-23.5,-4.21,49.5,52.36,-24,38
+2025,r2,401762794,Buffalo,Saint Francis,FCS/G5,1,ESPN Bet,-37.5,-14.57,48.5,46.59,-39,51
+2025,r2,401754622,Georgia Tech,Gardner-Webb,FCS/P4,1,ESPN Bet,-37.5,-9.55,58.5,56.74,-47,71
+2025,r2,401752685,Georgia,Austin Peay,FCS/P4,1,ESPN Bet,-46.5,-16.36,56.5,51.17,-22,34
+2025,r2,401762816,Massachusetts,Bryant,FCS/G5,1,ESPN Bet,-16.5,0.5,52.5,50.27,1,53
+2025,r2,401752820,Wisconsin,Middle Tennessee,G5,1,ESPN Bet,-28.5,-18.13,44.5,47.25,-32,52
+2025,r2,401756883,Ohio,West Virginia,G5,1,ESPN Bet,3.5,2.28,58.5,53.77,-7,27
+2025,r2,401767089,Idaho,St. Thomas (MN),FCS/FCS,1,ESPN Bet,-21.5,0.81,47.5,47.88,-7,67
+2025,r2,401760367,Wyoming,Northern Iowa,FCS/G5,1,ESPN Bet,-13.5,0.06,45.5,47.12,-24,38
+2025,r2,401752684,Florida,South Florida,G5,1,ESPN Bet,-18.5,-6.42,58.5,52.54,2,34
+2025,r2,401752682,Arkansas,Arkansas State,G5,1,ESPN Bet,-24.5,-10.99,61.5,55.42,-42,70
+2025,r2,401761602,Southern Miss,Jackson State,FCS/G5,1,ESPN Bet,-13.5,18.89,52.5,50.85,-18,58
+2025,r2,401760365,Nevada,Sacramento State,FCS/G5,1,ESPN Bet,-9.5,1.7,55.5,50.83,-3,37
+2025,r2,401767112,Northern Arizona,Utah Tech,FCS/FCS,1,ESPN Bet,-21,-9.13,55.5,52.18,-7,69
+2025,r2,401767277,Eastern Kentucky,Houston Christian,FCS/FCS,1,ESPN Bet,-18,7.86,53.5,55.8,-10,30
+2025,r2,401767593,Wofford,Richmond,FCS/FCS,1,ESPN Bet,6.5,3.14,40.5,45.61,4,24
+2025,r2,401767336,Villanova,Colgate,FCS/FCS,0,ESPN Bet,-20,-9.48,50.5,53.22,-7,41
+2025,r2,401756887,Utah,Cal Poly,FCS/P4,1,ESPN Bet,-42.5,-11.17,52.5,51.94,-54,72
+2025,r2,401761599,Old Dominion,North Carolina Central,FCS/G5,1,ESPN Bet,-21.5,-1.66,48.5,49.3,-48,60
+2025,r2,401754530,California,Texas Southern,FCS/P4,1,ESPN Bet,-44.5,-14.41,54.5,49.85,-32,38
+2025,r2,401762459,East Carolina,Campbell,FCS/G5,1,ESPN Bet,-30.5,-10.67,55.5,52.45,-53,59
+2025,r2,401767257,Fordham,Monmouth,FCS/FCS,1,ESPN Bet,14.5,11.15,65.5,59.44,21,77
+2025,r2,401762460,Florida Atlantic,Florida A&M,FCS/G5,1,ESPN Bet,-21.5,2.77,50.5,48.52,-42,70
+2025,r2,401757228,Marshall,Missouri State,G5,1,ESPN Bet,-7.5,-5.84,53.5,57.47,1,41
+2025,r2,401767317,Stony Brook,Rhode Island,FCS/FCS,1,ESPN Bet,7,8.5,47.5,50.35,14,48
+2025,r2,401767266,New Hampshire,Holy Cross,FCS/FCS,1,ESPN Bet,-1.5,-5.46,46.5,47.62,-3,35
+2025,r2,401767189,William & Mary,Maine,FCS/FCS,1,ESPN Bet,-7,-6.9,48.5,49.54,-1,55
+2025,r2,401767149,Elon,Davidson,FCS/FCS,1,ESPN Bet,-27.5,-5.57,59.5,55.89,-48,62
+2025,r2,401752691,South Carolina,South Carolina State,FCS/P4,1,ESPN Bet,-42.5,-12.18,54.5,48.16,-28,48
+2025,r2,401767127,North Dakota,Portland State,FCS/FCS,1,ESPN Bet,-36.5,-19.28,58.5,57.35,-30,70
+2025,r2,401756884,Rice,Houston,G5,1,ESPN Bet,13.5,3.18,38.5,43.78,26,44
+2025,r2,401756882,Kansas State,Army,G5,1,ESPN Bet,-16.5,-0.82,48.5,53.12,3,45
+2025,r2,401767359,Southern,Alabama State,FCS/FCS,1,ESPN Bet,6.5,3.22,56.5,54.14,23,37
+2025,r2,401767379,Central Arkansas,Arkansas-Pine Bluff,FCS/FCS,1,ESPN Bet,-27,-8.63,55.5,57.08,-24,58
+2025,r2,401754527,Charlotte,North Carolina,G5,1,ESPN Bet,16.5,2.52,49.5,53.77,17,23
+2025,r2,401760364,Colorado State,Northern Colorado,FCS/G5,1,ESPN Bet,-34.5,-6.5,52.5,49.04,-4,38
+2025,r2,401761598,Georgia State,Memphis,G5,1,ESPN Bet,15.5,20.71,57.5,56.26,22,54
+2025,r2,401756886,UCF,North Carolina A&T,FCS/P4,1,ESPN Bet,-37,-17.23,51.5,49.07,-61,75
+2025,r2,401761601,South Alabama,Tulane,G5,1,ESPN Bet,13.5,3.27,51.5,51.12,2,64
+2025,r2,401767437,Illinois State,Morehead State,FCS/FCS,1,ESPN Bet,-31.5,1.79,52.5,50.57,-28,54
+2025,r2,401767328,Morgan State,Towson,FCS/FCS,1,ESPN Bet,10,7.37,48.5,50.39,5,49
+2025,r2,401757232,Toledo,Western Kentucky,G5,1,ESPN Bet,-7.5,6.73,56.5,52.76,-24,66
+2025,r2,401769868,Nicholls,West Georgia,FCS/FCS,1,ESPN Bet,-6.5,5.54,44.5,48.07,24,44
+2025,r2,401767309,Alabama A&M,Alcorn State,FCS/FCS,1,ESPN Bet,-3.5,-1.79,49.5,50.91,-10,72
+2025,r2,401767482,Lamar,South Dakota,FCS/FCS,1,ESPN Bet,17,7.84,51.5,52.06,-7,33
+2025,r2,401767216,Southeast Missouri State,North Alabama,FCS/FCS,1,ESPN Bet,-15.5,-9.53,55.5,54.49,-9,51
+2025,r2,401754641,Miami,Bethune-Cookman,FCS/P4,1,ESPN Bet,-54.5,-26.39,64.5,54.49,-42,48
+2025,r2,401767455,Murray State,SE Louisiana,FCS/FCS,1,ESPN Bet,21.5,7.6,51.5,51.42,21,69
+2025,r2,401767304,Tarleton State,Mississippi Valley State,FCS/FCS,1,ESPN Bet,-44.5,-25.54,57.5,53.87,-56,62
+2025,r2,401762795,Eastern Michigan,Long Island University,FCS/G5,1,ESPN Bet,-21.5,-5.99,53.5,55.44,5,51
+2025,r2,401752695,Virginia Tech,Vanderbilt,P4,1,ESPN Bet,-2.5,4.56,46.5,49.35,24,64
+2025,r2,401752688,Mississippi State,Arizona State,P4,1,ESPN Bet,5.5,8.82,58.5,53.95,-4,44
+2025,r2,401752687,LSU,Louisiana Tech,G5,1,ESPN Bet,-36.5,-6.46,49.5,45.14,-16,30
+2025,r2,401752816,Michigan State,Boston College,P4,1,ESPN Bet,-3.5,5.84,45.5,51.23,-2,82
+2025,r2,401752814,USC,Georgia Southern,G5,1,ESPN Bet,-28.5,-22.57,62.5,56.35,-39,79
+2025,r2,401752683,Auburn,Ball State,G5,1,ESPN Bet,-42.5,-24.41,52.5,51.88,-39,45
+2025,r2,401752690,Oklahoma,Michigan,P4,1,DraftKings,-3,-5.49,47.5,47.77,-11,37
+2025,r2,401752810,Nebraska,Akron,G5,1,ESPN Bet,-33.5,-13.93,47.5,44.73,-68,68
+2025,r2,401761597,Coastal Carolina,Charleston Southern,FCS/G5,1,ESPN Bet,-27.5,-5.56,48.5,51.43,-13,13
+2025,r2,401752819,Purdue,Southern Illinois,FCS/P4,1,ESPN Bet,-22.5,3.31,52.5,50.21,-17,51
+2025,r2,401752681,Alabama,UL Monroe,G5,1,ESPN Bet,-34.5,-4.54,50.5,48.78,-73,73
+2025,r2,401761600,Louisiana,McNeese,FCS/G5,1,ESPN Bet,-19.5,3.56,49.5,50.25,-24,44
+2025,r2,401767238,Abilene Christian,Stephen F. Austin,FCS/FCS,1,ESPN Bet,2.5,1.68,51.5,49.86,-8,48
+2025,r2,401767105,Montana State,South Dakota State,FCS/FCS,1,ESPN Bet,3,7.28,50.5,51.82,6,54
+2025,r2,401752823,UNLV,UCLA,G5,1,ESPN Bet,2.5,-15.03,54.5,53.23,-7,53
+2025,r2,401767292,San Diego,Southern Utah,FCS/FCS,1,ESPN Bet,20.5,6.81,53.5,54.33,-3,57
+2025,r2,401757229,New Mexico State,Tulsa,G5,1,ESPN Bet,3.5,1.96,53.5,50.3,-7,35
+2025,r2,401757231,UTEP,UT Martin,FCS/G5,1,ESPN Bet,-7.5,2.16,49.5,49.32,-25,59
+2025,r2,401756879,Arizona,Weber State,FCS/P4,1,ESPN Bet,-31.5,-16.74,56.5,52.48,-45,51
+2025,r2,401752948,Washington State,San Diego State,G5,1,ESPN Bet,-2.5,1.63,46.5,49.78,-23,49
+2025,r2,401754526,BYU,Stanford,P4,1,ESPN Bet,-20.5,-20.63,43.5,53.43,-24,30
+2025,r2,401752821,Washington,UC Davis,FCS/P4,1,ESPN Bet,-29.5,-3.41,54.5,53.46,-60,80
+2025,r2,401757230,Hawai'i,Sam Houston,G5,2,ESPN Bet,-7.5,3.91,48.5,50.79,-17,57
+2025,r3,401754531,Wake Forest,NC State,P4,2,DraftKings,7.5,2.69,52.5,49.74,10,58
+2025,r3,401752836,Indiana,Indiana State,FCS/P4,2,DraftKings,-47.5,-17.72,60.5,54.49,-73,73
+2025,r3,401754532,Syracuse,Colgate,FCS/P4,2,DraftKings,-36.5,-15.1,64.5,55.79,-42,90
+2025,r3,401756893,Houston,Colorado,P4,2,DraftKings,-4,-2.6,45.5,45.89,-16,56
+2025,r3,401756888,Arizona,Kansas State,P4,2,DraftKings,1.5,-6.78,55.5,52.29,-6,40
+2025,r3,401752837,UCLA,New Mexico,G5,2,DraftKings,-15.5,-1.53,52.5,52.77,25,45
+2025,r3,401767659,Long Island University,Sacred Heart,FCS/FCS,2,ESPN Bet,-13.5,-1.3,42.5,46.39,3,45
+2025,r3,401752838,Maryland,Towson,FCS/P4,2,DraftKings,-28.5,-8.46,53.5,47.0,-27,61
+2025,r3,401762817,Kent State,Buffalo,G5,2,DraftKings,23.5,15.86,48.5,52.36,3,59
+2025,r3,401767733,Duquesne,Lehigh,FCS/FCS,2,ESPN Bet,7.5,3.67,44.5,52.8,14,56
+2025,r3,401752839,Michigan,Central Michigan,G5,2,DraftKings,-27.5,-15.97,42.5,47.49,-60,66
+2025,r3,401752703,Temple,Oklahoma,G5,2,DraftKings,23.5,3.66,50.5,50.13,39,45
+2025,r3,401752828,Nebraska,Houston Christian,FCS/P4,2,DraftKings,-48.5,-16.16,58.5,51.81,-52,66
+2025,r3,401761608,Troy,Memphis,G5,2,DraftKings,4.5,9.07,51.5,53.86,21,35
+2025,r3,401752831,Northwestern,Oregon,P4,2,DraftKings,25.5,20.7,50.5,52.57,20,48
+2025,r3,401752696,Alabama,Wisconsin,P4,2,DraftKings,-17.5,-7.24,45.5,49.17,-24,52
+2025,r3,401754619,Virginia,William & Mary,FCS/P4,2,DraftKings,-30.5,-13.5,54.5,53.41,-39,71
+2025,r3,401756891,Baylor,Samford,FCS/P4,2,DraftKings,-51.5,-25.64,65.5,56.83,-35,49
+2025,r3,401767742,Central Connecticut,Saint Francis,FCS/FCS,2,ESPN Bet,-11.5,-14.9,44.5,48.41,-24,38
+2025,r3,401754623,Georgia Tech,Clemson,P4,2,DraftKings,3,-7.46,51.5,50.97,-3,45
+2025,r3,401752697,Auburn,South Alabama,G5,2,DraftKings,-26.5,-10.77,56.5,54.05,-16,46
+2025,r3,401767232,Tennessee Tech,Davidson,FCS/FCS,2,ESPN Bet,-40.5,-30.26,65.5,56.72,-58,86
+2025,r3,401767720,Georgetown,Lafayette,FCS/FCS,2,ESPN Bet,-1.5,-5.62,53.5,51.92,5,79
+2025,r3,401752702,Missouri,Louisiana,G5,2,DraftKings,-27.5,-14.26,47.5,52.22,-42,62
+2025,r3,401767627,Wagner,Marist,FCS/FCS,2,ESPN Bet,-7.5,1.01,50.5,50.58,11,31
+2025,r3,401767120,South Dakota,Northern Colorado,FCS/FCS,2,ESPN Bet,-21.5,-6.66,50.5,46.25,-7,41
+2025,r3,401762818,Ball State,New Hampshire,FCS/G5,2,DraftKings,-3,13.9,46.5,46.96,-5,63
+2025,r3,401767318,Holy Cross,Rhode Island,FCS/FCS,2,ESPN Bet,3.5,-4.15,46.5,47.78,2,16
+2025,r3,401767150,Western Carolina,Elon,FCS/FCS,2,ESPN Bet,2.5,7.6,59.5,59.33,6,68
+2025,r3,401767106,Montana State,San Diego,FCS/FCS,2,ESPN Bet,-31,-11.23,52.5,55.16,-34,48
+2025,r3,401767098,Montana,North Dakota,FCS/FCS,1,ESPN Bet,-1.5,-6.26,54.5,58.08,-1,47
+2025,r3,401767173,Eastern Illinois,Illinois State,FCS/FCS,2,ESPN Bet,20.5,6.11,50.5,49.5,12,72
+2025,r3,401757168,Delaware,UConn,G5,2,DraftKings,8.5,9.21,52.5,52.3,-3,85
+2025,r3,401752938,Texas Tech,Oregon State,G5,2,DraftKings,-24.5,-22.08,61.5,60.2,-31,59
+2025,r3,401752833,Rutgers,Norfolk State,FCS/P4,2,DraftKings,-44.5,-18.27,56.5,55.25,-50,70
+2025,r3,401752705,Tennessee,Georgia,P4,2,DraftKings,3.5,-4.19,50.5,55.59,3,85
+2025,r3,401754638,West Virginia,Pittsburgh,P4,2,DraftKings,7,6.12,55.5,53.8,-7,55
+2025,r3,401752949,North Texas,Washington State,G5,2,DraftKings,-6.5,-3.44,57.5,53.53,-49,69
+2025,r3,401767588,Bucknell,VMI,FCS/FCS,2,ESPN Bet,-8.5,-4.77,53.5,53.87,-7,63
+2025,r3,401752835,Penn State,Villanova,FCS/P4,1,DraftKings,-46.5,-23.76,57.5,47.6,-46,58
+2025,r3,401752832,Purdue,USC,P4,2,DraftKings,20.5,11.58,59.5,56.07,16,50
+2025,r3,401762819,Toledo,Morgan State,FCS/G5,2,DraftKings,-33.5,-14.65,54.5,52.42,-60,60
+2025,r3,401754615,Missouri State,SMU,G5,2,DraftKings,29.5,11.5,60.5,59.41,18,38
+2025,r3,401752834,Michigan State,Youngstown State,FCS/P4,2,DraftKings,-23.5,-1.56,55.5,53.75,-17,65
+2025,r3,401767217,North Dakota State,Southeast Missouri State,FCS/FCS,2,ESPN Bet,-31.5,-29.3,54.5,53.8,-27,55
+2025,r3,401767141,Campbell,Furman,FCS/FCS,2,ESPN Bet,1.5,6.21,53.5,54.83,4,52
+2025,r3,401762467,UTSA,Incarnate Word,FCS/G5,2,DraftKings,-21,-6.98,62.5,55.16,-28,68
+2025,r3,401756892,Cincinnati,Northwestern State,FCS/P4,2,DraftKings,-48.5,-25.96,55.5,50.47,-70,70
+2025,r3,401754639,North Carolina,Richmond,FCS/P4,2,DraftKings,-24.5,-0.23,47.5,45.91,-35,47
+2025,r3,401767322,Stony Brook,Fordham,FCS/FCS,2,ESPN Bet,-4,-3.74,54.5,54.44,-23,59
+2025,r3,401767090,Idaho,Utah Tech,FCS/FCS,2,ESPN Bet,-16.5,-13.92,52.5,52.9,-14,26
+2025,r3,401767161,Charleston Southern,Lindenwood,FCS/FCS,2,ESPN Bet,2.5,5.36,47.5,44.11,7,63
+2025,r3,401756890,Arkansas State,Iowa State,G5,2,DraftKings,21,16.2,55.5,54.82,8,40
+2025,r3,401752706,Texas,UTEP,G5,2,DraftKings,-39.5,-20.74,52.5,48.03,-17,37
+2025,r3,401767225,Tennessee State,Alabama A&M,FCS/FCS,2,ESPN Bet,1,0.92,55.5,55.59,2,44
+2025,r3,401754535,Miami,South Florida,G5,2,DraftKings,-17.5,-3.65,56.5,52.27,-37,61
+2025,r3,401757256,Bowling Green,Liberty,G5,2,DraftKings,6,-2.27,51.5,49.05,-10,36
+2025,r3,401767060,Northern Iowa,Eastern Washington,FCS/FCS,2,ESPN Bet,-4.5,-9.86,54.5,54.85,-3,31
+2025,r3,401757258,Nevada,Middle Tennessee,G5,2,DraftKings,-9.5,-10.19,49.5,51.63,1,27
+2025,r3,401767388,South Carolina State,Bethune-Cookman,FCS/FCS,2,ESPN Bet,-18,-16.61,47.5,50.2,-14,96
+2025,r3,401752701,Mississippi State,Alcorn State,FCS/P4,2,DraftKings,-42.5,-20.76,56.5,50.79,-63,63
+2025,r3,401762464,Charlotte,Monmouth,FCS/G5,2,DraftKings,-3,11.27,66.5,56.64,-7,77
+2025,r3,401767190,Maine,Stonehill,FCS/FCS,2,ESPN Bet,-21,-10.25,51.5,49.72,3,23
+2025,r3,401767529,Chattanooga,Stetson,FCS/FCS,2,ESPN Bet,-27.5,3.73,54.5,54.76,-63,63
+2025,r3,401757233,Florida International,Florida Atlantic,G5,2,DraftKings,-2.5,-1.92,56.5,52.59,-10,66
+2025,r3,401767573,Mercer,Wofford,FCS/FCS,1,ESPN Bet,-10.5,-6.86,42.5,42.97,-1,43
+2025,r3,401767300,West Georgia,East Tennessee State,FCS/FCS,2,ESPN Bet,-5.5,-13.13,52.5,53.81,-4,66
+2025,r3,401757235,Kennesaw State,Merrimack,FCS/G5,2,DraftKings,-17.5,6.21,44.5,46.14,-14,40
+2025,r3,401761606,Marshall,Eastern Kentucky,FCS/G5,2,DraftKings,-14.5,-1.31,49.5,49.28,-31,45
+2025,r3,401767237,Western Illinois,Valparaiso,FCS/FCS,2,ESPN Bet,-17,12.75,49.5,52.02,-21,81
+2025,r3,401767181,North Carolina A&T,Hampton,FCS/FCS,2,ESPN Bet,3,8.54,48.5,53.2,-3,63
+2025,r3,401762466,Rice,Prairie View A&M,FCS/G5,2,DraftKings,-29.5,-6.31,48.5,46.77,-21,55
+2025,r3,401757234,Georgia Southern,Jacksonville State,G5,2,DraftKings,-3,14.57,58.5,54.34,-7,75
+2025,r3,401752827,Ohio State,Ohio,G5,2,DraftKings,-28.5,-17.35,49.5,48.39,-28,46
+2025,r3,401767305,Central Arkansas,Tarleton State,FCS/FCS,2,ESPN Bet,13,14.56,56.5,54.92,46,66
+2025,r3,401761605,Georgia State,Murray State,FCS/G5,2,DraftKings,-31.5,-11.53,63.5,58.44,-16,58
+2025,r3,401767159,McNeese,Weber State,FCS/FCS,2,ESPN Bet,3,-15.0,52.5,52.82,1,83
+2025,r3,401767544,South Dakota State,Drake,FCS/FCS,1,ESPN Bet,-34,-5.77,47.5,47.71,-16,58
+2025,r3,401767248,Austin Peay,Morehead State,FCS/FCS,2,ESPN Bet,-25.5,-11.16,49.5,50.1,-49,63
+2025,r3,401752700,Ole Miss,Arkansas,P4,2,DraftKings,-3.5,-0.06,60.5,56.31,-6,76
+2025,r3,401783278,UAlbany,New Haven,FCS/FCS,2,ESPN Bet,-19.5,-3.19,45.5,52.32,7,41
+2025,r3,401761607,Southern Miss,App State,G5,2,DraftKings,3,2.86,55.5,51.11,-16,60
+2025,r3,401752829,Illinois,Western Michigan,G5,2,DraftKings,-27.5,-20.87,50.5,52.45,-38,38
+2025,r3,401767426,SE Louisiana,Mississippi Valley State,FCS/FCS,2,ESPN Bet,-32.5,-16.45,51.5,53.67,-53,59
+2025,r3,401767235,UT Martin,Southern Illinois,FCS/FCS,2,ESPN Bet,3,7.25,52.5,51.51,27,47
+2025,r3,401767458,Texas Southern,Lamar,FCS/FCS,2,ESPN Bet,9.5,1.73,45.5,46.93,24,38
+2025,r3,401754536,Virginia Tech,Old Dominion,G5,2,DraftKings,-5.5,6.58,50.5,51.55,19,71
+2025,r3,401767202,Gardner-Webb,The Citadel,FCS/FCS,2,ESPN Bet,-3.5,3.7,54.5,56.45,-10,36
+2025,r3,401752698,Kentucky,Eastern Michigan,G5,2,DraftKings,-26.5,-17.78,49.5,52.01,-25,71
+2025,r3,401761604,Coastal Carolina,East Carolina,G5,2,DraftKings,7,15.84,57.5,49.63,38,38
+2025,r3,401752707,Notre Dame,Texas A&M,P4,1,DraftKings,-6.5,-4.7,49.5,54.13,1,81
+2025,r3,401757257,Louisiana Tech,New Mexico State,G5,2,DraftKings,-10,-7.28,42.5,42.03,-35,63
+2025,r3,401752699,LSU,Florida,P4,2,DraftKings,-4.5,-1.15,47.5,46.51,-10,30
+2025,r3,401752830,Iowa,Massachusetts,G5,2,DraftKings,-35.5,-25.18,44.5,48.86,-40,54
+2025,r3,401752704,South Carolina,Vanderbilt,P4,2,DraftKings,-3,-2.25,48.5,50.94,24,38
+2025,r3,401754534,Tulane,Duke,G5,2,DraftKings,-1.5,-9.83,52.5,53.1,-7,61
+2025,r3,401756894,TCU,Abilene Christian,FCS/P4,1,DraftKings,-42.5,-23.63,60.5,54.06,-21,63
+2025,r3,401762465,Tulsa,Navy,G5,2,DraftKings,14,12.48,52.5,52.3,19,65
+2025,r3,401756895,Wyoming,Utah,G5,2,DraftKings,24.5,12.59,47.5,47.16,25,37
+2025,r3,401762463,UAB,Akron,G5,2,DraftKings,-12.5,-13.51,58.5,56.37,-3,59
+2025,r3,401767113,Southern Utah,Northern Arizona,FCS/FCS,2,ESPN Bet,3.5,-5.38,55.5,55.89,3,101
+2025,r3,401767131,Sacramento State,Mercyhurst,FCS/FCS,2,ESPN Bet,-21.5,5.98,57.5,48.88,-21,77
+2025,r3,401760368,Utah State,Air Force,G5,1,DraftKings,4,5.89,51.5,54.24,-19,79
+2025,r3,401760369,Fresno State,Southern,FCS/G5,3,DraftKings,-37.5,-18.43,51.5,49.38,-49,63
+2025,r3,401754533,Stanford,Boston College,P4,2,DraftKings,14,11.61,44.5,54.7,-10,50
+2025,r3,401752840,California,Minnesota,P4,2,DraftKings,3,2.38,41.5,48.3,-13,41
+2025,r3,401756889,Arizona State,Texas State,G5,2,DraftKings,-18.5,-4.25,61.5,58.12,-19,49
+2025,r3,401760370,Hawai'i,Portland State,FCS/G5,3,DraftKings,-35.5,-14.69,54.5,54.22,-20,26
+2025,r4,401762468,Charlotte,Rice,G5,3,DraftKings,1.5,5.9,42.5,48.66,11,45
+2025,r4,401767679,Lafayette,Columbia,FCS/FCS,0,ESPN Bet,-3.5,-0.6,54.5,53.03,-24,52
+2025,r4,401756900,Oklahoma State,Tulsa,G5,2,DraftKings,-10,-2.96,54.5,53.54,7,31
+2025,r4,401752844,Rutgers,Iowa,P4,3,DraftKings,2.5,-1.42,46.5,53.5,10,66
+2025,r4,401767644,Princeton,San Diego,FCS/FCS,0,ESPN Bet,-7.5,-4.3,48.5,51.37,7,77
+2025,r4,401756901,Utah,Texas Tech,P4,3,DraftKings,-3.5,-7.68,58.5,59.0,24,44
+2025,r4,401754617,Virginia Tech,Wofford,FCS/P4,3,DraftKings,-34.5,-7.14,51.5,47.64,-32,44
+2025,r4,401767726,Yale,Holy Cross,FCS/FCS,0,ESPN Bet,-6.5,-4.02,44.5,47.6,-18,38
+2025,r4,401754642,Louisville,Bowling Green,G5,2,DraftKings,-26.5,-12.37,50.5,50.57,-23,57
+2025,r4,401754537,Clemson,Syracuse,P4,3,DraftKings,-17.5,-0.86,53.5,54.44,13,55
+2025,r4,401752845,Wisconsin,Maryland,P4,3,DraftKings,-10.5,4.13,44.5,47.34,17,37
+2025,r4,401762469,Army,North Texas,G5,2,DraftKings,2.5,2.55,50.5,55.3,7,83
+2025,r4,401762470,South Florida,South Carolina State,FCS/G5,3,DraftKings,-36.5,-12.54,58.5,54.65,-49,77
+2025,r4,401760376,Miami (OH),UNLV,G5,2,DraftKings,2.5,5.52,49.5,50.96,3,79
+2025,r4,401767551,Brown,Georgetown,FCS/FCS,0,ESPN Bet,3.5,0.4,57.5,55.82,-46,46
+2025,r4,401754636,TCU,SMU,P4,2,DraftKings,-6.5,-8.88,63.5,57.32,-11,59
+2025,r4,401752708,Memphis,Arkansas,G5,3,DraftKings,7,0.57,59.5,55.84,-1,63
+2025,r4,401752715,Tennessee,UAB,G5,3,DraftKings,-39.5,-22.0,69.5,65.64,-32,80
+2025,r4,401767258,Monmouth,Villanova,FCS/FCS,2,ESPN Bet,-3.5,-3.92,65.5,58.83,-18,84
+2025,r4,401762822,Central Michigan,Wagner,FCS/G5,3,DraftKings,-29.5,-6.22,46.5,49.53,-39,59
+2025,r4,401767286,Illinois State,North Alabama,FCS/FCS,3,ESPN Bet,-17,-10.26,58.5,55.01,-2,74
+2025,r4,401767267,Dartmouth,New Hampshire,FCS/FCS,0,ESPN Bet,2,-2.99,45.5,50.62,-7,47
+2025,r4,401767342,Saint Francis,Delaware State,FCS/FCS,3,ESPN Bet,7.5,12.14,47.5,49.57,29,49
+2025,r4,401767672,Colgate,Fordham,FCS/FCS,3,ESPN Bet,-7,-9.76,59.5,60.05,-23,65
+2025,r4,401767653,Stetson,Harvard,FCS/FCS,0,ESPN Bet,35.5,13.51,56.5,55.62,52,66
+2025,r4,401767772,Stonehill,Pennsylvania,FCS/FCS,0,ESPN Bet,17.5,8.9,49.5,48.73,3,45
+2025,r4,401767589,Richmond,VMI,FCS/FCS,3,ESPN Bet,-17,-6.16,42.5,48.23,-24,52
+2025,r4,401767574,The Citadel,Mercer,FCS/FCS,2,ESPN Bet,2.5,3.13,42.5,45.36,38,38
+2025,r4,401767613,Robert Morris,Dayton,FCS/FCS,2,ESPN Bet,-2.5,11.58,41.5,47.68,3,31
+2025,r4,401767541,South Dakota,Drake,FCS/FCS,2,ESPN Bet,-17,7.76,46.5,50.82,-21,63
+2025,r4,401767580,Western Carolina,Samford,FCS/FCS,3,ESPN Bet,-10.5,-8.87,58.5,56.57,-15,85
+2025,r4,401767107,Montana State,Mercyhurst,FCS/FCS,3,ESPN Bet,-29.5,-13.99,60.5,57.39,-17,17
+2025,r4,401767099,Montana,Indiana State,FCS/FCS,2,ESPN Bet,-21,-10.84,56.5,55.2,-43,83
+2025,r4,401752841,Oregon,Oregon State,G5,3,DraftKings,-33.5,-35.18,58.5,57.29,-34,48
+2025,r4,401752714,Oklahoma,Auburn,P4,3,DraftKings,-6.5,-7.4,47.5,46.7,-7,41
+2025,r4,401761610,Eastern Michigan,Louisiana,G5,3,DraftKings,2.5,9.06,51.5,54.1,-3,65
+2025,r4,401754640,UCF,North Carolina,P4,2,DraftKings,-7,-6.41,46.5,50.82,-25,43
+2025,r4,401752848,Notre Dame,Purdue,P4,2,DraftKings,-24.5,-13.44,51.5,52.07,-26,86
+2025,r4,401761613,Buffalo,Troy,G5,3,DraftKings,-5.5,-4.42,43.5,50.9,4,38
+2025,r4,401752846,Nebraska,Michigan,P4,3,DraftKings,1.5,-4.27,47.5,51.65,3,57
+2025,r4,401757262,Liberty,James Madison,G5,2,DraftKings,7.5,6.11,46.5,48.98,18,44
+2025,r4,401752711,Ole Miss,Tulane,G5,3,DraftKings,-12.5,-10.19,61.5,55.81,-35,55
+2025,r4,401754541,Florida State,Kent State,G5,2,DraftKings,-44.5,-24.16,56.5,54.87,-56,76
+2025,r4,401762823,Ohio,Gardner-Webb,FCS/G5,3,DraftKings,-30.5,-16.13,55.5,53.96,-17,87
+2025,r4,401762820,Western Michigan,Toledo,G5,3,DraftKings,13.5,12.73,48.5,50.96,-1,27
+2025,r4,401757169,UConn,Ball State,G5,3,DraftKings,-21,-20.43,53.5,56.91,-6,56
+2025,r4,401767162,William & Mary,Charleston Southern,FCS/FCS,3,ESPN Bet,-11.5,-7.36,45.5,50.04,-27,41
+2025,r4,401767502,North Dakota,Valparaiso,FCS/FCS,3,ESPN Bet,-44,-13.9,59.5,56.0,-51,65
+2025,r4,401767182,Howard,Hampton,FCS/FCS,3,ESPN Bet,3,3.46,46.5,49.58,-27,41
+2025,r4,401767272,North Carolina A&T,North Carolina Central,FCS/FCS,3,ESPN Bet,13,8.54,48.5,55.5,42,82
+2025,r4,401767405,Norfolk State,Sacred Heart,FCS/FCS,3,ESPN Bet,-1,2.47,47.5,47.74,3,59
+2025,r4,401754538,Duke,NC State,P4,3,DraftKings,-3,2.29,57.5,56.57,-12,78
+2025,r4,401752712,Mississippi State,Northern Illinois,G5,2,DraftKings,-23.5,-12.23,48.5,48.65,-28,48
+2025,r4,401754542,Georgia Tech,Temple,G5,3,DraftKings,-24.5,-11.86,52.5,54.04,-21,69
+2025,r4,401767114,Northern Arizona,Incarnate Word,FCS/FCS,3,ESPN Bet,-5.5,-9.04,54.5,57.58,-8,54
+2025,r4,401760375,San José State,Idaho,FCS/G5,2,DraftKings,-14,6.57,51.5,47.06,-3,59
+2025,r4,401767151,East Tennessee State,Elon,FCS/FCS,3,ESPN Bet,-2,-3.17,56.5,58.5,-10,42
+2025,r4,401757259,Florida International,Delaware,G5,3,DraftKings,-4,-3.46,54.5,53.1,22,54
+2025,r4,401762821,Akron,Duquesne,FCS/G5,3,DraftKings,-10.5,-0.19,51.5,54.05,-44,58
+2025,r4,401767743,Merrimack,Central Connecticut,FCS/FCS,3,ESPN Bet,-1.5,-3.67,42.5,47.03,-2,30
+2025,r4,401756899,Kansas,West Virginia,P4,3,DraftKings,-12.5,-7.66,54.5,51.86,-31,51
+2025,r4,401767664,Bucknell,Lehigh,FCS/FCS,3,ESPN Bet,14,8.99,54.5,53.16,17,65
+2025,r4,401757261,Kennesaw State,Arkansas State,G5,3,DraftKings,4.5,-0.09,57.5,51.58,-7,49
+2025,r4,401767329,Towson,Youngstown State,FCS/FCS,3,ESPN Bet,3,2.57,54.5,53.91,3,59
+2025,r4,401767278,West Georgia,Eastern Kentucky,FCS/FCS,3,ESPN Bet,-10.5,-16.06,49.5,49.62,-21,45
+2025,r4,401767319,Rhode Island,Long Island University,FCS/FCS,3,ESPN Bet,-16.5,-13.02,45.5,48.03,-21,35
+2025,r4,401767031,Campbell,Bryant,FCS/FCS,3,ESPN Bet,1.5,4.6,51.5,51.2,-2,98
+2025,r4,401757260,Jacksonville State,Murray State,FCS/G5,3,DraftKings,-35.5,-23.04,60.5,57.37,-35,55
+2025,r4,401757268,Western Kentucky,Nevada,G5,3,DraftKings,-8.5,-13.17,54.5,51.55,-15,47
+2025,r4,401767416,Grambling,East Texas A&M,FCS/FCS,2,ESPN Bet,3.5,-12.62,54.5,57.88,-3,59
+2025,r4,401767333,UAlbany,Cornell,FCS/FCS,0,ESPN Bet,3,5.77,50.5,52.85,-3,23
+2025,r4,401767433,Prairie View A&M,Northwestern State,FCS/FCS,3,ESPN Bet,-10.5,-11.62,46.5,52.64,-3,51
+2025,r4,401757265,Missouri State,UT Martin,FCS/G5,3,DraftKings,-14.5,-10.5,55.5,52.12,-32,52
+2025,r4,401760372,Air Force,Boise State,G5,2,DraftKings,10.5,1.42,51.5,55.32,12,86
+2025,r4,401752713,Missouri,South Carolina,P4,3,DraftKings,-10,-13.0,48.5,52.07,-9,49
+2025,r4,401761611,South Alabama,Coastal Carolina,G5,3,DraftKings,-14.5,-17.84,51.5,50.0,18,58
+2025,r4,401767218,Southeast Missouri State,Southern Illinois,FCS/FCS,3,ESPN Bet,5.5,6.26,54.5,53.27,28,90
+2025,r4,401757264,Middle Tennessee,Marshall,G5,3,DraftKings,2.5,10.64,46.5,48.79,14,70
+2025,r4,401761609,Georgia Southern,Maine,FCS/G5,3,DraftKings,-23.5,-7.45,57.5,53.36,-28,62
+2025,r4,401767210,Lindenwood,Stony Brook,FCS/FCS,3,ESPN Bet,3.5,-5.35,58.5,52.02,-3,57
+2025,r4,401767061,Eastern Washington,Western Illinois,FCS/FCS,3,ESPN Bet,-13,-0.99,58.5,58.75,-21,83
+2025,r4,401767121,Houston Christian,Northern Colorado,FCS/FCS,3,ESPN Bet,-1.5,-2.88,47.5,48.71,3,49
+2025,r4,401767306,Tarleton State,Chattanooga,FCS/FCS,3,ESPN Bet,-27,-18.11,55.5,55.07,-28,76
+2025,r4,401756896,Baylor,Arizona State,P4,3,DraftKings,-3,2.34,60.5,56.86,3,51
+2025,r4,401757263,Louisiana Tech,Southern Miss,G5,3,DraftKings,-3,-10.82,51.5,50.08,-10,50
+2025,r4,401756898,East Carolina,BYU,G5,2,DraftKings,6.5,0.58,49.5,50.88,21,47
+2025,r4,401752709,Miami,Florida,P4,3,DraftKings,-8.5,-11.44,51.5,50.79,-19,33
+2025,r4,401752843,Indiana,Illinois,P4,3,DraftKings,-7,-4.4,51.5,53.81,-53,73
+2025,r4,401754539,Virginia,Stanford,P4,3,DraftKings,-16.5,-13.23,48.5,52.92,-28,68
+2025,r4,401752842,Washington State,Washington,G5,2,DraftKings,21,10.34,51.5,55.39,35,83
+2025,r4,401752716,Vanderbilt,Georgia State,G5,3,DraftKings,-27.5,-27.7,53.5,54.36,-49,91
+2025,r4,401752710,LSU,SE Louisiana,FCS/P4,3,ESPN Bet,-48.5,-15.95,60.5,46.04,-46,66
+2025,r4,401767239,Abilene Christian,Austin Peay,FCS/FCS,3,ESPN Bet,2,7.27,54.5,51.69,-14,76
+2025,r4,401752723,Texas,Sam Houston,G5,3,DraftKings,-39.5,-26.08,51.5,48.64,-55,55
+2025,r4,401767308,Utah Tech,Northern Iowa,FCS/FCS,3,ESPN Bet,6.5,2.79,49.5,48.7,-11,29
+2025,r4,401760377,Utah State,McNeese,FCS/G5,3,DraftKings,-24.5,-11.78,63.5,59.46,-41,55
+2025,r4,401767072,Stephen F. Austin,Cal Poly,FCS/FCS,3,ESPN Bet,-10.5,0.96,54.5,54.28,-18,52
+2025,r4,401761612,Texas State,Nicholls,FCS/G5,3,DraftKings,-32.5,-17.19,57.5,54.03,-32,38
+2025,r4,401767132,Sacramento State,Central Arkansas,FCS/FCS,3,ESPN Bet,-15.5,-9.58,59.5,55.26,-29,61
+2025,r4,401757267,UTEP,UL Monroe,G5,2,DraftKings,-5.5,-7.08,47.5,50.81,6,56
+2025,r4,401767160,Weber State,Butler,FCS/FCS,3,ESPN Bet,-16,7.89,53.5,54.69,-14,62
+2025,r4,401760373,Colorado State,UTSA,G5,2,DraftKings,4.5,5.63,58.5,57.69,1,33
+2025,r4,401767157,UC Davis,Southern Utah,FCS/FCS,2,ESPN Bet,-6.5,1.11,61.5,62.81,-16,84
+2025,r4,401756897,Colorado,Wyoming,G5,3,DraftKings,-12.5,-9.36,45.5,44.56,-17,57
+2025,r4,401754540,San Diego State,California,G5,2,DraftKings,14,9.83,47.5,48.07,-34,34
+2025,r4,401752847,USC,Michigan State,P4,3,DraftKings,-18.5,-15.13,55.5,58.31,-14,76
+2025,r4,401760374,Hawai'i,Fresno State,G5,4,DraftKings,2.5,6.3,47.5,49.61,2,44
+2025,r5,401762471,East Carolina,Army,G5,3,DraftKings,-3.5,-2.7,52.5,51.79,-22,34
+2025,r5,401754543,Virginia,Florida State,P4,3,DraftKings,7,-1.8,59.5,59.54,-8,84
+2025,r5,401756902,Arizona State,TCU,P4,3,DraftKings,-3,1.04,54.5,53.8,-3,51
+2025,r5,401752939,Oregon State,Houston,G5,3,DraftKings,11.5,21.62,48.5,49.64,3,51
+2025,r5,401762825,Ohio,Bowling Green,G5,4,DraftKings,-7.5,-4.72,49.5,50.06,-15,55
+2025,r5,401752850,Illinois,USC,P4,4,DraftKings,6.5,4.01,62.5,59.47,-2,66
+2025,r5,401761617,North Texas,South Alabama,G5,4,DraftKings,-13.5,-20.08,63.5,61.66,-14,58
+2025,r5,401756906,Kansas State,UCF,P4,3,DraftKings,-6,2.06,48.5,51.43,-14,54
+2025,r5,401754547,Pittsburgh,Louisville,P4,3,DraftKings,3,5.64,53.5,58.14,7,61
+2025,r5,401752849,Minnesota,Rutgers,P4,3,DraftKings,-3.5,1.55,51.5,55.66,-3,59
+2025,r5,401767343,Sacred Heart,Delaware State,FCS/FCS,4,ESPN Bet,5,1.73,54.5,50.41,-4,66
+2025,r5,401767406,Wagner,Norfolk State,FCS/FCS,4,ESPN Bet,2.5,5.64,47.5,52.21,-5,31
+2025,r5,401754545,Syracuse,Duke,P4,4,DraftKings,4,-8.82,59.5,61.56,35,41
+2025,r5,401767697,Central Connecticut,Dartmouth,FCS/FCS,1,ESPN Bet,7.5,6.01,45.5,50.48,7,63
+2025,r5,401779328,Duquesne,New Haven,FCS/FCS,4,ESPN Bet,-18,1.6,54.5,56.36,-26,62
+2025,r5,401767734,Lehigh,Pennsylvania,FCS/FCS,1,ESPN Bet,-9.5,-8.97,47.5,51.21,-14,74
+2025,r5,401754546,Wake Forest,Georgia Tech,P4,3,DraftKings,13.5,11.33,53.5,51.49,1,59
+2025,r5,401752717,Arkansas,Notre Dame,P4,3,DraftKings,5.5,-1.49,64.5,62.46,43,69
+2025,r5,401767614,Dayton,Stetson,FCS/FCS,3,ESPN Bet,-25.5,-16.3,49.5,50.54,-34,62
+2025,r5,401756905,Kansas,Cincinnati,P4,3,DraftKings,-5.5,-8.01,55.5,53.92,3,71
+2025,r5,401767689,Yale,Cornell,FCS/FCS,1,ESPN Bet,-19.5,-12.85,48.5,50.44,-17,65
+2025,r5,401767721,Columbia,Georgetown,FCS/FCS,1,ESPN Bet,-11.5,-2.16,50.5,52.24,-9,29
+2025,r5,401752725,Vanderbilt,Utah State,G5,4,DraftKings,-23.5,-13.99,57.5,59.22,-20,90
+2025,r5,401767594,Butler,Marist,FCS/FCS,3,ESPN Bet,-6.5,-7.52,47.5,49.56,-3,59
+2025,r5,401767758,Stonehill,Long Island University,FCS/FCS,4,ESPN Bet,6,-1.38,46.5,47.06,-7,13
+2025,r5,401762826,Central Michigan,Eastern Michigan,G5,4,DraftKings,-3,-6.08,55.5,58.42,-11,37
+2025,r5,401767673,Fordham,Holy Cross,FCS/FCS,4,ESPN Bet,14.5,17.95,45.5,49.57,-5,47
+2025,r5,401767032,Bryant,Towson,FCS/FCS,4,ESPN Bet,9.5,2.17,54.5,53.56,2,50
+2025,r5,401767636,Presbyterian,Morehead State,FCS/FCS,4,ESPN Bet,-23.5,-18.95,54.5,57.07,-41,41
+2025,r5,401767268,New Hampshire,UAlbany,FCS/FCS,4,ESPN Bet,-13,-10.08,44.5,46.77,-18,30
+2025,r5,401761614,James Madison,Georgia Southern,G5,3,DraftKings,-14.5,-14.56,54.5,55.95,-25,45
+2025,r5,401767249,Austin Peay,Utah Tech,FCS/FCS,4,ESPN Bet,-14,-11.38,46.5,50.09,-32,52
+2025,r5,401767352,Richmond,Howard,FCS/FCS,4,ESPN Bet,-16,-4.98,43.5,44.45,-1,25
+2025,r5,401767510,North Dakota State,South Dakota,FCS/FCS,3,ESPN Bet,-25.5,-17.68,50.5,53.2,-38,64
+2025,r5,401767152,Elon,Hampton,FCS/FCS,4,ESPN Bet,-17.5,-13.28,55.5,52.16,-21,61
+2025,r5,401767082,Northern Colorado,Idaho State,FCS/FCS,4,ESPN Bet,3.5,-2.8,54.5,51.85,8,44
+2025,r5,401761616,UL Monroe,Arkansas State,G5,3,DraftKings,-1.5,-1.9,55.5,54.39,-12,44
+2025,r5,401767545,South Dakota State,Mercyhurst,FCS/FCS,3,ESPN Bet,-32.5,-20.31,58.5,49.34,-44,58
+2025,r5,401767361,Florida A&M,Alabama State,FCS/FCS,3,ESPN Bet,4,6.91,50.5,51.36,28,56
+2025,r5,401767311,Bethune-Cookman,Alabama A&M,FCS/FCS,4,ESPN Bet,4.5,4.91,58.5,57.0,-7,75
+2025,r5,401757170,Buffalo,UConn,G5,4,DraftKings,3,5.74,51.5,55.0,3,37
+2025,r5,401752724,Texas A&M,Auburn,P4,3,DraftKings,-6.5,-4.04,51.5,54.83,-6,26
+2025,r5,401762473,Navy,Rice,G5,3,DraftKings,-14,-15.42,45.5,51.49,-8,34
+2025,r5,401752719,Ole Miss,LSU,P4,4,DraftKings,-2.5,-6.57,57.5,52.29,-5,43
+2025,r5,401756907,Oklahoma State,Baylor,P4,3,DraftKings,21,11.74,58.5,56.38,18,72
+2025,r5,401767142,Campbell,Western Carolina,FCS/FCS,4,ESPN Bet,6.5,-1.51,68.5,66.54,7,77
+2025,r5,401752852,Washington,Ohio State,P4,3,DraftKings,9.5,3.49,52.5,55.64,18,30
+2025,r5,401767337,Villanova,William & Mary,FCS/FCS,3,ESPN Bet,-6.5,0.03,50.5,53.04,-7,55
+2025,r5,401767323,Stony Brook,Merrimack,FCS/FCS,4,ESPN Bet,-7,2.2,47.5,47.35,-25,45
+2025,r5,401752851,Northwestern,UCLA,P4,3,DraftKings,-6,-10.89,45.5,46.23,-3,31
+2025,r5,401752853,Iowa,Indiana,P4,4,DraftKings,9.5,11.11,47.5,53.92,5,35
+2025,r5,401756908,West Virginia,Utah,P4,4,DraftKings,13.5,8.92,46.5,49.78,34,62
+2025,r5,401769866,Lafayette,Princeton,FCS/FCS,1,ESPN Bet,-7,-10.63,60.5,58.26,10,66
+2025,r5,401760380,Northern Illinois,San Diego State,G5,3,DraftKings,1.5,5.74,41.5,45.48,3,9
+2025,r5,401762824,Toledo,Akron,G5,4,DraftKings,-21.5,-13.54,50.5,49.96,-42,48
+2025,r5,401767566,Samford,Furman,FCS/FCS,3,ESPN Bet,7,12.92,54.5,53.48,18,44
+2025,r5,401762827,Miami (OH),Lindenwood,FCS/G5,3,DraftKings,-22.5,-7.19,49.5,51.95,-38,38
+2025,r5,401767191,Maine,North Carolina A&T,FCS/FCS,4,ESPN Bet,-13.5,-8.12,48.5,54.94,-7,67
+2025,r5,401754544,Boston College,California,P4,3,DraftKings,-6,-2.84,54.5,52.51,4,52
+2025,r5,401762474,Tulsa,Tulane,G5,4,DraftKings,14.5,4.79,52.5,50.13,17,45
+2025,r5,401767062,Montana State,Eastern Washington,FCS/FCS,4,ESPN Bet,-21,-18.08,57.5,54.48,-54,60
+2025,r5,401767174,Western Illinois,Eastern Illinois,FCS/FCS,3,ESPN Bet,-2.5,1.21,62.5,59.92,8,54
+2025,r5,401760378,Air Force,Hawai'i,G5,3,DraftKings,-7,-4.76,52.5,53.88,9,79
+2025,r5,401767645,San Diego,St. Thomas (MN),FCS/FCS,3,ESPN Bet,-1,5.71,53.5,52.17,-3,57
+2025,r5,401757274,New Mexico,New Mexico State,G5,3,DraftKings,-16.5,-12.18,53.5,51.34,-18,58
+2025,r5,401752720,Mississippi State,Tennessee,P4,4,DraftKings,7.5,5.61,63.5,61.44,7,75
+2025,r5,401767226,Tennessee State,Tennessee Tech,FCS/FCS,3,ESPN Bet,31.5,20.13,56.5,54.5,27,43
+2025,r5,401767115,Portland State,Northern Arizona,FCS/FCS,4,ESPN Bet,21,13.06,54.5,58.15,14,48
+2025,r5,401767427,Mississippi Valley State,Texas Southern,FCS/FCS,3,ESPN Bet,13.5,3.41,47.5,52.53,3,43
+2025,r5,401767558,East Tennessee State,Mercer,FCS/FCS,3,ESPN Bet,2,2.99,52.5,51.29,4,72
+2025,r5,401767530,Chattanooga,The Citadel,FCS/FCS,4,ESPN Bet,-15.5,-11.65,47.5,50.69,18,38
+2025,r5,401757270,Kennesaw State,Middle Tennessee,G5,4,DraftKings,-7,-11.24,54.5,49.31,-8,40
+2025,r5,401767163,Charleston Southern,South Carolina State,FCS/FCS,4,ESPN Bet,10.5,8.21,51.5,52.67,-7,55
+2025,r5,401767279,Eastern Kentucky,Nicholls,FCS/FCS,4,ESPN Bet,-2.5,-3.12,42.5,45.45,-20,34
+2025,r5,401767665,Bucknell,Saint Francis,FCS/FCS,4,ESPN Bet,-18.5,-16.42,49.5,51.86,-7,53
+2025,r5,401767552,Harvard,Brown,FCS/FCS,1,ESPN Bet,-16.5,-5.21,57.5,54.15,-34,48
+2025,r5,401757271,Old Dominion,Liberty,G5,3,DraftKings,-14.5,-20.69,53.5,51.37,-14,28
+2025,r5,401762828,Western Michigan,Rhode Island,FCS/G5,4,DraftKings,-7,2.11,45.5,42.38,-33,61
+2025,r5,401767370,Alcorn State,Arkansas-Pine Bluff,FCS/FCS,3,ESPN Bet,7,-2.64,50.5,53.75,4,44
+2025,r5,401756904,Iowa State,Arizona,P4,3,DraftKings,-4,-2.88,48.5,48.64,-25,53
+2025,r5,401757269,Southern Miss,Jacksonville State,G5,4,DraftKings,-4.5,1.72,55.5,55.29,-17,67
+2025,r5,401767422,Southern,Jackson State,FCS/FCS,3,ESPN Bet,9.5,16.45,50.5,49.03,25,51
+2025,r5,401767523,SE Louisiana,UT Rio Grande Valley,FCS/FCS,4,ESPN Bet,-18,9.82,53.5,57.35,-14,76
+2025,r5,401767240,Incarnate Word,Abilene Christian,FCS/FCS,4,ESPN Bet,-2,5.23,56.5,54.86,-31,45
+2025,r5,401767417,Prairie View A&M,Grambling,FCS/FCS,4,ESPN Bet,3,6.41,52.5,54.56,-15,41
+2025,r5,401762472,Florida Atlantic,Memphis,G5,3,DraftKings,14,13.42,62.5,55.51,29,81
+2025,r5,401767483,Lamar,Central Arkansas,FCS/FCS,3,ESPN Bet,-6.5,-10.52,48.5,52.04,-3,67
+2025,r5,401767219,UT Martin,Southeast Missouri State,FCS/FCS,4,ESPN Bet,3,4.78,56.5,55.26,-24,44
+2025,r5,401767412,East Texas A&M,North Carolina Central,FCS/FCS,3,ESPN Bet,14.5,11.99,56.5,57.14,8,92
+2025,r5,401754548,NC State,Virginia Tech,P4,4,DraftKings,-10,-4.92,57.5,56.49,2,44
+2025,r5,401757273,Missouri State,Western Kentucky,G5,4,DraftKings,3.5,2.93,59.5,55.33,5,49
+2025,r5,401754549,Stanford,San José State,G5,3,DraftKings,-3,-3.54,49.5,50.39,-1,59
+2025,r5,401752950,Colorado State,Washington State,G5,3,DraftKings,-4.5,-3.49,48.5,51.89,17,23
+2025,r5,401760379,Boise State,App State,G5,3,DraftKings,-16.5,-13.0,59.5,54.44,-33,61
+2025,r5,401752718,Georgia,Alabama,P4,3,DraftKings,-2.5,-5.56,53.5,54.21,3,45
+2025,r5,401752721,Missouri,Massachusetts,G5,3,DraftKings,-44.5,-36.18,57.5,56.75,-36,48
+2025,r5,401752854,Penn State,Oregon,P4,3,DraftKings,-3.5,0.65,53.5,55.12,6,54
+2025,r5,401752722,South Carolina,Kentucky,P4,3,DraftKings,-5.5,-3.2,46.5,47.32,-22,48
+2025,r5,401767491,Stephen F. Austin,McNeese,FCS/FCS,4,ESPN Bet,-13.5,-15.28,55.5,52.29,-17,51
+2025,r5,401761615,Louisiana,Marshall,G5,4,DraftKings,2.5,3.56,47.5,51.82,-3,105
+2025,r5,401767293,Southern Utah,West Georgia,FCS/FCS,4,ESPN Bet,1,5.32,59.5,59.83,3,51
+2025,r5,401757272,UTEP,Louisiana Tech,G5,4,DraftKings,3.5,9.36,48.5,47.55,19,41
+2025,r5,401767073,Sacramento State,Cal Poly,FCS/FCS,4,ESPN Bet,-18,-3.72,57.5,56.23,8,56
+2025,r5,401767158,UC Davis,Weber State,FCS/FCS,3,ESPN Bet,-16.5,-10.97,63.5,62.24,-22,46
+2025,r5,401756903,Colorado,BYU,P4,3,DraftKings,6.5,5.58,48.5,51.67,3,45
+2025,r5,401767091,Montana,Idaho,FCS/FCS,3,ESPN Bet,-7.5,-15.64,55.5,52.91,-11,71
+2025,r6,401757275,New Mexico State,Sam Houston,G5,4,DraftKings,2.5,-4.15,52.5,52.6,-27,47
+2025,r6,401757276,Delaware,Western Kentucky,G5,4,DraftKings,-2.5,-1.56,62.5,55.85,3,51
+2025,r6,401767320,Brown,Rhode Island,FCS/FCS,2,ESPN Bet,14.5,-5.06,48.5,48.27,-7,49
+2025,r6,401762475,South Florida,Charlotte,G5,4,DraftKings,-27.5,-23.15,54.5,52.71,-28,80
+2025,r6,401767681,Princeton,Columbia,FCS/FCS,2,ESPN Bet,-3.5,-6.12,48.5,51.98,-7,27
+2025,r6,401760384,San José State,New Mexico,G5,4,DraftKings,-1.5,6.84,58.5,54.09,-7,63
+2025,r6,401760382,San Diego State,Colorado State,G5,4,DraftKings,-4.5,-12.33,40.5,41.32,-21,69
+2025,r6,401756909,BYU,West Virginia,P4,4,DraftKings,-19.5,-19.51,46.5,50.32,-14,62
+2025,r6,401752861,Purdue,Illinois,P4,4,DraftKings,7,9.34,54.5,54.06,16,70
+2025,r6,401767666,Bucknell,Richmond,FCS/FCS,5,ESPN Bet,5,5.31,50.5,50.07,-5,61
+2025,r6,401767660,Central Connecticut,Sacred Heart,FCS/FCS,5,ESPN Bet,-5.5,-1.97,45.5,49.05,-7,77
+2025,r6,401760381,Navy,Air Force,G5,4,DraftKings,-13.5,-14.73,50.5,60.0,-3,65
+2025,r6,401767751,Duquesne,Stonehill,FCS/FCS,5,ESPN Bet,-7.5,-4.68,49.5,49.09,-20,48
+2025,r6,401754550,Pittsburgh,Boston College,P4,4,DraftKings,-7,-7.52,54.5,59.74,-41,55
+2025,r6,401754552,North Carolina,Clemson,P4,4,DraftKings,15.5,2.27,47.5,48.06,28,48
+2025,r6,401752856,Michigan,Wisconsin,P4,4,DraftKings,-17.5,-13.88,42.5,47.84,-14,34
+2025,r6,401762476,UAB,Army,G5,4,DraftKings,6.5,6.2,55.5,59.02,18,44
+2025,r6,401762830,Ball State,Ohio,G5,4,DraftKings,14,12.75,52.5,54.02,-6,34
+2025,r6,401756911,Baylor,Kansas State,P4,5,DraftKings,-4.5,-2.71,59.5,58.55,-1,69
+2025,r6,401767735,Lehigh,Yale,FCS/FCS,2,ESPN Bet,-4.5,-1.01,50.5,54.57,-18,44
+2025,r6,401752728,Georgia,Kentucky,P4,4,DraftKings,-19.5,-14.9,48.5,51.56,-21,49
+2025,r6,401756912,Cincinnati,Iowa State,P4,4,DraftKings,-1.5,2.93,55.5,52.65,-8,68
+2025,r6,401767628,Marist,San Diego,FCS/FCS,4,ESPN Bet,8.5,3.23,51.5,52.65,-5,33
+2025,r6,401767674,Lafayette,Fordham,FCS/FCS,5,ESPN Bet,-15.5,-18.06,55.5,59.38,-14,34
+2025,r6,401767259,Monmouth,Delaware State,FCS/FCS,4,ESPN Bet,-21.5,-5.36,76.5,66.08,-11,87
+2025,r6,401767233,Tennessee Tech,Western Illinois,FCS/FCS,4,ESPN Bet,-35.5,-29.54,66.5,61.53,-46,86
+2025,r6,401767757,Mercyhurst,Long Island University,FCS/FCS,5,ESPN Bet,-3.5,-9.35,50.5,48.1,-9,35
+2025,r6,401762479,Temple,UTSA,G5,4,DraftKings,6.5,1.56,58.5,59.02,-6,48
+2025,r6,401767615,Morehead State,Dayton,FCS/FCS,4,ESPN Bet,9.5,11.86,46.5,49.39,7,63
+2025,r6,401767621,Drake,Valparaiso,FCS/FCS,3,ESPN Bet,-25,-17.51,47.5,53.32,-41,41
+2025,r6,401767604,Stetson,Davidson,FCS/FCS,4,ESPN Bet,6.5,2.23,61.5,61.87,-3,67
+2025,r6,401767698,Pennsylvania,Dartmouth,FCS/FCS,2,ESPN Bet,3,4.15,56.5,56.71,-12,60
+2025,r6,401754556,Virginia Tech,Wake Forest,P4,4,DraftKings,-4.5,-4.13,51.5,50.25,7,53
+2025,r6,401767269,New Hampshire,Villanova,FCS/FCS,4,ESPN Bet,5.5,-9.12,47.5,48.86,30,44
+2025,r6,401767763,Merrimack,Robert Morris,FCS/FCS,4,ESPN Bet,-8,-6.86,44.5,44.93,-17,31
+2025,r6,401767399,Georgetown,Morgan State,FCS/FCS,5,ESPN Bet,2.5,-0.43,47.5,50.43,-3,51
+2025,r6,401767164,Gardner-Webb,Charleston Southern,FCS/FCS,4,ESPN Bet,-13.5,-9.99,51.5,54.55,-3,57
+2025,r6,401767592,Wofford,Western Carolina,FCS/FCS,4,ESPN Bet,10.5,-2.01,53.5,55.71,2,44
+2025,r6,401767531,VMI,Chattanooga,FCS/FCS,4,ESPN Bet,8,3.43,52.5,55.07,7,35
+2025,r6,401767559,Furman,East Tennessee State,FCS/FCS,4,ESPN Bet,-0.5,1.27,54.5,56.3,-9,53
+2025,r6,401767690,Cornell,Colgate,FCS/FCS,2,ESPN Bet,1.5,-6.31,54.5,56.39,20,62
+2025,r6,401767727,Holy Cross,Harvard,FCS/FCS,2,ESPN Bet,14,19.38,48.5,47.0,35,83
+2025,r6,401767033,Bryant,Maine,FCS/FCS,5,ESPN Bet,-2.5,-8.94,49.5,52.56,20,48
+2025,r6,401767211,Lindenwood,UT Martin,FCS/FCS,5,ESPN Bet,1.5,-0.92,52.5,49.5,-16,44
+2025,r6,401754557,NC State,Campbell,FCS/P4,5,DraftKings,-42.5,-21.91,61.5,61.0,-46,66
+2025,r6,401767595,St. Thomas (MN),Butler,FCS/FCS,4,ESPN Bet,-6.5,-5.78,48.5,51.76,7,35
+2025,r6,401762832,Massachusetts,Western Michigan,G5,4,DraftKings,12.5,15.58,46.5,49.95,18,24
+2025,r6,401767362,Alabama State,Bethune-Cookman,FCS/FCS,4,ESPN Bet,-13,-14.29,57.5,56.47,-17,87
+2025,r6,401767175,Eastern Illinois,Tennessee State,FCS/FCS,4,ESPN Bet,-5,-3.98,50.5,49.65,-24,38
+2025,r6,401767241,Abilene Christian,North Alabama,FCS/FCS,4,ESPN Bet,-11.5,-4.43,58.5,57.96,-29,75
+2025,r6,401756910,Arizona,Oklahoma State,P4,4,DraftKings,-21.5,-16.84,56.5,51.8,-28,54
+2025,r6,401757171,UConn,Florida International,G5,4,DraftKings,-7,-8.54,52.5,54.06,-41,61
+2025,r6,401752855,UCLA,Penn State,P4,4,DraftKings,24.5,23.87,48.5,48.5,-5,79
+2025,r6,401752857,Maryland,Washington,P4,4,DraftKings,5.5,1.56,52.5,53.69,4,44
+2025,r6,401762873,Northern Illinois,Miami (OH),G5,4,DraftKings,4.5,0.69,38.5,43.36,11,39
+2025,r6,401762829,Akron,Central Michigan,G5,5,DraftKings,7,-0.42,47.5,50.22,-6,50
+2025,r6,401754555,SMU,Syracuse,P4,4,DraftKings,-17.5,-7.28,56.5,57.63,-13,49
+2025,r6,401752726,Alabama,Vanderbilt,P4,4,DraftKings,-13.5,0.85,57.5,58.16,-16,44
+2025,r6,401752858,Northwestern,UL Monroe,G5,4,DraftKings,-12.5,-5.54,43.5,46.52,-35,49
+2025,r6,401757165,Notre Dame,Boise State,G5,4,DraftKings,-21.5,-16.63,63.5,61.86,-21,35
+2025,r6,401767273,William & Mary,North Carolina A&T,FCS/FCS,5,ESPN Bet,-20.5,-15.15,53.5,58.37,-4,72
+2025,r6,401752727,Florida,Texas,P4,4,DraftKings,4.5,6.14,42.5,44.14,-8,50
+2025,r6,401752940,App State,Oregon State,G5,4,DraftKings,-1.5,-0.9,53.5,52.64,-4,50
+2025,r6,401762831,Buffalo,Eastern Michigan,G5,5,DraftKings,-9.5,-11.58,53.5,52.55,-1,61
+2025,r6,401767324,UAlbany,Stony Brook,FCS/FCS,5,ESPN Bet,7,2.15,48.5,48.38,35,59
+2025,r6,401754554,Louisville,Virginia,P4,4,DraftKings,-6.5,-4.14,59.5,61.4,3,57
+2025,r6,401761618,Georgia State,James Madison,G5,4,DraftKings,19.5,18.92,52.5,55.15,7,21
+2025,r6,401752860,Nebraska,Michigan State,P4,4,DraftKings,-12.5,-10.51,48.5,55.71,-11,65
+2025,r6,401767183,Hampton,Norfolk State,FCS/FCS,5,ESPN Bet,-4.5,-1.84,54.5,52.49,-7,75
+2025,r6,401767484,Lamar,Nicholls,FCS/FCS,4,ESPN Bet,-3.5,-10.12,41.5,45.15,-7,41
+2025,r6,401767371,Alcorn State,Prairie View A&M,FCS/FCS,4,ESPN Bet,3,5.02,47.5,49.42,1,25
+2025,r6,401752729,Oklahoma,Kent State,G5,4,DraftKings,-46.5,-36.28,53.5,51.97,-44,44
+2025,r6,401761620,Arkansas State,Texas State,G5,4,DraftKings,14,12.65,63.5,56.66,-1,61
+2025,r6,401767503,Northern Iowa,North Dakota,FCS/FCS,4,ESPN Bet,15,15.29,53.5,52.05,28,42
+2025,r6,401767108,Northern Arizona,Montana State,FCS/FCS,5,ESPN Bet,7.5,9.5,59.5,56.17,24,44
+2025,r6,401767312,Alabama A&M,Jackson State,FCS/FCS,4,ESPN Bet,14.5,10.32,55.5,54.08,33,81
+2025,r6,401761619,Old Dominion,Coastal Carolina,G5,4,DraftKings,-18.5,-22.98,53.5,48.7,-40,54
+2025,r6,401767546,Youngstown State,South Dakota State,FCS/FCS,4,ESPN Bet,15,14.69,55.5,54.44,5,65
+2025,r6,401767381,Texas Southern,Arkansas-Pine Bluff,FCS/FCS,4,ESPN Bet,-6,0.12,48.5,49.34,-44,58
+2025,r6,401760385,Wyoming,UNLV,G5,4,DraftKings,4.5,2.68,50.5,51.83,14,48
+2025,r6,401762477,Rice,Florida Atlantic,G5,4,DraftKings,-4.5,-5.99,54.5,53.36,6,48
+2025,r6,401767460,Northwestern State,East Texas A&M,FCS/FCS,4,ESPN Bet,7,4.45,54.5,58.84,30,50
+2025,r6,401767063,Eastern Washington,Portland State,FCS/FCS,5,ESPN Bet,-11,-7.4,59.5,55.5,-8,62
+2025,r6,401767294,Tarleton State,Southern Utah,FCS/FCS,5,ESPN Bet,-20.5,-17.45,64.5,62.99,-10,94
+2025,r6,401761621,Troy,South Alabama,G5,4,DraftKings,2.5,-2.44,46.5,52.85,-7,55
+2025,r6,401756913,Houston,Texas Tech,P4,4,DraftKings,13.5,5.62,51.5,54.16,24,46
+2025,r6,401752859,Ohio State,Minnesota,P4,4,DraftKings,-23.5,-20.07,42.5,46.75,-39,45
+2025,r6,401752730,Texas A&M,Mississippi State,P4,4,DraftKings,-17.5,-6.44,57.5,55.88,-22,40
+2025,r6,401756914,TCU,Colorado,P4,4,DraftKings,-13.5,-7.34,57.5,54.25,-14,56
+2025,r6,401754553,Florida State,Miami,P4,4,DraftKings,3.5,8.63,54.5,56.73,6,50
+2025,r6,401756915,UCF,Kansas,P4,4,DraftKings,4,3.56,53.5,54.29,7,47
+2025,r6,401762478,Memphis,Tulsa,G5,5,DraftKings,-21,-21.62,54.5,51.99,-38,52
+2025,r6,401767083,Idaho State,Montana,FCS/FCS,4,ESPN Bet,13.5,14.75,62.5,60.61,4,80
+2025,r6,401754551,California,Duke,P4,5,DraftKings,3.5,4.95,54.5,51.72,24,66
+2025,r6,401760383,Fresno State,Nevada,G5,4,DraftKings,-12.5,-14.48,45.5,48.86,-3,37
+2025,r7,401757278,Middle Tennessee,Missouri State,G5,5,DraftKings,3,8.43,51.5,51.19,2,42
+2025,r7,401757277,UTEP,Liberty,G5,5,DraftKings,1.5,0.1,46.5,46.92,11,27
+2025,r7,401757280,Kennesaw State,Louisiana Tech,G5,5,DraftKings,4.5,12.89,46.5,44.89,-28,42
+2025,r7,401762480,Tulane,East Carolina,G5,5,DraftKings,-7,1.37,53.5,48.96,-7,45
+2025,r7,401761622,Georgia Southern,Southern Miss,G5,5,DraftKings,3,5.2,59.5,58.94,3,73
+2025,r7,401757279,Sam Houston,Jacksonville State,G5,5,DraftKings,7,13.55,53.5,55.69,2,56
+2025,r7,401767034,Bryant,Brown,FCS/FCS,3,ESPN Bet,4.5,9.24,54.5,52.82,10,48
+2025,r7,401767629,Pennsylvania,Marist,FCS/FCS,3,ESPN Bet,-16.5,-7.53,52.5,52.65,-19,37
+2025,r7,401767691,Harvard,Cornell,FCS/FCS,3,ESPN Bet,-32.5,-33.64,58.5,56.92,-24,44
+2025,r7,401762481,North Texas,South Florida,G5,5,DraftKings,-2.5,-3.99,68.5,62.66,27,99
+2025,r7,401752862,Washington,Rutgers,P4,5,DraftKings,-9.5,-9.19,62.5,60.32,-19,57
+2025,r7,401760388,Colorado State,Fresno State,G5,5,DraftKings,5.5,7.31,47.5,48.85,-28,70
+2025,r7,401762835,Bowling Green,Toledo,G5,5,DraftKings,10.5,10.08,45.5,49.48,-5,51
+2025,r7,401767736,Columbia,Lehigh,FCS/FCS,3,ESPN Bet,12.5,12.27,46.5,45.58,24,38
+2025,r7,401756920,Oklahoma State,Houston,P4,5,DraftKings,14.5,14.64,47.5,49.73,22,56
+2025,r7,401761625,James Madison,Louisiana,G5,5,DraftKings,-18.5,-14.65,44.5,50.88,-10,38
+2025,r7,401754559,Florida State,Pittsburgh,P4,5,DraftKings,-10.5,-3.16,56.5,59.57,3,65
+2025,r7,401756917,Cincinnati,UCF,P4,5,DraftKings,-10,-6.78,55.5,54.26,-9,31
+2025,r7,401752734,Missouri,Alabama,P4,5,DraftKings,3,-0.05,50.5,54.09,3,51
+2025,r7,401767776,Wagner,Mercyhurst,FCS/FCS,5,ESPN Bet,6,10.99,46.5,47.78,12,26
+2025,r7,401754561,SMU,Stanford,P4,5,DraftKings,-19.5,-16.78,55.5,53.19,-24,44
+2025,r7,401767576,Princeton,Mercer,FCS/FCS,3,ESPN Bet,9.5,6.71,53.5,53.8,24,52
+2025,r7,401762483,Army,Charlotte,G5,5,DraftKings,-17.5,-20.57,45.5,51.72,-17,31
+2025,r7,401762833,Akron,Miami (OH),G5,5,DraftKings,11.5,5.9,47.5,48.99,13,27
+2025,r7,401752863,Michigan State,UCLA,P4,5,DraftKings,-7,-8.49,51.5,55.11,25,51
+2025,r7,401752865,Illinois,Ohio State,P4,5,DraftKings,14.5,8.22,51.5,51.13,18,50
+2025,r7,401767667,Lafayette,Bucknell,FCS/FCS,6,ESPN Bet,-10,-8.0,62.5,58.89,-38,86
+2025,r7,401752733,Ole Miss,Washington State,G5,5,DraftKings,-33.5,-22.67,58.5,55.11,-3,45
+2025,r7,401767752,Duquesne,Saint Francis,FCS/FCS,5,ESPN Bet,-14.5,-18.8,48.5,52.04,-45,59
+2025,r7,401767274,North Carolina A&T,South Carolina State,FCS/FCS,6,ESPN Bet,9.5,11.57,58.5,63.39,6,38
+2025,r7,401767270,Rhode Island,New Hampshire,FCS/FCS,6,ESPN Bet,-9.5,-4.18,45.5,44.4,-11,65
+2025,r7,401767353,Sacred Heart,Howard,FCS/FCS,5,ESPN Bet,-2.5,1.37,47.5,46.86,-18,46
+2025,r7,401767637,Stetson,Morehead State,FCS/FCS,6,ESPN Bet,7,2.97,54.5,59.11,-7,35
+2025,r7,401767605,Davidson,St. Thomas (MN),FCS/FCS,5,ESPN Bet,21.5,9.69,56.5,55.27,44,70
+2025,r7,401767448,Indiana State,South Dakota,FCS/FCS,5,ESPN Bet,15.5,5.01,56.5,60.86,5,33
+2025,r7,401767739,Colgate,Richmond,FCS/FCS,5,ESPN Bet,-1.5,-0.85,55.5,52.96,5,43
+2025,r7,401762836,Eastern Michigan,Northern Illinois,G5,5,DraftKings,1.5,3.6,48.5,48.6,-6,26
+2025,r7,401767192,Merrimack,Maine,FCS/FCS,6,ESPN Bet,2.5,-4.67,45.5,44.07,7,33
+2025,r7,401767596,Butler,Presbyterian,FCS/FCS,5,ESPN Bet,10.5,10.09,51.5,52.23,6,56
+2025,r7,401767699,Dartmouth,Yale,FCS/FCS,3,ESPN Bet,-2.5,0.15,53.5,54.37,-1,33
+2025,r7,401767407,Wofford,Norfolk State,FCS/FCS,5,ESPN Bet,-7.5,-8.49,44.5,47.13,-17,45
+2025,r7,401767616,Valparaiso,Dayton,FCS/FCS,5,ESPN Bet,15,13.19,44.5,49.08,31,51
+2025,r7,401767242,West Georgia,Abilene Christian,FCS/FCS,6,ESPN Bet,-1.5,-7.52,53.5,55.9,17,43
+2025,r7,401767744,Robert Morris,Central Connecticut,FCS/FCS,5,ESPN Bet,9.5,6.75,45.5,50.32,12,36
+2025,r7,401767260,Towson,Monmouth,FCS/FCS,5,ESPN Bet,7,3.18,75.5,61.01,11,73
+2025,r7,401767143,Hampton,Campbell,FCS/FCS,6,ESPN Bet,3.5,-4.26,56.5,60.97,17,59
+2025,r7,401767154,Elon,Villanova,FCS/FCS,5,ESPN Bet,6.5,-5.32,50.5,50.35,8,50
+2025,r7,401762837,Kent State,Massachusetts,G5,5,DraftKings,-1.5,-4.02,49.5,54.05,-36,48
+2025,r7,401767567,Western Carolina,Furman,FCS/FCS,5,ESPN Bet,-3.5,3.37,67.5,59.9,-45,59
+2025,r7,401767236,UT Martin,Western Illinois,FCS/FCS,6,ESPN Bet,-14.5,-3.93,62.5,58.22,-1,63
+2025,r7,401767413,Florida A&M,North Carolina Central,FCS/FCS,4,ESPN Bet,12,11.72,51.5,56.97,38,52
+2025,r7,401767313,Alabama A&M,Mississippi Valley State,FCS/FCS,4,ESPN Bet,-21,-12.46,60.5,59.78,-20,70
+2025,r7,401767084,Montana State,Idaho State,FCS/FCS,6,ESPN Bet,-22.5,-16.27,58.5,56.69,-34,62
+2025,r7,401767196,Eastern Illinois,Gardner-Webb,FCS/FCS,5,ESPN Bet,4.5,-3.57,58.5,57.71,11,31
+2025,r7,401767390,Bethune-Cookman,Southern,FCS/FCS,5,ESPN Bet,-1,-8.58,53.5,56.96,-31,59
+2025,r7,401767537,South Dakota State,Northern Iowa,FCS/FCS,5,ESPN Bet,-28.5,-28.69,47.5,47.22,-28,34
+2025,r7,401756918,Colorado,Iowa State,P4,6,DraftKings,3,4.55,52.5,51.44,-7,41
+2025,r7,401754563,Oregon State,Wake Forest,G5,5,DraftKings,1.5,9.05,47.5,51.48,25,53
+2025,r7,401754562,Notre Dame,NC State,P4,5,DraftKings,-23.5,-18.24,59.5,58.85,-29,43
+2025,r7,401767363,Jackson State,Alabama State,FCS/FCS,5,ESPN Bet,-8.5,-5.68,56.5,55.49,-4,72
+2025,r7,401752866,Penn State,Northwestern,P4,5,DraftKings,-20.5,-13.44,46.5,48.94,1,43
+2025,r7,401756919,Kansas State,TCU,P4,5,DraftKings,3,5.14,54.5,55.85,-13,69
+2025,r7,401760386,UNLV,Air Force,G5,5,DraftKings,-7,-9.3,65.5,63.63,-3,99
+2025,r7,401762834,Western Michigan,Ball State,G5,5,DraftKings,-9.5,-10.68,43.5,46.47,-42,42
+2025,r7,401754560,Georgia Tech,Virginia Tech,P4,5,DraftKings,-14,-11.28,55.5,54.74,-15,55
+2025,r7,401752867,Maryland,Nebraska,P4,5,DraftKings,7,1.76,47.5,51.53,3,65
+2025,r7,401761626,Marshall,Old Dominion,G5,5,DraftKings,14.5,12.7,57.5,57.3,-24,72
+2025,r7,401752736,Texas,Oklahoma,P4,5,DraftKings,-2.5,4.66,44.5,44.45,-17,29
+2025,r7,401761624,Georgia State,App State,G5,5,DraftKings,3,0.35,55.5,53.92,21,61
+2025,r7,401752870,Oregon,Indiana,P4,5,DraftKings,-7,-0.27,51.5,57.12,10,50
+2025,r7,401767511,North Dakota State,Southern Illinois,FCS/FCS,5,ESPN Bet,-20,-14.03,58.5,58.56,-28,62
+2025,r7,401767560,East Tennessee State,VMI,FCS/FCS,5,ESPN Bet,-16.5,-13.74,55.5,55.34,-35,55
+2025,r7,401767220,Southeast Missouri State,Tennessee State,FCS/FCS,5,ESPN Bet,-16.5,-3.24,50.5,51.5,-16,40
+2025,r7,401762484,Temple,Navy,G5,5,DraftKings,10,3.71,52.5,55.39,1,63
+2025,r7,401767165,Charleston Southern,Tennessee Tech,FCS/FCS,5,ESPN Bet,30.5,25.75,53.5,53.14,14,40
+2025,r7,401767079,Montana,Cal Poly,FCS/FCS,5,ESPN Bet,-17.5,-13.69,63.5,61.11,-19,37
+2025,r7,401767287,North Alabama,Central Arkansas,FCS/FCS,5,ESPN Bet,4,-1.78,59.5,60.49,28,70
+2025,r7,401767504,North Dakota,Youngstown State,FCS/FCS,5,ESPN Bet,-9,-10.46,63.5,59.84,-18,52
+2025,r7,401752735,Tennessee,Arkansas,P4,5,DraftKings,-10,-9.05,68.5,66.84,-3,65
+2025,r7,401767122,Idaho,Northern Colorado,FCS/FCS,5,ESPN Bet,-18.5,-9.26,47.5,46.1,16,82
+2025,r7,401767622,San Diego,Drake,FCS/FCS,4,ESPN Bet,-1.5,9.7,,52.18,3,35
+2025,r7,401762482,Florida Atlantic,UAB,G5,5,DraftKings,-4.5,-3.53,66.5,62.74,-20,86
+2025,r7,401767251,Eastern Kentucky,Austin Peay,FCS/FCS,5,ESPN Bet,10,12.07,46.5,51.18,-14,54
+2025,r7,401761623,Coastal Carolina,UL Monroe,G5,5,DraftKings,3,0.62,46.5,49.68,-15,31
+2025,r7,401767439,Murray State,Illinois State,FCS/FCS,5,ESPN Bet,23.5,18.21,58.5,58.51,14,78
+2025,r7,401767461,East Texas A&M,Lamar,FCS/FCS,5,ESPN Bet,7.5,1.49,53.5,54.09,10,56
+2025,r7,401752737,Texas A&M,Florida,P4,5,DraftKings,-7,-8.89,47.5,48.86,-17,51
+2025,r7,401767470,Houston Christian,Northwestern State,FCS/FCS,5,ESPN Bet,-12.5,-15.87,52.5,52.93,-3,37
+2025,r7,401752869,Wisconsin,Iowa,P4,5,DraftKings,5.5,7.45,37.5,44.23,37,37
+2025,r7,401760391,Wyoming,San José State,G5,5,DraftKings,1.5,-1.55,50.5,47.9,-7,63
+2025,r7,401767418,Grambling,Texas Southern,FCS/FCS,5,ESPN Bet,-3.5,-7.18,49.5,52.07,1,41
+2025,r7,401767116,UC Davis,Northern Arizona,FCS/FCS,5,ESPN Bet,-7,-6.76,62.5,59.94,-21,69
+2025,r7,401756921,Texas Tech,Kansas,P4,5,DraftKings,-13.5,-9.26,58.5,58.08,-25,59
+2025,r7,401752868,USC,Michigan,P4,5,DraftKings,-3,-5.05,58.5,57.01,-18,44
+2025,r7,401762485,UTSA,Rice,G5,5,DraftKings,-8.5,-7.79,48.5,50.6,-48,74
+2025,r7,401752731,Auburn,Georgia,P4,5,DraftKings,4.5,3.1,46.5,47.8,10,30
+2025,r7,401752864,Minnesota,Purdue,P4,5,DraftKings,-7.5,-1.2,49.5,52.31,-7,47
+2025,r7,401754558,Boston College,Clemson,P4,5,DraftKings,14,9.18,54.5,53.61,31,51
+2025,r7,401752732,LSU,South Carolina,P4,5,DraftKings,-8.5,-8.76,44.5,44.37,-10,30
+2025,r7,401756916,Arizona,BYU,P4,5,DraftKings,2.5,4.28,46.5,50.83,6,60
+2025,r7,401761627,Texas State,Troy,G5,5,DraftKings,-7.5,-7.59,53.5,54.39,7,89
+2025,r7,401767307,Utah Tech,Tarleton State,FCS/FCS,6,ESPN Bet,28,21.81,59.5,54.62,18,64
+2025,r7,401767133,Weber State,Sacramento State,FCS/FCS,5,ESPN Bet,8.5,8.84,55.5,56.18,28,82
+2025,r7,401760387,Boise State,New Mexico,G5,5,DraftKings,-14.5,-7.44,58.5,55.6,-16,66
+2025,r7,401756922,Utah,Arizona State,P4,5,DraftKings,-9.5,-7.42,44.5,50.77,-32,52
+2025,r7,401760390,Nevada,San Diego State,G5,5,DraftKings,6.5,11.06,42.5,44.31,34,54
+2025,r7,401760389,Hawai'i,Utah State,G5,5,DraftKings,1.5,5.5,57.5,57.32,-18,70
+2025,r8,401757282,Liberty,New Mexico State,G5,5,DraftKings,-10.5,-6.02,48.5,45.21,-3,57
+2025,r8,401761628,South Alabama,Arkansas State,G5,6,DraftKings,-8.5,-5.06,57.5,55.68,1,29
+2025,r8,401757281,Western Kentucky,Florida International,G5,5,DraftKings,-10,-12.32,55.5,53.09,19,31
+2025,r8,401757284,Sam Houston,UTEP,G5,6,DraftKings,3.5,3.82,46.5,50.54,18,52
+2025,r8,401757283,Jacksonville State,Delaware,G5,5,DraftKings,3,2.26,55.5,55.72,-13,63
+2025,r8,401762486,East Carolina,Tulsa,G5,6,DraftKings,-16.5,-18.99,54.5,47.33,-14,68
+2025,r8,401754564,Miami,Louisville,P4,5,DraftKings,-10.5,-9.9,49.5,53.75,3,45
+2025,r8,401752872,Minnesota,Nebraska,P4,6,DraftKings,7,7.31,47.5,53.65,-18,30
+2025,r8,401760396,Utah State,San José State,G5,6,DraftKings,-3,-7.14,63.5,61.23,-5,55
+2025,r8,401754371,California,North Carolina,P4,5,DraftKings,-7.5,-6.32,45.5,48.24,-3,39
+2025,r8,401752745,Vanderbilt,LSU,P4,6,DraftKings,-1.5,-1.8,48.5,51.93,-7,55
+2025,r8,401752873,Michigan,Washington,P4,6,DraftKings,-4,4.03,50.5,51.87,-17,31
+2025,r8,401762841,Miami (OH),Eastern Michigan,G5,6,DraftKings,-12.5,-13.37,47.5,50.73,-14,74
+2025,r8,401754569,Boston College,UConn,G5,6,DraftKings,2.5,10.9,58.5,58.83,15,61
+2025,r8,401767597,Dayton,Butler,FCS/FCS,6,ESPN Bet,-2.5,-4.92,46.5,49.74,6,40
+2025,r8,401767704,Harvard,Merrimack,FCS/FCS,4,ESPN Bet,-27.5,-25.31,49.5,48.5,-24,38
+2025,r8,401767773,Yale,Stonehill,FCS/FCS,4,ESPN Bet,-21.5,-13.3,44.5,43.92,-40,54
+2025,r8,401762488,Tulane,Army,G5,6,DraftKings,-10,-4.83,44.5,47.86,-7,41
+2025,r8,401756925,Houston,Arizona,P4,6,DraftKings,1.5,-1.72,47.5,48.65,-3,59
+2025,r8,401767568,Wofford,Furman,FCS/FCS,6,ESPN Bet,-2.5,-2.8,41.5,44.98,-18,44
+2025,r8,401767553,Brown,Princeton,FCS/FCS,4,ESPN Bet,-3.5,-8.24,51.5,52.88,19,61
+2025,r8,401762839,Bowling Green,Central Michigan,G5,6,DraftKings,-3,-9.64,43.5,50.44,21,33
+2025,r8,401754566,Duke,Georgia Tech,P4,6,DraftKings,-3.5,-1.62,60.5,58.97,9,45
+2025,r8,401756927,TCU,Baylor,P4,6,DraftKings,-3.5,-7.23,66.5,62.57,-6,78
+2025,r8,401767759,Long Island University,Robert Morris,FCS/FCS,6,ESPN Bet,-9.5,-6.17,42.5,43.3,-10,24
+2025,r8,401752744,South Carolina,Oklahoma,P4,6,DraftKings,4.5,3.85,42.5,41.7,19,33
+2025,r8,401767722,Georgetown,Colgate,FCS/FCS,6,ESPN Bet,7,1.37,55.5,56.78,-4,38
+2025,r8,401767440,Illinois State,Youngstown State,FCS/FCS,6,ESPN Bet,-2,0.34,56.5,59.69,5,75
+2025,r8,401756928,UCF,West Virginia,P4,6,DraftKings,-6.5,-7.3,46.5,49.67,-32,58
+2025,r8,401767700,Fordham,Dartmouth,FCS/FCS,4,ESPN Bet,12.5,13.79,54.5,53.01,17,43
+2025,r8,401767505,Southern Illinois,North Dakota,FCS/FCS,6,ESPN Bet,3,3.71,59.5,60.14,19,57
+2025,r8,401767606,Drake,Davidson,FCS/FCS,5,ESPN Bet,-33.5,-25.44,58.5,57.32,-45,45
+2025,r8,401767261,Monmouth,Stony Brook,FCS/FCS,6,ESPN Bet,-9,-5.0,73.5,66.35,-28,70
+2025,r8,401767184,Villanova,Hampton,FCS/FCS,6,ESPN Bet,-24.5,-17.65,55.5,53.7,-42,70
+2025,r8,401767197,Southeast Missouri State,Eastern Illinois,FCS/FCS,6,ESPN Bet,-7.5,1.07,52.5,50.73,-29,55
+2025,r8,401767449,Indiana State,North Dakota State,FCS/FCS,6,ESPN Bet,33.5,26.74,56.5,58.54,31,45
+2025,r8,401767641,Presbyterian,Stetson,FCS/FCS,6,ESPN Bet,-34.5,-27.2,56.5,56.38,-35,49
+2025,r8,401767692,Cornell,Bucknell,FCS/FCS,4,ESPN Bet,-4,-3.36,60.5,58.06,-10,50
+2025,r8,401767532,Chattanooga,East Tennessee State,FCS/FCS,6,ESPN Bet,4.5,4.38,52.5,56.07,-4,80
+2025,r8,401767581,VMI,Samford,FCS/FCS,6,ESPN Bet,3.5,-2.63,53.5,52.42,2,46
+2025,r8,401767683,Columbia,Pennsylvania,FCS/FCS,4,ESPN Bet,7.5,8.38,46.5,47.34,14,56
+2025,r8,401767203,Gardner-Webb,UT Martin,FCS/FCS,6,ESPN Bet,-8,-11.52,55.5,54.99,30,44
+2025,r8,401767728,Richmond,Holy Cross,FCS/FCS,6,ESPN Bet,-5.5,-6.12,42.5,44.19,6,50
+2025,r8,401762842,Toledo,Kent State,G5,6,DraftKings,-25.5,-22.63,48.5,54.71,-35,55
+2025,r8,401767649,St. Thomas (MN),Valparaiso,FCS/FCS,6,ESPN Bet,-27.5,-21.31,48.5,50.86,-38,72
+2025,r8,401767538,Northern Iowa,South Dakota,FCS/FCS,6,ESPN Bet,6.5,7.34,46.5,46.18,3,31
+2025,r8,401767630,Morehead State,Marist,FCS/FCS,6,ESPN Bet,8.5,4.73,46.5,48.54,-2,44
+2025,r8,401767212,Lindenwood,Tennessee Tech,FCS/FCS,6,ESPN Bet,16.5,18.42,54.5,54.78,24,80
+2025,r8,401767497,Murray State,South Dakota State,FCS/FCS,6,ESPN Bet,37.5,35.73,56.5,57.38,21,49
+2025,r8,401762840,Massachusetts,Buffalo,G5,6,DraftKings,16.5,15.99,47.5,48.4,7,49
+2025,r8,401767100,Montana,Sacred Heart,FCS/FCS,6,ESPN Bet,-26.5,-20.51,57.5,55.63,-22,64
+2025,r8,401761633,UL Monroe,Troy,G5,6,DraftKings,4.5,9.0,45.5,51.88,23,51
+2025,r8,401767383,Arkansas-Pine Bluff,Grambling,FCS/FCS,5,ESPN Bet,8,9.99,54.5,55.57,4,36
+2025,r8,401752874,Northwestern,Purdue,P4,6,DraftKings,-3,-6.57,47.5,48.21,-19,19
+2025,r8,401767321,UAlbany,Rhode Island,FCS/FCS,6,ESPN Bet,13.5,10.24,47.5,46.4,41,75
+2025,r8,401760393,Boise State,UNLV,G5,6,DraftKings,-12.5,-7.78,60.5,60.44,-25,87
+2025,r8,401761632,Marshall,Texas State,G5,6,DraftKings,3,-5.07,65.5,65.02,-3,77
+2025,r8,401762489,Charlotte,Temple,G5,6,DraftKings,10,10.55,47.5,53.65,35,63
+2025,r8,401752742,Georgia,Ole Miss,P4,6,DraftKings,-7.5,-4.35,56.5,52.09,-8,78
+2025,r8,401762843,Ohio,Northern Illinois,G5,6,DraftKings,-10.5,-11.13,41.5,42.93,-27,69
+2025,r8,401761631,James Madison,Old Dominion,G5,6,DraftKings,-3,2.24,47.5,47.81,-36,90
+2025,r8,401767155,William & Mary,Elon,FCS/FCS,6,ESPN Bet,1.5,4.22,53.5,52.43,-5,47
+2025,r8,401761629,App State,Coastal Carolina,G5,6,DraftKings,-10.5,-6.52,48.5,48.41,8,82
+2025,r8,401762491,North Texas,UTSA,G5,6,DraftKings,-4,-4.86,64.5,66.17,-38,72
+2025,r8,401752877,Wisconsin,Ohio State,P4,6,DraftKings,24.5,26.84,41.5,43.31,34,34
+2025,r8,401754565,Clemson,SMU,P4,6,DraftKings,-3.5,-2.43,49.5,50.69,11,59
+2025,r8,401752739,Arkansas,Texas A&M,P4,6,DraftKings,7.5,5.6,57.5,57.81,3,87
+2025,r8,401767144,Campbell,New Hampshire,FCS/FCS,7,ESPN Bet,2.5,3.76,52.5,56.21,14,34
+2025,r8,401752878,Indiana,Michigan State,P4,6,DraftKings,-26.5,-28.79,49.5,56.73,-25,51
+2025,r8,401760392,Air Force,Wyoming,G5,6,DraftKings,-4,-2.53,56.5,58.1,-3,45
+2025,r8,401762838,Ball State,Akron,G5,6,DraftKings,2.5,2.16,44.5,47.78,-14,70
+2025,r8,401767166,Western Illinois,Charleston Southern,FCS/FCS,7,ESPN Bet,2,1.98,55.5,56.68,5,53
+2025,r8,401767373,Florida A&M,Alcorn State,FCS/FCS,5,ESPN Bet,-4.5,0.78,45.5,48.25,-5,61
+2025,r8,401756923,Arizona State,Texas Tech,P4,6,DraftKings,7.5,12.27,52.5,54.6,-4,48
+2025,r8,401767485,Lamar,UT Rio Grande Valley,FCS/FCS,6,ESPN Bet,-3.5,5.27,51.5,53.44,-2,44
+2025,r8,401762487,UAB,Memphis,G5,6,DraftKings,23.5,22.91,59.5,61.53,-7,55
+2025,r8,401752741,Florida,Mississippi State,P4,6,DraftKings,-9.5,-4.07,50.5,49.92,-2,44
+2025,r8,401761668,Louisiana,Southern Miss,G5,6,DraftKings,4.5,1.87,54.5,57.82,12,32
+2025,r8,401767521,SE Louisiana,Northwestern State,FCS/FCS,6,ESPN Bet,-31,-25.06,53.5,53.28,-49,49
+2025,r8,401767434,Southern,Prairie View A&M,FCS/FCS,6,ESPN Bet,8.5,9.27,46.5,47.35,21,27
+2025,r8,401767128,Portland State,Weber State,FCS/FCS,6,ESPN Bet,6,0.61,53.5,57.31,16,70
+2025,r8,401767462,Incarnate Word,East Texas A&M,FCS/FCS,6,ESPN Bet,-18.5,-6.8,56.5,55.84,7,97
+2025,r8,401767227,Tennessee State,Howard,FCS/FCS,6,ESPN Bet,2,5.98,41.5,42.93,-17,31
+2025,r8,401767753,Mercyhurst,Duquesne,FCS/FCS,7,ESPN Bet,3,-0.28,51.5,53.88,37,37
+2025,r8,401752951,Virginia,Washington State,G5,6,DraftKings,-16.5,-13.87,56.5,57.1,-2,42
+2025,r8,401752876,Rutgers,Oregon,P4,6,DraftKings,17.5,12.89,62.5,59.89,46,66
+2025,r8,401761630,Georgia Southern,Georgia State,G5,6,DraftKings,-6.5,-8.28,58.5,60.35,-17,65
+2025,r8,401752875,Iowa,Penn State,P4,6,DraftKings,-3,-3.69,41.5,50.29,-1,49
+2025,r8,401752743,Kentucky,Texas,P4,5,DraftKings,12.5,11.93,45.5,47.98,3,29
+2025,r8,401767471,McNeese,Houston Christian,FCS/FCS,6,ESPN Bet,-6.5,3.41,49.5,50.43,-27,27
+2025,r8,401767301,Tarleton State,West Georgia,FCS/FCS,7,ESPN Bet,-20,-14.73,56.5,58.16,-35,55
+2025,r8,401767280,North Alabama,Eastern Kentucky,FCS/FCS,6,ESPN Bet,11.5,7.52,51.5,54.52,-21,49
+2025,r8,401767517,Stephen F. Austin,Nicholls,FCS/FCS,6,ESPN Bet,-13.5,-16.76,47.5,45.2,-27,41
+2025,r8,401752879,UCLA,Maryland,P4,6,DraftKings,-4,4.67,52.5,49.79,-3,37
+2025,r8,401767092,Eastern Washington,Idaho,FCS/FCS,6,ESPN Bet,7.5,5.41,59.5,58.52,-7,35
+2025,r8,401760394,Colorado State,Hawai'i,G5,6,DraftKings,-2.5,-2.23,53.5,50.33,12,50
+2025,r8,401752871,Notre Dame,USC,P4,6,DraftKings,-10.5,-9.76,60.5,60.2,-10,58
+2025,r8,401752738,Alabama,Tennessee,P4,6,DraftKings,-8.5,-3.37,61.5,60.81,-17,57
+2025,r8,401754568,Syracuse,Pittsburgh,P4,6,DraftKings,9.5,5.57,54.5,57.96,17,43
+2025,r8,401762490,South Florida,Florida Atlantic,G5,6,DraftKings,-20.5,-20.39,72.5,65.6,-35,61
+2025,r8,401752740,Auburn,Missouri,P4,6,DraftKings,1.5,2.45,43.5,49.67,6,40
+2025,r8,401756926,Oklahoma State,Cincinnati,P4,6,DraftKings,23.5,19.46,57.5,55.02,32,66
+2025,r8,401756924,BYU,Utah,P4,6,DraftKings,4,4.29,49.5,53.02,-3,45
+2025,r8,401767243,Southern Utah,Abilene Christian,FCS/FCS,6,ESPN Bet,3,-1.37,62.5,63.81,-7,55
+2025,r8,401767123,Sacramento State,Northern Colorado,FCS/FCS,6,ESPN Bet,-15,-8.09,54.5,52.75,-5,75
+2025,r8,401760395,New Mexico,Nevada,G5,6,DraftKings,-14,-14.59,49.5,51.44,-2,46
+2025,r8,401752941,Oregon State,Lafayette,FCS/G5,7,DraftKings,-21,4.89,56.5,56.93,-32,58
+2025,r8,401754567,Stanford,Florida State,P4,6,DraftKings,17.5,16.23,55.5,55.35,-7,33
+2025,r9,401757285,Florida International,Kennesaw State,G5,6,DraftKings,3,2.45,48.5,47.18,19,71
+2025,r9,401757286,Louisiana Tech,Western Kentucky,G5,6,DraftKings,-5.5,-7.35,49.5,47.97,1,55
+2025,r9,401757287,Delaware,Middle Tennessee,G5,6,DraftKings,-8.5,-13.92,55.5,52.3,-3,59
+2025,r9,401757288,New Mexico State,Missouri State,G5,6,DraftKings,2.5,2.44,51.5,51.28,7,41
+2025,r9,401761634,Georgia State,South Alabama,G5,7,DraftKings,6,7.28,53.5,55.07,7,69
+2025,r9,401767701,Dartmouth,Columbia,FCS/FCS,5,ESPN Bet,-12.5,-12.12,46.5,45.64,-46,52
+2025,r9,401762492,Charlotte,North Texas,G5,7,DraftKings,25.5,26.03,60.5,62.05,34,74
+2025,r9,401754372,Virginia Tech,California,P4,7,DraftKings,-6,-2.74,50.5,49.48,-8,76
+2025,r9,401760397,Nevada,Boise State,G5,7,DraftKings,21,19.69,50.5,51.73,21,27
+2025,r9,401767101,Sacramento State,Montana,FCS/FCS,7,ESPN Bet,6,7.51,61.5,61.29,14,84
+2025,r9,401752942,Wake Forest,SMU,P4,6,DraftKings,5.5,3.32,52.5,52.5,-1,25
+2025,r9,401779510,Long Island University,New Haven,FCS/FCS,7,ESPN Bet,-10,5.28,46.5,47.15,-22,54
+2025,r9,401767623,Marist,Drake,FCS/FCS,6,ESPN Bet,12.5,12.93,47.5,45.73,14,48
+2025,r9,401767705,Princeton,Harvard,FCS/FCS,5,ESPN Bet,17.5,16.06,53.5,56.93,21,49
+2025,r9,401767774,Mercyhurst,Stonehill,FCS/FCS,7,ESPN Bet,-7.5,-7.44,44.5,42.38,7,37
+2025,r9,401754571,Georgia Tech,Syracuse,P4,7,DraftKings,-17.5,-12.42,52.5,55.03,-25,57
+2025,r9,401752750,Oklahoma,Ole Miss,P4,7,DraftKings,-5.5,-3.89,52.5,50.15,8,60
+2025,r9,401752884,Purdue,Rutgers,P4,7,DraftKings,-2.5,0.87,60.5,57.23,3,51
+2025,r9,401788997,Yale,Pennsylvania,FCS/FCS,5,ESPN Bet,-6.5,-5.29,53.5,54.47,-22,48
+2025,r9,401761635,Old Dominion,App State,G5,7,DraftKings,-13.5,-13.8,62.5,58.98,-3,45
+2025,r9,401762494,Memphis,South Florida,G5,7,DraftKings,3.5,2.44,58.5,59.49,-3,65
+2025,r9,401762846,Kent State,Bowling Green,G5,7,DraftKings,7.5,9.0,47.5,52.21,-3,45
+2025,r9,401762848,Eastern Michigan,Ohio,G5,7,DraftKings,11.5,11.28,60.5,57.69,7,49
+2025,r9,401752883,Nebraska,Northwestern,P4,7,DraftKings,-7,-2.86,44.5,46.58,-7,49
+2025,r9,401767617,Dayton,Presbyterian,FCS/FCS,7,ESPN Bet,8.5,7.76,50.5,50.63,-16,54
+2025,r9,401767754,Wagner,Duquesne,FCS/FCS,7,ESPN Bet,23.5,17.72,47.5,50.53,-11,37
+2025,r9,401767607,Davidson,San Diego,FCS/FCS,7,ESPN Bet,28.5,15.19,56.5,57.05,12,68
+2025,r9,401756932,Kansas,Kansas State,P4,7,DraftKings,-3.5,-2.49,55.5,56.33,25,59
+2025,r9,401754573,North Carolina,Virginia,P4,6,DraftKings,11.5,14.3,50.5,54.53,1,33
+2025,r9,401767668,Bucknell,Georgetown,FCS/FCS,7,ESPN Bet,-1.5,2.29,57.5,56.91,7,55
+2025,r9,401752885,Indiana,UCLA,P4,7,DraftKings,-26.5,-24.45,53.5,51.35,-50,62
+2025,r9,401752746,Arkansas,Auburn,P4,7,DraftKings,-2.5,-1.43,56.5,53.58,9,57
+2025,r9,401767035,Rhode Island,Bryant,FCS/FCS,7,ESPN Bet,-18.5,-13.47,,53.41,-21,55
+2025,r9,401767729,Holy Cross,Colgate,FCS/FCS,7,ESPN Bet,-3,-1.7,51.5,52.68,1,57
+2025,r9,401762844,Buffalo,Akron,G5,7,DraftKings,-10,-7.05,48.5,48.91,8,40
+2025,r9,401767675,Fordham,Lehigh,FCS/FCS,7,ESPN Bet,24.5,24.69,51.5,51.52,21,33
+2025,r9,401767638,Valparaiso,Morehead State,FCS/FCS,7,ESPN Bet,6.5,3.9,48.5,53.47,4,30
+2025,r9,401767554,Cornell,Brown,FCS/FCS,5,ESPN Bet,2.5,6.08,50.5,50.73,-6,54
+2025,r9,401767271,New Hampshire,William & Mary,FCS/FCS,7,ESPN Bet,-1.5,-2.58,48.5,49.34,-10,58
+2025,r9,401767650,Stetson,St. Thomas (MN),FCS/FCS,7,ESPN Bet,25.5,19.45,54.5,55.28,42,62
+2025,r9,401767221,Tennessee Tech,Southeast Missouri State,FCS/FCS,7,ESPN Bet,-21.5,-21.37,60.5,60.24,-19,65
+2025,r9,401767345,North Carolina Central,Delaware State,FCS/FCS,7,ESPN Bet,-18,-10.73,63.5,63.31,9,61
+2025,r9,401767176,Maine,Elon,FCS/FCS,7,ESPN Bet,4.5,4.65,49.5,47.96,-21,49
+2025,r9,401767145,North Carolina A&T,Campbell,FCS/FCS,7,ESPN Bet,3,0.79,55.5,61.5,-4,52
+2025,r9,401767498,Youngstown State,Murray State,FCS/FCS,7,ESPN Bet,-24.5,-20.98,,62.72,-34,68
+2025,r9,401767569,Furman,The Citadel,FCS/FCS,7,ESPN Bet,-2.5,2.67,47.5,49.06,-10,38
+2025,r9,401767408,Norfolk State,South Carolina State,FCS/FCS,7,ESPN Bet,14.5,11.72,53.5,56.44,31,71
+2025,r9,401767167,Charleston Southern,Eastern Illinois,FCS/FCS,7,ESPN Bet,-3,-2.7,46.5,44.75,-1,33
+2025,r9,401767185,Hampton,Monmouth,FCS/FCS,7,ESPN Bet,25,20.96,68.5,68.13,18,38
+2025,r9,401767302,West Georgia,Central Arkansas,FCS/FCS,7,ESPN Bet,-5.5,-4.95,53.5,55.37,-1,35
+2025,r9,401767441,South Dakota,Illinois State,FCS/FCS,7,ESPN Bet,-3.5,-4.16,54.5,56.01,8,34
+2025,r9,401767228,Tennessee State,Western Illinois,FCS/FCS,7,ESPN Bet,-3,-5.09,54.5,55.71,1,33
+2025,r9,401767486,Northwestern State,Lamar,FCS/FCS,7,ESPN Bet,24.5,18.48,47.5,48.41,27,55
+2025,r9,401760400,New Mexico,Utah State,G5,7,DraftKings,-3,-1.35,61.5,61.45,-19,47
+2025,r9,401767384,Bethune-Cookman,Arkansas-Pine Bluff,FCS/FCS,6,ESPN Bet,-13.5,-12.34,56.5,58.43,-17,45
+2025,r9,401767577,Mercer,VMI,FCS/FCS,6,ESPN Bet,-27.5,-28.86,51.5,49.93,-62,62
+2025,r9,401767472,Houston Christian,SE Louisiana,FCS/FCS,7,ESPN Bet,21.5,18.09,52.5,49.91,24,52
+2025,r9,401767764,Saint Francis,Robert Morris,FCS/FCS,6,ESPN Bet,2.5,6.64,39.5,43.45,10,38
+2025,r9,401767281,Eastern Kentucky,Tarleton State,FCS/FCS,7,ESPN Bet,24,22.44,58.5,54.91,24,38
+2025,r9,401767065,Weber State,Eastern Washington,FCS/FCS,7,ESPN Bet,1.5,-0.13,57.5,59.97,3,43
+2025,r9,401767374,Alcorn State,Mississippi Valley State,FCS/FCS,6,ESPN Bet,-10.5,-4.98,50.5,53.17,-22,42
+2025,r9,401767204,Lindenwood,Gardner-Webb,FCS/FCS,7,ESPN Bet,1.5,-2.89,57.5,56.24,28,68
+2025,r9,401767124,Northern Colorado,UC Davis,FCS/FCS,6,ESPN Bet,8.5,6.12,57.5,56.83,11,43
+2025,r9,401767539,Southern Illinois,Northern Iowa,FCS/FCS,7,ESPN Bet,-15,-14.48,50.5,50.88,-14,48
+2025,r9,401757172,Rice,UConn,G5,7,DraftKings,10.5,13.29,48.5,53.04,-3,71
+2025,r9,401762495,Tulsa,Temple,G5,7,DraftKings,4.5,9.18,52.5,54.91,1,75
+2025,r9,401756931,Iowa State,BYU,P4,7,DraftKings,-2.5,0.94,48.5,51.18,14,68
+2025,r9,401767325,Stony Brook,Towson,FCS/FCS,7,ESPN Bet,-3,-4.28,52.5,51.61,-8,46
+2025,r9,401762874,Miami (OH),Western Michigan,G5,7,DraftKings,-2.5,1.65,40.5,44.52,-9,43
+2025,r9,401752880,Washington,Illinois,P4,7,DraftKings,-3.5,-1.97,54.5,56.17,-17,67
+2025,r9,401762845,Northern Illinois,Ball State,G5,7,DraftKings,-6.5,-3.03,41.5,45.79,-14,28
+2025,r9,401754574,Pittsburgh,NC State,P4,7,DraftKings,-4.5,-9.24,52.5,56.52,-19,87
+2025,r9,401762493,Navy,Florida Atlantic,G5,6,DraftKings,-14.5,-12.38,63.5,59.95,-10,74
+2025,r9,401767354,Howard,Morgan State,FCS/FCS,7,ESPN Bet,1,-0.01,44.5,44.27,-6,60
+2025,r9,401767334,Villanova,UAlbany,FCS/FCS,7,ESPN Bet,-31.5,-23.27,51.5,51.87,-13,45
+2025,r9,401767561,East Tennessee State,Wofford,FCS/FCS,7,ESPN Bet,-9,-5.05,50.5,51.22,-4,24
+2025,r9,401760399,Fresno State,San Diego State,G5,6,DraftKings,3,8.81,46.5,50.47,23,23
+2025,r9,401761637,Southern Miss,UL Monroe,G5,7,DraftKings,-14,-14.97,48.5,52.06,-28,70
+2025,r9,401752952,Washington State,Toledo,G5,7,DraftKings,1.5,4.72,44.5,49.93,-21,35
+2025,r9,401752751,South Carolina,Alabama,P4,7,DraftKings,11.5,8.6,47.5,46.13,7,51
+2025,r9,401767314,Alabama A&M,Alabama State,FCS/FCS,6,ESPN Bet,14,10.97,61.5,62.89,43,69
+2025,r9,401752882,Iowa,Minnesota,P4,7,DraftKings,-7.5,-11.49,39.5,45.42,-38,44
+2025,r9,401767533,Samford,Chattanooga,FCS/FCS,7,ESPN Bet,10,9.7,54.5,54.25,36,62
+2025,r9,401752752,Vanderbilt,Missouri,P4,7,DraftKings,-3,-2.56,52.5,58.79,-7,27
+2025,r9,401762847,Central Michigan,Massachusetts,G5,7,DraftKings,-16.5,-19.49,46.5,49.0,-25,51
+2025,r9,401767493,Nicholls,McNeese,FCS/FCS,7,ESPN Bet,-5.5,1.73,43.5,45.17,-24,38
+2025,r9,401767252,Austin Peay,North Alabama,FCS/FCS,7,ESPN Bet,-19.5,-13.99,57.5,60.56,-28,84
+2025,r9,401756933,Texas Tech,Oklahoma State,P4,7,DraftKings,-37.5,-34.01,56.5,57.59,-42,42
+2025,r9,401767093,Idaho,Portland State,FCS/FCS,7,ESPN Bet,-21.5,-15.15,55.5,53.67,-39,51
+2025,r9,401756930,Cincinnati,Baylor,P4,7,DraftKings,-3.5,-6.42,68.5,62.31,-21,61
+2025,r9,401767450,North Dakota,Indiana State,FCS/FCS,7,ESPN Bet,-30,-23.85,55.5,57.97,-29,63
+2025,r9,401752749,Mississippi State,Texas,P4,7,DraftKings,8.5,5.78,48.5,47.41,7,83
+2025,r9,401767456,Southern,Florida A&M,FCS/FCS,6,ESPN Bet,3,3.15,48.5,49.79,8,78
+2025,r9,401767419,Grambling,Jackson State,FCS/FCS,6,ESPN Bet,21,12.12,56.5,53.8,-2,50
+2025,r9,401767085,Idaho State,Northern Arizona,FCS/FCS,7,ESPN Bet,3,-1.66,62.5,61.35,13,49
+2025,r9,401756935,West Virginia,TCU,P4,7,DraftKings,16.5,13.27,55.5,58.29,6,40
+2025,r9,401767463,East Texas A&M,Stephen F. Austin,FCS/FCS,7,ESPN Bet,14,8.71,59.5,57.98,10,52
+2025,r9,401752886,Oregon,Wisconsin,P4,7,DraftKings,-31.5,-29.56,44.5,49.57,-14,28
+2025,r9,401761638,Troy,Louisiana,G5,7,DraftKings,-7,-7.79,47.5,53.57,-12,58
+2025,r9,401761636,Arkansas State,Georgia Southern,G5,7,DraftKings,1.5,-0.22,59.5,56.79,-10,58
+2025,r9,401754572,Miami,Stanford,P4,6,DraftKings,-28.5,-25.41,45.5,47.82,-35,49
+2025,r9,401752748,LSU,Texas A&M,P4,7,DraftKings,1.5,-0.19,50.5,50.69,24,74
+2025,r9,401754570,Louisville,Boston College,P4,6,DraftKings,-25.5,-24.88,54.5,57.83,-14,62
+2025,r9,401752881,Michigan State,Michigan,P4,7,DraftKings,13.5,11.67,47.5,51.34,11,51
+2025,r9,401760398,Wyoming,Colorado State,G5,7,DraftKings,-5.5,-2.2,46.5,46.34,-28,28
+2025,r9,401752747,Kentucky,Tennessee,P4,6,DraftKings,7.5,8.77,55.5,58.83,22,90
+2025,r9,401767512,South Dakota State,North Dakota State,FCS/FCS,7,ESPN Bet,9,4.92,45.5,51.42,31,45
+2025,r9,401767295,Utah Tech,Southern Utah,FCS/FCS,7,ESPN Bet,9.5,6.98,59.5,58.25,21,35
+2025,r9,401767478,UT Rio Grande Valley,Incarnate Word,FCS/FCS,7,ESPN Bet,4.5,-11.65,54.5,57.47,-28,84
+2025,r9,401767075,Cal Poly,Montana State,FCS/FCS,7,ESPN Bet,21.5,11.49,55.5,53.07,17,51
+2025,r9,401756929,Arizona State,Houston,P4,7,DraftKings,-7,-3.62,46.5,48.08,8,40
+2025,r9,401756934,Utah,Colorado,P4,7,DraftKings,-14,-13.84,49.5,50.79,-46,60
+2025,r10,401757289,Kennesaw State,UTEP,G5,7,DraftKings,-12.5,-12.03,52.5,48.84,-13,53
+2025,r10,401761639,Texas State,James Madison,G5,7,DraftKings,7,5.83,55.5,57.25,32,72
+2025,r10,401757292,Middle Tennessee,Jacksonville State,G5,7,DraftKings,4,7.48,53.5,53.61,3,45
+2025,r10,401757291,Missouri State,Florida International,G5,7,DraftKings,-3,-6.36,49.5,50.73,-7,49
+2025,r10,401767346,Delaware State,Norfolk State,FCS/FCS,8,ESPN Bet,-17.5,-17.69,57.5,61.65,-7,47
+2025,r10,401761640,Coastal Carolina,Marshall,G5,7,DraftKings,7,10.5,55.5,57.87,-17,71
+2025,r10,401762443,UTSA,Tulane,G5,7,DraftKings,6,2.89,54.5,54.86,-22,74
+2025,r10,401762497,Rice,Memphis,G5,8,DraftKings,14,17.27,48.5,52.13,24,52
+2025,r10,401767555,Pennsylvania,Brown,FCS/FCS,6,ESPN Bet,-11.5,-6.06,50.5,54.43,-7,49
+2025,r10,401754575,Syracuse,North Carolina,P4,7,DraftKings,-1.5,-5.89,45.5,49.15,17,37
+2025,r10,401757290,Louisiana Tech,Sam Houston,G5,7,DraftKings,-16.5,-19.5,47.5,49.48,-41,69
+2025,r10,401767094,Northern Arizona,Idaho,FCS/FCS,8,ESPN Bet,-5.5,0.24,52.5,55.33,3,67
+2025,r10,401752891,Illinois,Rutgers,P4,8,DraftKings,-13.5,-10.96,63.5,61.34,-22,48
+2025,r10,401762499,North Texas,Navy,G5,7,DraftKings,-6.5,-11.54,68.5,65.09,-14,48
+2025,r10,401767275,North Carolina A&T,Towson,FCS/FCS,8,ESPN Bet,7.5,6.39,49.5,53.99,53,71
+2025,r10,401756938,Houston,West Virginia,P4,8,DraftKings,-13.5,-13.24,48.5,49.29,10,80
+2025,r10,401767768,Saint Francis,Wagner,FCS/FCS,7,ESPN Bet,6.5,8.05,37.5,42.92,3,43
+2025,r10,401754577,Clemson,Duke,P4,7,DraftKings,-4,-0.9,54.5,53.74,1,91
+2025,r10,401767661,Sacred Heart,New Haven,FCS/FCS,8,ESPN Bet,-15.5,-5.58,49.5,54.38,-15,55
+2025,r10,401756936,Baylor,UCF,P4,7,DraftKings,-3,1.6,58.5,57.96,-27,33
+2025,r10,401752889,Ohio State,Penn State,P4,7,DraftKings,-17.5,-14.64,45.5,49.96,-24,52
+2025,r10,401754581,SMU,Miami,P4,7,DraftKings,8.5,8.28,50.5,50.69,-6,46
+2025,r10,401757173,UConn,UAB,G5,7,DraftKings,-10,-11.64,61.5,63.36,-19,57
+2025,r10,401760401,Air Force,Army,G5,7,DraftKings,1.5,4.65,48.5,56.63,3,37
+2025,r10,401762849,Bowling Green,Buffalo,G5,8,DraftKings,-2.5,-4.01,44.5,46.29,25,31
+2025,r10,401767723,Lehigh,Georgetown,FCS/FCS,8,ESPN Bet,-24,-20.08,47.5,48.84,-41,41
+2025,r10,401767685,Yale,Columbia,FCS/FCS,6,ESPN Bet,-21.5,-24.07,46.5,46.46,-14,34
+2025,r10,401752758,Texas,Vanderbilt,P4,8,DraftKings,-3.5,-1.18,48.5,51.42,-3,65
+2025,r10,401767746,Central Connecticut,Long Island University,FCS/FCS,8,ESPN Bet,-5.5,-5.49,42.5,46.81,-3,17
+2025,r10,401767730,Holy Cross,Lafayette,FCS/FCS,8,ESPN Bet,3,0.02,49.5,54.59,8,34
+2025,r10,401767693,Cornell,Princeton,FCS/FCS,6,ESPN Bet,3.5,3.18,50.5,52.77,-3,37
+2025,r10,401767765,Stonehill,Robert Morris,FCS/FCS,8,ESPN Bet,-6.5,-5.36,40.5,40.62,3,37
+2025,r10,401769068,Colgate,Merrimack,FCS/FCS,8,ESPN Bet,-7,-2.15,47.5,48.28,-3,43
+2025,r10,401767136,Bryant,Monmouth,FCS/FCS,8,ESPN Bet,14,14.03,59.5,63.59,28,42
+2025,r10,401767598,Butler,Drake,FCS/FCS,7,ESPN Bet,6.5,3.35,47.5,48.8,5,43
+2025,r10,401767608,Morehead State,Davidson,FCS/FCS,8,ESPN Bet,-10.5,-8.9,58.5,56.6,-4,52
+2025,r10,401767642,Presbyterian,Valparaiso,FCS/FCS,8,ESPN Bet,-31.5,-27.51,51.5,53.08,-29,57
+2025,r10,401767205,Tennessee Tech,Gardner-Webb,FCS/FCS,8,ESPN Bet,-19,-20.62,62.5,62.43,-6,48
+2025,r10,401767193,Maine,Stony Brook,FCS/FCS,8,ESPN Bet,-1,-0.15,46.5,51.69,-7,49
+2025,r10,401756939,Iowa State,Arizona State,P4,8,DraftKings,-7.5,-4.45,48.5,50.04,5,43
+2025,r10,401767582,Wofford,Samford,FCS/FCS,8,ESPN Bet,-12.5,-18.25,47.5,44.47,-10,42
+2025,r10,401762498,Temple,East Carolina,G5,7,DraftKings,5.5,3.92,58.5,55.11,31,59
+2025,r10,401767570,Furman,Mercer,FCS/FCS,7,ESPN Bet,15.5,15.29,52.5,51.63,24,80
+2025,r10,401767585,The Citadel,VMI,FCS/FCS,8,ESPN Bet,-14,-16.53,48.5,48.13,-11,59
+2025,r10,401767401,South Carolina State,Morgan State,FCS/FCS,8,ESPN Bet,-11.5,-10.69,53.5,55.58,-6,66
+2025,r10,401767168,Southeast Missouri State,Charleston Southern,FCS/FCS,8,ESPN Bet,-10.5,-7.31,50.5,49.66,6,40
+2025,r10,401767506,South Dakota,North Dakota,FCS/FCS,8,ESPN Bet,13.5,12.59,51.5,52.25,-5,47
+2025,r10,401767716,Richmond,Fordham,FCS/FCS,8,ESPN Bet,-13.5,-11.8,48.5,47.12,-3,31
+2025,r10,401767631,St. Thomas (MN),Marist,FCS/FCS,8,ESPN Bet,-14,-16.35,50.5,49.7,-45,45
+2025,r10,401767109,Northern Colorado,Montana State,FCS/FCS,8,ESPN Bet,23.5,16.99,52.5,50.8,48,62
+2025,r10,401767198,Eastern Illinois,UT Martin,FCS/FCS,8,ESPN Bet,4.5,0.13,50.5,46.5,7,47
+2025,r10,401767385,Arkansas-Pine Bluff,Southern,FCS/FCS,7,ESPN Bet,1,-5.51,52.5,51.48,-19,61
+2025,r10,401767102,Weber State,Montana,FCS/FCS,8,ESPN Bet,19.5,21.68,61.5,62.67,21,55
+2025,r10,401767479,Incarnate Word,Lamar,FCS/FCS,8,ESPN Bet,-2.5,5.24,52.5,53.81,-7,41
+2025,r10,401767315,Grambling,Alabama A&M,FCS/FCS,8,ESPN Bet,-3.5,-8.86,56.5,59.04,-3,23
+2025,r10,401767442,Illinois State,Northern Iowa,FCS/FCS,8,ESPN Bet,-12.5,-9.85,49.5,49.06,-15,47
+2025,r10,401760404,UNLV,New Mexico,G5,7,DraftKings,-3.5,-2.05,61.5,62.69,5,75
+2025,r10,401767375,Texas Southern,Alcorn State,FCS/FCS,7,ESPN Bet,-6.5,-6.58,47.5,48.17,19,47
+2025,r10,401767702,Harvard,Dartmouth,FCS/FCS,6,ESPN Bet,-11.5,-14.28,48.5,53.81,-21,41
+2025,r10,401767364,Prairie View A&M,Alabama State,FCS/FCS,7,ESPN Bet,10.5,9.7,52.5,51.31,3,59
+2025,r10,401767451,South Dakota State,Indiana State,FCS/FCS,8,ESPN Bet,-31,-22.89,53.5,53.93,12,36
+2025,r10,401754580,Virginia Tech,Louisville,P4,7,DraftKings,10.5,10.73,52.5,56.81,12,44
+2025,r10,401767391,Bethune-Cookman,Mississippi Valley State,FCS/FCS,7,ESPN Bet,-22,-14.57,58.5,58.12,-8,76
+2025,r10,401754582,Stanford,Pittsburgh,P4,8,DraftKings,13.5,16.12,51.5,54.34,15,55
+2025,r10,401757293,Liberty,Delaware,G5,7,DraftKings,-3.5,0.15,52.5,50.0,-29,89
+2025,r10,401761641,UL Monroe,Old Dominion,G5,8,DraftKings,16.5,15.31,55.5,55.21,25,37
+2025,r10,401756941,Kansas State,Texas Tech,P4,8,DraftKings,7.5,6.86,51.5,56.78,23,63
+2025,r10,401754583,Boston College,Notre Dame,P4,7,DraftKings,31.5,28.85,55.5,57.97,15,35
+2025,r10,401761642,South Alabama,Louisiana,G5,8,DraftKings,-3.5,-2.9,52.5,53.98,9,53
+2025,r10,401757294,Western Kentucky,New Mexico State,G5,7,DraftKings,-7.5,-8.49,53.5,51.06,-19,51
+2025,r10,401752755,Florida,Georgia,P4,7,DraftKings,7,8.98,50.5,47.53,4,44
+2025,r10,401752888,Minnesota,Michigan State,P4,8,DraftKings,-4.5,-3.89,44.5,51.44,-3,43
+2025,r10,401767513,North Dakota State,Youngstown State,FCS/FCS,8,ESPN Bet,-26.5,-24.85,60.5,58.55,-8,68
+2025,r10,401767335,William & Mary,UAlbany,FCS/FCS,8,ESPN Bet,-19,-12.39,50.5,52.61,-30,44
+2025,r10,401767355,Howard,North Carolina Central,FCS/FCS,8,ESPN Bet,15,10.89,51.5,51.52,21,49
+2025,r10,401752887,Maryland,Indiana,P4,7,DraftKings,21,17.92,50.5,51.86,45,65
+2025,r10,401760402,Boise State,Fresno State,G5,8,DraftKings,-17.5,-18.97,47.5,53.02,23,37
+2025,r10,401754576,California,Virginia,P4,8,DraftKings,6.5,8.91,52.5,54.69,10,52
+2025,r10,401767244,Abilene Christian,Tarleton State,FCS/FCS,8,ESPN Bet,13.5,14.79,60.5,58.69,-3,59
+2025,r10,401767086,UC Davis,Idaho State,FCS/FCS,7,ESPN Bet,-11.5,-12.87,64.5,60.93,2,74
+2025,r10,401767473,Nicholls,Houston Christian,FCS/FCS,8,ESPN Bet,-11.5,-5.86,41.5,43.22,-24,38
+2025,r10,401756940,Kansas,Oklahoma State,P4,8,DraftKings,-24.5,-21.12,54.5,55.7,-17,59
+2025,r10,401752753,Arkansas,Mississippi State,P4,8,DraftKings,-5.5,-3.06,66.5,62.16,3,73
+2025,r10,401767534,Chattanooga,Western Carolina,FCS/FCS,8,ESPN Bet,3.5,-0.31,62.5,64.88,7,63
+2025,r10,401762850,Western Michigan,Central Michigan,G5,8,DraftKings,-6,-5.76,43.5,45.66,-3,45
+2025,r10,401767618,San Diego,Dayton,FCS/FCS,8,ESPN Bet,-3.5,3.83,48.5,50.38,-18,44
+2025,r10,401767288,Utah Tech,North Alabama,FCS/FCS,8,ESPN Bet,-3.5,-2.67,54.5,55.23,-1,67
+2025,r10,401767066,Eastern Washington,Sacramento State,FCS/FCS,8,ESPN Bet,8.5,6.67,59.5,59.55,22,48
+2025,r10,401767213,Tennessee State,Lindenwood,FCS/FCS,8,ESPN Bet,3.5,-1.04,47.5,47.27,22,48
+2025,r10,401767282,Central Arkansas,Eastern Kentucky,FCS/FCS,8,ESPN Bet,-6.5,-5.39,52.5,49.82,21,47
+2025,r10,401767499,Murray State,Southern Illinois,FCS/FCS,8,ESPN Bet,24.5,22.79,58.5,62.87,20,34
+2025,r10,401767076,Cal Poly,Portland State,FCS/FCS,8,ESPN Bet,-18,-21.5,54.5,54.22,5,75
+2025,r10,401767464,SE Louisiana,East Texas A&M,FCS/FCS,8,ESPN Bet,-17.5,-14.69,55.5,60.5,-45,73
+2025,r10,401767525,Stephen F. Austin,UT Rio Grande Valley,FCS/FCS,8,ESPN Bet,-10,0.88,55.5,54.68,-24,58
+2025,r10,401760405,San Diego State,Wyoming,G5,7,DraftKings,-10,-12.37,42.5,41.95,-17,31
+2025,r10,401767423,Florida A&M,Jackson State,FCS/FCS,7,ESPN Bet,17,15.85,53.5,55.83,25,57
+2025,r10,401752890,Michigan,Purdue,P4,8,DraftKings,-21,-16.6,48.5,47.64,-5,37
+2025,r10,401756937,Colorado,Arizona,P4,7,DraftKings,4,1.17,52.5,51.9,35,69
+2025,r10,401767494,McNeese,Northwestern State,FCS/FCS,8,ESPN Bet,-16.5,-10.57,48.5,50.49,-47,53
+2025,r10,401752756,Ole Miss,South Carolina,P4,8,DraftKings,-12.5,-10.93,55.5,51.51,-16,44
+2025,r10,401752757,Tennessee,Oklahoma,P4,8,DraftKings,-3,-1.41,55.5,57.38,6,60
+2025,r10,401752892,Nebraska,USC,P4,7,DraftKings,4.5,6.51,59.5,59.14,4,38
+2025,r10,401752943,Oregon State,Washington State,G5,8,DraftKings,3.5,9.38,47.5,50.4,-3,17
+2025,r10,401754578,Florida State,Wake Forest,P4,7,DraftKings,-12.5,-3.6,50.5,51.53,-35,49
+2025,r10,401754579,NC State,Georgia Tech,P4,8,DraftKings,4.5,7.71,58.5,57.83,-12,84
+2025,r10,401752754,Auburn,Kentucky,P4,7,DraftKings,-11.5,-11.93,44.5,47.43,7,13
+2025,r10,401761643,Troy,Arkansas State,G5,8,DraftKings,-7.5,-9.08,52.5,52.37,13,33
+2025,r10,401767253,Southern Utah,Austin Peay,FCS/FCS,8,ESPN Bet,1.5,0.54,61.5,64.39,-16,50
+2025,r10,401756942,Utah,Cincinnati,P4,8,DraftKings,-11.5,-12.45,57.5,55.03,-31,59
+2025,r10,401760403,San José State,Hawai'i,G5,7,DraftKings,-2.5,0.45,55.5,53.78,-7,83
+2025,r11,401762851,Akron,Massachusetts,G5,8,DraftKings,-12.5,-14.92,51.5,49.68,-34,54
+2025,r11,401762852,Ohio,Miami (OH),G5,8,DraftKings,-2.5,-3.54,50.5,51.41,-4,44
+2025,r11,401762854,Toledo,Northern Illinois,G5,8,DraftKings,-14.5,-15.52,42.5,43.42,-39,45
+2025,r11,401762853,Ball State,Kent State,G5,8,DraftKings,-3,-3.12,48.5,54.25,-4,30
+2025,r11,401761644,App State,Georgia Southern,G5,8,DraftKings,-4.5,-2.36,62.5,59.39,2,48
+2025,r11,401762500,South Florida,UTSA,G5,8,DraftKings,-14,-13.0,66.5,63.85,-32,78
+2025,r11,401767347,Morgan State,Delaware State,FCS/FCS,9,ESPN Bet,3.5,4.61,54.5,57.91,2,26
+2025,r11,401767706,Columbia,Harvard,FCS/FCS,7,ESPN Bet,29.5,27.65,48.5,47.77,17,45
+2025,r11,401756946,UCF,Houston,P4,8,DraftKings,-1.5,0.64,47.5,47.96,3,57
+2025,r11,401752896,USC,Northwestern,P4,8,DraftKings,-14.5,-12.3,54.5,49.51,-21,55
+2025,r11,401762501,Memphis,Tulane,G5,8,DraftKings,-3,-10.72,53.5,53.6,6,70
+2025,r11,401767316,Stony Brook,North Carolina A&T,FCS/FCS,9,ESPN Bet,-18.5,-17.95,53.5,58.81,-26,50
+2025,r11,401767766,Robert Morris,Wagner,FCS/FCS,9,ESPN Bet,-2.5,-4.53,37.5,41.13,4,44
+2025,r11,401752762,Mississippi State,Georgia,P4,8,DraftKings,9.5,6.19,56.5,55.6,20,62
+2025,r11,401767676,Brown,Yale,FCS/FCS,7,ESPN Bet,13.5,9.6,50.5,50.83,12,56
+2025,r11,401767769,Saint Francis,Mercyhurst,FCS/FCS,8,ESPN Bet,10,12.54,43.5,44.93,1,31
+2025,r11,401752893,Penn State,Indiana,P4,8,DraftKings,14.5,13.95,49.5,56.79,3,51
+2025,r11,401762503,Army,Temple,G5,8,DraftKings,-7,-7.11,45.5,51.26,-1,27
+2025,r11,401767747,Central Connecticut,Stonehill,FCS/FCS,9,ESPN Bet,-10,-9.34,41.5,44.59,-30,50
+2025,r11,401754584,Boston College,SMU,P4,9,DraftKings,10.5,14.37,54.5,53.46,32,58
+2025,r11,401761646,Marshall,James Madison,G5,8,DraftKings,13.5,10.99,53.5,58.77,12,58
+2025,r11,401756947,West Virginia,Colorado,P4,9,DraftKings,-6.5,-1.14,51.5,54.51,-7,51
+2025,r11,401767731,Lehigh,Holy Cross,FCS/FCS,9,ESPN Bet,-20,-19.9,45.5,46.86,-35,41
+2025,r11,401756945,Texas Tech,BYU,P4,8,DraftKings,-13.5,-7.62,50.5,55.67,-22,36
+2025,r11,401767755,Long Island University,Duquesne,FCS/FCS,9,ESPN Bet,7,4.13,43.5,46.86,-18,40
+2025,r11,401761647,Arkansas State,Southern Miss,G5,8,DraftKings,6.5,4.67,54.5,52.13,6,48
+2025,r11,401767535,Chattanooga,Furman,FCS/FCS,9,ESPN Bet,-6,-6.57,51.5,55.27,-17,73
+2025,r11,401767262,Monmouth,New Hampshire,FCS/FCS,9,ESPN Bet,-12.5,-11.92,61.5,57.61,21,47
+2025,r11,401769849,Lafayette,Colgate,FCS/FCS,9,ESPN Bet,-6.5,-4.7,58.5,58.64,-17,101
+2025,r11,401767609,Davidson,Presbyterian,FCS/FCS,9,ESPN Bet,22.5,23.91,57.5,59.13,-1,27
+2025,r11,401767724,Georgetown,Richmond,FCS/FCS,9,ESPN Bet,5.5,2.17,45.5,45.48,7,55
+2025,r11,401767624,Drake,St. Thomas (MN),FCS/FCS,8,ESPN Bet,-2.5,-0.03,47.5,50.56,7,33
+2025,r11,401767694,Pennsylvania,Cornell,FCS/FCS,7,ESPN Bet,-8,-9.81,50.5,52.2,22,56
+2025,r11,401767599,Morehead State,Butler,FCS/FCS,9,ESPN Bet,12.5,13.04,47.5,48.66,-1,61
+2025,r11,401757299,Liberty,Missouri State,G5,8,DraftKings,-7.5,-3.72,51.5,49.94,4,38
+2025,r11,401752761,Ole Miss,The Citadel,FCS/P4,9,DraftKings,-51.5,-26.2,63.5,53.23,-49,49
+2025,r11,401767199,Eastern Illinois,Tennessee Tech,FCS/FCS,9,ESPN Bet,24.5,20.53,52.5,54.2,12,30
+2025,r11,401767137,UAlbany,Bryant,FCS/FCS,9,ESPN Bet,3.5,3.93,44.5,49.4,3,51
+2025,r11,401752897,Purdue,Ohio State,P4,8,DraftKings,29.5,26.31,49.5,47.29,24,44
+2025,r11,401767632,Marist,Stetson,FCS/FCS,9,ESPN Bet,-12.5,-10.36,47.5,51.4,-28,54
+2025,r11,401767443,Indiana State,Illinois State,FCS/FCS,9,ESPN Bet,10.5,3.8,58.5,57.58,32,72
+2025,r11,401767669,Fordham,Bucknell,FCS/FCS,9,ESPN Bet,-3.5,-1.71,56.5,56.22,18,56
+2025,r11,401767703,Dartmouth,Princeton,FCS/FCS,7,ESPN Bet,-10.5,-9.02,49.5,51.73,-3,37
+2025,r11,401762855,Eastern Michigan,Bowling Green,G5,9,DraftKings,-3,0.17,49.5,51.11,-6,48
+2025,r11,401767330,Towson,Villanova,FCS/FCS,8,ESPN Bet,3.5,3.0,51.5,52.06,18,38
+2025,r11,401767646,Valparaiso,San Diego,FCS/FCS,9,ESPN Bet,23.5,15.95,48.5,52.31,16,70
+2025,r11,401767186,Hampton,Maine,FCS/FCS,9,ESPN Bet,14.5,11.86,50.5,51.32,28,42
+2025,r11,401767590,VMI,Wofford,FCS/FCS,9,ESPN Bet,11,11.53,44.5,43.72,42,62
+2025,r11,401767396,South Carolina State,Howard,FCS/FCS,9,ESPN Bet,-15.5,-12.27,49.5,52.06,-30,54
+2025,r11,401767206,Gardner-Webb,Southeast Missouri State,FCS/FCS,9,ESPN Bet,-4.5,-5.38,56.5,57.67,-3,51
+2025,r11,401767146,Campbell,William & Mary,FCS/FCS,9,ESPN Bet,6.5,7.65,56.5,57.17,3,57
+2025,r11,401767229,UT Martin,Tennessee State,FCS/FCS,9,ESPN Bet,-14.5,-9.97,48.5,43.92,-19,33
+2025,r11,401767500,Northern Iowa,Murray State,FCS/FCS,9,ESPN Bet,-12.5,-12.5,49.5,50.21,-17,45
+2025,r11,401767548,Youngstown State,Southern Illinois,FCS/FCS,9,ESPN Bet,-5,-1.35,59.5,61.54,-10,86
+2025,r11,401767214,Western Illinois,Lindenwood,FCS/FCS,9,ESPN Bet,7.5,4.12,57.5,60.79,-3,45
+2025,r11,401767480,Northwestern State,Incarnate Word,FCS/FCS,9,ESPN Bet,24.5,18.08,54.5,55.67,35,41
+2025,r11,401767409,North Carolina Central,Norfolk State,FCS/FCS,9,ESPN Bet,-25.5,-22.48,56.5,57.74,-3,59
+2025,r11,401767507,North Dakota,North Dakota State,FCS/FCS,9,ESPN Bet,10.5,8.13,53.5,55.86,5,25
+2025,r11,401767177,Elon,Rhode Island,FCS/FCS,9,ESPN Bet,4.5,2.72,49.5,51.03,14,54
+2025,r11,401762502,Rice,UAB,G5,8,DraftKings,1.5,-1.47,51.5,56.7,-7,41
+2025,r11,401767578,Western Carolina,Mercer,FCS/FCS,8,ESPN Bet,8,9.21,65.5,64.67,2,96
+2025,r11,401752894,Rutgers,Maryland,P4,8,DraftKings,-1.5,0.64,56.5,55.5,-15,55
+2025,r11,401767245,Abilene Christian,Utah Tech,FCS/FCS,9,ESPN Bet,-20.5,-14.15,53.5,50.48,-21,41
+2025,r11,401767110,Montana State,Weber State,FCS/FCS,9,ESPN Bet,-28.5,-28.36,57.5,56.37,-52,80
+2025,r11,401767365,Alabama State,Texas Southern,FCS/FCS,8,ESPN Bet,-17.5,-17.17,53.5,55.89,-18,66
+2025,r11,401757295,Delaware,Louisiana Tech,G5,8,DraftKings,5.5,9.22,56.5,55.28,-1,49
+2025,r11,401757296,Middle Tennessee,Florida International,G5,8,DraftKings,-1.5,1.47,50.5,49.28,26,86
+2025,r11,401757297,UTEP,Jacksonville State,G5,8,DraftKings,1.5,3.37,46.5,51.64,3,57
+2025,r11,401762504,East Carolina,Charlotte,G5,8,DraftKings,-27.5,-28.15,56.5,52.21,-26,70
+2025,r11,401767283,Eastern Kentucky,Southern Utah,FCS/FCS,9,ESPN Bet,6.5,7.57,55.5,53.27,10,44
+2025,r11,401762505,Florida Atlantic,Tulsa,G5,8,DraftKings,-4.5,-4.02,60.5,60.04,-19,61
+2025,r11,401767069,Montana,Eastern Washington,FCS/FCS,9,ESPN Bet,-27,-24.0,62.5,57.6,-5,53
+2025,r11,401767474,Houston Christian,Stephen F. Austin,FCS/FCS,9,ESPN Bet,24.5,21.67,48.5,46.31,47,53
+2025,r11,401767424,Mississippi Valley State,Jackson State,FCS/FCS,8,ESPN Bet,27.5,20.38,56.5,56.71,39,45
+2025,r11,401767386,Arkansas-Pine Bluff,Florida A&M,FCS/FCS,8,ESPN Bet,3.5,-1.15,52.5,54.87,3,59
+2025,r11,401767356,Alabama A&M,Prairie View A&M,FCS/FCS,9,ESPN Bet,3.5,3.62,52.5,51.63,43,53
+2025,r11,401767392,Grambling,Bethune-Cookman,FCS/FCS,9,ESPN Bet,-1.5,-4.0,53.5,55.02,-8,54
+2025,r11,401752898,Iowa,Oregon,P4,8,DraftKings,4.5,4.34,41.5,50.36,2,34
+2025,r11,401756943,Arizona,Kansas,P4,8,DraftKings,-5.5,-7.6,56.5,56.23,-4,44
+2025,r11,401783279,New Haven,Merrimack,FCS/FCS,9,ESPN Bet,9.5,1.67,44.5,47.07,-10,72
+2025,r11,401756944,TCU,Iowa State,P4,8,DraftKings,-7.5,-3.66,58.5,55.72,3,37
+2025,r11,401754587,Miami,Syracuse,P4,8,DraftKings,-28.5,-22.96,46.5,50.89,-28,48
+2025,r11,401754590,UConn,Duke,G5,8,DraftKings,7.5,2.41,63.5,61.85,-3,71
+2025,r11,401767562,Samford,East Tennessee State,FCS/FCS,9,ESPN Bet,18.5,15.64,56.5,55.91,24,52
+2025,r11,401752763,Missouri,Texas A&M,P4,8,DraftKings,7,2.85,48.5,56.37,21,55
+2025,r11,401767542,South Dakota,South Dakota State,FCS/FCS,9,ESPN Bet,7.5,5.98,46.5,46.55,-7,41
+2025,r11,401757298,New Mexico State,Kennesaw State,G5,8,DraftKings,11.5,9.57,52.5,49.93,3,45
+2025,r11,401767376,Alcorn State,Southern,FCS/FCS,9,ESPN Bet,-11,-15.04,47.5,49.88,-18,52
+2025,r11,401761645,Coastal Carolina,Georgia State,G5,8,DraftKings,-7,-10.04,56.5,55.68,-13,67
+2025,r11,401767487,Lamar,SE Louisiana,FCS/FCS,9,ESPN Bet,8,7.74,49.5,50.58,-2,26
+2025,r11,401767254,Austin Peay,Central Arkansas,FCS/FCS,9,ESPN Bet,-13.5,-12.52,55.5,58.24,-3,79
+2025,r11,401767289,North Alabama,West Georgia,FCS/FCS,9,ESPN Bet,9.5,6.31,57.5,58.55,7,41
+2025,r11,401752764,Vanderbilt,Auburn,P4,9,DraftKings,-6,-8.6,46.5,47.93,-7,83
+2025,r11,401754588,North Carolina,Stanford,P4,8,DraftKings,-8.5,-5.13,41.5,44.65,-5,35
+2025,r11,401752899,Wisconsin,Washington,P4,8,DraftKings,10.5,13.65,44.5,47.26,-3,23
+2025,r11,401761648,Louisiana,Texas State,G5,8,DraftKings,3.5,1.49,62.5,61.02,-3,81
+2025,r11,401767465,East Texas A&M,McNeese,FCS/FCS,9,ESPN Bet,-2.5,-2.28,53.5,58.91,15,55
+2025,r11,401767129,Portland State,Sacramento State,FCS/FCS,9,ESPN Bet,20.5,15.83,59.5,60.34,28,76
+2025,r11,401767077,Idaho State,Cal Poly,FCS/FCS,9,ESPN Bet,-7.5,0.69,62.5,59.87,-10,44
+2025,r11,401760406,San José State,Air Force,G5,8,DraftKings,-6,-2.49,67.5,62.95,10,42
+2025,r11,401767117,Northern Arizona,Northern Colorado,FCS/FCS,9,ESPN Bet,-12.5,-6.64,56.5,55.28,-39,59
+2025,r11,401754589,Virginia,Wake Forest,P4,8,DraftKings,-7,-9.87,48.5,51.72,7,25
+2025,r11,401754585,Louisville,California,P4,8,DraftKings,-18.5,-16.6,48.5,53.15,3,55
+2025,r11,401767095,Idaho,UC Davis,FCS/FCS,8,ESPN Bet,2.5,1.13,59.5,58.01,14,42
+2025,r11,401754586,Clemson,Florida State,P4,8,DraftKings,-1.5,2.14,56.5,56.41,-14,34
+2025,r11,401752759,Alabama,LSU,P4,8,DraftKings,-10,-7.08,49.5,49.32,-11,29
+2025,r11,401757166,Notre Dame,Navy,G5,8,DraftKings,-30.5,-20.43,54.5,53.97,-39,59
+2025,r11,401752760,Kentucky,Florida,P4,8,DraftKings,4.5,4.44,44.5,45.79,-31,45
+2025,r11,401760409,Utah State,Nevada,G5,8,DraftKings,-10,-10.97,52.5,52.3,-37,65
+2025,r11,401752895,UCLA,Nebraska,P4,8,DraftKings,-1.5,4.8,45.5,51.43,7,49
+2025,r11,401760407,Colorado State,UNLV,G5,8,DraftKings,5.5,4.18,60.5,59.83,32,52
+2025,r11,401752944,Oregon State,Sam Houston,G5,8,DraftKings,-21,-14.94,52.5,53.11,4,38
+2025,r11,401760408,Hawai'i,San Diego State,G5,8,DraftKings,6.5,9.94,48.5,49.26,-32,44
+2025,r12,401762856,Akron,Kent State,G5,9,DraftKings,-7.5,-8.63,49.5,52.36,7,77
+2025,r12,401762857,Western Michigan,Ohio,G5,9,DraftKings,-1.5,-1.09,47.5,48.27,-4,30
+2025,r12,401762860,Miami (OH),Toledo,G5,9,DraftKings,5.5,5.29,44.5,49.07,21,27
+2025,r12,401762859,Massachusetts,Northern Illinois,G5,9,DraftKings,9.5,10.36,43.5,44.28,42,48
+2025,r12,401762858,Central Michigan,Buffalo,G5,9,DraftKings,-2.5,-3.31,44.5,47.65,-19,57
+2025,r12,401761649,Old Dominion,Troy,G5,9,DraftKings,-9.5,-8.24,53.5,53.55,-33,33
+2025,r12,401767414,North Carolina Central,South Carolina State,FCS/FCS,10,ESPN Bet,-7,-2.2,57.5,61.1,7,61
+2025,r12,401754591,Louisville,Clemson,P4,9,DraftKings,-1.5,-4.22,50.5,54.07,1,39
+2025,r12,401752904,Oregon,Minnesota,P4,9,DraftKings,-26.5,-23.28,46.5,49.22,-29,55
+2025,r12,401767501,Murray State,North Dakota,FCS/FCS,10,ESPN Bet,34,30.07,55.5,55.24,18,52
+2025,r12,401767707,Harvard,Pennsylvania,FCS/FCS,8,ESPN Bet,-23,-21.23,51.5,55.06,-2,88
+2025,r12,401767563,Western Carolina,East Tennessee State,FCS/FCS,10,ESPN Bet,-6,-2.82,69.5,66.42,17,87
+2025,r12,401767138,Bryant,New Hampshire,FCS/FCS,10,ESPN Bet,11,10.29,46.5,48.41,28,56
+2025,r12,401767767,Mercyhurst,Robert Morris,FCS/FCS,10,ESPN Bet,-4.5,-4.96,37.5,41.51,-14,40
+2025,r12,401767619,Dayton,Drake,FCS/FCS,9,ESPN Bet,3.5,4.29,43.5,46.26,8,20
+2025,r12,401767402,Norfolk State,Morgan State,FCS/FCS,10,ESPN Bet,5.5,4.45,50.5,52.18,7,63
+2025,r12,401767610,Marist,Davidson,FCS/FCS,10,ESPN Bet,-14,-9.68,55.5,52.12,-27,47
+2025,r12,401752772,Texas A&M,South Carolina,P4,9,DraftKings,-16.5,-15.18,49.5,51.37,-1,61
+2025,r12,401788998,Princeton,Yale,FCS/FCS,8,ESPN Bet,8.5,7.61,51.5,50.09,3,23
+2025,r12,401762861,Ball State,Eastern Michigan,G5,9,DraftKings,2.5,0.72,48.5,52.81,15,33
+2025,r12,401756951,Cincinnati,Arizona,P4,9,DraftKings,-5.5,-0.03,56.5,55.5,6,54
+2025,r12,401756952,Oklahoma State,Kansas State,P4,9,DraftKings,19.5,19.44,50.5,56.62,8,20
+2025,r12,401767663,Sacred Heart,Merrimack,FCS/FCS,10,ESPN Bet,-6.5,-6.56,45.5,47.86,-5,79
+2025,r12,401767670,Bucknell,Holy Cross,FCS/FCS,10,ESPN Bet,-2.5,0.97,52.5,53.89,17,57
+2025,r12,401752901,Indiana,Wisconsin,P4,9,DraftKings,-28.5,-29.02,43.5,46.39,-24,38
+2025,r12,401754597,Pittsburgh,Notre Dame,P4,9,DraftKings,12.5,8.66,55.5,57.95,22,52
+2025,r12,401757174,UConn,Air Force,G5,9,DraftKings,-7.5,-7.92,64.5,62.63,-10,42
+2025,r12,401767760,Saint Francis,Long Island University,FCS/FCS,9,ESPN Bet,14,15.25,37.5,40.5,7,13
+2025,r12,401767452,Youngstown State,Indiana State,FCS/FCS,10,ESPN Bet,-20.5,-14.82,61.5,64.23,-19,77
+2025,r12,401762507,Charlotte,UTSA,G5,9,DraftKings,16.5,15.56,57.5,61.31,21,35
+2025,r12,401762510,Navy,South Florida,G5,9,DraftKings,9.5,13.15,62.5,61.07,-3,79
+2025,r12,401767677,Columbia,Brown,FCS/FCS,8,ESPN Bet,2.5,4.81,47.5,47.2,3,61
+2025,r12,401752905,Northwestern,Michigan,P4,9,DraftKings,10,6.74,41.5,42.72,2,46
+2025,r12,401767775,Wagner,Stonehill,FCS/FCS,10,ESPN Bet,-1,-1.45,38.5,41.97,-6,34
+2025,r12,401767263,North Carolina A&T,Monmouth,FCS/FCS,10,ESPN Bet,21.5,20.8,58.5,64.85,44,82
+2025,r12,401767748,Duquesne,Central Connecticut,FCS/FCS,10,ESPN Bet,1.5,-0.67,46.5,52.35,-5,71
+2025,r12,401752768,LSU,Arkansas,P4,9,DraftKings,-4,-6.0,58.5,55.76,-1,45
+2025,r12,401767187,Hampton,William & Mary,FCS/FCS,10,ESPN Bet,18.5,13.12,53.5,54.47,41,69
+2025,r12,401767326,Villanova,Stony Brook,FCS/FCS,9,ESPN Bet,-10.5,-8.16,51.5,52.92,-3,57
+2025,r12,401767654,Valparaiso,Stetson,FCS/FCS,10,ESPN Bet,-2.5,-4.28,48.5,57.28,-1,63
+2025,r12,401752945,Tulsa,Oregon State,G5,9,DraftKings,-1.5,1.39,50.5,51.09,-17,45
+2025,r12,401767717,Georgetown,Fordham,FCS/FCS,10,ESPN Bet,-5.5,-7.96,49.5,49.19,-14,14
+2025,r12,401767393,Jackson State,Bethune-Cookman,FCS/FCS,9,ESPN Bet,-23.5,-16.06,59.5,58.22,-15,41
+2025,r12,401767331,UAlbany,Towson,FCS/FCS,10,ESPN Bet,13.5,10.0,47.5,48.33,17,55
+2025,r12,401756948,Arizona State,West Virginia,P4,9,DraftKings,-10,-11.28,46.5,50.95,-2,48
+2025,r12,401767543,Southern Illinois,South Dakota,FCS/FCS,10,ESPN Bet,-4.5,-3.6,50.5,54.43,2,104
+2025,r12,401767695,Dartmouth,Cornell,FCS/FCS,8,ESPN Bet,-10,-9.14,47.5,48.96,-10,38
+2025,r12,401767737,Colgate,Lehigh,FCS/FCS,10,ESPN Bet,18.5,17.5,54.5,55.47,20,34
+2025,r12,401767194,Maine,Rhode Island,FCS/FCS,10,ESPN Bet,4,3.85,49.5,50.49,32,58
+2025,r12,401767348,Delaware State,Howard,FCS/FCS,10,ESPN Bet,-13.5,-13.13,50.5,51.24,-13,39
+2025,r12,401767571,Furman,VMI,FCS/FCS,10,ESPN Bet,-20.5,-13.61,51.5,55.11,-18,46
+2025,r12,401752767,Kentucky,Tennessee Tech,FCS/P4,9,DraftKings,-22.5,-2.17,52.5,53.47,-32,52
+2025,r12,401761651,Georgia State,Marshall,G5,9,DraftKings,9.5,12.1,59.5,63.71,12,48
+2025,r12,401767255,Austin Peay,Samford,FCS/FCS,10,ESPN Bet,-25.5,-24.9,55.5,57.44,-14,46
+2025,r12,401767303,West Georgia,Utah Tech,FCS/FCS,10,ESPN Bet,-15,-10.92,48.5,46.09,-23,23
+2025,r12,401767740,Richmond,Lafayette,FCS/FCS,10,ESPN Bet,3.5,2.4,49.5,53.89,7,63
+2025,r12,401767643,St. Thomas (MN),Presbyterian,FCS/FCS,10,ESPN Bet,-5.5,-7.96,47.5,50.37,14,32
+2025,r12,401767222,Western Illinois,Southeast Missouri State,FCS/FCS,10,ESPN Bet,8,4.58,57.5,60.1,5,39
+2025,r12,401767586,The Citadel,Wofford,FCS/FCS,10,ESPN Bet,3.5,2.69,43.5,41.57,2,30
+2025,r12,401762506,UAB,North Texas,G5,9,DraftKings,17.5,18.9,68.5,65.86,29,77
+2025,r12,401767147,Campbell,Elon,FCS/FCS,10,ESPN Bet,4,6.91,52.5,53.99,7,55
+2025,r12,401767169,UT Martin,Charleston Southern,FCS/FCS,10,ESPN Bet,-10,-4.52,45.5,44.03,-3,31
+2025,r12,401767207,Tennessee State,Gardner-Webb,FCS/FCS,10,ESPN Bet,15,10.45,50.5,48.84,16,44
+2025,r12,401767444,South Dakota State,Illinois State,FCS/FCS,10,ESPN Bet,-3.5,-5.77,50.5,52.68,14,56
+2025,r12,401767357,Alabama A&M,Florida A&M,FCS/FCS,9,ESPN Bet,2.5,-2.02,54.5,59.08,3,49
+2025,r12,401767246,Eastern Kentucky,Abilene Christian,FCS/FCS,10,ESPN Bet,9,6.88,48.5,47.87,7,27
+2025,r12,401767377,Alcorn State,Grambling,FCS/FCS,10,ESPN Bet,1.5,1.72,45.5,47.14,-11,43
+2025,r12,401767457,Southern,Texas Southern,FCS/FCS,9,ESPN Bet,6.5,10.47,52.5,51.9,5,65
+2025,r12,401767387,Prairie View A&M,Arkansas-Pine Bluff,FCS/FCS,9,ESPN Bet,-21,-16.72,50.5,48.49,-47,65
+2025,r12,401757304,Missouri State,UTEP,G5,9,DraftKings,-6.5,-7.6,47.5,48.39,-14,62
+2025,r12,401767481,Incarnate Word,SE Louisiana,FCS/FCS,10,ESPN Bet,5.5,7.66,54.5,54.84,3,17
+2025,r12,401760411,New Mexico,Colorado State,G5,9,DraftKings,-15.5,-14.28,53.5,52.45,-3,37
+2025,r12,401767200,Lindenwood,Eastern Illinois,FCS/FCS,10,ESPN Bet,-5.5,-3.08,49.5,48.82,-30,54
+2025,r12,401767556,Mercer,Chattanooga,FCS/FCS,9,ESPN Bet,-15.5,-14.63,57.5,60.34,-46,80
+2025,r12,401752906,Illinois,Maryland,P4,9,DraftKings,-16.5,-12.72,51.5,54.48,-18,30
+2025,r12,401752765,Alabama,Oklahoma,P4,9,DraftKings,-6.5,-3.59,45.5,46.05,2,44
+2025,r12,401752907,USC,Iowa,P4,9,DraftKings,-6.5,-2.44,48.5,52.19,-5,47
+2025,r12,401754593,Duke,Virginia,P4,9,DraftKings,-5.5,-1.34,59.5,59.33,17,51
+2025,r12,401761653,UL Monroe,South Alabama,G5,9,DraftKings,4,6.07,49.5,52.17,12,40
+2025,r12,401760413,Nevada,San José State,G5,9,DraftKings,10,7.9,49.5,50.38,-45,65
+2025,r12,401767514,North Dakota State,Northern Iowa,FCS/FCS,10,ESPN Bet,-34,-32.22,47.5,45.38,-32,64
+2025,r12,401756953,Texas Tech,UCF,P4,9,DraftKings,-24.5,-21.3,48.5,50.66,-39,57
+2025,r12,401757303,Western Kentucky,Middle Tennessee,G5,9,DraftKings,-13.5,-15.3,51.5,52.72,-16,68
+2025,r12,401761654,Southern Miss,Texas State,G5,9,DraftKings,-3,-5.84,65.5,63.73,27,55
+2025,r12,401754595,Miami,NC State,P4,9,DraftKings,-16.5,-15.17,54.5,56.47,-34,48
+2025,r12,401754592,Boston College,Georgia Tech,P4,9,DraftKings,16.5,15.55,61.5,57.84,2,70
+2025,r12,401752903,Michigan State,Penn State,P4,9,DraftKings,7,12.46,48.5,55.6,18,38
+2025,r12,401761652,James Madison,App State,G5,9,DraftKings,-21,-20.57,53.5,51.58,-48,68
+2025,r12,401762508,East Carolina,Memphis,G5,9,DraftKings,-3,-1.04,56.5,54.99,-4,58
+2025,r12,401767067,Eastern Washington,Northern Colorado,FCS/FCS,10,ESPN Bet,-3.5,-4.6,54.5,51.67,-20,34
+2025,r12,401767078,Northern Arizona,Cal Poly,FCS/FCS,10,ESPN Bet,-11.5,-5.3,57.5,57.12,-8,62
+2025,r12,401767519,Nicholls,Northwestern State,FCS/FCS,10,ESPN Bet,-23.5,-21.19,45.5,45.8,-5,47
+2025,r12,401762509,Tulane,Florida Atlantic,G5,9,DraftKings,-16.5,-11.28,60.5,59.87,-11,59
+2025,r12,401767600,San Diego,Butler,FCS/FCS,10,ESPN Bet,-7.5,-2.34,46.5,53.07,-22,36
+2025,r12,401752771,Tennessee,New Mexico State,G5,9,DraftKings,-41.5,-24.26,59.5,60.93,-33,51
+2025,r12,401754596,Wake Forest,North Carolina,P4,9,DraftKings,-3.5,-7.91,37.5,41.62,-16,40
+2025,r12,401767103,Portland State,Montana,FCS/FCS,10,ESPN Bet,30.5,25.78,60.5,61.01,46,80
+2025,r12,401757301,Florida International,Liberty,G5,9,DraftKings,2.5,0.87,51.5,52.05,-7,61
+2025,r12,401767466,East Texas A&M,Houston Christian,FCS/FCS,10,ESPN Bet,-9.5,-9.63,51.5,57.59,-5,69
+2025,r12,401767366,Mississippi Valley State,Alabama State,FCS/FCS,9,ESPN Bet,29.5,23.48,54.5,60.3,38,44
+2025,r12,401767488,Stephen F. Austin,Lamar,FCS/FCS,10,ESPN Bet,-11,-11.72,45.5,45.5,-11,41
+2025,r12,401761650,Georgia Southern,Coastal Carolina,G5,9,DraftKings,-3,-2.86,59.5,57.79,-5,85
+2025,r12,401767087,Idaho State,Weber State,FCS/FCS,10,ESPN Bet,-13.5,-10.9,59.5,61.72,-28,34
+2025,r12,401752769,Ole Miss,Florida,P4,9,DraftKings,-10.5,-13.39,53.5,51.35,-10,58
+2025,r12,401756949,Baylor,Utah,P4,9,DraftKings,9.5,14.38,60.5,58.89,27,83
+2025,r12,401752902,Washington,Purdue,P4,9,DraftKings,-14.5,-14.36,51.5,50.75,-36,62
+2025,r12,401767290,Tarleton State,North Alabama,FCS/FCS,10,ESPN Bet,-33.5,-26.54,61.5,63.83,-61,61
+2025,r12,401757300,Sam Houston,Delaware,G5,9,DraftKings,11.5,9.54,56.5,57.73,-3,49
+2025,r12,401760414,UNLV,Utah State,G5,9,DraftKings,-4.5,-2.99,68.5,67.21,-3,55
+2025,r12,401752766,Georgia,Texas,P4,9,DraftKings,-3.5,-4.99,50.5,50.22,-25,45
+2025,r12,401752900,Ohio State,UCLA,P4,9,DraftKings,-33.5,-28.98,46.5,47.58,-38,58
+2025,r12,401754594,Florida State,Virginia Tech,P4,9,DraftKings,-14.5,-11.36,55.5,54.74,-20,48
+2025,r12,401752770,Missouri,Mississippi State,P4,9,DraftKings,-7.5,-6.86,50.5,55.46,-22,76
+2025,r12,401757302,Jacksonville State,Kennesaw State,G5,9,DraftKings,3.5,1.88,56.5,53.13,-9,61
+2025,r12,401767296,Southern Utah,Central Arkansas,FCS/FCS,10,ESPN Bet,-12.5,-13.13,63.5,61.01,-7,49
+2025,r12,401767096,Sacramento State,Idaho,FCS/FCS,10,ESPN Bet,-7,-5.34,59.5,58.67,-3,43
+2025,r12,401752953,Washington State,Louisiana Tech,G5,9,DraftKings,-10,-1.03,43.5,45.61,-25,31
+2025,r12,401756950,BYU,TCU,P4,9,DraftKings,-3,-6.37,51.5,53.92,-31,57
+2025,r12,401767111,Montana State,UC Davis,FCS/FCS,9,ESPN Bet,-19,-14.92,61.5,58.18,-21,55
+2025,r12,401760412,Fresno State,Wyoming,G5,9,DraftKings,-3,-2.44,40.5,43.83,-21,27
+2025,r12,401760410,San Diego State,Boise State,G5,9,DraftKings,-1.5,0.42,41.5,48.25,-10,24
+2025,r13,401762862,Bowling Green,Akron,G5,10,DraftKings,-2.5,-2.7,47.5,48.73,3,35
+2025,r13,401762863,Ohio,Massachusetts,G5,10,DraftKings,-33.5,-30.45,53.5,51.31,-28,56
+2025,r13,401762864,Northern Illinois,Western Michigan,G5,10,DraftKings,7,7.43,39.5,40.17,16,54
+2025,r13,401762865,Buffalo,Miami (OH),G5,10,DraftKings,2.5,3.55,38.5,46.04,17,57
+2025,r13,401762866,Kent State,Central Michigan,G5,10,DraftKings,7.5,8.27,50.5,54.27,12,44
+2025,r13,401767520,SE Louisiana,Nicholls,FCS/FCS,11,ESPN Bet,-17.5,-16.75,49.5,44.92,-12,64
+2025,r13,401767522,Northwestern State,Stephen F. Austin,FCS/FCS,11,ESPN Bet,37.5,31.87,50.5,49.92,48,76
+2025,r13,401761655,Arkansas State,Louisiana,G5,10,DraftKings,-2.5,-0.56,54.5,52.24,4,64
+2025,r13,401754598,NC State,Florida State,P4,10,DraftKings,7,5.2,58.5,58.26,-10,32
+2025,r13,401760418,UNLV,Hawai'i,G5,10,DraftKings,-2.5,-2.4,64.5,62.42,-28,48
+2025,r13,401762512,Army,Tulsa,G5,9,DraftKings,-10,-12.41,43.5,46.63,1,51
+2025,r13,401752781,Texas A&M,Samford,FCS/P4,10,DraftKings,-54.5,-42.79,59.5,56.01,-48,48
+2025,r13,401767403,Morgan State,North Carolina Central,FCS/FCS,11,ESPN Bet,9.5,6.05,54.5,55.35,19,47
+2025,r13,401767678,Brown,Dartmouth,FCS/FCS,9,ESPN Bet,8,5.58,51.5,51.26,-7,63
+2025,r13,401754606,Wake Forest,Delaware,G5,10,DraftKings,-17.5,-13.92,49.5,50.77,-38,66
+2025,r13,401767139,Stony Brook,Bryant,FCS/FCS,11,ESPN Bet,-18.5,-13.48,52.5,53.33,-7,63
+2025,r13,401767264,Monmouth,UAlbany,FCS/FCS,11,ESPN Bet,-29.5,-23.74,62.5,59.54,7,55
+2025,r13,401767591,VMI,Western Carolina,FCS/FCS,11,ESPN Bet,25.5,17.48,63.5,65.09,42,54
+2025,r13,401767708,Yale,Harvard,FCS/FCS,9,ESPN Bet,6.5,5.04,50.5,52.27,-17,73
+2025,r13,401767718,Merrimack,Fordham,FCS/FCS,11,ESPN Bet,-5.5,-11.65,45.5,44.55,-1,53
+2025,r13,401767749,Central Connecticut,Mercyhurst,FCS/FCS,11,ESPN Bet,-10.5,-9.35,47.5,47.3,-7,63
+2025,r13,401767761,Long Island University,Wagner,FCS/FCS,11,ESPN Bet,-10,-9.9,36.5,37.41,-7,41
+2025,r13,401754603,Virginia Tech,Miami,P4,10,DraftKings,17.5,19.24,49.5,51.07,17,51
+2025,r13,401754602,SMU,Louisville,P4,10,DraftKings,-4,-3.77,49.5,52.83,-32,44
+2025,r13,401752778,Oklahoma,Missouri,P4,10,DraftKings,-4.5,-5.88,42.5,47.99,-11,23
+2025,r13,401756958,Iowa State,Kansas,P4,10,DraftKings,-3,-5.0,55.5,53.26,-24,52
+2025,r13,401752912,Ohio State,Rutgers,P4,10,DraftKings,-28.5,-27.28,54.5,54.14,-33,51
+2025,r13,401752909,Northwestern,Minnesota,P4,10,DraftKings,-4,-4.74,40.5,43.89,-3,73
+2025,r13,401767738,Lafayette,Lehigh,FCS/FCS,11,ESPN Bet,10,12.43,52.5,55.05,10,74
+2025,r13,401752776,Georgia,Charlotte,G5,10,DraftKings,-42.5,-38.47,53.5,52.64,-32,38
+2025,r13,401767770,Stonehill,Saint Francis,FCS/FCS,10,ESPN Bet,-7.5,-9.56,37.5,40.51,-10,30
+2025,r13,401767148,Towson,Campbell,FCS/FCS,11,ESPN Bet,-8.5,-10.67,54.5,53.72,-4,66
+2025,r13,401767195,New Hampshire,Maine,FCS/FCS,11,ESPN Bet,-7.5,-9.92,47.5,46.6,-6,60
+2025,r13,401767564,East Tennessee State,The Citadel,FCS/FCS,11,ESPN Bet,-11.5,-9.68,54.5,52.15,-2,54
+2025,r13,401767338,Villanova,Sacred Heart,FCS/FCS,10,ESPN Bet,-16,-8.0,54.5,55.63,-24,44
+2025,r13,401767349,Delaware State,South Carolina State,FCS/FCS,11,ESPN Bet,5.5,1.88,56.5,59.25,11,45
+2025,r13,401752954,James Madison,Washington State,G5,10,DraftKings,-15.5,-11.16,44.5,47.22,-4,44
+2025,r13,401756954,Arizona,Baylor,P4,10,DraftKings,-6.5,-8.34,61.5,60.37,-24,58
+2025,r13,401761657,Georgia Southern,Old Dominion,G5,10,DraftKings,10,10.31,61.5,58.62,35,55
+2025,r13,401767445,Illinois State,Southern Illinois,FCS/FCS,11,ESPN Bet,-4.5,-4.5,59.5,63.54,30,44
+2025,r13,401767625,Drake,Morehead State,FCS/FCS,10,ESPN Bet,-21.5,-20.51,49.5,46.31,-7,27
+2025,r13,401767601,Butler,Valparaiso,FCS/FCS,11,ESPN Bet,-16.5,-18.48,48.5,53.34,-7,47
+2025,r13,401767340,William & Mary,Richmond,FCS/FCS,11,ESPN Bet,-6.5,-7.66,49.5,51.52,7,49
+2025,r13,401767453,Indiana State,Murray State,FCS/FCS,11,ESPN Bet,-13,-11.15,58.5,59.0,14,48
+2025,r13,401767671,Colgate,Bucknell,FCS/FCS,11,ESPN Bet,-9.5,-7.41,60.5,62.6,-19,57
+2025,r13,401767367,Alabama State,Arkansas-Pine Bluff,FCS/FCS,10,ESPN Bet,-26.5,-27.18,59.5,58.59,-31,57
+2025,r13,401788996,Pennsylvania,Princeton,FCS/FCS,9,ESPN Bet,-3.5,-2.4,50.5,53.45,-11,23
+2025,r13,401767188,Rhode Island,Hampton,FCS/FCS,11,ESPN Bet,-31.5,-29.86,52.5,55.05,-28,48
+2025,r13,401767647,Stetson,San Diego,FCS/FCS,11,ESPN Bet,22,20.06,53.5,56.48,34,50
+2025,r13,401767234,Tennessee Tech,UT Martin,FCS/FCS,11,ESPN Bet,-17.5,-16.28,55.5,52.16,-3,37
+2025,r13,401767696,Cornell,Columbia,FCS/FCS,9,ESPN Bet,-9.5,-8.59,43.5,45.58,17,41
+2025,r13,401767633,Presbyterian,Marist,FCS/FCS,11,ESPN Bet,-17.5,-14.84,49.5,46.16,-4,54
+2025,r13,401767611,Davidson,Dayton,FCS/FCS,10,ESPN Bet,17.5,15.6,51.5,51.71,28,56
+2025,r13,401767557,Wofford,Chattanooga,FCS/FCS,11,ESPN Bet,-4.5,-6.02,47.5,48.64,-22,48
+2025,r13,401767208,Gardner-Webb,Western Illinois,FCS/FCS,11,ESPN Bet,-13.5,-11.72,59.5,59.3,5,53
+2025,r13,401757306,Kennesaw State,Missouri State,G5,10,DraftKings,-6.5,-3.06,54.5,50.25,-7,75
+2025,r13,401752773,Alabama,Eastern Illinois,FCS/P4,10,DraftKings,-50.5,-36.29,57.5,47.0,-56,56
+2025,r13,401767291,North Alabama,Southern Utah,FCS/FCS,11,ESPN Bet,18,12.82,58.5,63.34,2,70
+2025,r13,401760419,Wyoming,Nevada,G5,10,DraftKings,-6,-6.19,39.5,42.21,6,20
+2025,r13,401767756,Robert Morris,Duquesne,FCS/FCS,11,ESPN Bet,13.5,9.34,42.5,49.56,3,37
+2025,r13,401762867,Toledo,Ball State,G5,10,DraftKings,-29.5,-25.13,45.5,46.04,-29,47
+2025,r13,401767178,Elon,North Carolina A&T,FCS/FCS,11,ESPN Bet,-21,-19.55,54.5,56.25,-38,72
+2025,r13,401767215,Southeast Missouri State,Lindenwood,FCS/FCS,11,ESPN Bet,1.5,-1.44,52.5,54.33,17,43
+2025,r13,401767508,North Dakota,South Dakota State,FCS/FCS,11,ESPN Bet,-9.5,-7.48,48.5,47.94,3,65
+2025,r13,401767125,Northern Colorado,Portland State,FCS/FCS,11,ESPN Bet,-10.5,-9.29,56.5,56.11,-11,37
+2025,r13,401767540,Northern Iowa,Youngstown State,FCS/FCS,11,ESPN Bet,14,11.02,57.5,56.04,3,67
+2025,r13,401752774,Auburn,Mercer,FCS/P4,10,DraftKings,-26.5,-2.97,51.5,53.72,-45,79
+2025,r13,401767170,Charleston Southern,Tennessee State,FCS/FCS,11,ESPN Bet,-12.5,-10.64,43.5,39.7,-1,13
+2025,r13,401767104,Montana,Montana State,FCS/FCS,11,ESPN Bet,4.5,4.06,59.5,60.76,3,59
+2025,r13,401761656,App State,Marshall,G5,10,DraftKings,4,6.49,56.5,60.04,-2,50
+2025,r13,401767358,Texas Southern,Alabama A&M,FCS/FCS,10,ESPN Bet,-3.5,-6.87,52.5,56.22,-17,31
+2025,r13,401757175,Florida Atlantic,UConn,G5,10,DraftKings,6,6.71,63.5,62.0,3,93
+2025,r13,401767430,Prairie View A&M,Mississippi Valley State,FCS/FCS,10,ESPN Bet,-29.5,-24.3,50.5,50.39,-53,65
+2025,r13,401767118,Weber State,Northern Arizona,FCS/FCS,11,ESPN Bet,14,11.9,58.5,59.96,-20,76
+2025,r13,401757307,Louisiana Tech,Liberty,G5,10,DraftKings,1.5,-5.62,45.5,47.68,-6,62
+2025,r13,401757308,Middle Tennessee,Sam Houston,G5,10,DraftKings,-6.5,-2.92,53.5,54.24,-14,48
+2025,r13,401757309,UTEP,New Mexico State,G5,10,DraftKings,-4,-2.89,44.5,49.04,3,65
+2025,r13,401762511,UAB,South Florida,G5,10,DraftKings,21.5,21.58,68.5,65.88,30,66
+2025,r13,401767475,Houston Christian,Incarnate Word,FCS/FCS,11,ESPN Bet,17.5,13.65,49.5,50.5,21,41
+2025,r13,401752911,Oregon,USC,P4,10,DraftKings,-10.5,-7.76,59.5,56.96,-15,69
+2025,r13,401767397,Howard,Norfolk State,FCS/FCS,11,ESPN Bet,-3.5,-1.5,48.5,49.44,-29,59
+2025,r13,401767378,Alcorn State,Jackson State,FCS/FCS,10,ESPN Bet,-19.5,10.84,51.5,49.36,6,48
+2025,r13,401752780,Texas,Arkansas,P4,10,DraftKings,-8.5,-7.21,58.5,56.26,-15,89
+2025,r13,401754600,North Carolina,Duke,P4,10,DraftKings,7,6.32,50.5,52.27,7,57
+2025,r13,401767515,North Dakota State,St. Thomas (MN),FCS/FCS,11,ESPN Bet,-33.5,-15.84,51.5,50.83,-55,69
+2025,r13,401767394,Florida A&M,Bethune-Cookman,FCS/FCS,10,ESPN Bet,-2.5,5.99,56.5,58.26,4,72
+2025,r13,401752782,Vanderbilt,Kentucky,P4,10,DraftKings,-7,-6.42,53.5,55.58,-28,62
+2025,r13,401752913,Iowa,Michigan State,P4,10,DraftKings,-17.5,-19.42,42.5,48.52,-3,37
+2025,r13,401762513,UTSA,East Carolina,G5,10,DraftKings,1.5,5.52,62.5,57.34,-34,82
+2025,r13,401761658,South Alabama,Southern Miss,G5,10,DraftKings,2.5,1.9,53.5,53.67,-7,77
+2025,r13,401757305,Florida International,Jacksonville State,G5,10,DraftKings,-2.5,0.1,55.5,57.26,-6,48
+2025,r13,401754604,Notre Dame,Syracuse,P4,10,DraftKings,-36.5,-29.51,51.5,52.79,-63,77
+2025,r13,401762515,Temple,Tulane,G5,10,DraftKings,7.5,4.56,54.5,55.81,24,50
+2025,r13,401767725,Holy Cross,Georgetown,FCS/FCS,11,ESPN Bet,-5.5,-3.49,45.5,45.34,-35,49
+2025,r13,401767284,Utah Tech,Eastern Kentucky,FCS/FCS,11,ESPN Bet,6.5,3.53,45.5,41.13,23,43
+2025,r13,401752914,Maryland,Michigan,P4,10,DraftKings,14,7.64,46.5,46.46,25,65
+2025,r13,401767134,UC Davis,Sacramento State,FCS/FCS,10,ESPN Bet,-5,-3.69,63.5,61.37,-4,58
+2025,r13,401756957,Houston,TCU,P4,10,DraftKings,1.5,-1.68,56.5,55.34,3,31
+2025,r13,401761660,Troy,Georgia State,G5,10,DraftKings,-9.5,-12.15,50.5,53.6,-12,50
+2025,r13,401756960,Utah,Kansas State,P4,10,DraftKings,-17.5,-18.43,52.5,55.34,-4,98
+2025,r13,401756959,UCF,Oklahoma State,P4,10,DraftKings,-13.5,-14.33,47.5,48.26,-3,31
+2025,r13,401767088,Idaho,Idaho State,FCS/FCS,11,ESPN Bet,-2.5,-1.46,59.5,53.78,21,53
+2025,r13,401767489,Lamar,McNeese,FCS/FCS,11,ESPN Bet,-13.5,-9.96,47.5,44.6,2,40
+2025,r13,401752779,South Carolina,Coastal Carolina,G5,10,DraftKings,-23.5,-16.17,49.5,50.82,-44,58
+2025,r13,401754605,Clemson,Furman,FCS/P4,10,DraftKings,-41.5,-22.65,55.5,52.45,-35,55
+2025,r13,401767068,Cal Poly,Eastern Washington,FCS/FCS,11,ESPN Bet,-2.5,-5.94,56.5,52.41,-9,77
+2025,r13,401761659,Texas State,UL Monroe,G5,10,DraftKings,-20.5,-18.72,59.5,59.36,-17,45
+2025,r13,401767247,Central Arkansas,Abilene Christian,FCS/FCS,11,ESPN Bet,9.5,6.83,54.5,55.15,21,77
+2025,r13,401767276,Tarleton State,Austin Peay,FCS/FCS,11,ESPN Bet,-18.5,-16.59,60.5,62.18,-1,89
+2025,r13,401760415,Air Force,New Mexico,G5,10,DraftKings,3.5,1.37,52.5,57.79,17,23
+2025,r13,401760416,Boise State,Colorado State,G5,10,DraftKings,-17.5,-17.24,45.5,48.86,-28,70
+2025,r13,401754601,Georgia Tech,Pittsburgh,P4,10,DraftKings,-2.5,0.98,61.5,60.73,14,70
+2025,r13,401752908,Penn State,Nebraska,P4,10,DraftKings,-7,-9.43,45.5,52.28,-27,47
+2025,r13,401752915,Wisconsin,Illinois,P4,10,DraftKings,8.5,10.13,42.5,44.83,-17,37
+2025,r13,401752775,Florida,Tennessee,P4,10,DraftKings,3.5,6.77,57.5,57.95,20,42
+2025,r13,401762514,Rice,North Texas,G5,10,DraftKings,18.5,19.49,57.5,59.3,32,80
+2025,r13,401754599,Stanford,California,P4,10,DraftKings,4.5,2.58,47.5,49.26,-21,41
+2025,r13,401752777,LSU,Western Kentucky,G5,10,DraftKings,-24.5,-13.1,52.5,48.68,-3,23
+2025,r13,401756955,Cincinnati,BYU,P4,10,DraftKings,2.5,7.02,56.5,54.24,12,40
+2025,r13,401756956,Colorado,Arizona State,P4,10,DraftKings,7,6.66,47.5,49.32,25,59
+2025,r13,401760420,San Diego State,San José State,G5,10,DraftKings,-10,-17.6,50.5,49.28,-22,28
+2025,r13,401752910,UCLA,Washington,P4,10,DraftKings,10.5,13.23,51.5,53.12,34,62
+2025,r13,401760417,Fresno State,Utah State,G5,10,DraftKings,-1.5,-0.98,50.5,54.09,11,45
+2025,r14,401762868,Massachusetts,Bowling Green,G5,11,DraftKings,14,15.53,44.5,46.8,31,59
+2025,r14,401762869,Eastern Michigan,Western Michigan,G5,11,DraftKings,10,7.81,49.5,49.22,10,52
+2025,r14,401762516,Memphis,Navy,G5,10,DraftKings,-4,-8.69,57.5,57.39,11,45
+2025,r14,401762870,Buffalo,Ohio,G5,11,DraftKings,7,6.8,44.5,50.51,5,57
+2025,r14,401752788,Mississippi State,Ole Miss,P4,11,DraftKings,7.5,10.52,62.5,61.49,19,57
+2025,r14,401762871,Northern Illinois,Kent State,G5,11,DraftKings,-4.5,-5.78,44.5,48.91,4,66
+2025,r14,401756964,Kansas,Utah,P4,11,DraftKings,10,15.96,60.5,59.61,10,52
+2025,r14,401752916,Nebraska,Iowa,P4,11,DraftKings,5.5,7.78,38.5,46.51,24,56
+2025,r14,401760421,Colorado State,Air Force,G5,11,DraftKings,2.5,2.96,47.5,52.76,21,63
+2025,r14,401760426,New Mexico,San Diego State,G5,11,DraftKings,1.5,1.75,41.5,43.77,-6,40
+2025,r14,401762442,North Texas,Temple,G5,11,DraftKings,-20.5,-21.55,65.5,64.84,-27,77
+2025,r14,401752786,Georgia Tech,Georgia,P4,11,DraftKings,16.5,12.52,60.5,55.56,7,25
+2025,r14,401760422,Utah State,Boise State,G5,11,DraftKings,1.5,2.9,54.5,58.31,1,49
+2025,r14,401752924,Purdue,Indiana,P4,11,DraftKings,28.5,26.21,53.5,53.1,53,59
+2025,r14,401752792,Texas,Texas A&M,P4,11,DraftKings,2.5,3.13,54.5,56.02,-10,44
+2025,r14,401756961,Arizona State,Arizona,P4,11,DraftKings,1.5,1.03,48.5,50.24,16,30
+2025,r14,401752787,Louisville,Kentucky,P4,11,DraftKings,1.5,-1.29,45.5,50.78,-41,41
+2025,r14,401836055,Villanova,Harvard,FCS/FCS,10,ESPN Bet,2,5.75,53.5,56.04,-45,59
+2025,r14,401762875,Miami (OH),Ball State,G5,11,DraftKings,-16.5,-16.25,40.5,45.51,-21,69
+2025,r14,401754611,Pittsburgh,Miami,P4,11,DraftKings,6.5,5.74,48.5,55.44,31,45
+2025,r14,401756966,Oklahoma State,Iowa State,P4,11,DraftKings,14,18.49,46.5,48.54,7,33
+2025,r14,401756968,West Virginia,Texas Tech,P4,11,DraftKings,24.5,22.32,53.5,55.65,49,49
+2025,r14,401836102,Rhode Island,Central Connecticut,FCS/FCS,12,ESPN Bet,-19.5,-11.27,52.5,53.78,-8,46
+2025,r14,401762519,Florida Atlantic,East Carolina,G5,11,DraftKings,7,8.02,66.5,62.67,39,45
+2025,r14,401756965,Kansas State,Colorado,P4,11,DraftKings,-16.5,-13.43,49.5,56.8,-10,38
+2025,r14,401752921,Michigan,Ohio State,P4,11,DraftKings,9.5,13.3,42.5,47.36,18,36
+2025,r14,401756962,Baylor,Houston,P4,11,DraftKings,-2.5,0.88,56.5,58.29,7,55
+2025,r14,401752790,South Carolina,Clemson,P4,11,DraftKings,-2.5,-3.34,45.5,48.21,14,42
+2025,r14,401762872,Central Michigan,Toledo,G5,11,DraftKings,11.5,9.91,46.5,48.64,18,24
+2025,r14,401833975,Youngstown State,Yale,FCS/FCS,10,ESPN Bet,-4.5,3.07,61.5,60.21,1,85
+2025,r14,401757310,Delaware,UTEP,G5,11,DraftKings,-4.5,-1.6,55.5,56.95,-30,92
+2025,r14,401756963,BYU,UCF,P4,11,DraftKings,-17.5,-19.12,46.5,47.11,-20,62
+2025,r14,401833969,Abilene Christian,Lamar,FCS/FCS,12,ESPN Bet,-12.5,-6.14,45.5,48.04,-18,58
+2025,r14,401836095,SE Louisiana,Illinois State,FCS/FCS,12,ESPN Bet,-2.5,-5.95,54.5,54.03,18,24
+2025,r14,401836115,Tennessee Tech,North Dakota,FCS/FCS,12,ESPN Bet,2,3.77,48.5,54.85,25,37
+2025,r14,401836116,South Dakota State,New Hampshire,FCS/FCS,12,ESPN Bet,-11,-6.84,43.5,47.82,-38,44
+2025,r14,401836195,South Dakota,Drake,FCS/FCS,11,ESPN Bet,-21,0.4,46.5,46.55,-21,55
+2025,r14,401757311,Sam Houston,Florida International,G5,11,DraftKings,10.5,12.17,50.5,53.7,40,72
+2025,r14,401761663,Marshall,Georgia Southern,G5,11,DraftKings,-10.5,-9.94,62.5,63.39,5,43
+2025,r14,401757314,Missouri State,Louisiana Tech,G5,11,DraftKings,-2.5,-0.22,45.5,50.6,12,72
+2025,r14,401761664,Old Dominion,Georgia State,G5,11,DraftKings,-28.5,-25.24,58.5,54.71,-17,37
+2025,r14,401757312,Jacksonville State,Western Kentucky,G5,11,DraftKings,1.5,1.8,56.5,53.3,-3,71
+2025,r14,401767420,Southern,Grambling,FCS/FCS,11,ESPN Bet,-13.5,14.99,48.5,50.82,-1,55
+2025,r14,401761661,App State,Arkansas State,G5,11,DraftKings,1.5,-0.71,54.5,51.88,1,59
+2025,r14,401761667,Texas State,South Alabama,G5,11,DraftKings,-9.5,-8.07,62.5,61.39,-23,75
+2025,r14,401767428,Mississippi Valley State,Florida A&M,FCS/FCS,11,ESPN Bet,13.5,6.95,51.5,57.34,-4,66
+2025,r14,401761665,Louisiana,UL Monroe,G5,11,DraftKings,-11.5,-13.39,47.5,52.15,-3,57
+2025,r14,401754608,Syracuse,Boston College,P4,11,DraftKings,3,-4.23,53.5,56.87,22,46
+2025,r14,401762517,Tulsa,UAB,G5,11,DraftKings,-9.5,-4.68,56.5,58.12,7,55
+2025,r14,401757315,New Mexico State,Middle Tennessee,G5,11,DraftKings,-3,-5.68,52.5,52.1,7,55
+2025,r14,401752783,Arkansas,Missouri,P4,11,DraftKings,4.5,3.59,54.5,59.62,14,48
+2025,r14,401761666,Southern Miss,Troy,G5,11,DraftKings,-7,-2.82,50.5,53.38,10,46
+2025,r14,401752917,Washington,Oregon,P4,11,DraftKings,6.5,5.2,51.5,55.57,12,40
+2025,r14,401762441,UTSA,Army,G5,10,DraftKings,-8.5,-7.51,50.5,52.32,3,51
+2025,r14,401754610,Duke,Wake Forest,P4,11,DraftKings,-2.5,-0.36,53.5,53.72,-17,81
+2025,r14,401752918,Minnesota,Wisconsin,P4,11,DraftKings,2.5,1.45,38.5,42.06,-10,24
+2025,r14,401756967,TCU,Cincinnati,P4,11,DraftKings,-3,-2.89,58.5,54.68,-22,68
+2025,r14,401752789,Oklahoma,LSU,P4,11,DraftKings,-11.5,-9.49,36.5,39.44,-4,30
+2025,r14,401757313,Liberty,Kennesaw State,G5,11,DraftKings,2.5,1.31,55.5,52.12,6,90
+2025,r14,401752920,Rutgers,Penn State,P4,11,DraftKings,14,12.54,55.5,55.97,4,76
+2025,r14,401752791,Tennessee,Vanderbilt,P4,11,DraftKings,-2.5,-0.67,66.5,66.05,21,69
+2025,r14,401761662,Coastal Carolina,James Madison,G5,11,DraftKings,24.5,20.56,54.5,55.61,49,69
+2025,r14,401752785,Florida,Florida State,P4,11,DraftKings,1.5,2.63,49.5,46.85,-19,61
+2025,r14,401752946,Washington State,Oregon State,G5,11,DraftKings,-14,-16.06,42.5,44.47,-24,40
+2025,r14,401752923,Michigan State,Maryland,P4,11,DraftKings,-4,-0.72,49.5,50.69,-10,66
+2025,r14,401754613,Virginia,Virginia Tech,P4,11,DraftKings,-8.5,-12.87,52.5,53.94,-20,34
+2025,r14,401762520,South Florida,Rice,G5,11,DraftKings,-28.5,-26.12,57.5,58.88,-49,55
+2025,r14,401752784,Auburn,Alabama,P4,11,DraftKings,7,3.03,48.5,48.82,7,47
+2025,r14,401752922,Illinois,Northwestern,P4,11,DraftKings,-7,-7.29,44.5,49.47,-7,33
+2025,r14,401752919,USC,UCLA,P4,11,DraftKings,-21.5,-20.65,58.5,56.86,-19,39
+2025,r14,401754612,NC State,North Carolina,P4,11,DraftKings,-7,-9.03,48.5,50.37,-23,61
+2025,r14,401762518,Tulane,Charlotte,G5,11,DraftKings,-30.5,-24.45,51.5,52.03,-27,27
+2025,r14,401754609,California,SMU,P4,11,DraftKings,13.5,15.91,53.5,50.79,-3,73
+2025,r14,401760425,Nevada,UNLV,G5,11,DraftKings,7.5,10.14,52.5,55.8,25,59
+2025,r14,401754614,Stanford,Notre Dame,P4,11,DraftKings,32.5,25.87,49.5,51.11,29,69
+2025,r14,401760423,San José State,Fresno State,G5,11,DraftKings,3,6.3,45.5,51.09,27,55
+2025,r14,401760424,Hawai'i,Wyoming,G5,11,DraftKings,-8.5,-7.57,44.5,44.95,-20,34
+2025,r15,401777325,Jacksonville State,Kennesaw State,G5,12,DraftKings,3,0.84,62.5,57.22,4,34
+2025,r15,401777352,James Madison,Troy,G5,12,DraftKings,-24.5,-20.45,47.5,51.05,-17,45
+2025,r15,401777324,Tulane,North Texas,G5,12,DraftKings,1.5,7.94,66.5,62.31,-13,55
+2025,r15,401777326,Boise State,UNLV,G5,12,DraftKings,-6,-3.55,59.5,60.19,-17,59
+2025,r15,401777327,Texas Tech,BYU,P4,12,DraftKings,-12.5,-8.59,50.5,53.32,-27,41
+2025,r15,401777329,Western Michigan,Miami (OH),G5,12,DraftKings,-2.5,-0.67,44.5,46.44,-10,36
+2025,r15,401777351,Alabama,Georgia,P4,12,DraftKings,1.5,0.7,48.5,48.74,21,35
+2025,r15,401777328,Virginia,Duke,P4,12,DraftKings,-3.5,-3.9,58.5,58.58,7,47
+2025,r15,401777353,Ohio State,Indiana,P4,12,DraftKings,-3.5,-0.96,45.5,51.2,3,23
+2025,r16,401833985,Montana State,Stephen F. Austin,FCS/FCS,13,DraftKings,-15.5,-10.88,56.5,53.6,-16,72
+2025,r16,401833986,Tarleton State,Villanova,FCS/FCS,13,DraftKings,-14.5,-8.7,54.5,55.5,5,47
+2025,r16,401762521,Navy,Army,G5,11,DraftKings,-6,-2.34,37.5,48.67,-1,33
+2025,r16,401833987,Montana,South Dakota,FCS/FCS,13,DraftKings,-7.5,-8.25,59.5,60.0,-30,74
+2025,r16,401836219,UC Davis,Illinois State,FCS/FCS,12,DraftKings,-3,-1.7,57.5,57.42,11,73

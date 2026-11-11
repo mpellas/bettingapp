@@ -1,0 +1,20 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 2:30 PM PT window pass (Tue Oct 27; run 2:31 PM PT), DraftKings lines captured about 2:30 PM PT. One game in the window: Minnesota Wild at Utah Mammoth, 6:00 PM PT (209 min out at run time). The seven earlier games were already posted by the 1:00 and 1:30 PM passes and were not re-scored.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (17 lines up; best is -5.0%).
+
+Fliff check (1, plus 1 skipped for a stale lineup). It isn't a bet right now: Fliff hasn't posted this game's shots market yet, and the DK price is worse than shop-at.
+1. Dylan Guenther (UTA F), Minnesota Wild at Utah Mammoth (6:00 PM PT), UNDER 2.5 shots on goal
+   DK now: +120 (opened -170), no-vig over 57.5%, model under 51.5%, recent form under 53.6% (shot rate last 10 x TOI last 5). Shop-at (worst acceptable): +133 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 4 of 5 under 2.5 (shots 2, 2, 2, 2, 3).
+   Role: Mammoth forward, today line 2 and PP1 (no change; Mammoth DailyFaceoff lineup updated 9:59 AM PT today). TOI last 5 17.4 min vs 17.7 over last 30. MIN allows about league-average (+1%) to top-six PP1 forwards.
+   Evidence: agrees 3 of 7 (champion +9.0 pts; challenger +8.5 pts; shrunk form +6.5 pts); against: on PP1; no-vig moved 16.1 pts toward the over since open. That big move is the market leaning hard the other way, so treat this one with extra caution.
+   Fliff: not posted yet for this game. DK +120 is worse than +133, so not a DK bet.
+Skipped (stale lineup): Blake Coleman (MIN F) OVER 1.5 (DK -135, shop-at -117, 3 of 7). The scripts list it as a Fliff check, but the Wild's DailyFaceoff lineup was last updated Mon Oct 26 7:15 AM PT, about 31 hours ago, so the approved skip-if-lineup-older-than-12h rule applies. Testers: object if you read that rule differently.
+Correlation: only one live side, so no same-game link.
+Fliff credits: 4 of 10 used today (1 this pass, for the one eligible side); 103 left on the account.
+
+Vetoes: 1 role-check veto. Lawson Crouse UNDER dropped for a promotion (3rd line to line 1, locked script rule); it had no positive DK EV.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261027_D_1432_picks.xlsx (colors only show in Excel or Google Sheets).

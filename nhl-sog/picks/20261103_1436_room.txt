@@ -1,0 +1,18 @@
+**NO BETS** this pass. NHL shots on goal, Tue Nov 3 2:30 PM window pass (fired 2:35, run 2:36 PM PT), DraftKings lines captured 2:35 PM PT. One game in the window: Anaheim at Vancouver, 6:00 PM PT (204 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 16 lines.
+
+Fliff check: five unders cleared the 5-point edge floor, but none can be bet.
+- Jackson LaCombe (Anaheim) under 1.5 (Anaheim at Vancouver), 3 of 7 agree (champion +8.5 pts, challenger +4.1, shrunk form +6.9; against: TOI up 1.2 min lately, Vancouver allows 4% more shots to PP1 defensemen, and he's on PP1), DK -120, Fliff -125, shop-at -103 or better. Last 5: 4 of 5 under (shots 0, 0, 1, 1, 2). Skipped: both prices worse than shop-at.
+- Drew O'Connor (Vancouver) under 1.5 (Anaheim at Vancouver), 3 of 7 agree (champion +6.5, challenger +2.1, now 3rd line with no PP; against: shrunk form -3.0), DK -140, Fliff -145, shop-at -121 or better. Last 5: 4 of 5 under (shots 1, 0, 1, 4, 0). Skipped: both prices worse than shop-at.
+- Tristan Luneau (Anaheim) under 1.5 (Anaheim at Vancouver), 3 of 7 agree (champion +6.4, challenger +6.4, shrunk form +9.0; against: no-vig moved 1.0 pts away since open), DK -135, Fliff -145, shop-at -116 or better. Last 5: 2 of 5 under (shots 0, 2, 2, 3, 1). Skipped: both prices worse than shop-at.
+- Beckett Sennecke (Anaheim) under 2.5 (Anaheim at Vancouver), 3 of 7 agree (champion +8.7, challenger +5.9, shrunk form +4.0; against: Vancouver allows 6% more shots to top-6 PP1 forwards, he's on PP1, no-vig moved 2.5 pts away), DK -105, Fliff -115, shop-at +107 or better. Last 5: 4 of 5 under (shots 1, 2, 1, 2, 3). Skipped: both prices worse than shop-at.
+- Leo Carlsson (Anaheim) under 2.5 (Anaheim at Vancouver), only 2 of 7 agree (champion +7.6, challenger +6.7; against: shrunk form -4.4, Vancouver allows 6% more to top-6 PP1 forwards, no-vig moved 5.7 pts away), DK -145, Fliff -160, shop-at -126. Skipped: 2-of-7 agreement (and both prices worse anyway).
+No huge line moves.
+Correlation note: all five are unders and four are Anaheim skaters, so they'd all ride on one quiet Anaheim night; nothing qualified, so no stacking risk today.
+Fliff credits: 1 this pass (Anaheim at Vancouver); 6 of 10 used today.
+
+Lineups: both DailyFaceoff lineups are older than 12 hours (Anaheim updated Nov 1 4:37 PM PT, Vancouver Nov 2 10:55 AM PT), so the last-game NHL.com fallback was used; all 16 players dressed last game and match a DailyFaceoff slot, so none were skipped for staleness.
+Vetoes: 0 injury vetoes (injury re-pull clean), 2 role-check demotions vetoing overs only (Drew O'Connor, Vancouver, now 3rd line no PP; Roger McQueen, Anaheim, now 4th line), 1 promotion vetoing the under (Judd Caulfield, Anaheim, now 1st line and PP2), 2 slot vetoes on unders (Judd Caulfield and Roger McQueen, Anaheim), 0 unverified gates.
+Spreadsheet: /workspace/nhl-sog/sheets/20261103_D_1436_picks.xlsx (colors only show in Excel or Google Sheets).
+That's the last game on today's slate; every game today has now been scored.

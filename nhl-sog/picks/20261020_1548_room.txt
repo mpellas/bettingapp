@@ -1,0 +1,14 @@
+NHL shots window pass 3:48 PM PT for the 7:00 PM PT game: Carolina Hurricanes at Vancouver Canucks. Detroit Red Wings at Seattle Kraken (6:40 PM PT) was already posted in the 3:12 PM PT pass and isn't repeated; Tampa Bay Lightning at Vegas Golden Knights (7:30 PM PT) is left for the 4:20 PM PT pass.
+
+DraftKings list: nothing qualifies. None of the 13 lines has a side with positive blended EV at DraftKings.
+
+Fliff check (1), puck drop 7:00 PM PT. Fliff has posted this game, and it's priced worse than the shop-at price right now (Fliff price pulled 3:48 PM PT), so skip it on Fliff unless Fliff improves to the shop-at price:
+1. Shayne Gostisbehere (CAR, D) OVER 1.5 shots on goal, Carolina Hurricanes at Vancouver Canucks (7:00 PM PT). DK -145, Fliff at -122 or better (Fliff now -160, skip). PrizePicks: power3, flex4, flex5, flex6.
+   No-vig 54.8%, model 59.8% (+5.0 pts, right at the 5-point floor); recent expected shots 2.00, recent form 59.5% (+4.7 pts); shrunk form 63.8% (info only).
+   Role: history D+PP1, today d3/pp1 (no role change flagged); TOI last 5 17.2 min vs 17.8 over the last 30, PP TOI last 5 3.9 vs 3.3; opp_slot_ratio 1.049 (Vancouver allows about 5% more than average to this slot); Vancouver allows 31.9 shots per game over the last 20, 4.1 above league average; over 1.5 in 7 of his last 10.
+   Evidence: Shayne Gostisbehere O1.5: agrees 6 of 7 (champion +5.0 pts; challenger +2.7 pts; shrunk form +9.0 pts; opponent allows +5% to D+PP1; on PP1; no-vig moved 2.4 pts toward side since open, DK -130 to -145); nothing against, but the champion edge is the thinnest that clears the floor.
+Correlation: single pick, no same-game stacking.
+
+Vetoes in this game: Linus Karlsson's under is skipped by the role check (promoted, history F_3rd, today f1/pp2), and the slot check skipped the overs on Boeser, DeBrusk, Hronek, Pettersson and Chytil (all Vancouver, facing a Carolina team that allows less than average to their slots).
+Spreadsheet: /workspace/nhl-sog/sheets/20261020_D_1548_picks.xlsx (the colors only work in Excel or Google Sheets).
+Fliff credits today: 8 of 10 used.

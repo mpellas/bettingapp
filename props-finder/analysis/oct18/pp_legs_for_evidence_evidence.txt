@@ -1,0 +1,6 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source pp_legs_for_evidence.csv, asof 20261018T144447Z
+Ray Davis Over 7.5 rush_yds @ PP std prizepicks: Ray Davis O7.5 rush_yds: agrees 2 of 7 (BUF fav 5.5, team total 29.5; DK line 6.5 -> 9.5 (+3)); nothing against
+Darren Waller Under 26.5 reception_yds @ PP std prizepicks: Darren Waller U26.5 rec_yds: agrees 1 of 7 (DK line 28.5 -> 24.5 (-4)); against: usage L3 +17% (target sh 0.15 vs 0.12; air_yards sh 0.12 vs 0.10; snap% 0.49 vs 0.46)
+Tyler Higbee Under 34.5 reception_yds @ PP std prizepicks: Tyler Higbee U34.5 rec_yds: agrees 0 of 7 (none); against: usage L3 +20% (target sh 0.15 vs 0.13; air_yards sh 0.15 vs 0.12; snap% 0.68 vs 0.56); ARI allows 73/g to TEs (+36% vs lg), EPA/play +0.281; Terrance Ferguson TE out (4.0 tgt/g); team total 32.0 (fav 12.5); DK line 29.5 -> 32.5 (+3)
+Dak Prescott Under 10.5 rush_yds @ PP std prizepicks: Dak Prescott U10.5 rush_yds: agrees 1 of 7 (usage L3 -16% (carries 2.0 vs 2.4; carry sh 0.07 vs 0.10; snap% 1.00 vs 1.00)); against: GB allows 20/g to QBs (+11% vs lg), EPA/play +0.065
+Omarion Hampton Under 6.5 reception_yds @ PP std prizepicks: Omarion Hampton U6.5 rec_yds: agrees 1 of 7 (team total 17.0 (dog 7.5)); nothing against

@@ -1,0 +1,74 @@
+date,sport,game,player,market,line,side,price,book,risk,payout,result
+2026-10-10,ncaaf,Arizona @ West Virginia,Kedrick Reescano,rec_yds,7.5,over,-125,fliff,0.10,0.18,win
+2026-10-10,ncaaf,Texas @ Oklahoma,Elijah Thomas,rec_yds,15.5,under,-125,fliff,0.10,0.18,win
+2026-10-10,ncaaf,Stanford @ Notre Dame,Micah Ford,rec_yds,8.5,under,-125,fliff,0.10,0.18,win
+2026-10-10,ncaaf,Illinois @ Michigan State,Hudson Clement,rec_yds,51.5,under,-125,fliff,0.10,0.00,loss
+2026-10-11,nfl,CHI @ GB,Christian Watson,receptions,4.5,under,-150,fliff,0.10,0.00,loss
+2026-10-11,nfl,DEN @ LAC,Omarion Hampton,rush_att,11.5,over,-110,fliff,0.10,0.19,win
+2026-10-11,nhl,VAN @ NYR,Will Cuylle,sog,1.5,over,-165,fliff,0.10,0.16,win
+2026-10-12,nfl,BUF @ LA,Ty Johnson,rush_yds,5.5,under,-101,draftkings,0.50,0.99,win
+2026-10-13,nhl,TB @ NYR,Zemgus Girgensons,sog,1.5,under,-160,fliff,0.10,0.00,loss
+2026-10-13,nhl,TB @ NYR,Zemgus Girgensons,sog,1.5,under,-130,draftkings,0.50,0.00,loss
+2026-10-13,nhl,SEA @ PHI,Shane Wright,sog,1.5,under,-150,draftkings,0.50,0.00,loss
+2026-10-15,nhl,UTA @ EDM,Logan Cooley,sog,1.5,under,+100,draftkings,0.10,0.00,loss
+2026-10-15,nhl,UTA @ EDM,Mattias Ekholm,sog,1.5,under,-135,draftkings,0.10,0.00,loss
+2026-10-15,nhl,UTA @ EDM,Kasperi Kapanen,sog,1.5,over,-120,draftkings,0.10,0.00,loss
+2026-10-15,nhl,UTA @ EDM,MacKenzie Weegar,sog,1.5,over,+105,draftkings,0.10,0.00,loss
+2026-10-15,nhl,CGY @ VGK,Noah Hanifin,sog,1.5,over,+110,draftkings,0.10,0.00,loss
+2026-10-16,nhl,PIT @ COL,Jaden Schwartz,sog,1.5,under,-110,fliff,0.10,0.19,win
+2026-10-16,nhl,PIT @ COL,Evgeni Malkin,sog,1.5,over,-180,fliff,0.10,0.15,win
+2026-10-16,nhl,PIT @ COL,Jaden Schwartz,sog,1.5,under,-110,draftkings,0.10,0.19,win
+2026-10-16,nhl,PIT @ COL,Erik Karlsson,sog,2.5,under,-185,draftkings,0.10,0.15,win
+2026-10-16,nhl,PIT @ COL,Evgeni Malkin,sog,1.5,over,-160,draftkings,0.10,0.16,win
+2026-10-17,nhl,VAN @ TB,Elias Pettersson,sog,1.5,under,+100,draftkings,0.10,0.00,loss
+2026-10-17,nhl,CAR @ WPG,Sebastian Aho,sog,2.5,over,-110,draftkings,0.10,0.00,loss
+2026-10-17,nhl,SEA @ FLA,Sam Reinhart,sog,2.5,over,+100,draftkings,0.10,0.20,win
+2026-10-17,nhl,SEA @ FLA,Mackie Samoskevich,sog,1.5,under,+100,draftkings,0.10,0.20,win
+2026-10-17,nhl,CAR @ WPG,Sebastian Aho,sog,2.5,over,-110,fliff,0.10,0.00,loss
+2026-10-17,ncaaf,Nevada vs North Dakota State,North Dakota State,spread,-14.5,cover,-110,fliff,0.10,0.00,loss
+2026-10-17,nhl,STL @ NSH,Roman Josi,sog,2.5,over,+115,fliff,0.10,0.00,loss
+2026-10-17,ncaaf,Elon vs Stanford,Game total,total,55.5,under,-110,fliff,0.10,0.19,win
+2026-10-17,nhl,BOS @ LA,Adrian Kempe,sog,2.5,over,-165,draftkings,0.10,0.00,loss
+2026-10-17,nhl,PIT @ VGK,Mark Stone,sog,2.5,under,-165,draftkings,0.15,0.24,win
+2026-10-18,nfl,LAC @ KC,Omarion Hampton,rec_yds,5.5,under,-103,draftkings,0.10,0.01,cashout
+2026-10-18,nfl,LAC @ KC + DAL @ GB,Omarion Hampton U6.5 rec_yds + Dak Prescott U10.5 rush_yds,pp_power2,6.5/10.5,under/under,+200,prizepicks,10.00,0.00,loss
+2026-10-18,nhl,CBJ @ MIN,Matthew Knies,sog,1.5,under,-130,draftkings,0.15,0.26,win
+2026-10-18,nhl,CAR @ CGY,Sebastian Aho,sog,2.5,over,-110,fliff,0.10,0.19,win
+2026-10-18,nhl,CAR @ CGY,Sebastian Aho,sog,2.5,over,-110,fliff,0.10,0.19,win
+2026-10-18,nhl,CAR @ CGY,Nikolaj Ehlers,sog,2.5,under,-160,fliff,0.10,0.00,loss
+2026-10-18,nhl,CAR @ CGY,Nikolaj Ehlers,sog,2.5,under,-160,fliff,0.11,0.00,loss
+2026-10-18,nhl,CBJ @ MIN,Matthew Knies,sog,1.5,under,-125,fliff,0.10,0.18,win
+2026-10-19,nhl,ANA @ NYR,Eeli Tolvanen,sog,1.5,under,-125,draftkings,0.15,0.27,win
+2026-10-19,nhl,ANA @ NYR,Eeli Tolvanen,sog,1.5,under,-140,fliff,0.10,0.17,win
+2026-10-19,nhl,PIT @ UTA,Anders Lee,sog,1.5,over,-150,draftkings,0.10,0.00,loss
+2026-10-19,nhl,PIT @ UTA,Anders Lee,sog,1.5,over,-150,fliff,0.10,0.00,loss
+2026-10-19,nhl,PIT @ UTA,Logan Cooley,sog,2.5,under,-185,draftkings,0.10,0.15,win
+2026-10-20,nhl,DET @ SEA,Kaapo Kakko,sog,1.5,under,-170,fliff,0.10,0.15,win
+2026-10-20,nhl,BOS @ DAL,JJ Peterka,sog,1.5,under,-110,fliff,0.10,0.19,win
+2026-10-20,nhl,LA @ WSH,Aliaksei Protas,sog,1.5,under,-125,fliff,0.10,0.18,win
+2026-10-20,nhl,DET @ SEA,Kaapo Kakko,sog,1.5,under,-165,draftkings,0.10,0.16,win
+2026-10-20,nhl,BOS @ DAL,JJ Peterka,sog,1.5,under,105,draftkings,0.10,0.20,win
+2026-10-20,nhl,LA @ WSH,Aliaksei Protas,sog,1.5,under,-125,draftkings,0.10,0.18,win
+2026-10-24,nhl,LA @ NJ,Jesper Bratt,sog,1.5,over,-200,fliff,0.10,0.00,loss
+2026-10-24,nhl,LA @ NJ,Alex Laferriere,sog,2.5,under,-120,fliff,0.10,0.18,win
+2026-10-24,nhl,LA @ NJ,Jesper Bratt,sog,1.5,over,-190,draftkings,0.10,0.00,loss
+2026-10-24,nhl,LA @ NJ,Alex Laferriere,sog,2.5,under,-110,draftkings,0.10,0.19,win
+2026-10-24,ncaaf,Hawaii vs Northern Illinois,Northern Illinois,spread,2.5,cover,+100,fliff,0.10,0.00,loss
+2026-10-24,ncaaf,North Texas @ Navy,Navy,spread,3.5,cover,-125,fliff,0.10,0.00,loss
+2026-10-24,ncaaf,San Diego State vs Colorado State,Game total,total,58.5,over,-125,fliff,0.10,0.18,win
+2026-10-24,nhl,SJ @ BOS,Tyler Toffoli,sog,1.5,over,-120,draftkings,0.10,0.18,win
+2026-10-24,nhl,CAR @ STL,Sebastian Aho,sog,2.5,over,+100,draftkings,0.10,0.00,loss
+2026-10-24,nhl,SJ @ BOS,Tyler Toffoli,sog,1.5,over,-125,fliff,0.10,0.18,win
+2026-10-24,nhl,CAR @ STL,Sebastian Aho,sog,2.5,over,-110,fliff,0.10,0.00,loss
+2026-10-24,nhl,BUF @ WSH,Tom Wilson,sog,1.5,under,+125,fliff,0.10,0.00,loss
+2026-10-24,nhl,TB @ UTA,Barrett Hayton,sog,1.5,under,+105,draftkings,0.10,0.00,loss
+2026-10-24,nhl,DET @ CGY,Emmitt Finnie,sog,1.5,over,-105,draftkings,0.10,0.00,loss
+2026-10-27,nhl+nba,FLA @ WPG | DET @ NYK,Mark Scheifele + Jalen Brunson (PrizePicks 2-pick power play),sog + pra,1.5 | 26.5,over | over,+160,prizepicks,1.00,2.60,win
+2026-10-28,nhl+nba,PHI @ WSH | Maxey promo,Aliaksei Protas + Tyrese Maxey (Chalkboard 2-pick),sog + pts,1.5 | 0.5,over | over,+213,chalkboard,5.00,15.65,win
+2026-10-31,nhl+nba,CGY @ COL | MIN @ SAS,Brock Nelson + Mikael Backlund + Victor Wembanyama (Chalkboard 3-pick promo entry; not model record),sog + sog + fantasy,1.5 | 1.5 | 0.5,over | over | over,+228,chalkboard,5.00,16.40,win
+2026-11-03,nhl,PIT vs VGK | DAL @ WSH,Sidney Crosby + Wyatt Johnston (Chalkboard 2-pick),sog + sog,0.5 | 2.5,over | under,+93,chalkboard,2.00,3.86,win
+2026-11-04,nhl+nba,OKC vs CLE | CHI @ FLA,Shai Gilgeous-Alexander + Sam Reinhart (Chalkboard 2-pick),pts + sog,19.5 | 2.5,over | over,+97,chalkboard,1.00,1.97,win
+2026-11-05,nhl+nfl,BOS @ PIT | BAL @ JAC,Pavel Zacha + David Pastrnak + Rickard Rakell + Derrick Henry (Chalkboard 4-pick),sog + sog + sog + rush_yds,1.5 | 2.5 | 1.5 | 34.5,over | over | over | over,+111,chalkboard,1.50,3.17,win
+2026-11-09,nhl,NYR @ EDM,J.T. Miller,sog,1.5,over,-145,fliff,0.10,0.16,win
+2026-11-09,nhl,PHI @ VAN,Porter Martone,sog,1.5,over,-150,draftkings,0.10,0.16,win
+2026-11-09,nhl+nba,NYR @ EDM | TOR @ MEM,J.T. Miller + Scottie Barnes (Chalkboard 2-pick; Barnes DNP),sog + pts,1.5 | 13.5,over | over,+84,chalkboard,1.58,1.58,void

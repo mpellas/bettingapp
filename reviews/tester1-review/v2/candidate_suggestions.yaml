@@ -1,0 +1,14 @@
+# Tester1 suggested additions to /workspace/nfl-props/prereg/prereg_2026_wk5-18_CANDIDATE.yaml (sha1 9c993d3d)
+frozen_procedure:
+  git_commit: 7ef89dbd9860e58caabf8344c3b63d2c0f611cbd   # pins the whole tree, incl. config.py/metrics.py not in file_sha1 or CODE_FILES
+  capture_script: "commit scripts_snapshot_loop.sh (every 10 min) and list its sha1; capture schedule is part of the procedure"
+data_checks:   # from Tester2
+  duplicate_lines: "if the D snapshot has >1 line for a (player_id, market), score the main line as flagged by ESPN if present; otherwise VOID all of them with reason 'duplicate_line'. Never keep the first row arbitrarily"
+  kickoff_time: "kickoff = scheduled kickoff as of the D capture; if any later capture reports an earlier kickoff so that D is < 3h before the actual kickoff, VOID that game's lines with reason 'kickoff_moved'"
+  pre_freeze_check: "run pregame --check on 2026 week 4 (snap_2026_wk4_D.csv) against the post-game build once nflverse posts week-4 stats; result file sha1 recorded here before publishing"
+decision_rule:
+  break_even_with_prices: >-
+    if real (non-flat) DraftKings prices are captured at D and C for >= 80% of scored lines: mean no-vig closing
+    probability of the model side at line_D >= break-even of the average captured D price, and lower 95%
+    game-clustered bound > 0.500. This then replaces the provisional without-prices bar. Flat -110/-115 on every
+    line is treated as no prices.

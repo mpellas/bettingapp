@@ -1,0 +1,19 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 3:12 PM PT pass (Mon Oct 26; run 3:16 PM PT), lines captured 3:17 PM PT. New game this pass: Detroit Red Wings at Edmonton Oilers (6:30 PM PT). Los Angeles Kings at New York Rangers and Toronto Maple Leafs at Calgary Flames were already posted at 1:11 and 2:38 PM PT, so they aren't repeated. The 3:30 PM PT window pass may re-run this game; treat this as the first look.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (17 lines up).
+
+Fliff check (1). Not a Fliff or DK bet right now: both prices are worse than the +105 shop-at. It doesn't qualify on any PrizePicks entry type (blended 49.0%).
+1. Kasperi Kapanen, Detroit Red Wings at Edmonton Oilers (6:30 PM PT), UNDER 1.5 shots on goal
+   DK now: -110 (opened +110), no-vig 48.5%, model 57.0%, recent expected shots 1.31, recent form 62.5% (shot rate last 10 x TOI last 5), shrunk 50.4% (info only). Shop-at (worst acceptable): +105 on DraftKings and Fliff. PrizePicks: none.
+   Last 5: 3 of 5 under 1.5 (shots 1, 2, 0, 3, 1).
+   Role: EDM forward (ESPN confirms Oilers, RW), history slot top 6 (no PP1); today line 2 and PP2 (no change; Oilers DailyFaceoff lineup updated 9:49 AM PT today). TOI last 5 17.8 min vs 16.1 over last 30; PP 1.1 min a game. DET allows 0.997x league to top-6 forwards; DET allows 26.6 shots per game over last 20 (about 1.2 below league).
+   Evidence: agrees 4 of 7 (champion +8.4 pts; challenger +5.8 pts; shrunk form +1.9 pts; no-vig moved 4.3 pts toward the under since open); nothing against.
+   Fliff: Fliff -115, worse than the +105 shop-at. Skip on Fliff. DK -110 also worse than +105, so not a DK bet.
+Correlation: only one side on the list, so nothing to stack.
+Fliff credits: 3 of 10 used today (1 this pass); 107 left on the account.
+
+Vetoes: 0 sides skipped by the lineup-status check in this game and 1 under by the role check (Michael Brandsegg-Nygard, promoted from the 3rd line to line 2/PP2, under skipped). Closest misses: Vasily Podkolzin UNDER 2.5 (-185) model +14.8 pts, Ryan Shea UNDER 1.5 (-160) +15.1 pts and Michael Rasmussen UNDER 1.5 (-140) +12.2 pts, all more than 12 points from no-vig; Alex DeBrincat UNDER 3.5 (-140) model +9.0 pts but recent form doesn't beat no-vig.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261026_D_1516_picks.xlsx (colors only show in Excel or Google Sheets).

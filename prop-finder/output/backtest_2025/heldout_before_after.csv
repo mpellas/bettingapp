@@ -1,0 +1,8 @@
+set,version,holdout_weeks,all_bets,all_hit,all_roi,top10_bets,top10_hit,top10_roi,top25_bets,top25_hit,top25_roi,logloss,brier,norm_mae
+"REAL lines (NFL, ESPN BET opening)",before (live settings),10-13,2326,0.5193,-0.0085,40,0.35,-0.3318,100,0.47,-0.1027,0.7144,0.25931,0.98406
+"REAL lines (NFL, ESPN BET opening)",tuned projections only (live ranking/prob.),10-13,2326,0.5125,-0.0217,40,0.475,-0.0932,99,0.4646,-0.1129,0.71169,0.25811,0.98046
+"REAL lines (NFL, ESPN BET opening)",after (all tuned settings),10-13,2326,0.5125,-0.0217,40,0.5,-0.0455,99,0.4949,-0.0551,0.69196,0.24941,0.98046
+SYNTHETIC proxy NFL,before (live settings),10-18,9192,0.6179,0.1797,80,0.8375,0.5989,207,0.8696,0.6601,0.64613,0.22758,0.98406
+SYNTHETIC proxy NFL,after (all tuned settings),10-18,9192,0.628,0.199,82,0.8415,0.6064,205,0.8585,0.639,0.67382,0.24038,0.98046
+SYNTHETIC proxy FBS,before (live settings),10-16,23937,0.6076,0.16,59,0.8475,0.6179,144,0.875,0.6705,0.64993,0.22938,0.98205
+SYNTHETIC proxy FBS,after (all tuned settings),10-16,23937,0.6119,0.1681,60,0.8333,0.5909,142,0.8592,0.6402,0.67417,0.24056,0.97822

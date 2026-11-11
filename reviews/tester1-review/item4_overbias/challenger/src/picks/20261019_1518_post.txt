@@ -1,0 +1,6 @@
+Fliff check: Anders Lee OVER 1.5 (DK -150, Fliff at -128 or better) - model +10.4 pts vs no-vig; recent +5.2 pts
+   evidence: Anders Lee O1.5: agrees 4 of 7 (champion +10.4 pts; challenger +9.2 pts; shrunk form +5.6 pts; TOI last 5 +0.7 min vs season); against: no-vig moved 0.9 pts away from side since open
+Fliff check: Rickard Rakell UNDER 2.5 (DK -135, Fliff at -116 or better) - model +6.0 pts vs no-vig; recent +4.5 pts
+   evidence: Rickard Rakell U2.5: agrees 4 of 7 (champion +6.0 pts; challenger +2.7 pts; opponent allows -4% to F_top6+PP1; no-vig moved 1.4 pts toward side since open); against: shrunk form -1.0 pts; on PP1
+Fliff check: Logan Cooley UNDER 2.5 (DK -180, Fliff at -154 or better) - model +9.3 pts vs no-vig; recent +32.8 pts
+   evidence: Logan Cooley U2.5: agrees 3 of 7 (champion +9.3 pts; challenger +6.8 pts; shrunk form +18.1 pts); against: on PP1; no-vig moved 0.7 pts away from side since open

@@ -1,0 +1,1317 @@
+{
+"CLE|Deshaun Watson": {
+"pass_yds": "324",
+"rush_yds": "2"
+},
+"CLE|Shedeur Sanders": {
+"pass_yds": "2"
+},
+"CLE|Quinshon Judkins": {
+"rush_yds": "25",
+"reception_yds": "24"
+},
+"CLE|Dylan Sampson": {
+"rush_yds": "7",
+"reception_yds": "62"
+},
+"CLE|Harold Fannin Jr.": {
+"reception_yds": "154"
+},
+"CLE|KC Concepcion": {
+"reception_yds": "37"
+},
+"CLE|Denzel Boston": {
+"reception_yds": "37"
+},
+"CLE|Blake Whiteheart": {
+"reception_yds": "9"
+},
+"CLE|Tylan Wallace": {
+"reception_yds": "3"
+},
+"CLE|Jerry Jeudy": {
+"reception_yds": "0"
+},
+"CLE|Carson Schwesinger": {},
+"CLE|Emmanuel McNeil-Warren": {},
+"CLE|Ronnie Hickman": {},
+"CLE|Quincy Williams": {},
+"CLE|Tyson Campbell": {},
+"CLE|Maliek Collins": {},
+"CLE|Grant Delpit": {},
+"CLE|Mike Hall Jr.": {},
+"CLE|Mason Graham": {},
+"CLE|Myles Harden": {},
+"CLE|Sam Williams": {},
+"CLE|Adin Huntington": {},
+"CLE|Denzel Ward": {},
+"CLE|Isaiah McGuire": {},
+"CLE|Donovan McMillon": {},
+"CLE|Easton Mascarenas-Arnold": {},
+"CLE|Rex Sunahara": {},
+"CLE|Daniel Thomas": {},
+"CLE|Winston Reid": {},
+"CLE|Mekhi Blackmon": {},
+"CLE|Jared Verse": {},
+"CLE|Malachi Corley": {},
+"CLE|Isaiah Bond": {},
+"CLE|Andre Szmyt": {},
+"CLE|Corey Bojorquez": {},
+"PIT|Aaron Rodgers": {
+"pass_yds": "172"
+},
+"PIT|Jaylen Warren": {
+"rush_yds": "143",
+"reception_yds": "0"
+},
+"PIT|Rico Dowdle": {
+"rush_yds": "56"
+},
+"PIT|Pat Freiermuth": {
+"rush_yds": "1",
+"reception_yds": "35"
+},
+"PIT|Darnell Washington": {
+"reception_yds": "94"
+},
+"PIT|Germie Bernard": {
+"reception_yds": "30"
+},
+"PIT|Brandon Johnson": {
+"reception_yds": "9"
+},
+"PIT|DK Metcalf": {
+"reception_yds": "4"
+},
+"PIT|Riley Nowakowski": {
+"reception_yds": "0"
+},
+"PIT|Keeanu Benton": {},
+"PIT|Troy Fautanu": {},
+"PIT|Daylen Everette": {},
+"PIT|Patrick Queen": {},
+"PIT|Robert Spears-Jennings": {},
+"PIT|Payton Wilson": {},
+"PIT|Jaquan Brisker": {},
+"PIT|Cameron Heyward": {},
+"PIT|Jamel Dean": {},
+"PIT|Alex Highsmith": {},
+"PIT|Jalen Ramsey": {},
+"PIT|Jack Sawyer": {},
+"PIT|T.J. Watt": {},
+"PIT|Nick Herbig": {},
+"PIT|Carson Bruener": {},
+"PIT|Kevin Jobity Jr.": {},
+"PIT|Christian Kuntz": {},
+"PIT|DeShon Elliott": {},
+"PIT|Terell Smith": {},
+"PIT|Asante Samuel Jr.": {},
+"PIT|Yahya Black": {},
+"PIT|Gabriel Rubio": {},
+"PIT|Kaden Wetjen": {},
+"PIT|Chris Boswell": {},
+"PIT|Cameron Johnston": {},
+"IND|Daniel Jones": {
+"pass_yds": "144",
+"rush_yds": "7"
+},
+"IND|Anthony Richardson Sr.": {
+"pass_yds": "8",
+"rush_yds": "4"
+},
+"IND|DJ Giddens": {
+"rush_yds": "43"
+},
+"IND|Seth McGowan": {
+"rush_yds": "29"
+},
+"IND|Jonathan Taylor": {
+"rush_yds": "23",
+"reception_yds": "24"
+},
+"IND|Ashton Dulin": {
+"rush_yds": "3"
+},
+"IND|Keenan Allen": {
+"reception_yds": "67"
+},
+"IND|Josh Downs": {
+"reception_yds": "23"
+},
+"IND|Laquon Treadwell": {
+"reception_yds": "18"
+},
+"IND|Tyler Warren": {
+"reception_yds": "18"
+},
+"IND|Deion Burks": {
+"reception_yds": "2"
+},
+"IND|Caden Curry": {},
+"IND|CJ Allen": {},
+"IND|Akeem Davis-Gaither": {},
+"IND|Austin Ajiake": {},
+"IND|Grover Stewart": {},
+"IND|Charvarius Ward": {},
+"IND|Sauce Gardner": {},
+"IND|A.J. Haulcy": {},
+"IND|Jaylahn Tuimoloau": {},
+"IND|Hunter Wohler": {},
+"IND|Laiatu Latu": {},
+"IND|Adetomiwa Adebawore": {},
+"IND|Jaylon Carlies": {},
+"IND|Kenneth Harris": {},
+"IND|Tim Smith": {},
+"IND|Kapena Gushiken": {},
+"IND|Carl Lawson": {},
+"IND|Johnathan Edwards": {},
+"IND|George Gumbs Jr.": {},
+"IND|Spencer Shrader": {},
+"IND|Rigoberto Sanchez": {},
+"JAX|Trevor Lawrence": {
+"pass_yds": "210",
+"rush_yds": "10"
+},
+"JAX|Quinn Ewers": {
+"pass_yds": "8"
+},
+"JAX|Bhayshul Tuten": {
+"rush_yds": "104",
+"reception_yds": "55"
+},
+"JAX|Chris Rodriguez Jr.": {
+"rush_yds": "41",
+"reception_yds": "17"
+},
+"JAX|Ameer Abdullah": {
+"rush_yds": "13"
+},
+"JAX|Parker Washington": {
+"rush_yds": "10",
+"reception_yds": "16"
+},
+"JAX|Travis Hunter": {
+"rush_yds": "5",
+"reception_yds": "0"
+},
+"JAX|Brenton Strange": {
+"reception_yds": "55"
+},
+"JAX|Nate Boerkircher": {
+"reception_yds": "31"
+},
+"JAX|Jakobi Meyers": {
+"reception_yds": "24"
+},
+"JAX|Brian Thomas Jr.": {
+"reception_yds": "12"
+},
+"JAX|Tanner Koziol": {
+"reception_yds": "8"
+},
+"JAX|Josh Cameron": {
+"reception_yds": "0"
+},
+"JAX|LeQuint Allen Jr.": {
+"reception_yds": "0"
+},
+"JAX|Bryan Thomas Jr.": {},
+"JAX|Foyesade Oluokun": {},
+"JAX|Josh Hines-Allen": {},
+"JAX|Montaric Brown": {},
+"JAX|Rayuan Lane III": {},
+"JAX|Travon Walker": {},
+"JAX|Matt Dickerson": {},
+"JAX|Jalen Huskey": {},
+"JAX|Arik Armstead": {},
+"JAX|Dennis Gardeck": {},
+"JAX|Ventrell Miller": {},
+"JAX|Branson Combs": {},
+"JAX|Jalen McLeod": {},
+"JAX|Jahlani Tavai": {},
+"JAX|Jaylon Jones": {},
+"JAX|Jarrian Jones": {},
+"JAX|Ruke Orhorhoro": {},
+"JAX|Jourdan Lewis": {},
+"JAX|Kaevon Merriweather": {},
+"JAX|DaVon Hamilton": {},
+"JAX|Cole Van Lanen": {},
+"JAX|Quintin Morris": {},
+"JAX|Danny Striggow": {},
+"JAX|Cam Little": {},
+"JAX|Logan Cooke": {},
+"ATL|Michael Penix Jr.": {
+"pass_yds": "125",
+"rush_yds": "11"
+},
+"ATL|Bijan Robinson": {
+"rush_yds": "76",
+"reception_yds": "0"
+},
+"ATL|Khalil Herbert": {
+"rush_yds": "12",
+"reception_yds": "3"
+},
+"ATL|Jahan Dotson": {
+"reception_yds": "95"
+},
+"ATL|Austin Hooper": {
+"reception_yds": "9"
+},
+"ATL|Drake London": {
+"reception_yds": "8"
+},
+"ATL|Kyle Pitts Sr.": {
+"reception_yds": "6"
+},
+"ATL|Olamide Zaccheaus": {
+"reception_yds": "4"
+},
+"ATL|Charlie Woerner": {
+"reception_yds": "0"
+},
+"ATL|Kendal Daniels": {},
+"ATL|Xavier Watts": {},
+"ATL|C.J. Henderson": {},
+"ATL|Harold Perkins Jr.": {},
+"ATL|Jessie Bates III": {},
+"ATL|Maason Smith": {},
+"ATL|LaCale London": {},
+"ATL|Zach Harrison": {},
+"ATL|Cameron Thomas": {},
+"ATL|Gervon Dexter Sr.": {},
+"ATL|Josh Woods": {},
+"ATL|Samson Ebukam": {},
+"ATL|A.J. Terrell Jr.": {},
+"ATL|Charles Snowden": {},
+"ATL|Brandon Dorlus": {},
+"ATL|Mike Ford Jr.": {},
+"ATL|Nick Muse": {},
+"ATL|Zachariah Branch": {},
+"ATL|Sydney Brown": {},
+"ATL|Mike Hughes": {},
+"ATL|Nick Folk": {},
+"ATL|Jake Bailey": {},
+"TB|Baker Mayfield": {
+"pass_yds": "0",
+"rush_yds": "14"
+},
+"TB|Bucky Irving": {
+"rush_yds": "170"
+},
+"TB|Kenny Gainwell": {
+"rush_yds": "140",
+"reception_yds": "0"
+},
+"TB|Chris Godwin Jr.": {
+"reception_yds": "0"
+},
+"TB|Ted Hurst III": {
+"reception_yds": "0"
+},
+"TB|Antoine Winfield Jr.": {},
+"TB|Jacob Parrish": {},
+"TB|Alex Anzalone": {},
+"TB|Josiah Trotter": {},
+"TB|Calijah Kancey": {},
+"TB|SirVocea Dennis": {},
+"TB|Elijah Roberts": {},
+"TB|Rakeem Nunez-Roches": {},
+"TB|Vita Vea": {},
+"TB|Tykee Smith": {},
+"TB|A'Shawn Robinson": {},
+"TB|Anthony Nelson": {},
+"TB|Zyon McCollum": {},
+"TB|Kevin Knowles": {},
+"TB|Keionte Scott": {},
+"TB|Miles Killebrew": {},
+"TB|Elijah Simmons": {},
+"TB|Sean Tucker": {},
+"TB|Tez Johnson": {},
+"TB|Chase McLaughlin": {},
+"TB|Riley Dixon": {},
+"TEN|Cam Ward": {
+"pass_yds": "304",
+"rush_yds": "41"
+},
+"TEN|Tony Pollard": {
+"rush_yds": "117",
+"reception_yds": "20"
+},
+"TEN|Gunnar Helm": {
+"reception_yds": "76"
+},
+"TEN|Chimere Dike": {
+"reception_yds": "71"
+},
+"TEN|Wan'Dale Robinson": {
+"reception_yds": "57"
+},
+"TEN|Daniel Bellinger": {
+"reception_yds": "36"
+},
+"TEN|Elic Ayomanor": {
+"reception_yds": "34"
+},
+"TEN|Calvin Ridley": {
+"reception_yds": "10"
+},
+"TEN|Kevin Winston Jr.": {},
+"TEN|Anthony Hill Jr.": {},
+"TEN|Amani Hooker": {},
+"TEN|Alontae Taylor": {},
+"TEN|Joshua Williams": {},
+"TEN|Cor'Dale Flott": {},
+"TEN|Jacob Martin": {},
+"TEN|Tony Adams": {},
+"TEN|Cody Barton": {},
+"TEN|Truman Jones": {},
+"TEN|Cedric Gray": {},
+"TEN|Timmy Horne": {},
+"TEN|David Martin-Robinson": {},
+"TEN|Xavier Restrepo": {},
+"TEN|Jermaine Johnson II": {},
+"TEN|John Franklin-Myers": {},
+"TEN|Oluwafemi Oladejo": {},
+"TEN|Joey Slye": {},
+"TEN|Atonio Mafi": {},
+"TEN|Julius Chestnut": {},
+"TEN|Marcus Harris": {},
+"TEN|Keldric Faulk": {},
+"TEN|Solomon Thomas": {},
+"TEN|Thomas Morstead": {},
+"CIN|Joe Burrow": {
+"pass_yds": "462",
+"rush_yds": "10"
+},
+"CIN|Chase Brown": {
+"rush_yds": "55",
+"reception_yds": "46"
+},
+"CIN|Samaje Perine": {
+"rush_yds": "10",
+"reception_yds": "9"
+},
+"CIN|Tee Higgins": {
+"reception_yds": "155"
+},
+"CIN|Ja'Marr Chase": {
+"reception_yds": "141"
+},
+"CIN|Mike Gesicki": {
+"reception_yds": "76"
+},
+"CIN|Dohnte Meyers": {
+"reception_yds": "34"
+},
+"CIN|Jack Endries": {
+"reception_yds": "1"
+},
+"CIN|Dexter Lawrence II": {},
+"CIN|Josh Newton": {},
+"CIN|Jordan Battle": {},
+"CIN|Barrett Carter": {},
+"CIN|Myles Murphy": {},
+"CIN|Demetrius Knight Jr.": {},
+"CIN|Bryan Cook": {},
+"CIN|Boye Mafe": {},
+"CIN|Dax Hill": {},
+"CIN|Oren Burks": {},
+"CIN|DJ Turner II": {},
+"CIN|B.J. Hill": {},
+"CIN|DJ Ivey": {},
+"CIN|Cedric Johnson": {},
+"CIN|Cashius Howell": {},
+"CIN|Jonathan Allen": {},
+"CIN|PJ Jules": {},
+"CIN|Kris Jenkins Jr.": {},
+"CIN|Tacario Davis": {},
+"CIN|Russ Yeast": {},
+"CIN|Jack Kiser": {},
+"CIN|Tahj Brooks": {},
+"CIN|Evan McPherson": {},
+"CIN|Ryan Rehkow": {},
+"ARI|Gardner Minshew II": {
+"pass_yds": "188"
+},
+"ARI|Jacoby Brissett": {
+"pass_yds": "119",
+"rush_yds": "7"
+},
+"ARI|Tyler Allgeier": {
+"rush_yds": "147",
+"reception_yds": "44"
+},
+"ARI|Jeremiyah Love": {
+"rush_yds": "23"
+},
+"ARI|Michael Wilson": {
+"rush_yds": "17",
+"reception_yds": "111"
+},
+"ARI|Bam Knight": {
+"rush_yds": "8",
+"reception_yds": "10"
+},
+"ARI|Trey McBride": {
+"reception_yds": "72"
+},
+"ARI|Kendrick Bourne": {
+"reception_yds": "29"
+},
+"ARI|Simi Fehoko": {
+"reception_yds": "17"
+},
+"ARI|Devin Duvernay": {
+"reception_yds": "14"
+},
+"ARI|Elijah Higgins": {
+"reception_yds": "10"
+},
+"ARI|Reggie Virgil": {
+"reception_yds": "0"
+},
+"ARI|Jack Gibbens": {},
+"ARI|Mack Wilson Sr.": {},
+"ARI|Andrew Wingard": {},
+"ARI|Budda Baker": {},
+"ARI|Josh Sweat": {},
+"ARI|Dante Stills": {},
+"ARI|Darius Robinson": {},
+"ARI|Andrew Billings": {},
+"ARI|Kei'Trel Clark": {},
+"ARI|Denzel Burke": {},
+"ARI|Zaven Collins": {},
+"ARI|Jared Harrison-Hunte": {},
+"ARI|L.J. Collier": {},
+"ARI|Jordan Burch": {},
+"ARI|Kitan Crawford": {},
+"ARI|Kalen King": {},
+"ARI|Max Melton": {},
+"ARI|Roy Lopez": {},
+"ARI|Baron Browning": {},
+"ARI|Cody Simon": {},
+"ARI|Kenny Yeboah": {},
+"ARI|Dadrion Taylor-Demerson": {},
+"ARI|Jayden Williams": {},
+"ARI|Chad Ryland": {},
+"ARI|Blake Gillikin": {},
+"DAL|Dak Prescott": {
+"pass_yds": "195",
+"rush_yds": "20"
+},
+"DAL|Javonte Williams": {
+"rush_yds": "56",
+"reception_yds": "1"
+},
+"DAL|Tyler Goodson": {
+"rush_yds": "14",
+"reception_yds": "19"
+},
+"DAL|Ryan Flournoy": {
+"rush_yds": "3",
+"reception_yds": "38"
+},
+"DAL|CeeDee Lamb": {
+"reception_yds": "58"
+},
+"DAL|George Pickens": {
+"reception_yds": "48"
+},
+"DAL|Brevyn Spann-Ford": {
+"reception_yds": "31"
+},
+"DAL|Jonathan Mingo": {},
+"DAL|James Mitchell": {},
+"DAL|LT Overton": {},
+"DAL|Shemar James": {},
+"DAL|P.J. Locke": {},
+"DAL|DeMarvion Overshown": {},
+"DAL|Quinnen Williams": {},
+"DAL|Malik Hooker": {},
+"DAL|Elijah Garcia": {},
+"DAL|Cobie Durant": {},
+"DAL|Caleb Downs": {},
+"DAL|DaRon Bland": {},
+"DAL|Donovan Ezeiruaku": {},
+"DAL|Kenny Clark": {},
+"DAL|Hunter Luepke": {},
+"DAL|James Houston": {},
+"DAL|Markquese Bell": {},
+"DAL|Rashan Gary": {},
+"DAL|Juanyeh Thomas": {},
+"DAL|Justin Barron": {},
+"DAL|Von Miller": {},
+"DAL|Ameer Speed": {},
+"DAL|Joey Porter Jr.": {},
+"DAL|Jaishawn Barham": {},
+"DAL|Alijah Clark": {},
+"DAL|Malachi Lawrence": {},
+"DAL|Brandon Aubrey": {},
+"DAL|Bryan Anger": {},
+"KC|Patrick Mahomes": {
+"pass_yds": "321",
+"rush_yds": "6"
+},
+"KC|Kenneth Walker III": {
+"rush_yds": "69",
+"reception_yds": "15"
+},
+"KC|Emmett Johnson": {
+"rush_yds": "15",
+"reception_yds": "128"
+},
+"KC|Travis Kelce": {
+"reception_yds": "67"
+},
+"KC|Rashee Rice": {
+"reception_yds": "53"
+},
+"KC|Cyrus Allen": {
+"reception_yds": "20"
+},
+"KC|Noah Gray": {
+"reception_yds": "15"
+},
+"KC|Xavier Worthy": {
+"reception_yds": "13"
+},
+"KC|Jake Briningstool": {
+"reception_yds": "6"
+},
+"KC|Jalen Royals": {
+"reception_yds": "4"
+},
+"KC|Creed Humphrey": {},
+"KC|Nikko Remigio": {},
+"KC|Nick Bolton": {},
+"KC|Alohi Gilman": {},
+"KC|Drue Tranquill": {},
+"KC|Chamarri Conner": {},
+"KC|Chris Roland-Wallace": {},
+"KC|Jack Cochrane": {},
+"KC|Nohl Williams": {},
+"KC|Kristian Fulton": {},
+"KC|Felix Anudike-Uzomah": {},
+"KC|George Karlaftis": {},
+"KC|Khyiris Tonga": {},
+"KC|Ashton Gillotte": {},
+"KC|Jadon Canady": {},
+"KC|Jeffrey Bassa": {},
+"KC|Jaden Hicks": {},
+"KC|Cooper McDonald": {},
+"KC|Andrew Armstrong": {},
+"KC|Jaydn Ott": {},
+"KC|R Mason Thomas": {},
+"KC|Harrison Butker": {},
+"KC|Matt Araiza": {},
+"DEN|Bo Nix": {
+"pass_yds": "222",
+"rush_yds": "4"
+},
+"DEN|Jonah Coleman": {
+"rush_yds": "41",
+"reception_yds": "63"
+},
+"DEN|Marvin Mims Jr.": {
+"rush_yds": "19",
+"reception_yds": "10"
+},
+"DEN|J.K. Dobbins": {
+"rush_yds": "13"
+},
+"DEN|Courtland Sutton": {
+"reception_yds": "53"
+},
+"DEN|Jaylen Waddle": {
+"reception_yds": "39"
+},
+"DEN|Adam Trautman": {
+"reception_yds": "30"
+},
+"DEN|Adam Prentice": {
+"reception_yds": "10"
+},
+"DEN|Lil'Jordan Humphrey": {
+"reception_yds": "10"
+},
+"DEN|Nate Adkins": {
+"reception_yds": "4"
+},
+"DEN|Troy Franklin": {
+"reception_yds": "3"
+},
+"DEN|Evan Engram": {
+"reception_yds": "0"
+},
+"DEN|Alex Singleton": {},
+"DEN|Pat Surtain II": {},
+"DEN|Devon Key": {},
+"DEN|Taylor Rapp": {},
+"DEN|Malcolm Roach": {},
+"DEN|Riley Moss": {},
+"DEN|Ja'Quan McMillian": {},
+"DEN|Brandon Jones": {},
+"DEN|Jonathon Cooper": {},
+"DEN|Sai'vion Jones": {},
+"DEN|Justin Strnad": {},
+"DEN|Tycen Anderson": {},
+"DEN|D.J. Jones": {},
+"DEN|JL Skinner": {},
+"DEN|Que Robinson": {},
+"DEN|Eyioma Uwazurike": {},
+"DEN|Nik Bonitto": {},
+"DEN|Kris Abrams-Draine": {},
+"DEN|Karene Reid": {},
+"DEN|Zach Allen": {},
+"DEN|Jordan Turner": {},
+"DEN|Dondrea Tillman": {},
+"DEN|Cody Schrader": {},
+"DEN|Wil Lutz": {},
+"DEN|Jeremy Crawshaw": {},
+"BAL|Joe Fagnano": {
+"pass_yds": "91",
+"rush_yds": "3"
+},
+"BAL|Lamar Jackson": {
+"pass_yds": "0"
+},
+"BAL|Tyler Huntley": {
+"pass_yds": "0"
+},
+"BAL|Derrick Henry": {
+"rush_yds": "53",
+"reception_yds": "7"
+},
+"BAL|Justice Hill": {
+"rush_yds": "15",
+"reception_yds": "20"
+},
+"BAL|Rasheen Ali": {
+"rush_yds": "5"
+},
+"BAL|Rashod Bateman": {
+"reception_yds": "22"
+},
+"BAL|Josh Cuevas": {
+"reception_yds": "15"
+},
+"BAL|Mark Andrews": {
+"reception_yds": "14"
+},
+"BAL|Ja'Kobi Lane": {
+"reception_yds": "13"
+},
+"BAL|Zay Flowers": {
+"reception_yds": "0"
+},
+"BAL|Matt Hibner": {
+"reception_yds": "0"
+},
+"BAL|T.J. Tampa": {},
+"BAL|Roquan Smith": {},
+"BAL|Malaki Starks": {},
+"BAL|Kyle Hamilton": {},
+"BAL|K'Von Wallace": {},
+"BAL|Teddye Buchanan": {},
+"BAL|Mike Green": {},
+"BAL|Trey Hendrickson": {},
+"BAL|Trenton Simpson": {},
+"BAL|Nnamdi Madubuike": {},
+"BAL|Travis Jones": {},
+"BAL|Marlon Humphrey": {},
+"BAL|John Jenkins": {},
+"BAL|Chidobe Awuzie": {},
+"BAL|Adisa Isaac": {},
+"BAL|Nate Wiggins": {},
+"BAL|Keondre Jackson": {},
+"BAL|Keyon Martin": {},
+"BAL|Ronnie Stanley": {},
+"BAL|Broderick Washington Jr.": {},
+"BAL|Zion Young": {},
+"BAL|LaJohntay Wester": {},
+"BAL|Tyler Loop": {},
+"BAL|Ryan Eckley": {},
+"BUF|Josh Allen": {
+"pass_yds": "289",
+"rush_yds": "30"
+},
+"BUF|James Cook III": {
+"rush_yds": "80",
+"reception_yds": "21"
+},
+"BUF|Ray Davis": {
+"rush_yds": "30"
+},
+"BUF|DJ Moore": {
+"rush_yds": "4",
+"reception_yds": "82"
+},
+"BUF|Ty Johnson": {
+"rush_yds": "4",
+"reception_yds": "19"
+},
+"BUF|Kyle Allen": {
+"rush_yds": "-2"
+},
+"BUF|Dalton Kincaid": {
+"reception_yds": "86"
+},
+"BUF|Khalil Shakir": {
+"reception_yds": "64"
+},
+"BUF|Jackson Hawes": {
+"reception_yds": "7"
+},
+"BUF|Dawson Knox": {
+"reception_yds": "6"
+},
+"BUF|Keon Coleman": {
+"reception_yds": "4"
+},
+"BUF|Joshua Palmer": {
+"reception_yds": "0"
+},
+"BUF|Dorian Williams": {},
+"BUF|Kaleb Elarms-Orr": {},
+"BUF|Geno Stone": {},
+"BUF|Terrel Bernard": {},
+"BUF|Te'Cory Couch": {},
+"BUF|Damar Hamlin": {},
+"BUF|Landon Jackson": {},
+"BUF|Greg Rousseau": {},
+"BUF|Michael Hoecht": {},
+"BUF|Javon Solomon": {},
+"BUF|Cole Bishop": {},
+"BUF|TJ Parker": {},
+"BUF|T.J. Sanders": {},
+"BUF|Keleki Latu": {},
+"BUF|Maxwell Hairston": {},
+"BUF|Deone Walker": {},
+"BUF|Tyler Bass": {},
+"BUF|Reid Ferguson": {},
+"BUF|Sam Franklin Jr.": {},
+"BUF|Joe Andreessen": {},
+"BUF|Christian Benford": {},
+"BUF|DeWayne Carter": {},
+"BUF|Davison Igbinosun": {},
+"BUF|Bradley Chubb": {},
+"BUF|Ed Oliver": {},
+"BUF|Greg Dortch": {},
+"BUF|Tommy Doman Jr.": {},
+"NE|Drake Maye": {
+"pass_yds": "199",
+"rush_yds": "5"
+},
+"NE|Rhamondre Stevenson": {
+"rush_yds": "82",
+"reception_yds": "8"
+},
+"NE|Corey Kiner": {
+"rush_yds": "38"
+},
+"NE|Lan Larison": {
+"rush_yds": "6"
+},
+"NE|DeMario Douglas": {
+"reception_yds": "76"
+},
+"NE|Kyle Williams": {
+"reception_yds": "43"
+},
+"NE|Efton Chism III": {
+"reception_yds": "37"
+},
+"NE|Hunter Henry": {
+"reception_yds": "30"
+},
+"NE|Eli Raridon": {
+"reception_yds": "5"
+},
+"NE|Jared Wilson": {},
+"NE|Carlton Davis III": {},
+"NE|Christian Elliss": {},
+"NE|Kevin Byard": {},
+"NE|Dre'Mont Jones": {},
+"NE|Marcus Jones": {},
+"NE|Craig Woodson": {},
+"NE|Cory Durden": {},
+"NE|Robert Spillane": {},
+"NE|Milton Williams": {},
+"NE|Christian Gonzalez": {},
+"NE|Gabe Jacas": {},
+"NE|Leonard Taylor III": {},
+"NE|Charles Woods": {},
+"NE|Brenden Schooler": {},
+"NE|Andy Borregales": {},
+"NE|DaQuan Jones": {},
+"NE|Mike Brown": {},
+"NE|Christian Barmore": {},
+"NE|Darius Muasau": {},
+"NE|Jaylen Reed": {},
+"NE|Joshua Farmer": {},
+"NE|Elijah Ponder": {},
+"NE|Julian Ashby": {},
+"NE|Erick Hunter": {},
+"NE|Mitch Wishnowsky": {},
+"MIA|Malik Willis": {
+"pass_yds": "211",
+"rush_yds": "2"
+},
+"MIA|Ollie Gordon II": {
+"rush_yds": "69",
+"reception_yds": "0"
+},
+"MIA|Jaylen Wright": {
+"rush_yds": "5",
+"reception_yds": "0"
+},
+"MIA|Chris Bell": {
+"rush_yds": "-2",
+"reception_yds": "31"
+},
+"MIA|Kevin Coleman Jr.": {
+"reception_yds": "46"
+},
+"MIA|Greg Dulcich": {
+"reception_yds": "43"
+},
+"MIA|Caleb Douglas": {
+"reception_yds": "43"
+},
+"MIA|Malik Washington": {
+"reception_yds": "40"
+},
+"MIA|Jalen Tolbert": {
+"reception_yds": "8"
+},
+"MIA|Will Kacmarek": {
+"reception_yds": "0"
+},
+"MIA|JuJu Brents": {},
+"MIA|Jordyn Brooks": {},
+"MIA|Jacob Rodriguez": {},
+"MIA|Zach Sieler": {},
+"MIA|Michael Taaffe": {},
+"MIA|Jordan Phillips": {},
+"MIA|Josh Uche": {},
+"MIA|Dante Trader Jr.": {},
+"MIA|Chris Johnson": {},
+"MIA|Chop Robinson": {},
+"MIA|Kyle Louis": {},
+"MIA|Willie Gay Jr.": {},
+"MIA|Kaytron Allen": {},
+"MIA|Jason Marshall Jr.": {},
+"MIA|Kenneth Grant": {},
+"MIA|Seydou Traore": {},
+"MIA|Zeek Biggers": {},
+"MIA|Zane Gonzalez": {},
+"MIA|Bradley Pinion": {},
+"LAC|Justin Herbert": {
+"pass_yds": "257",
+"rush_yds": "15"
+},
+"LAC|Kimani Vidal": {
+"rush_yds": "23",
+"reception_yds": "7"
+},
+"LAC|Omarion Hampton": {
+"rush_yds": "20",
+"reception_yds": "7"
+},
+"LAC|Keaton Mitchell": {
+"rush_yds": "6",
+"reception_yds": "17"
+},
+"LAC|Ladd McConkey": {
+"reception_yds": "86"
+},
+"LAC|Oronde Gadsden": {
+"reception_yds": "52"
+},
+"LAC|Quentin Johnston": {
+"reception_yds": "37"
+},
+"LAC|Tre' Harris": {
+"reception_yds": "31"
+},
+"LAC|Charlie Kolar": {
+"reception_yds": "20"
+},
+"LAC|Tony Jefferson": {},
+"LAC|Isas Waxter": {},
+"LAC|RJ Mickens": {},
+"LAC|Justin Eboigbe": {},
+"LAC|Daiyan Henley": {},
+"LAC|Tuli Tuipulotu": {},
+"LAC|Del'Shawn Phillips": {},
+"LAC|Marlowe Wax": {},
+"LAC|Tarheeb Still": {},
+"LAC|Cam Hart": {},
+"LAC|Dalvin Tomlinson": {},
+"LAC|Nick Barrett": {},
+"LAC|Troy Dye": {},
+"LAC|Kendall Williamson": {},
+"LAC|Teair Tart": {},
+"LAC|Jamaree Caldwell": {},
+"LAC|Khalil Mack": {},
+"LAC|KeAndre Lambert-Smith": {},
+"LAC|Elijah Molden": {},
+"LAC|Akheem Mesidor": {},
+"LAC|Josh Harris": {},
+"LAC|Derius Davis": {},
+"LAC|Cameron Dicker": {},
+"LAC|JK Scott": {},
+"LAR|Matthew Stafford": {
+"pass_yds": "157"
+},
+"LAR|Blake Corum": {
+"rush_yds": "73",
+"reception_yds": "0"
+},
+"LAR|Kyren Williams": {
+"rush_yds": "56",
+"reception_yds": "3"
+},
+"LAR|Puka Nacua": {
+"reception_yds": "80"
+},
+"LAR|Tutu Atwell": {
+"reception_yds": "52"
+},
+"LAR|Tyler Higbee": {
+"reception_yds": "14"
+},
+"LAR|Davis Allen": {
+"reception_yds": "8"
+},
+"LAR|Jordan Whittington": {
+"reception_yds": "0"
+},
+"LAR|Konata Mumpfield": {
+"reception_yds": "0"
+},
+"LAR|Trent McDuffie": {},
+"LAR|Nate Landman": {},
+"LAR|Kamren Kinchens": {},
+"LAR|Quentin Lake": {},
+"LAR|Josaiah Stewart": {},
+"LAR|Omar Speights": {},
+"LAR|Wesley Bailey": {},
+"LAR|Kam Curl": {},
+"LAR|Josh Wallace": {},
+"LAR|Jaylen Watson": {},
+"LAR|Aaron Donald": {},
+"LAR|Braden Fiske": {},
+"LAR|Emmanuel Forbes Jr.": {},
+"LAR|Jaylen McCollough": {},
+"LAR|Tyler Davis": {},
+"LAR|Darryl Peterson III": {},
+"LAR|Byron Young": {},
+"LAR|Larrell Murchison": {},
+"LAR|Alex Bachman": {},
+"LAR|Brandon McManus": {},
+"LAR|Ethan Evans": {},
+"PHI|Tanner McKee": {
+"pass_yds": "212",
+"rush_yds": "25"
+},
+"PHI|Elijah Mitchell": {
+"rush_yds": "34",
+"reception_yds": "3"
+},
+"PHI|Saquon Barkley": {
+"rush_yds": "30",
+"reception_yds": "24"
+},
+"PHI|Dallas Goedert": {
+"rush_yds": "2",
+"reception_yds": "30"
+},
+"PHI|Makai Lemon": {
+"reception_yds": "57"
+},
+"PHI|Eli Stowers": {
+"reception_yds": "53"
+},
+"PHI|Darius Cooper": {
+"reception_yds": "19"
+},
+"PHI|Hollywood Brown": {
+"reception_yds": "17"
+},
+"PHI|Jaydon Blue": {
+"reception_yds": "9"
+},
+"PHI|Zack Baun": {},
+"PHI|Jeremiah Trotter Jr.": {},
+"PHI|Andrew Mukuba": {},
+"PHI|Jalen Carter": {},
+"PHI|Kenny Moore II": {},
+"PHI|Riq Woolen": {},
+"PHI|Quinyon Mitchell": {},
+"PHI|Nolan Smith Jr.": {},
+"PHI|Moro Ojomo": {},
+"PHI|Cooper DeJean": {},
+"PHI|Jake Elliott": {},
+"PHI|Jonathan Greenard": {},
+"PHI|Jordan Davis": {},
+"PHI|Rocco Underwood": {},
+"PHI|Byron Young": {},
+"PHI|Ty Robinson": {},
+"PHI|Marcus Epps": {},
+"PHI|Jalyx Hunt": {},
+"PHI|Braden Mann": {},
+"WSH|Jayden Daniels": {
+"pass_yds": "217",
+"rush_yds": "23"
+},
+"WSH|Rachaad White": {
+"rush_yds": "55",
+"reception_yds": "5"
+},
+"WSH|Austin Ekeler": {
+"rush_yds": "36"
+},
+"WSH|Jeremy McNichols": {
+"rush_yds": "21",
+"reception_yds": "7"
+},
+"WSH|Treylon Burks": {
+"reception_yds": "81"
+},
+"WSH|Antonio Williams": {
+"reception_yds": "54"
+},
+"WSH|Stefon Diggs": {
+"reception_yds": "38"
+},
+"WSH|Chig Okonkwo": {
+"reception_yds": "32"
+},
+"WSH|Van Jefferson": {
+"reception_yds": "0"
+},
+"WSH|Charles Omenihu": {},
+"WSH|Nick Cross": {},
+"WSH|Sonny Styles": {},
+"WSH|Frankie Luvu": {},
+"WSH|Dorance Armstrong": {},
+"WSH|Jeremy Reaves": {},
+"WSH|Shy Tuttle": {},
+"WSH|Amik Robertson": {},
+"WSH|K'Lavon Chaisson": {},
+"WSH|Trey Amos": {},
+"WSH|Quan Martin": {},
+"WSH|Tim Settle": {},
+"WSH|Odafe Oweh": {},
+"WSH|Colson Yankoff": {},
+"WSH|Rasul Douglas": {},
+"WSH|John Bates": {},
+"WSH|Mike Sainristil": {},
+"WSH|Joshua Josephs": {},
+"WSH|Dyami Brown": {},
+"WSH|Kain Medrano": {},
+"WSH|Jordan Magee": {},
+"WSH|Luke McCaffrey": {},
+"WSH|Drew Stevens": {},
+"WSH|Tress Way": {},
+"LV|Kirk Cousins": {
+"pass_yds": "247",
+"rush_yds": "3"
+},
+"LV|Mike Washington Jr.": {
+"rush_yds": "83"
+},
+"LV|Ashton Jeanty": {
+"rush_yds": "9",
+"reception_yds": "64"
+},
+"LV|Connor Heyward": {
+"rush_yds": "0"
+},
+"LV|Brock Bowers": {
+"reception_yds": "92"
+},
+"LV|Michael Mayer": {
+"reception_yds": "53"
+},
+"LV|Jalen Nailor": {
+"reception_yds": "38"
+},
+"LV|Tre Tucker": {
+"reception_yds": "0"
+},
+"LV|Nakobe Dean": {},
+"LV|Jeremy Chinn": {},
+"LV|Quay Walker": {},
+"LV|Eric Stokes": {},
+"LV|Treydan Stukes": {},
+"LV|Maxx Crosby": {},
+"LV|Tommy Eichenberg": {},
+"LV|Thomas Booker IV": {},
+"LV|Kwity Paye": {},
+"LV|Tim Keenan III": {},
+"LV|Folorunso Fatukasi": {},
+"LV|Isaiah Pola-Mao": {},
+"LV|Dylan Laube": {},
+"LV|Darrell Luter Jr.": {},
+"LV|Hezekiah Masses": {},
+"LV|Jermod McCoy": {},
+"LV|Adam Butler": {},
+"LV|Taron Johnson": {},
+"LV|Dareke Young": {},
+"LV|Cian Slone": {},
+"LV|Matt Gay": {},
+"LV|AJ Cole": {},
+"NYJ|Geno Smith": {
+"pass_yds": "290",
+"rush_yds": "4"
+},
+"NYJ|Braelon Allen": {
+"rush_yds": "147",
+"reception_yds": "6"
+},
+"NYJ|Isaiah Davis": {
+"rush_yds": "15"
+},
+"NYJ|Adonai Mitchell": {
+"reception_yds": "142"
+},
+"NYJ|Garrett Wilson": {
+"reception_yds": "83"
+},
+"NYJ|Kenyon Sadiq": {
+"reception_yds": "22"
+},
+"NYJ|Mason Taylor": {
+"reception_yds": "19"
+},
+"NYJ|Isaiah Williams": {
+"reception_yds": "18"
+},
+"NYJ|Jamien Sherwood": {},
+"NYJ|Dane Belton": {},
+"NYJ|Minkah Fitzpatrick": {},
+"NYJ|Demario Davis": {},
+"NYJ|Azareye'h Thomas": {},
+"NYJ|Darrell Jackson Jr.": {},
+"NYJ|Brandon Stephens": {},
+"NYJ|Jowon Briggs": {},
+"NYJ|Kingsley Enagbare": {},
+"NYJ|Will McDonald IV": {},
+"NYJ|Harrison Phillips": {},
+"NYJ|Nate Lynn": {},
+"NYJ|Jack Heflin": {},
+"NYJ|Malachi Moore": {},
+"NYJ|Andre Cisco": {},
+"NYJ|Jarvis Brownlee Jr.": {},
+"NYJ|Trevin Wallace": {},
+"NYJ|Jason Sanders": {},
+"NYJ|Austin McNamara": {},
+"MIN|Kyler Murray": {
+"pass_yds": "210",
+"rush_yds": "35"
+},
+"MIN|Aaron Jones Sr.": {
+"rush_yds": "22",
+"reception_yds": "18"
+},
+"MIN|Jordan Mason": {
+"rush_yds": "20"
+},
+"MIN|DeeJay Dallas": {
+"rush_yds": "4"
+},
+"MIN|Jordan Addison": {
+"reception_yds": "66"
+},
+"MIN|T.J. Hockenson": {
+"reception_yds": "58"
+},
+"MIN|Justin Jefferson": {
+"reception_yds": "33"
+},
+"MIN|Ben Yurosek": {
+"reception_yds": "24"
+},
+"MIN|Jauan Jennings": {
+"reception_yds": "11"
+},
+"MIN|Joshua Metellus": {},
+"MIN|Eric Wilson": {},
+"MIN|Byron Murphy Jr.": {},
+"MIN|Blake Cashman": {},
+"MIN|Andrew Van Ginkel": {},
+"MIN|Harrison Smith": {},
+"MIN|Theo Jackson": {},
+"MIN|Isaiah Rodgers": {},
+"MIN|Dallas Turner": {},
+"MIN|James Pierre": {},
+"MIN|Jalen Redmond": {},
+"MIN|Chaz Chambliss": {},
+"MIN|Tyrion Ingram-Dawkins": {},
+"MIN|Ivan Pace Jr.": {},
+"MIN|Jay Ward": {},
+"MIN|Caleb Banks": {},
+"MIN|Domonique Orange": {},
+"MIN|Levi Drake Rodriguez": {},
+"MIN|Kyle Van Noy": {},
+"MIN|Jacob Thomas": {},
+"MIN|Myles Price": {},
+"MIN|Will Reichard": {},
+"MIN|Brett Thorson": {},
+"DET|Jared Goff": {
+"pass_yds": "176",
+"rush_yds": "0"
+},
+"DET|Jahmyr Gibbs": {
+"rush_yds": "153",
+"reception_yds": "15"
+},
+"DET|Sione Vaki": {
+"rush_yds": "65",
+"reception_yds": "5"
+},
+"DET|Amon-Ra St. Brown": {
+"rush_yds": "10",
+"reception_yds": "46"
+},
+"DET|Sam LaPorta": {
+"rush_yds": "2",
+"reception_yds": "33"
+},
+"DET|Jameson Williams": {
+"reception_yds": "70"
+},
+"DET|Tyler Conklin": {
+"reception_yds": "7"
+},
+"DET|Jimmy Rolder": {},
+"DET|Aidan Hutchinson": {},
+"DET|Roger McCreary": {},
+"DET|Malcolm Rodriguez": {},
+"DET|Chuck Clark": {},
+"DET|Rock Ya-Sin": {},
+"DET|Brian Branch": {},
+"DET|Trevor Nowaske": {},
+"DET|Skyler Gill-Howard": {},
+"DET|Jack Campbell": {},
+"DET|Eric O'Neill": {},
+"DET|Khalil Dorsey": {},
+"DET|Alim McNeill": {},
+"DET|DJ Wonnum": {},
+"DET|Derrick Moore": {},
+"DET|D.J. Reed": {},
+"DET|Amen Ogbongbemiga": {},
+"DET|Tay Martin": {},
+"DET|Derrick Barnes": {},
+"DET|Christian Izien": {},
+"DET|Keith Abney II": {},
+"DET|Tyler Lacy": {},
+"DET|Tyleik Williams": {},
+"DET|Jacob Saylors": {},
+"DET|DeAndre Carter": {},
+"DET|Jake Bates": {},
+"DET|Jack Fox": {}
+}

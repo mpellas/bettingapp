@@ -1,0 +1,15 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Sat Oct 31 3:30 PM window pass (fired 3:37, run 3:37 PM PT), DraftKings lines captured 3:36 PM PT. One game in the window: Calgary Flames at Colorado Avalanche, 7:00 PM PT (202 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (16 lines up; every side is negative).
+
+Fliff check (both skipped, price):
+- Mikael Backlund (CGY) OVER 1.5 shots, Flames at Avalanche: model 62.9% vs no-vig 55.4% (+7.5 pts), agrees 4 of 7, nothing against; last 5: 2 of 5 over. Shop-at: Fliff -126 or better. Fliff hasn't posted shots for this game; DK -145 is worse. Skip.
+- Brock Nelson (COL) OVER 1.5 shots, Flames at Avalanche: model 66.5% vs no-vig 57.0% (+9.5 pts), agrees 5 of 7, nothing against; last 5: 3 of 5 over. Shop-at: Fliff -134 or better. Fliff hasn't posted shots for this game; DK -160 is worse. Skip.
+Correlation note: both are overs in the same game, so they'd lean the same way on game pace; treat as partly correlated if either ever clears.
+Fliff credits: 1 this pass; 5 of 10 used today.
+
+Vetoes: 4 role-check vetoes (Kadri and Frost overs dropped, demoted to the 3rd line; Landeskog and Necas unders dropped, promoted), 0 slot vetoes.
+Lineup ages at run time: Calgary DailyFaceoff lineup updated 2:16 PM PT today (~20 min old), Colorado 7:30 AM PT (~8 hours), both inside the 12-hour rule. Backlund is on CGY's top line, Nelson on COL's 2nd line and PP2. No ESPN injury flags on the list.
+Spreadsheet: /workspace/nhl-sog/sheets/20261031_D_1537_picks.xlsx (colors only show in Excel or Google Sheets).

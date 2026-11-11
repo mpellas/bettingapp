@@ -1,0 +1,31 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, 1:00 PM PT window pass (Wed Oct 28; fired 1:01, run 1:04 PM PT), DraftKings lines captured 1:04 PM PT. One game in the window: Philadelphia Flyers at Washington Capitals, 4:30 PM PT (205 min out at run time). No earlier pass today had scored it.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (17 lines up; best is -6.1%).
+
+Fliff check (3). None is a bet right now: Fliff and DraftKings are worse than shop-at on all three.
+1. Travis Sanheim (PHI D), Flyers at Capitals (4:30 PM PT), OVER 1.5 shots on goal
+   DK now: +115 (opened +130), model over 49.8% vs no-vig 43.3%, recent form over 54.7%. Shop-at (worst acceptable): +129 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 4 of 5 over 1.5 (shots 2, 3, 1, 4, 2).
+   Role: Flyers pair 1 defenseman and PP2, no change (Philadelphia DailyFaceoff lineup updated 7:22 AM PT today, about 6 hours old). TOI last 5 26.7 min vs 25.2 over last 30 (trending up).
+   Evidence: agrees 4 of 7 (champion +6.4 pts; challenger +2.1 pts; shrunk form +3.9 pts; no-vig moved 2.8 pts toward the over since open); against: WSH allows about 4% less than average to defensemen.
+   Fliff +110 and DK +115 are both worse than +129.
+2. Trevor Zegras (PHI F), Flyers at Capitals (4:30 PM PT), OVER 1.5 shots on goal
+   DK now: -125 (unchanged from open), model over 58.9% vs no-vig 51.5%, recent form over 78.1%. Shop-at: -107 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 5 of 5 over 1.5 (shots 5, 3, 4, 3, 3).
+   Role: Flyers line 1 and PP1, no change (DailyFaceoff 7:22 AM PT). TOI last 5 19.2 min vs 18.5 over last 30; PP time 4.1 vs 3.2 min.
+   Evidence: agrees 4 of 7 (champion +7.4 pts; challenger +8.9 pts; shrunk form +10.3 pts; on PP1); nothing against.
+   Fliff -145 and DK -125 are both worse than -107.
+3. Aliaksei Protas (WSH F), Flyers at Capitals (4:30 PM PT), UNDER 1.5 shots on goal
+   DK now: -120 (opened -115), model under 58.0% vs no-vig 50.5%, recent form under 62.5%. Shop-at: -103 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 3 of 5 under 1.5 (shots 2, 1, 0, 1, 4).
+   Role: Capitals line 1, no power play, no change (Washington DailyFaceoff lineup updated 9:52 AM PT today, about 3 hours old). TOI last 5 16.0 min vs 17.1 over last 30 (trending down, which fits the under).
+   Evidence: agrees 5 of 7 (champion +7.5 pts; challenger +5.2 pts; shrunk form +2.6 pts; PHI allows about 3% less than average to top-six forwards; no-vig moved 1.0 pts toward the under since open); nothing against.
+   Fliff -115 and DK -120 are both worse than -103.
+Correlation: Sanheim and Zegras overs are the same team in the same game (Flyers shot volume), so they'd move together; Protas under is the other side of that game and roughly independent. If two ever came into price, treat the two Flyers overs as one exposure.
+Fliff credits: 1 of 10 used today (1 this pass, for the three sides in this one game); 99 left on the account.
+
+Vetoes: 6 role-check vetoes, all on sides with no positive DK EV. Overs dropped for demotions or PP1 loss: Boone Jenner, Pierre-Luc Dubois, Tyson Foerster, Ryan Leonard; unders dropped for promotions: Jordan Kyrou, Porter Martone.
+No games before noon PT in this pass. Both teams' DailyFaceoff lineups are fresh (PHI 7:22 AM, WSH 9:52 AM PT today), so no 12-hour lineup skips. No ESPN injury flags on the three sides.
+Spreadsheet: /workspace/nhl-sog/sheets/20261028_D_1304_picks.xlsx (colors only show in Excel or Google Sheets).

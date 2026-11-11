@@ -1,0 +1,54 @@
+{
+ "created_at_utc": "2026-10-11T10:25:50+00:00",
+ "created_at_pt": "2026-10-11T03:25:50-07:00",
+ "season": 2026,
+ "week": 5,
+ "champion_hash": "aa4d70b859",
+ "config_hash": "37b5a34d8c",
+ "code_version": "6ddb05f9",
+ "pregame_code_sha1": "40b08d1852",
+ "data_version": "40aa7b8b",
+ "data_cutoff": "2026-10-08",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-10-08",
+ "lookback_games": 2,
+ "mode": "snapshot (D lines)",
+ "n_rows_built": 212,
+ "n_void_lines": 1,
+ "void_reasons": {
+  "no player row: player's last team (KC) is not in this game": 1
+ },
+ "n_predictions": {
+  "pass_yds": 30,
+  "rush_yds": 83,
+  "rec_yds": 167
+ },
+ "d_lines_file": "data/lines/snap_2026_wk5_D.csv",
+ "d_lines_sha256": "ca7e46fef530b1583a8d55b16ac60161460e2a2a4a4149458b71aa3ac72c9a2a",
+ "d_captured_at_utc": {
+  "401872980": "2026-10-06T02:18:26+00:00",
+  "401872981": "2026-10-11T10:25:05+00:00",
+  "401872982": "2026-10-11T10:25:05+00:00",
+  "401872983": "2026-10-11T10:25:05+00:00",
+  "401872984": "2026-10-11T10:25:05+00:00",
+  "401872985": "2026-10-11T10:25:05+00:00",
+  "401872986": "2026-10-11T10:25:05+00:00",
+  "401872987": "2026-10-11T10:25:05+00:00",
+  "401872988": "2026-10-11T10:25:05+00:00",
+  "401872989": "2026-10-11T10:25:05+00:00",
+  "401872990": "2026-10-11T10:25:05+00:00",
+  "401872991": "2026-10-11T10:25:05+00:00",
+  "401872992": "2026-10-11T10:25:05+00:00",
+  "401872993": "2026-10-11T10:25:05+00:00",
+  "401872994": "2026-10-11T10:25:05+00:00"
+ },
+ "n_with_line_D": 280,
+ "sha256_parquet": "3ef2b9e35defea5a033eadc6d3ed5bfe5b29363a735473dc14f16be370a64c86",
+ "sha256_csv": "1580085c7ff00df5d51964963de30735d3ee86fa2ab7d36ea0b93f1c9b295f4d",
+ "files": [
+  "data/predictions/2026_wk05/pregame_20261011T102550Z.parquet",
+  "data/predictions/2026_wk05/pregame_20261011T102550Z.csv"
+ ],
+ "void_report": "data/predictions/2026_wk05/pregame_20261011T102550Z_voids.csv",
+ "sha256_voids": "7ca795eb085ebb045536a7d938313b554aef41c6111559538ffaac8444636303"
+}

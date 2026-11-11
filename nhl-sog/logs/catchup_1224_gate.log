@@ -1,0 +1,12 @@
+picks/20261018_D_1224_GATE.csv 17 lines; 0 vetoed; 0 leans; 17 pass veto; 0 DK-listable
+Empty DataFrame
+Columns: [player, game, line, slot, ev_base, ev_now, pp_base, pp_now, pick, shop_veto]
+Index: []
+role_change: {'promotion': 4, 'demotion': 2}
+        player  line       slot ev_now pp_now  pick  role_veto_over  role_veto_under                                                                                     role_reason
+ Charlie Coyle   1.5 F_top6+PP1     f3    pp1   NaN            True            False lineup: below recent top-6, today f3; role changed (demotion: history F_top6+PP1, today f3/pp1)
+  Ryan Hartman   1.5      F_3rd     f2    pp2   NaN           False             True                                           role changed (promotion: history F_3rd, today f2/pp2)
+ Conor Garland   1.5      F_3rd     f2    pp2   NaN           False             True                                           role changed (promotion: history F_3rd, today f2/pp2)
+   Bobby Brink   1.5      F_3rd     f2    pp2   NaN           False             True                                           role changed (promotion: history F_3rd, today f2/pp2)
+  Kent Johnson   1.5  F_3rd+PP1     f1    pp1   NaN           False             True                                       role changed (promotion: history F_3rd+PP1, today f1/pp1)
+Maxim Shabanov   1.5 F_top6+PP1     f3    pp1   NaN            True            False lineup: below recent top-6, today f3; role changed (demotion: history F_top6+PP1, today f3/pp1)

@@ -1,0 +1,29 @@
+{
+ "created_at_utc": "2026-10-04T21:07:45+00:00",
+ "created_at_pt": "2026-10-04T14:07:45-07:00",
+ "season": 2025,
+ "week": 10,
+ "champion_hash": "557e6ab3e4",
+ "config_hash": "9addd9ba0c",
+ "code_version": "80a0dd3f",
+ "pregame_code_sha1": "3ca37cdb37",
+ "data_version": "0328c69d",
+ "data_cutoff": "2025-11-06",
+ "dist_fit_before": "2025-09-04",
+ "mean_fit_before": "2025-10-30",
+ "lookback_games": 2,
+ "n_candidates": 416,
+ "n_predictions": {
+  "pass_yds": 28,
+  "rush_yds": 52,
+  "rec_yds": 123
+ },
+ "d_lines_file": null,
+ "n_with_line_D": 0,
+ "sha256_parquet": "b64310447eb8b53ac2239fc3a10a851191ebd71bcd41b445df58f7c5eb314538",
+ "sha256_csv": "5466f49d9dbb61d2c8479626fe68305f1b8f7c9c68dd1644c4e7967c56a20643",
+ "files": [
+  "data/predictions/2025_wk10/pregame_20261004T210745Z.parquet",
+  "data/predictions/2025_wk10/pregame_20261004T210745Z.csv"
+ ]
+}

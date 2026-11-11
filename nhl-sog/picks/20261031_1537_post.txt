@@ -1,0 +1,6 @@
+Fliff check: Mikael Backlund OVER 1.5 (DK -145, Fliff at -126 or better) - model +7.5 pts vs no-vig; recent +18.2 pts
+   last 5: 2 of 5 over 1.5 (shots 1,2,1,2,1); model 62.9%, recent form 73.6% (shot rate last 10 x TOI last 5)
+   evidence: Mikael Backlund O1.5: agrees 4 of 7 (champion +7.5 pts; challenger +4.3 pts; shrunk form +7.5 pts; no-vig moved 1.9 pts toward side since open); nothing against
+Fliff check: Brock Nelson OVER 1.5 (DK -160, Fliff at -134 or better) - model +9.5 pts vs no-vig; recent +5.0 pts
+   last 5: 3 of 5 over 1.5 (shots 3,1,0,2,3); model 66.5%, recent form 61.9% (shot rate last 10 x TOI last 5)
+   evidence: Brock Nelson O1.5: agrees 5 of 7 (champion +9.5 pts; challenger +9.4 pts; shrunk form +2.4 pts; opponent allows +6% to F_top6; no-vig moved 2.1 pts toward side since open); nothing against

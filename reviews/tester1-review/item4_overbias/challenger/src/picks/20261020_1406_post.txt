@@ -1,0 +1,10 @@
+Fliff check: Jimmy Snuggerud OVER 2.5 (DK +110, Fliff at +123 or better) - model +6.0 pts vs no-vig; recent +1.9 pts
+   evidence: Jimmy Snuggerud O2.5: agrees 4 of 7 (champion +6.0 pts; challenger +5.5 pts; shrunk form +4.3 pts; on PP1); against: no-vig moved 1.9 pts away from side since open
+Fliff check: Charlie McAvoy UNDER 1.5 (DK -110, Fliff at +105 or better) - model +6.8 pts vs no-vig; recent +15.2 pts
+   evidence: Charlie McAvoy U1.5: agrees 4 of 7 (champion +6.8 pts; challenger +7.6 pts; shrunk form +4.1 pts; no-vig moved 3.3 pts toward side since open); against: on PP1
+Fliff check: Morgan Geekie UNDER 1.5 (DK -105, Fliff at +109 or better) - model +7.6 pts vs no-vig; recent +23.9 pts
+   evidence: Morgan Geekie U1.5: agrees 5 of 7 (champion +7.6 pts; challenger +8.8 pts; shrunk form +4.0 pts; opponent allows -5% to F_top6+PP1; no-vig moved 4.5 pts toward side since open); against: on PP1
+Fliff check: JJ Peterka UNDER 1.5 (DK +105, Fliff at +118 or better) - model +8.6 pts vs no-vig; recent +7.1 pts
+   evidence: JJ Peterka U1.5: agrees 6 of 7 (champion +8.6 pts; challenger +6.6 pts; shrunk form +4.6 pts; TOI last 5 15.0 vs this season 16.5 (-1.5 min); last 30 incl. last season 15.1 (reference only); opponent allows -5% to F_top6; no-vig moved 3.1 pts toward side since open); nothing against
+Fliff check: Wyatt Johnston UNDER 2.5 (DK -105, Fliff at +109 or better) - model +8.7 pts vs no-vig; recent +7.9 pts
+   evidence: Wyatt Johnston U2.5: agrees 3 of 7 (champion +8.7 pts; challenger +8.0 pts; shrunk form +7.7 pts); against: opponent allows +3% to F_top6+PP1; on PP1; no-vig moved 2.5 pts away from side since open

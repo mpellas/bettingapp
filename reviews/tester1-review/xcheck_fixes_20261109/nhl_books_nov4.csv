@@ -1,0 +1,545 @@
+file,asof_label,asof,n_fliff_files,player,nhl_id,line,side,nv_over,dk_over,dk_under,sign,why,meta
+20261104_D_1305.csv,live_asof,1302,0,Claude Giroux,8473512,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Claude Giroux,8473512,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Jason Zucker,8475722,1.5,over,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Jason Zucker,8475722,1.5,under,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Thomas Chabot,8478469,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Thomas Chabot,8478469,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Tage Thompson,8479420,3.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Tage Thompson,8479420,3.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Drake Batherson,8480208,2.5,over,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Drake Batherson,8480208,2.5,under,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Rasmus Dahlin,8480839,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Rasmus Dahlin,8480839,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Dylan Cozens,8481528,2.5,over,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Dylan Cozens,8481528,2.5,under,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Shane Pinto,8481596,1.5,over,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Shane Pinto,8481596,1.5,under,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Fabian Zetterlund,8480188,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Fabian Zetterlund,8480188,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Tim Stutzle,8482116,2.5,over,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Tim Stutzle,8482116,2.5,under,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Jake Sanderson,8482105,1.5,over,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Jake Sanderson,8482105,1.5,under,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Jack Quinn,8482097,2.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Jack Quinn,8482097,2.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Olen Zellweger,8482803,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Olen Zellweger,8482803,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Josh Doan,8482659,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Josh Doan,8482659,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Noah Ostlund,8483500,1.5,over,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Noah Ostlund,8483500,1.5,under,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Zach Benson,8484145,2.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Zach Benson,8484145,2.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Seth Jones,8477495,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Seth Jones,8477495,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Tyler Bertuzzi,8477479,1.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Tyler Bertuzzi,8477479,1.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Carter Verhaeghe,8477409,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Carter Verhaeghe,8477409,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Aaron Ekblad,8477932,1.5,over,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Aaron Ekblad,8477932,1.5,under,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Sam Reinhart,8477933,2.5,over,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Sam Reinhart,8477933,2.5,under,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Sam Bennett,8477935,2.5,over,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Sam Bennett,8477935,2.5,under,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Gustav Forsling,8478055,1.5,over,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Gustav Forsling,8478055,1.5,under,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Matthew Tkachuk,8479314,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Matthew Tkachuk,8479314,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Eetu Luostarinen,8480185,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Eetu Luostarinen,8480185,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Brady Tkachuk,8480801,3.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Brady Tkachuk,8480801,3.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Anton Lundell,8482113,2.5,over,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Anton Lundell,8482113,2.5,under,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Frank Nazar,8483493,1.5,over,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Frank Nazar,8483493,1.5,under,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Connor Bedard,8484144,2.5,over,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Connor Bedard,8484144,2.5,under,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Roman Kantserov,8484390,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Roman Kantserov,8484390,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Anton Frondell,8485391,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,live_asof,1302,0,Anton Frondell,8485391,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Claude Giroux,8473512,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Claude Giroux,8473512,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Jason Zucker,8475722,1.5,over,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Jason Zucker,8475722,1.5,under,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Thomas Chabot,8478469,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Thomas Chabot,8478469,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Tage Thompson,8479420,3.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Tage Thompson,8479420,3.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Drake Batherson,8480208,2.5,over,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Drake Batherson,8480208,2.5,under,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Rasmus Dahlin,8480839,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Rasmus Dahlin,8480839,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Dylan Cozens,8481528,2.5,over,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Dylan Cozens,8481528,2.5,under,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Shane Pinto,8481596,1.5,over,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Shane Pinto,8481596,1.5,under,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Fabian Zetterlund,8480188,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Fabian Zetterlund,8480188,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Tim Stutzle,8482116,2.5,over,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Tim Stutzle,8482116,2.5,under,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Jake Sanderson,8482105,1.5,over,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Jake Sanderson,8482105,1.5,under,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Jack Quinn,8482097,2.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Jack Quinn,8482097,2.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Olen Zellweger,8482803,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Olen Zellweger,8482803,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Josh Doan,8482659,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Josh Doan,8482659,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Noah Ostlund,8483500,1.5,over,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Noah Ostlund,8483500,1.5,under,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Zach Benson,8484145,2.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Zach Benson,8484145,2.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Seth Jones,8477495,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Seth Jones,8477495,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Tyler Bertuzzi,8477479,1.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Tyler Bertuzzi,8477479,1.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Carter Verhaeghe,8477409,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Carter Verhaeghe,8477409,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Aaron Ekblad,8477932,1.5,over,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Aaron Ekblad,8477932,1.5,under,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Sam Reinhart,8477933,2.5,over,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Sam Reinhart,8477933,2.5,under,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Sam Bennett,8477935,2.5,over,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Sam Bennett,8477935,2.5,under,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Gustav Forsling,8478055,1.5,over,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Gustav Forsling,8478055,1.5,under,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Matthew Tkachuk,8479314,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Matthew Tkachuk,8479314,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Eetu Luostarinen,8480185,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Eetu Luostarinen,8480185,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Brady Tkachuk,8480801,3.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Brady Tkachuk,8480801,3.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Anton Lundell,8482113,2.5,over,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Anton Lundell,8482113,2.5,under,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Frank Nazar,8483493,1.5,over,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Frank Nazar,8483493,1.5,under,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Connor Bedard,8484144,2.5,over,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Connor Bedard,8484144,2.5,under,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Roman Kantserov,8484390,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Roman Kantserov,8484390,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Anton Frondell,8485391,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,pass_hhmm,1305,0,Anton Frondell,8485391,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Claude Giroux,8473512,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Claude Giroux,8473512,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Jason Zucker,8475722,1.5,over,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Jason Zucker,8475722,1.5,under,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Thomas Chabot,8478469,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Thomas Chabot,8478469,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Tage Thompson,8479420,3.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Tage Thompson,8479420,3.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Drake Batherson,8480208,2.5,over,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Drake Batherson,8480208,2.5,under,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Rasmus Dahlin,8480839,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Rasmus Dahlin,8480839,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Dylan Cozens,8481528,2.5,over,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Dylan Cozens,8481528,2.5,under,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Shane Pinto,8481596,1.5,over,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Shane Pinto,8481596,1.5,under,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Fabian Zetterlund,8480188,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Fabian Zetterlund,8480188,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Tim Stutzle,8482116,2.5,over,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Tim Stutzle,8482116,2.5,under,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Jake Sanderson,8482105,1.5,over,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Jake Sanderson,8482105,1.5,under,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Jack Quinn,8482097,2.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Jack Quinn,8482097,2.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Olen Zellweger,8482803,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Olen Zellweger,8482803,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Josh Doan,8482659,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Josh Doan,8482659,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Noah Ostlund,8483500,1.5,over,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Noah Ostlund,8483500,1.5,under,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Zach Benson,8484145,2.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Zach Benson,8484145,2.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Seth Jones,8477495,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Seth Jones,8477495,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Tyler Bertuzzi,8477479,1.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Tyler Bertuzzi,8477479,1.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Carter Verhaeghe,8477409,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Carter Verhaeghe,8477409,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Aaron Ekblad,8477932,1.5,over,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Aaron Ekblad,8477932,1.5,under,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Sam Reinhart,8477933,2.5,over,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Sam Reinhart,8477933,2.5,under,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Sam Bennett,8477935,2.5,over,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Sam Bennett,8477935,2.5,under,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Gustav Forsling,8478055,1.5,over,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Gustav Forsling,8478055,1.5,under,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Matthew Tkachuk,8479314,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Matthew Tkachuk,8479314,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Eetu Luostarinen,8480185,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Eetu Luostarinen,8480185,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Brady Tkachuk,8480801,3.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Brady Tkachuk,8480801,3.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Anton Lundell,8482113,2.5,over,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Anton Lundell,8482113,2.5,under,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Frank Nazar,8483493,1.5,over,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Frank Nazar,8483493,1.5,under,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Connor Bedard,8484144,2.5,over,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Connor Bedard,8484144,2.5,under,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Roman Kantserov,8484390,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Roman Kantserov,8484390,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Anton Frondell,8485391,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,incl_1532,1532,2,Anton Frondell,8485391,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Claude Giroux,8473512,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Claude Giroux,8473512,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Jason Zucker,8475722,1.5,over,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Jason Zucker,8475722,1.5,under,0.4615,100,-140,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Thomas Chabot,8478469,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Thomas Chabot,8478469,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Tage Thompson,8479420,3.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Tage Thompson,8479420,3.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Drake Batherson,8480208,2.5,over,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Drake Batherson,8480208,2.5,under,0.396,135,-185,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Rasmus Dahlin,8480839,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Rasmus Dahlin,8480839,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Dylan Cozens,8481528,2.5,over,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Dylan Cozens,8481528,2.5,under,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Shane Pinto,8481596,1.5,over,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Shane Pinto,8481596,1.5,under,0.5965,-180,130,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Fabian Zetterlund,8480188,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Fabian Zetterlund,8480188,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Tim Stutzle,8482116,2.5,over,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Tim Stutzle,8482116,2.5,under,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Jake Sanderson,8482105,1.5,over,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Jake Sanderson,8482105,1.5,under,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Jack Quinn,8482097,2.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Jack Quinn,8482097,2.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Olen Zellweger,8482803,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Olen Zellweger,8482803,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Josh Doan,8482659,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Josh Doan,8482659,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Noah Ostlund,8483500,1.5,over,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Noah Ostlund,8483500,1.5,under,0.5541,-145,110,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Zach Benson,8484145,2.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Zach Benson,8484145,2.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Seth Jones,8477495,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Seth Jones,8477495,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Tyler Bertuzzi,8477479,1.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Tyler Bertuzzi,8477479,1.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Carter Verhaeghe,8477409,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Carter Verhaeghe,8477409,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Aaron Ekblad,8477932,1.5,over,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Aaron Ekblad,8477932,1.5,under,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Sam Reinhart,8477933,2.5,over,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Sam Reinhart,8477933,2.5,under,0.5,-115,-115,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Sam Bennett,8477935,2.5,over,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Sam Bennett,8477935,2.5,under,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Gustav Forsling,8478055,1.5,over,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Gustav Forsling,8478055,1.5,under,0.4899,-110,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Matthew Tkachuk,8479314,2.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Matthew Tkachuk,8479314,2.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Eetu Luostarinen,8480185,1.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Eetu Luostarinen,8480185,1.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Brady Tkachuk,8480801,3.5,over,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Brady Tkachuk,8480801,3.5,under,0.4853,-110,-125,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Anton Lundell,8482113,2.5,over,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Anton Lundell,8482113,2.5,under,0.422,120,-165,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Frank Nazar,8483493,1.5,over,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Frank Nazar,8483493,1.5,under,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Connor Bedard,8484144,2.5,over,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Connor Bedard,8484144,2.5,under,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Roman Kantserov,8484390,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Roman Kantserov,8484390,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Anton Frondell,8485391,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1305.csv,eod,2359,2,Anton Frondell,8485391,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Corey Perry,8470621,1.5,over,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Corey Perry,8470621,1.5,under,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Drew Doughty,8474563,1.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Drew Doughty,8474563,1.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Tyler Toffoli,8475726,2.5,over,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Tyler Toffoli,8475726,2.5,under,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Jacob Trouba,8476885,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Jacob Trouba,8476885,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Scott Laughton,8476872,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Scott Laughton,8476872,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Trevor Moore,8479675,2.5,over,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Trevor Moore,8479675,2.5,under,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Adrian Kempe,8477960,3.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Adrian Kempe,8477960,3.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Artemi Panarin,8478550,2.5,over,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Artemi Panarin,8478550,2.5,under,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Mason Marchment,8478975,1.5,over,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Mason Marchment,8478975,1.5,under,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Michael Kesselring,8480891,1.5,over,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Michael Kesselring,8480891,1.5,under,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Kiefer Sherwood,8480748,1.5,over,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Kiefer Sherwood,8480748,1.5,under,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Quinton Byfield,8482124,2.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Quinton Byfield,8482124,2.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Alex Laferriere,8482155,2.5,over,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Alex Laferriere,8482155,2.5,under,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Brandt Clarke,8482730,1.5,over,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Brandt Clarke,8482730,1.5,under,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Will Smith,8484227,2.5,over,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Will Smith,8484227,2.5,under,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Macklin Celebrini,8484801,3.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Macklin Celebrini,8484801,3.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Michael Misa,8485402,1.5,over,0.3797,145,-200,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Michael Misa,8485402,1.5,under,0.3797,145,-200,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Ivar Stenberg,8486103,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Ivar Stenberg,8486103,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Mikael Backlund,8474150,2.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Mikael Backlund,8474150,2.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Jordan Eberle,8474586,1.5,over,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Jordan Eberle,8474586,1.5,under,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Ryan Strome,8476458,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Ryan Strome,8476458,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Brandon Montour,8477986,2.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Brandon Montour,8477986,2.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Frederick Gaudreau,8477919,1.5,over,0.4138,125,-170,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Frederick Gaudreau,8477919,1.5,under,0.4138,125,-170,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Vince Dunn,8478407,1.5,over,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Vince Dunn,8478407,1.5,under,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Morgan Frost,8480028,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Morgan Frost,8480028,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Joel Farabee,8480797,2.5,over,0.4112,125,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Joel Farabee,8480797,2.5,under,0.4112,125,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Yegor Sharangovich,8481068,1.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Yegor Sharangovich,8481068,1.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matty Beniers,8482665,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matty Beniers,8482665,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matt Coronato,8482679,2.5,over,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matt Coronato,8482679,2.5,under,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Mackie Samoskevich,8482713,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Mackie Samoskevich,8482713,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Simon Nemec,8483495,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Simon Nemec,8483495,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Bobby McMann,8482259,2.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Bobby McMann,8482259,2.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matthew Wood,8484241,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matthew Wood,8484241,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Aydar Suniev,8484234,1.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Aydar Suniev,8484234,1.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Berkly Catton,8484800,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Berkly Catton,8484800,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Zayne Parekh,8484768,1.5,over,0.5575,-150,110,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Zayne Parekh,8484768,1.5,under,0.5575,-150,110,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matvei Gridin,8484860,2.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,live_asof,1531,0,Matvei Gridin,8484860,2.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Corey Perry,8470621,1.5,over,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Corey Perry,8470621,1.5,under,0.5147,-125,-110,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Drew Doughty,8474563,1.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Drew Doughty,8474563,1.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Tyler Toffoli,8475726,2.5,over,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Tyler Toffoli,8475726,2.5,under,0.3983,135,-180,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Jacob Trouba,8476885,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Jacob Trouba,8476885,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Scott Laughton,8476872,1.5,over,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Scott Laughton,8476872,1.5,under,0.4653,100,-135,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Trevor Moore,8479675,2.5,over,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Trevor Moore,8479675,2.5,under,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Adrian Kempe,8477960,3.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Adrian Kempe,8477960,3.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Artemi Panarin,8478550,2.5,over,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Artemi Panarin,8478550,2.5,under,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Mason Marchment,8478975,1.5,over,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Mason Marchment,8478975,1.5,under,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Michael Kesselring,8480891,1.5,over,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Michael Kesselring,8480891,1.5,under,0.4248,120,-160,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Kiefer Sherwood,8480748,1.5,over,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Kiefer Sherwood,8480748,1.5,under,0.5203,-125,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Quinton Byfield,8482124,2.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Quinton Byfield,8482124,2.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Alex Laferriere,8482155,2.5,over,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Alex Laferriere,8482155,2.5,under,0.5482,-145,105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Brandt Clarke,8482730,1.5,over,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Brandt Clarke,8482730,1.5,under,0.5665,-155,115,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Will Smith,8484227,2.5,over,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Will Smith,8484227,2.5,under,0.4797,-105,-125,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Macklin Celebrini,8484801,3.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Macklin Celebrini,8484801,3.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Michael Misa,8485402,1.5,over,0.3797,145,-200,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Michael Misa,8485402,1.5,under,0.3797,145,-200,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Ivar Stenberg,8486103,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Ivar Stenberg,8486103,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Mikael Backlund,8474150,2.5,over,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Mikael Backlund,8474150,2.5,under,0.4035,130,-180,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Jordan Eberle,8474586,1.5,over,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Jordan Eberle,8474586,1.5,under,0.6182,-195,145,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Ryan Strome,8476458,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Ryan Strome,8476458,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Brandon Montour,8477986,2.5,over,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Brandon Montour,8477986,2.5,under,0.4305,115,-160,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Frederick Gaudreau,8477919,1.5,over,0.4138,125,-170,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Frederick Gaudreau,8477919,1.5,under,0.4138,125,-170,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Vince Dunn,8478407,1.5,over,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Vince Dunn,8478407,1.5,under,0.5862,-170,125,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Morgan Frost,8480028,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Morgan Frost,8480028,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Joel Farabee,8480797,2.5,over,0.4112,125,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Joel Farabee,8480797,2.5,under,0.4112,125,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Yegor Sharangovich,8481068,1.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Yegor Sharangovich,8481068,1.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matty Beniers,8482665,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matty Beniers,8482665,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matt Coronato,8482679,2.5,over,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matt Coronato,8482679,2.5,under,0.4518,105,-145,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Mackie Samoskevich,8482713,1.5,over,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Mackie Samoskevich,8482713,1.5,under,0.604,-185,135,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Simon Nemec,8483495,1.5,over,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Simon Nemec,8483495,1.5,under,0.4754,-105,-130,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Bobby McMann,8482259,2.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Bobby McMann,8482259,2.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matthew Wood,8484241,1.5,over,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matthew Wood,8484241,1.5,under,0.5246,-130,-105,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Aydar Suniev,8484234,1.5,over,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Aydar Suniev,8484234,1.5,under,0.4951,-115,-120,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Berkly Catton,8484800,1.5,over,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Berkly Catton,8484800,1.5,under,0.5347,-135,100,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Zayne Parekh,8484768,1.5,over,0.5575,-150,110,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Zayne Parekh,8484768,1.5,under,0.5575,-150,110,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matvei Gridin,8484860,2.5,over,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,pass_hhmm,1531,0,Matvei Gridin,8484860,2.5,under,0.4059,130,-175,0,n/a no fliff,None
+20261104_D_1531.csv,incl_1532,1532,2,Corey Perry,8470621,1.5,over,0.5147,-125,-110,0,same-line nvf=0.500 nvd=0.515 d=-1.5,"('same', 1.5, -120, -120, 0.5, 0.5147, -0.014700000000000046)"
+20261104_D_1531.csv,incl_1532,1532,2,Corey Perry,8470621,1.5,under,0.5147,-125,-110,0,same-line nvf=0.500 nvd=0.485 d=+1.5,"('same', 1.5, -120, -120, 0.5, 0.48529999999999995, 0.014700000000000046)"
+20261104_D_1531.csv,incl_1532,1532,2,Drew Doughty,8474563,1.5,over,0.4059,130,-175,0,same-line nvf=0.399 nvd=0.406 d=-0.7,"('same', 1.5, 130, -190, 0.3988995873452545, 0.4059, -0.0070004126547454915)"
+20261104_D_1531.csv,incl_1532,1532,2,Drew Doughty,8474563,1.5,under,0.4059,130,-175,0,same-line nvf=0.601 nvd=0.594 d=+0.7,"('same', 1.5, 130, -190, 0.6011004126547455, 0.5941000000000001, 0.0070004126547453804)"
+20261104_D_1531.csv,incl_1532,1532,2,Tyler Toffoli,8475726,2.5,over,0.3983,135,-180,0,same-line nvf=0.406 nvd=0.398 d=+0.8,"('same', 2.5, 125, -185, 0.4064171122994652, 0.3983, 0.008117112299465212)"
+20261104_D_1531.csv,incl_1532,1532,2,Tyler Toffoli,8475726,2.5,under,0.3983,135,-180,0,same-line nvf=0.594 nvd=0.602 d=-0.8,"('same', 2.5, 125, -185, 0.5935828877005348, 0.6017, -0.008117112299465212)"
+20261104_D_1531.csv,incl_1532,1532,2,Jacob Trouba,8476885,1.5,over,0.4653,100,-135,0,same-line nvf=0.458 nvd=0.465 d=-0.7,"('same', 1.5, 100, -145, 0.45794392523364486, 0.4653, -0.007356074766355136)"
+20261104_D_1531.csv,incl_1532,1532,2,Jacob Trouba,8476885,1.5,under,0.4653,100,-135,0,same-line nvf=0.542 nvd=0.535 d=+0.7,"('same', 1.5, 100, -145, 0.5420560747663552, 0.5347, 0.007356074766355247)"
+20261104_D_1531.csv,incl_1532,1532,2,Scott Laughton,8476872,1.5,over,0.4653,100,-135,0,same-line nvf=0.468 nvd=0.465 d=+0.2,"('same', 1.5, -105, -140, 0.46753246753246747, 0.4653, 0.0022324675324674748)"
+20261104_D_1531.csv,incl_1532,1532,2,Scott Laughton,8476872,1.5,under,0.4653,100,-135,0,same-line nvf=0.532 nvd=0.535 d=-0.2,"('same', 1.5, -105, -140, 0.5324675324675325, 0.5347, -0.0022324675324674192)"
+20261104_D_1531.csv,incl_1532,1532,2,Trevor Moore,8479675,2.5,over,0.4248,120,-160,0,same-line nvf=0.417 nvd=0.425 d=-0.8,"('same', 2.5, 120, -175, 0.4166666666666667, 0.4248, -0.008133333333333326)"
+20261104_D_1531.csv,incl_1532,1532,2,Trevor Moore,8479675,2.5,under,0.4248,120,-160,0,same-line nvf=0.583 nvd=0.575 d=+0.8,"('same', 2.5, 120, -175, 0.5833333333333333, 0.5751999999999999, 0.008133333333333326)"
+20261104_D_1531.csv,incl_1532,1532,2,Adrian Kempe,8477960,3.5,over,0.4059,130,-175,-1,line-lean fl=2.5 dk=3.5,"('lean', 2.5, 3.5, False)"
+20261104_D_1531.csv,incl_1532,1532,2,Adrian Kempe,8477960,3.5,under,0.4059,130,-175,1,line-lean fl=2.5 dk=3.5,"('lean', 2.5, 3.5, True)"
+20261104_D_1531.csv,incl_1532,1532,2,Artemi Panarin,8478550,2.5,over,0.5862,-170,125,0,same-line nvf=0.591 nvd=0.586 d=+0.5,"('same', 2.5, -180, 125, 0.5912408759124087, 0.5862, 0.005040875912408649)"
+20261104_D_1531.csv,incl_1532,1532,2,Artemi Panarin,8478550,2.5,under,0.5862,-170,125,0,same-line nvf=0.409 nvd=0.414 d=-0.5,"('same', 2.5, -180, 125, 0.4087591240875913, 0.41379999999999995, -0.005040875912408649)"
+20261104_D_1531.csv,incl_1532,1532,2,Mason Marchment,8478975,1.5,over,0.5665,-155,115,-1,same-line nvf=0.542 nvd=0.567 d=-2.4,"('same', 1.5, -145, 100, 0.5420560747663551, 0.5665, -0.024443925233644914)"
+20261104_D_1531.csv,incl_1532,1532,2,Mason Marchment,8478975,1.5,under,0.5665,-155,115,1,same-line nvf=0.458 nvd=0.433 d=+2.4,"('same', 1.5, -145, 100, 0.4579439252336449, 0.4335, 0.024443925233644914)"
+20261104_D_1531.csv,incl_1532,1532,2,Michael Kesselring,8480891,1.5,over,0.4248,120,-160,0,same-line nvf=0.425 nvd=0.425 d=+0.0,"('same', 1.5, 115, -170, 0.4248623131392604, 0.4248, 6.231313926036153e-05)"
+20261104_D_1531.csv,incl_1532,1532,2,Michael Kesselring,8480891,1.5,under,0.4248,120,-160,0,same-line nvf=0.575 nvd=0.575 d=-0.0,"('same', 1.5, 115, -170, 0.5751376868607396, 0.5751999999999999, -6.231313926030602e-05)"
+20261104_D_1531.csv,incl_1532,1532,2,Kiefer Sherwood,8480748,1.5,over,0.5203,-125,-105,0,same-line nvf=0.529 nvd=0.520 d=+0.8,"('same', 1.5, -135, -105, 0.5286532951289399, 0.5203, 0.008353295128939897)"
+20261104_D_1531.csv,incl_1532,1532,2,Kiefer Sherwood,8480748,1.5,under,0.5203,-125,-105,0,same-line nvf=0.471 nvd=0.480 d=-0.8,"('same', 1.5, -135, -105, 0.4713467048710601, 0.4797, -0.008353295128939897)"
+20261104_D_1531.csv,incl_1532,1532,2,Quinton Byfield,8482124,2.5,over,0.4754,-105,-130,-1,same-line nvf=0.445 nvd=0.475 d=-3.0,"('same', 2.5, 105, -155, 0.4452204277608031, 0.4754, -0.030179572239196872)"
+20261104_D_1531.csv,incl_1532,1532,2,Quinton Byfield,8482124,2.5,under,0.4754,-105,-130,1,same-line nvf=0.555 nvd=0.525 d=+3.0,"('same', 2.5, 105, -155, 0.5547795722391968, 0.5246, 0.030179572239196872)"
+20261104_D_1531.csv,incl_1532,1532,2,Alex Laferriere,8482155,2.5,over,0.5482,-145,105,0,same-line nvf=0.552 nvd=0.548 d=+0.3,"('same', 2.5, -150, 105, 0.5515695067264573, 0.5482, 0.0033695067264573053)"
+20261104_D_1531.csv,incl_1532,1532,2,Alex Laferriere,8482155,2.5,under,0.5482,-145,105,0,same-line nvf=0.448 nvd=0.452 d=-0.3,"('same', 2.5, -150, 105, 0.4484304932735427, 0.4518, -0.0033695067264573053)"
+20261104_D_1531.csv,incl_1532,1532,2,Brandt Clarke,8482730,1.5,over,0.5665,-155,115,0,same-line nvf=0.552 nvd=0.567 d=-1.5,"('same', 1.5, -150, 105, 0.5515695067264573, 0.5665, -0.014930493273542678)"
+20261104_D_1531.csv,incl_1532,1532,2,Brandt Clarke,8482730,1.5,under,0.5665,-155,115,0,same-line nvf=0.448 nvd=0.433 d=+1.5,"('same', 1.5, -150, 105, 0.4484304932735427, 0.4335, 0.014930493273542678)"
+20261104_D_1531.csv,incl_1532,1532,2,Will Smith,8484227,2.5,over,0.4797,-105,-125,0,same-line nvf=0.462 nvd=0.480 d=-1.8,"('same', 2.5, 100, -140, 0.46153846153846145, 0.4797, -0.018161538461538562)"
+20261104_D_1531.csv,incl_1532,1532,2,Will Smith,8484227,2.5,under,0.4797,-105,-125,0,same-line nvf=0.538 nvd=0.520 d=+1.8,"('same', 2.5, 100, -140, 0.5384615384615385, 0.5203, 0.018161538461538562)"
+20261104_D_1531.csv,incl_1532,1532,2,Macklin Celebrini,8484801,3.5,over,0.4059,130,-175,1,same-line nvf=0.436 nvd=0.406 d=+3.0,"('same', 3.5, 110, -160, 0.43624161073825496, 0.4059, 0.030341610738254976)"
+20261104_D_1531.csv,incl_1532,1532,2,Macklin Celebrini,8484801,3.5,under,0.4059,130,-175,-1,same-line nvf=0.564 nvd=0.594 d=-3.0,"('same', 3.5, 110, -160, 0.563758389261745, 0.5941000000000001, -0.03034161073825503)"
+20261104_D_1531.csv,incl_1532,1532,2,Michael Misa,8485402,1.5,over,0.3797,145,-200,0,same-line nvf=0.383 nvd=0.380 d=+0.3,"('same', 1.5, 140, -205, 0.38268506900878296, 0.3797, 0.002985069008782981)"
+20261104_D_1531.csv,incl_1532,1532,2,Michael Misa,8485402,1.5,under,0.3797,145,-200,0,same-line nvf=0.617 nvd=0.620 d=-0.3,"('same', 1.5, 140, -205, 0.617314930991217, 0.6203000000000001, -0.0029850690087830367)"
+20261104_D_1531.csv,incl_1532,1532,2,Ivar Stenberg,8486103,1.5,over,0.4754,-105,-130,0,same-line nvf=0.471 nvd=0.475 d=-0.4,"('same', 1.5, -105, -135, 0.4713467048710602, 0.4754, -0.004053295128939816)"
+20261104_D_1531.csv,incl_1532,1532,2,Ivar Stenberg,8486103,1.5,under,0.4754,-105,-130,0,same-line nvf=0.529 nvd=0.525 d=+0.4,"('same', 1.5, -105, -135, 0.5286532951289398, 0.5246, 0.004053295128939816)"
+20261104_D_1531.csv,incl_1532,1532,2,Mikael Backlund,8474150,2.5,over,0.4035,130,-180,0,same-line nvf=0.409 nvd=0.404 d=+0.5,"('same', 2.5, 125, -180, 0.4087591240875912, 0.4035, 0.0052591240875911605)"
+20261104_D_1531.csv,incl_1532,1532,2,Mikael Backlund,8474150,2.5,under,0.4035,130,-180,0,same-line nvf=0.591 nvd=0.597 d=-0.5,"('same', 2.5, 125, -180, 0.5912408759124088, 0.5965, -0.005259124087591216)"
+20261104_D_1531.csv,incl_1532,1532,2,Jordan Eberle,8474586,1.5,over,0.6182,-195,145,1,line-lean fl=2.5 dk=1.5,"('lean', 2.5, 1.5, True)"
+20261104_D_1531.csv,incl_1532,1532,2,Jordan Eberle,8474586,1.5,under,0.6182,-195,145,-1,line-lean fl=2.5 dk=1.5,"('lean', 2.5, 1.5, False)"
+20261104_D_1531.csv,incl_1532,1532,2,Ryan Strome,8476458,1.5,over,0.4754,-105,-130,0,same-line nvf=0.481 nvd=0.475 d=+0.6,"('same', 1.5, -110, -130, 0.4809885931558936, 0.4754, 0.005588593155893606)"
+20261104_D_1531.csv,incl_1532,1532,2,Ryan Strome,8476458,1.5,under,0.4754,-105,-130,0,same-line nvf=0.519 nvd=0.525 d=-0.6,"('same', 1.5, -110, -130, 0.5190114068441064, 0.5246, -0.005588593155893551)"
+20261104_D_1531.csv,incl_1532,1532,2,Brandon Montour,8477986,2.5,over,0.4305,115,-160,0,same-line nvf=0.417 nvd=0.430 d=-1.4,"('same', 2.5, 120, -175, 0.4166666666666667, 0.4305, -0.013833333333333309)"
+20261104_D_1531.csv,incl_1532,1532,2,Brandon Montour,8477986,2.5,under,0.4305,115,-160,0,same-line nvf=0.583 nvd=0.570 d=+1.4,"('same', 2.5, 120, -175, 0.5833333333333333, 0.5695, 0.013833333333333253)"
+20261104_D_1531.csv,incl_1532,1532,2,Frederick Gaudreau,8477919,1.5,over,0.4138,125,-170,0,same-line nvf=0.425 nvd=0.414 d=+1.1,"('same', 1.5, 115, -170, 0.4248623131392604, 0.4138, 0.011062313139260371)"
+20261104_D_1531.csv,incl_1532,1532,2,Frederick Gaudreau,8477919,1.5,under,0.4138,125,-170,0,same-line nvf=0.575 nvd=0.586 d=-1.1,"('same', 1.5, 115, -170, 0.5751376868607396, 0.5862, -0.011062313139260427)"
+20261104_D_1531.csv,incl_1532,1532,2,Vince Dunn,8478407,1.5,over,0.5862,-170,125,0,same-line nvf=0.583 nvd=0.586 d=-0.3,"('same', 1.5, -175, 120, 0.5833333333333334, 0.5862, -0.002866666666666684)"
+20261104_D_1531.csv,incl_1532,1532,2,Vince Dunn,8478407,1.5,under,0.5862,-170,125,0,same-line nvf=0.417 nvd=0.414 d=+0.3,"('same', 1.5, -175, 120, 0.41666666666666663, 0.41379999999999995, 0.002866666666666684)"
+20261104_D_1531.csv,incl_1532,1532,2,Morgan Frost,8480028,1.5,over,0.5246,-130,-105,0,same-line nvf=0.529 nvd=0.525 d=+0.4,"('same', 1.5, -135, -105, 0.5286532951289399, 0.5246, 0.004053295128939927)"
+20261104_D_1531.csv,incl_1532,1532,2,Morgan Frost,8480028,1.5,under,0.5246,-130,-105,0,same-line nvf=0.471 nvd=0.475 d=-0.4,"('same', 1.5, -135, -105, 0.4713467048710601, 0.47540000000000004, -0.004053295128939927)"
+20261104_D_1531.csv,incl_1532,1532,2,Joel Farabee,8480797,2.5,over,0.4112,125,-175,0,same-line nvf=0.409 nvd=0.411 d=-0.2,"('same', 2.5, 125, -180, 0.4087591240875912, 0.4112, -0.002440875912408824)"
+20261104_D_1531.csv,incl_1532,1532,2,Joel Farabee,8480797,2.5,under,0.4112,125,-175,0,same-line nvf=0.591 nvd=0.589 d=+0.2,"('same', 2.5, 125, -180, 0.5912408759124088, 0.5888, 0.002440875912408824)"
+20261104_D_1531.csv,incl_1532,1532,2,Yegor Sharangovich,8481068,1.5,over,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.495 d=+0.5,"('same', 1.5, -120, -120, 0.5, 0.4951, 0.0049000000000000155)"
+20261104_D_1531.csv,incl_1532,1532,2,Yegor Sharangovich,8481068,1.5,under,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.505 d=-0.5,"('same', 1.5, -120, -120, 0.5, 0.5049, -0.0049000000000000155)"
+20261104_D_1531.csv,incl_1532,1532,2,Matty Beniers,8482665,1.5,over,0.5347,-135,100,0,same-line nvf=0.532 nvd=0.535 d=-0.2,"('same', 1.5, -140, -105, 0.5324675324675324, 0.5347, -0.0022324675324675303)"
+20261104_D_1531.csv,incl_1532,1532,2,Matty Beniers,8482665,1.5,under,0.5347,-135,100,0,same-line nvf=0.468 nvd=0.465 d=+0.2,"('same', 1.5, -140, -105, 0.4675324675324676, 0.46530000000000005, 0.0022324675324675303)"
+20261104_D_1531.csv,incl_1532,1532,2,Matt Coronato,8482679,2.5,over,0.4518,105,-145,0,same-line nvf=0.468 nvd=0.452 d=+1.6,"('same', 2.5, -105, -140, 0.46753246753246747, 0.4518, 0.015732467532467487)"
+20261104_D_1531.csv,incl_1532,1532,2,Matt Coronato,8482679,2.5,under,0.4518,105,-145,0,same-line nvf=0.532 nvd=0.548 d=-1.6,"('same', 2.5, -105, -140, 0.5324675324675325, 0.5482, -0.015732467532467487)"
+20261104_D_1531.csv,incl_1532,1532,2,Mackie Samoskevich,8482713,1.5,over,0.604,-185,135,0,same-line nvf=0.608 nvd=0.604 d=+0.4,"('same', 1.5, -195, 135, 0.6083637570527713, 0.604, 0.0043637570527713665)"
+20261104_D_1531.csv,incl_1532,1532,2,Mackie Samoskevich,8482713,1.5,under,0.604,-185,135,0,same-line nvf=0.392 nvd=0.396 d=-0.4,"('same', 1.5, -195, 135, 0.39163624294722865, 0.396, -0.0043637570527713665)"
+20261104_D_1531.csv,incl_1532,1532,2,Simon Nemec,8483495,1.5,over,0.4754,-105,-130,0,same-line nvf=0.491 nvd=0.475 d=+1.5,"('same', 1.5, -115, -125, 0.490521327014218, 0.4754, 0.015121327014218033)"
+20261104_D_1531.csv,incl_1532,1532,2,Simon Nemec,8483495,1.5,under,0.4754,-105,-130,0,same-line nvf=0.509 nvd=0.525 d=-1.5,"('same', 1.5, -115, -125, 0.509478672985782, 0.5246, -0.015121327014217978)"
+20261104_D_1531.csv,incl_1532,1532,2,Bobby McMann,8482259,2.5,over,0.5246,-130,-105,0,same-line nvf=0.519 nvd=0.525 d=-0.6,"('same', 2.5, -130, -110, 0.5190114068441064, 0.5246, -0.005588593155893551)"
+20261104_D_1531.csv,incl_1532,1532,2,Bobby McMann,8482259,2.5,under,0.5246,-130,-105,0,same-line nvf=0.481 nvd=0.475 d=+0.6,"('same', 2.5, -130, -110, 0.4809885931558936, 0.47540000000000004, 0.005588593155893551)"
+20261104_D_1531.csv,incl_1532,1532,2,Matthew Wood,8484241,1.5,over,0.5246,-130,-105,0,same-line nvf=0.509 nvd=0.525 d=-1.5,"('same', 1.5, -125, -115, 0.5094786729857821, 0.5246, -0.015121327014217867)"
+20261104_D_1531.csv,incl_1532,1532,2,Matthew Wood,8484241,1.5,under,0.5246,-130,-105,0,same-line nvf=0.491 nvd=0.475 d=+1.5,"('same', 1.5, -125, -115, 0.4905213270142179, 0.47540000000000004, 0.015121327014217867)"
+20261104_D_1531.csv,incl_1532,1532,2,Aydar Suniev,8484234,1.5,over,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.495 d=+0.5,"('same', 1.5, -120, -120, 0.5, 0.4951, 0.0049000000000000155)"
+20261104_D_1531.csv,incl_1532,1532,2,Aydar Suniev,8484234,1.5,under,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.505 d=-0.5,"('same', 1.5, -120, -120, 0.5, 0.5049, -0.0049000000000000155)"
+20261104_D_1531.csv,incl_1532,1532,2,Berkly Catton,8484800,1.5,over,0.5347,-135,100,0,same-line nvf=0.519 nvd=0.535 d=-1.6,"('same', 1.5, -130, -110, 0.5190114068441064, 0.5347, -0.01568859315589355)"
+20261104_D_1531.csv,incl_1532,1532,2,Berkly Catton,8484800,1.5,under,0.5347,-135,100,0,same-line nvf=0.481 nvd=0.465 d=+1.6,"('same', 1.5, -130, -110, 0.4809885931558936, 0.46530000000000005, 0.01568859315589355)"
+20261104_D_1531.csv,incl_1532,1532,2,Zayne Parekh,8484768,1.5,over,0.5575,-150,110,-1,same-line nvf=0.529 nvd=0.557 d=-2.9,"('same', 1.5, -135, -105, 0.5286532951289399, 0.5575, -0.028846704871060114)"
+20261104_D_1531.csv,incl_1532,1532,2,Zayne Parekh,8484768,1.5,under,0.5575,-150,110,1,same-line nvf=0.471 nvd=0.443 d=+2.9,"('same', 1.5, -135, -105, 0.4713467048710601, 0.4425, 0.028846704871060114)"
+20261104_D_1531.csv,incl_1532,1532,2,Matvei Gridin,8484860,2.5,over,0.4059,130,-175,0,same-line nvf=0.399 nvd=0.406 d=-0.7,"('same', 2.5, 130, -190, 0.3988995873452545, 0.4059, -0.0070004126547454915)"
+20261104_D_1531.csv,incl_1532,1532,2,Matvei Gridin,8484860,2.5,under,0.4059,130,-175,0,same-line nvf=0.601 nvd=0.594 d=+0.7,"('same', 2.5, 130, -190, 0.6011004126547455, 0.5941000000000001, 0.0070004126547453804)"
+20261104_D_1531.csv,eod,2359,2,Corey Perry,8470621,1.5,over,0.5147,-125,-110,0,same-line nvf=0.500 nvd=0.515 d=-1.5,"('same', 1.5, -120, -120, 0.5, 0.5147, -0.014700000000000046)"
+20261104_D_1531.csv,eod,2359,2,Corey Perry,8470621,1.5,under,0.5147,-125,-110,0,same-line nvf=0.500 nvd=0.485 d=+1.5,"('same', 1.5, -120, -120, 0.5, 0.48529999999999995, 0.014700000000000046)"
+20261104_D_1531.csv,eod,2359,2,Drew Doughty,8474563,1.5,over,0.4059,130,-175,0,same-line nvf=0.399 nvd=0.406 d=-0.7,"('same', 1.5, 130, -190, 0.3988995873452545, 0.4059, -0.0070004126547454915)"
+20261104_D_1531.csv,eod,2359,2,Drew Doughty,8474563,1.5,under,0.4059,130,-175,0,same-line nvf=0.601 nvd=0.594 d=+0.7,"('same', 1.5, 130, -190, 0.6011004126547455, 0.5941000000000001, 0.0070004126547453804)"
+20261104_D_1531.csv,eod,2359,2,Tyler Toffoli,8475726,2.5,over,0.3983,135,-180,0,same-line nvf=0.406 nvd=0.398 d=+0.8,"('same', 2.5, 125, -185, 0.4064171122994652, 0.3983, 0.008117112299465212)"
+20261104_D_1531.csv,eod,2359,2,Tyler Toffoli,8475726,2.5,under,0.3983,135,-180,0,same-line nvf=0.594 nvd=0.602 d=-0.8,"('same', 2.5, 125, -185, 0.5935828877005348, 0.6017, -0.008117112299465212)"
+20261104_D_1531.csv,eod,2359,2,Jacob Trouba,8476885,1.5,over,0.4653,100,-135,0,same-line nvf=0.458 nvd=0.465 d=-0.7,"('same', 1.5, 100, -145, 0.45794392523364486, 0.4653, -0.007356074766355136)"
+20261104_D_1531.csv,eod,2359,2,Jacob Trouba,8476885,1.5,under,0.4653,100,-135,0,same-line nvf=0.542 nvd=0.535 d=+0.7,"('same', 1.5, 100, -145, 0.5420560747663552, 0.5347, 0.007356074766355247)"
+20261104_D_1531.csv,eod,2359,2,Scott Laughton,8476872,1.5,over,0.4653,100,-135,0,same-line nvf=0.468 nvd=0.465 d=+0.2,"('same', 1.5, -105, -140, 0.46753246753246747, 0.4653, 0.0022324675324674748)"
+20261104_D_1531.csv,eod,2359,2,Scott Laughton,8476872,1.5,under,0.4653,100,-135,0,same-line nvf=0.532 nvd=0.535 d=-0.2,"('same', 1.5, -105, -140, 0.5324675324675325, 0.5347, -0.0022324675324674192)"
+20261104_D_1531.csv,eod,2359,2,Trevor Moore,8479675,2.5,over,0.4248,120,-160,0,same-line nvf=0.417 nvd=0.425 d=-0.8,"('same', 2.5, 120, -175, 0.4166666666666667, 0.4248, -0.008133333333333326)"
+20261104_D_1531.csv,eod,2359,2,Trevor Moore,8479675,2.5,under,0.4248,120,-160,0,same-line nvf=0.583 nvd=0.575 d=+0.8,"('same', 2.5, 120, -175, 0.5833333333333333, 0.5751999999999999, 0.008133333333333326)"
+20261104_D_1531.csv,eod,2359,2,Adrian Kempe,8477960,3.5,over,0.4059,130,-175,-1,line-lean fl=2.5 dk=3.5,"('lean', 2.5, 3.5, False)"
+20261104_D_1531.csv,eod,2359,2,Adrian Kempe,8477960,3.5,under,0.4059,130,-175,1,line-lean fl=2.5 dk=3.5,"('lean', 2.5, 3.5, True)"
+20261104_D_1531.csv,eod,2359,2,Artemi Panarin,8478550,2.5,over,0.5862,-170,125,0,same-line nvf=0.591 nvd=0.586 d=+0.5,"('same', 2.5, -180, 125, 0.5912408759124087, 0.5862, 0.005040875912408649)"
+20261104_D_1531.csv,eod,2359,2,Artemi Panarin,8478550,2.5,under,0.5862,-170,125,0,same-line nvf=0.409 nvd=0.414 d=-0.5,"('same', 2.5, -180, 125, 0.4087591240875913, 0.41379999999999995, -0.005040875912408649)"
+20261104_D_1531.csv,eod,2359,2,Mason Marchment,8478975,1.5,over,0.5665,-155,115,-1,same-line nvf=0.542 nvd=0.567 d=-2.4,"('same', 1.5, -145, 100, 0.5420560747663551, 0.5665, -0.024443925233644914)"
+20261104_D_1531.csv,eod,2359,2,Mason Marchment,8478975,1.5,under,0.5665,-155,115,1,same-line nvf=0.458 nvd=0.433 d=+2.4,"('same', 1.5, -145, 100, 0.4579439252336449, 0.4335, 0.024443925233644914)"
+20261104_D_1531.csv,eod,2359,2,Michael Kesselring,8480891,1.5,over,0.4248,120,-160,0,same-line nvf=0.425 nvd=0.425 d=+0.0,"('same', 1.5, 115, -170, 0.4248623131392604, 0.4248, 6.231313926036153e-05)"
+20261104_D_1531.csv,eod,2359,2,Michael Kesselring,8480891,1.5,under,0.4248,120,-160,0,same-line nvf=0.575 nvd=0.575 d=-0.0,"('same', 1.5, 115, -170, 0.5751376868607396, 0.5751999999999999, -6.231313926030602e-05)"
+20261104_D_1531.csv,eod,2359,2,Kiefer Sherwood,8480748,1.5,over,0.5203,-125,-105,0,same-line nvf=0.529 nvd=0.520 d=+0.8,"('same', 1.5, -135, -105, 0.5286532951289399, 0.5203, 0.008353295128939897)"
+20261104_D_1531.csv,eod,2359,2,Kiefer Sherwood,8480748,1.5,under,0.5203,-125,-105,0,same-line nvf=0.471 nvd=0.480 d=-0.8,"('same', 1.5, -135, -105, 0.4713467048710601, 0.4797, -0.008353295128939897)"
+20261104_D_1531.csv,eod,2359,2,Quinton Byfield,8482124,2.5,over,0.4754,-105,-130,-1,same-line nvf=0.445 nvd=0.475 d=-3.0,"('same', 2.5, 105, -155, 0.4452204277608031, 0.4754, -0.030179572239196872)"
+20261104_D_1531.csv,eod,2359,2,Quinton Byfield,8482124,2.5,under,0.4754,-105,-130,1,same-line nvf=0.555 nvd=0.525 d=+3.0,"('same', 2.5, 105, -155, 0.5547795722391968, 0.5246, 0.030179572239196872)"
+20261104_D_1531.csv,eod,2359,2,Alex Laferriere,8482155,2.5,over,0.5482,-145,105,0,same-line nvf=0.552 nvd=0.548 d=+0.3,"('same', 2.5, -150, 105, 0.5515695067264573, 0.5482, 0.0033695067264573053)"
+20261104_D_1531.csv,eod,2359,2,Alex Laferriere,8482155,2.5,under,0.5482,-145,105,0,same-line nvf=0.448 nvd=0.452 d=-0.3,"('same', 2.5, -150, 105, 0.4484304932735427, 0.4518, -0.0033695067264573053)"
+20261104_D_1531.csv,eod,2359,2,Brandt Clarke,8482730,1.5,over,0.5665,-155,115,0,same-line nvf=0.552 nvd=0.567 d=-1.5,"('same', 1.5, -150, 105, 0.5515695067264573, 0.5665, -0.014930493273542678)"
+20261104_D_1531.csv,eod,2359,2,Brandt Clarke,8482730,1.5,under,0.5665,-155,115,0,same-line nvf=0.448 nvd=0.433 d=+1.5,"('same', 1.5, -150, 105, 0.4484304932735427, 0.4335, 0.014930493273542678)"
+20261104_D_1531.csv,eod,2359,2,Will Smith,8484227,2.5,over,0.4797,-105,-125,0,same-line nvf=0.462 nvd=0.480 d=-1.8,"('same', 2.5, 100, -140, 0.46153846153846145, 0.4797, -0.018161538461538562)"
+20261104_D_1531.csv,eod,2359,2,Will Smith,8484227,2.5,under,0.4797,-105,-125,0,same-line nvf=0.538 nvd=0.520 d=+1.8,"('same', 2.5, 100, -140, 0.5384615384615385, 0.5203, 0.018161538461538562)"
+20261104_D_1531.csv,eod,2359,2,Macklin Celebrini,8484801,3.5,over,0.4059,130,-175,1,same-line nvf=0.436 nvd=0.406 d=+3.0,"('same', 3.5, 110, -160, 0.43624161073825496, 0.4059, 0.030341610738254976)"
+20261104_D_1531.csv,eod,2359,2,Macklin Celebrini,8484801,3.5,under,0.4059,130,-175,-1,same-line nvf=0.564 nvd=0.594 d=-3.0,"('same', 3.5, 110, -160, 0.563758389261745, 0.5941000000000001, -0.03034161073825503)"
+20261104_D_1531.csv,eod,2359,2,Michael Misa,8485402,1.5,over,0.3797,145,-200,0,same-line nvf=0.383 nvd=0.380 d=+0.3,"('same', 1.5, 140, -205, 0.38268506900878296, 0.3797, 0.002985069008782981)"
+20261104_D_1531.csv,eod,2359,2,Michael Misa,8485402,1.5,under,0.3797,145,-200,0,same-line nvf=0.617 nvd=0.620 d=-0.3,"('same', 1.5, 140, -205, 0.617314930991217, 0.6203000000000001, -0.0029850690087830367)"
+20261104_D_1531.csv,eod,2359,2,Ivar Stenberg,8486103,1.5,over,0.4754,-105,-130,0,same-line nvf=0.471 nvd=0.475 d=-0.4,"('same', 1.5, -105, -135, 0.4713467048710602, 0.4754, -0.004053295128939816)"
+20261104_D_1531.csv,eod,2359,2,Ivar Stenberg,8486103,1.5,under,0.4754,-105,-130,0,same-line nvf=0.529 nvd=0.525 d=+0.4,"('same', 1.5, -105, -135, 0.5286532951289398, 0.5246, 0.004053295128939816)"
+20261104_D_1531.csv,eod,2359,2,Mikael Backlund,8474150,2.5,over,0.4035,130,-180,0,same-line nvf=0.409 nvd=0.404 d=+0.5,"('same', 2.5, 125, -180, 0.4087591240875912, 0.4035, 0.0052591240875911605)"
+20261104_D_1531.csv,eod,2359,2,Mikael Backlund,8474150,2.5,under,0.4035,130,-180,0,same-line nvf=0.591 nvd=0.597 d=-0.5,"('same', 2.5, 125, -180, 0.5912408759124088, 0.5965, -0.005259124087591216)"
+20261104_D_1531.csv,eod,2359,2,Jordan Eberle,8474586,1.5,over,0.6182,-195,145,1,line-lean fl=2.5 dk=1.5,"('lean', 2.5, 1.5, True)"
+20261104_D_1531.csv,eod,2359,2,Jordan Eberle,8474586,1.5,under,0.6182,-195,145,-1,line-lean fl=2.5 dk=1.5,"('lean', 2.5, 1.5, False)"
+20261104_D_1531.csv,eod,2359,2,Ryan Strome,8476458,1.5,over,0.4754,-105,-130,0,same-line nvf=0.481 nvd=0.475 d=+0.6,"('same', 1.5, -110, -130, 0.4809885931558936, 0.4754, 0.005588593155893606)"
+20261104_D_1531.csv,eod,2359,2,Ryan Strome,8476458,1.5,under,0.4754,-105,-130,0,same-line nvf=0.519 nvd=0.525 d=-0.6,"('same', 1.5, -110, -130, 0.5190114068441064, 0.5246, -0.005588593155893551)"
+20261104_D_1531.csv,eod,2359,2,Brandon Montour,8477986,2.5,over,0.4305,115,-160,0,same-line nvf=0.417 nvd=0.430 d=-1.4,"('same', 2.5, 120, -175, 0.4166666666666667, 0.4305, -0.013833333333333309)"
+20261104_D_1531.csv,eod,2359,2,Brandon Montour,8477986,2.5,under,0.4305,115,-160,0,same-line nvf=0.583 nvd=0.570 d=+1.4,"('same', 2.5, 120, -175, 0.5833333333333333, 0.5695, 0.013833333333333253)"
+20261104_D_1531.csv,eod,2359,2,Frederick Gaudreau,8477919,1.5,over,0.4138,125,-170,0,same-line nvf=0.425 nvd=0.414 d=+1.1,"('same', 1.5, 115, -170, 0.4248623131392604, 0.4138, 0.011062313139260371)"
+20261104_D_1531.csv,eod,2359,2,Frederick Gaudreau,8477919,1.5,under,0.4138,125,-170,0,same-line nvf=0.575 nvd=0.586 d=-1.1,"('same', 1.5, 115, -170, 0.5751376868607396, 0.5862, -0.011062313139260427)"
+20261104_D_1531.csv,eod,2359,2,Vince Dunn,8478407,1.5,over,0.5862,-170,125,0,same-line nvf=0.583 nvd=0.586 d=-0.3,"('same', 1.5, -175, 120, 0.5833333333333334, 0.5862, -0.002866666666666684)"
+20261104_D_1531.csv,eod,2359,2,Vince Dunn,8478407,1.5,under,0.5862,-170,125,0,same-line nvf=0.417 nvd=0.414 d=+0.3,"('same', 1.5, -175, 120, 0.41666666666666663, 0.41379999999999995, 0.002866666666666684)"
+20261104_D_1531.csv,eod,2359,2,Morgan Frost,8480028,1.5,over,0.5246,-130,-105,0,same-line nvf=0.529 nvd=0.525 d=+0.4,"('same', 1.5, -135, -105, 0.5286532951289399, 0.5246, 0.004053295128939927)"
+20261104_D_1531.csv,eod,2359,2,Morgan Frost,8480028,1.5,under,0.5246,-130,-105,0,same-line nvf=0.471 nvd=0.475 d=-0.4,"('same', 1.5, -135, -105, 0.4713467048710601, 0.47540000000000004, -0.004053295128939927)"
+20261104_D_1531.csv,eod,2359,2,Joel Farabee,8480797,2.5,over,0.4112,125,-175,0,same-line nvf=0.409 nvd=0.411 d=-0.2,"('same', 2.5, 125, -180, 0.4087591240875912, 0.4112, -0.002440875912408824)"
+20261104_D_1531.csv,eod,2359,2,Joel Farabee,8480797,2.5,under,0.4112,125,-175,0,same-line nvf=0.591 nvd=0.589 d=+0.2,"('same', 2.5, 125, -180, 0.5912408759124088, 0.5888, 0.002440875912408824)"
+20261104_D_1531.csv,eod,2359,2,Yegor Sharangovich,8481068,1.5,over,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.495 d=+0.5,"('same', 1.5, -120, -120, 0.5, 0.4951, 0.0049000000000000155)"
+20261104_D_1531.csv,eod,2359,2,Yegor Sharangovich,8481068,1.5,under,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.505 d=-0.5,"('same', 1.5, -120, -120, 0.5, 0.5049, -0.0049000000000000155)"
+20261104_D_1531.csv,eod,2359,2,Matty Beniers,8482665,1.5,over,0.5347,-135,100,0,same-line nvf=0.532 nvd=0.535 d=-0.2,"('same', 1.5, -140, -105, 0.5324675324675324, 0.5347, -0.0022324675324675303)"
+20261104_D_1531.csv,eod,2359,2,Matty Beniers,8482665,1.5,under,0.5347,-135,100,0,same-line nvf=0.468 nvd=0.465 d=+0.2,"('same', 1.5, -140, -105, 0.4675324675324676, 0.46530000000000005, 0.0022324675324675303)"
+20261104_D_1531.csv,eod,2359,2,Matt Coronato,8482679,2.5,over,0.4518,105,-145,0,same-line nvf=0.468 nvd=0.452 d=+1.6,"('same', 2.5, -105, -140, 0.46753246753246747, 0.4518, 0.015732467532467487)"
+20261104_D_1531.csv,eod,2359,2,Matt Coronato,8482679,2.5,under,0.4518,105,-145,0,same-line nvf=0.532 nvd=0.548 d=-1.6,"('same', 2.5, -105, -140, 0.5324675324675325, 0.5482, -0.015732467532467487)"
+20261104_D_1531.csv,eod,2359,2,Mackie Samoskevich,8482713,1.5,over,0.604,-185,135,0,same-line nvf=0.608 nvd=0.604 d=+0.4,"('same', 1.5, -195, 135, 0.6083637570527713, 0.604, 0.0043637570527713665)"
+20261104_D_1531.csv,eod,2359,2,Mackie Samoskevich,8482713,1.5,under,0.604,-185,135,0,same-line nvf=0.392 nvd=0.396 d=-0.4,"('same', 1.5, -195, 135, 0.39163624294722865, 0.396, -0.0043637570527713665)"
+20261104_D_1531.csv,eod,2359,2,Simon Nemec,8483495,1.5,over,0.4754,-105,-130,0,same-line nvf=0.491 nvd=0.475 d=+1.5,"('same', 1.5, -115, -125, 0.490521327014218, 0.4754, 0.015121327014218033)"
+20261104_D_1531.csv,eod,2359,2,Simon Nemec,8483495,1.5,under,0.4754,-105,-130,0,same-line nvf=0.509 nvd=0.525 d=-1.5,"('same', 1.5, -115, -125, 0.509478672985782, 0.5246, -0.015121327014217978)"
+20261104_D_1531.csv,eod,2359,2,Bobby McMann,8482259,2.5,over,0.5246,-130,-105,0,same-line nvf=0.519 nvd=0.525 d=-0.6,"('same', 2.5, -130, -110, 0.5190114068441064, 0.5246, -0.005588593155893551)"
+20261104_D_1531.csv,eod,2359,2,Bobby McMann,8482259,2.5,under,0.5246,-130,-105,0,same-line nvf=0.481 nvd=0.475 d=+0.6,"('same', 2.5, -130, -110, 0.4809885931558936, 0.47540000000000004, 0.005588593155893551)"
+20261104_D_1531.csv,eod,2359,2,Matthew Wood,8484241,1.5,over,0.5246,-130,-105,0,same-line nvf=0.509 nvd=0.525 d=-1.5,"('same', 1.5, -125, -115, 0.5094786729857821, 0.5246, -0.015121327014217867)"
+20261104_D_1531.csv,eod,2359,2,Matthew Wood,8484241,1.5,under,0.5246,-130,-105,0,same-line nvf=0.491 nvd=0.475 d=+1.5,"('same', 1.5, -125, -115, 0.4905213270142179, 0.47540000000000004, 0.015121327014217867)"
+20261104_D_1531.csv,eod,2359,2,Aydar Suniev,8484234,1.5,over,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.495 d=+0.5,"('same', 1.5, -120, -120, 0.5, 0.4951, 0.0049000000000000155)"
+20261104_D_1531.csv,eod,2359,2,Aydar Suniev,8484234,1.5,under,0.4951,-115,-120,0,same-line nvf=0.500 nvd=0.505 d=-0.5,"('same', 1.5, -120, -120, 0.5, 0.5049, -0.0049000000000000155)"
+20261104_D_1531.csv,eod,2359,2,Berkly Catton,8484800,1.5,over,0.5347,-135,100,0,same-line nvf=0.519 nvd=0.535 d=-1.6,"('same', 1.5, -130, -110, 0.5190114068441064, 0.5347, -0.01568859315589355)"
+20261104_D_1531.csv,eod,2359,2,Berkly Catton,8484800,1.5,under,0.5347,-135,100,0,same-line nvf=0.481 nvd=0.465 d=+1.6,"('same', 1.5, -130, -110, 0.4809885931558936, 0.46530000000000005, 0.01568859315589355)"
+20261104_D_1531.csv,eod,2359,2,Zayne Parekh,8484768,1.5,over,0.5575,-150,110,-1,same-line nvf=0.529 nvd=0.557 d=-2.9,"('same', 1.5, -135, -105, 0.5286532951289399, 0.5575, -0.028846704871060114)"
+20261104_D_1531.csv,eod,2359,2,Zayne Parekh,8484768,1.5,under,0.5575,-150,110,1,same-line nvf=0.471 nvd=0.443 d=+2.9,"('same', 1.5, -135, -105, 0.4713467048710601, 0.4425, 0.028846704871060114)"
+20261104_D_1531.csv,eod,2359,2,Matvei Gridin,8484860,2.5,over,0.4059,130,-175,0,same-line nvf=0.399 nvd=0.406 d=-0.7,"('same', 2.5, 130, -190, 0.3988995873452545, 0.4059, -0.0070004126547454915)"
+20261104_D_1531.csv,eod,2359,2,Matvei Gridin,8484860,2.5,under,0.4059,130,-175,0,same-line nvf=0.601 nvd=0.594 d=+0.7,"('same', 2.5, 130, -190, 0.6011004126547455, 0.5941000000000001, 0.0070004126547453804)"

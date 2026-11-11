@@ -1,0 +1,28 @@
+season,week,event_id,game_id,player_id,player_name,market,line_D,line_C,void_reason,void_detail,stage
+2026,5,401872980,2026_05_TB_DAL,00-0033077,Dak Prescott,pass_yds,263.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0041251,Jalon Daniels,pass_yds,179.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0033077,Dak Prescott,rush_yds,9.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0036997,Javonte Williams,rush_yds,72.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0036919,Kenny Gainwell,rush_yds,10.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0037120,Tyler Goodson,rush_yds,17.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0039361,Bucky Irving,rush_yds,57.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0041251,Jalon Daniels,rush_yds,43.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0033921,Chris Godwin Jr.,rec_yds,27.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0036358,CeeDee Lamb,rec_yds,79.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0038041,Jake Ferguson,rec_yds,26.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0038129,Cade Otton,rec_yds,28.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0036997,Javonte Williams,rec_yds,16.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0036919,Kenny Gainwell,rec_yds,9.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0037247,George Pickens,rec_yds,59.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0040129,Emeka Egbuka,rec_yds,31.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0039361,Bucky Irving,rec_yds,13.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0040237,Tez Johnson,rec_yds,10.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0039410,Ryan Flournoy,rec_yds,30.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872980,2026_05_TB_DAL,00-0041048,Ted Hurst III,rec_yds,22.5,,no pregame prediction file created before kickoff,,track
+2026,5,401872981,2026_05_PHI_JAX,00-0037258,Dameon Pierce,rush_yds,22.5,23.5,no player row: player's last team (KC) is not in this game,,pregame
+2026,5,401872987,2026_05_MIN_NO,00-0033293,Aaron Jones,rush_yds,71.5,,pulled_before_close,pulled between 2026-10-11T08:39:44-07:00 (last seen) and 2026-10-11T08:49:47-07:00 (first missing),track
+2026,5,401872987,2026_05_MIN_NO,00-0038994,Jordan Addison,rec_yds,40.5,,pulled_before_close,pulled between 2026-10-11T07:07:09-07:00 (last seen) and 2026-10-11T07:55:58-07:00 (first missing),track
+2026,5,401872989,2026_05_DEN_LAC,00-0040730,RJ Harvey,rec_yds,27.5,,pulled_before_close,pulled between 2026-10-11T12:43:46-07:00 (last seen) and 2026-10-11T12:59:25-07:00 (first missing),track
+2026,5,401872991,2026_05_DET_ARI,00-0041027,Jeremiyah Love,rush_yds,45.5,,pulled_before_close,pulled between 2026-10-11T11:15:45-07:00 (last seen) and 2026-10-11T11:52:32-07:00 (first missing),track
+2026,5,401872993,2026_05_BAL_ATL,00-0039064,Zay Flowers,rec_yds,67.5,,pulled_before_close,pulled between 2026-10-11T17:08:50-07:00 (last seen) and 2026-10-11T17:13:01-07:00 (first missing),track
+2026,5,401872994,2026_05_BUF_LA,00-0034857,Josh Allen,pass_yds,244.5,,pulled_before_close,pulled between 2026-10-12T15:25:53-07:00 (last seen) and 2026-10-12T16:05:05-07:00 (first missing),track

@@ -1,0 +1,76 @@
+list,player,side,decision,source,note
+20261017_1618,Bryan Rust,UNDER,skip,crosscheck/tester3_calls.csv,tester skip 16:19
+20261017_1618,Connor McDavid,UNDER,skip,crosscheck/tester3_calls.csv,tester skip 16:19
+20261018_1358,Nikolaj Ehlers,UNDER,skip,crosscheck/tester3_calls.csv,tester skip; user still bet it on Fliff x2
+20261018_1224,Maxim Shabanov,UNDER,card,crosscheck/tester3_calls.csv,conditional; paired with Knies split stake
+20261019_1247,Beckett Sennecke,UNDER,skip,Yinzer FINAL CALL 12:47,
+20261019_1247,Artturi Lehkonen,UNDER,skip,Yinzer FINAL CALL 12:47,
+20261019_1319,Nick Paul,UNDER,skip,room Oct 19 1:20 PM (no bets),
+20261019_1518,Rickard Rakell,UNDER,skip,Yinzer FINAL CALL 3:12,
+20261020_1305,Kirill Marchenko,UNDER,skip,Yinzer FINAL CALL 1:03,
+20261020_1305,Morgan Rielly,UNDER,skip,Yinzer FINAL CALL 1:03,
+20261020_1305,Jackson LaCombe,UNDER,skip,Yinzer FINAL CALL 1:03,
+20261020_1305,Tony DeAngelo,UNDER,skip,Yinzer FINAL CALL 1:03,on hold pending lineup; never confirmed -> skip
+20261020_1406,Charlie McAvoy,UNDER,skip,Yinzer FINAL CALL 2:05,
+20261020_1406,Wyatt Johnston,UNDER,skip,Yinzer FINAL CALL 2:05,
+20261020_1406,Jimmy Snuggerud,OVER,skip,Yinzer FINAL CALL 2:05,
+20261020_1508,Alex Formenton,UNDER,skip,Yinzer FINAL CALL 3:08,
+20261020_1508,Kasperi Kapanen,UNDER,skip,Yinzer FINAL CALL 3:08,
+20261020_1508,Kirill Kaprizov,UNDER,skip,Yinzer FINAL CALL 3:08,
+20261020_1513,Mackie Samoskevich,UNDER,skip,Yinzer FINAL CALL 3:12,
+20261020_1513,Vince Dunn,UNDER,skip,Yinzer FINAL CALL 3:12,
+20261024_1307,Mattias Samuelsson,UNDER,skip,room Oct 24 (Tester1/Yinzer),
+20261024_1307,Darren Raddysh,UNDER,skip,room Oct 24 (Tester1/Yinzer),
+20261024_1512,Barrett Hayton,UNDER,skip,Yinzer FINAL CALL 3:12 NO BETS,
+20261024_1609,Matt Coronato,UNDER,skip,Yinzer FINAL CALL 4:09,
+20261024_1609,Vince Dunn,UNDER,skip,Yinzer FINAL CALL 4:09,
+20261025_*,*,*,skip,room NO BETS cards Oct 25,Schenn 12:02 was card-conditional (Fliff +109 only; never reached) -> skip
+20261026_1311,Trevor Moore,OVER,skip,Yinzer FINAL CALL 1:31,Tester1 skip unopposed (overs 5+ edge 47% in audit; market -1.8; TOI down)
+20261026_1311,Alex Laferriere,UNDER,skip,Yinzer FINAL CALL 1:31,Tester2 TOI-up/PP1 veto on under (Kantserov/Heiskanen precedent); Tester1 flagged thin
+20261026_1438,Darren Raddysh,UNDER,skip,Yinzer FINAL CALL 3:01,Tester2 NO BETS; priced worse than -107 shop-at; 3 of 7 passes gate (skip is <=2) but leans on 2.9-pt move
+20261026_1516,Kasperi Kapanen,UNDER,skip,Yinzer FINAL CALL 3:40,"Tester2+Tester3 skip (TOI up 1.7 min; case-by-case, not a coded rule); also priced worse than +105 shop-at"
+20261027_0924,,,no_bets,Yinzer FINAL CALL 9:45,No DK SOG lines posted for any of 11 games
+20261027_1305,Alex Bump,UNDER,skip,Yinzer FINAL CALL 1:31,No clear from both assigned checkers (Tester1+Tester2) by final call; Fliff not posted; DK -105 worse than +107 shop-at
+20261027_1305,Travis Sanheim,OVER,skip,Yinzer FINAL CALL 1:31,No clear from both assigned checkers by final call; Fliff not posted; DK +110 worse than +124 shop-at
+20261027_1305,Christian Dvorak,UNDER,skip,Yinzer FINAL CALL 1:31,No clear from both assigned checkers by final call; Fliff not posted; DK -120 worse than -105 shop-at; TOI up 1.5
+20261027_1305,Zach Werenski,UNDER,skip,Yinzer FINAL CALL 1:31,Stale lineup (CBJ DailyFaceoff ~27h old; >12h rule); no objection
+20261027_1339,Logan Stankoven,OVER,skip,Yinzer FINAL CALL 1:53,Tester3 matches; Tester2 matches (late); DK +110 and Fliff +105 worse than +125 shop-at
+20261027_1339,Mark Scheifele,OVER,hold_prizepicks,Yinzer 2:34 update,PrizePicks needs 2 legs - pass unless another cleared side or a no-deposit promo leg pairs before 5:00 PM PT; Tester2+Tester3 both clear; PrizePicks power2/3 and flex3-6 only; DK -170 worse than -143 shop-at; Fliff not posted
+20261027_1339,Timo Meier,OVER,skip,Yinzer FINAL CALL 1:53,Stale NJD lineup (~29h; >12h rule); Tester3 confirmed
+20261027_1339,Jesper Bratt,OVER,skip,Yinzer FINAL CALL 1:53,Stale NJD lineup (~29h; >12h rule); Tester3 confirmed
+20261027_1339,Jack Hughes,OVER,skip,Yinzer FINAL CALL 1:53,Stale NJD lineup (~29h; >12h rule); Tester3 confirmed
+20261027_1432,Dylan Guenther,UNDER,skip,Yinzer FINAL CALL 2:47,Checkers split (Tester3 skip on 16-pt no-vig move vs us; Tester1 clear) - split means skip; DK +120 worse than +133; Fliff not posted
+20261027_1432,Blake Coleman,OVER,skip,Yinzer FINAL CALL 2:47,Stale MIN lineup (~31h; >12h rule); both checkers confirmed
+20261027_1533,ALL,,no_bets,Yinzer FINAL CALL 3:58,No +EV DK side; Hertl/LaCombe/Gauthier worse than shop-at; checkers T1+T2 matched; both flag LaCombe/Gauthier rising TOI
+20261027_1533,Jake DeBrusk,UNDER,skip,Yinzer FINAL CALL 3:58,Stale VAN lineup ~28h; both checkers confirmed
+20261027_1533,Drew O'Connor,UNDER,skip,Yinzer FINAL CALL 3:58,Stale VAN lineup ~28h; both checkers confirmed
+20261027_1609,Jack Quinn,UNDER,no_bets,Yinzer FINAL CALL 4:30,No +EV DK side; Quinn worse than +109 shop-at; checkers T2+T3 matched and would skip on rising TOI
+20261028_1304,Travis Sanheim,OVER,no_bets,Yinzer FINAL CALL 1:26,Worse than +129 shop-at; skip even at price (T1 over-bias skip; checker split)
+20261028_1304,Trevor Zegras,OVER,no_bets,Yinzer FINAL CALL 1:26,Worse than -107 shop-at; skip even at price (T1 over-bias skip; checker split)
+20261028_1304,Aliaksei Protas,UNDER,no_bets,Yinzer FINAL CALL 1:26,Worse than -103 shop-at; cleared by T1+T3 if it reaches price
+20261028_1509,Sam Malinski,UNDER,no_bets,Yinzer FINAL CALL 3:30,Worse than -121 shop-at (DK/Fliff -140); T1+T2 matched and would clear at price; CGY@EDM missed (box suspended)
+20261028_1535,William Nylander,OVER,no_bets,Yinzer FINAL CALL 4:00,Worse than +101 shop-at; skip even at price (T2+T3 falling TOI on over)
+20261028_1535,Darren Raddysh,UNDER,no_bets,Yinzer FINAL CALL 4:00,Worse than -112 shop-at; T2+T3 clear at price
+20261029_1233,NO BETS,all 5 Fliff checks skip even at price (Guenther both checkers skip; Goncalves/Weegar/Ehlers/Aho T3/T1 split)
+
+20261024_0922,Jesper Bratt,OVER,card,"picks/finalcall_done/20261024_0922.txt (FINAL CALL drafted 9:42 AM, card text in chat only) + NOTES.md:164-165 user bet DK/Fliff","added 2026-10-31: inferred play from marker + user bets (DK 10:02 AM, Fliff); card text not on box"
+20261024_0922,Alex Laferriere,UNDER,card,"picks/finalcall_done/20261024_0922.txt (FINAL CALL drafted 9:42 AM, card text in chat only) + NOTES.md:164-165 user bet DK/Fliff","added 2026-10-31: inferred play from marker + user bets (DK, Fliff); card text not on box"
+20261031_1009,NO BETS,,no_bets,"Yinzer FINAL CALL 10:27; Tester1 single check matches"
+20261031_1232,NO BETS,,no_bets,"Yinzer FINAL CALL 12:57; Tester2 single check matches"
+20261031_1232,Alex Newhook,UNDER,skip,"stale lineup MTL ~29.5h; DK -120 worse than shop-at -105"
+20261031_1232,Morgan Rielly,UNDER,skip,"stale lineup TOR ~24h; DK -115 worse than shop-at +101"
+20261031_1232,Darren Raddysh,UNDER,skip,"stale lineup TOR ~24h; DK -135 worse than shop-at -116"
+20261031_1332,NO BETS,,no_bets,"Yinzer FINAL CALL 1:53; Tester1 single check (NO BETS holds, corrections noted)"
+20261031_1332,Matthew Knies,UNDER,skip,Yinzer FINAL CALL 1:53,"thin edge (model +5.4 pts, recent +0.4 pts vs no-vig); corrected Nov 1 per Tester1"
+20261031_1537,NO BETS,,no_bets,"Yinzer FINAL CALL 3:57; Tester2 single check matches"
+20261031_1537,Brock Nelson,OVER,skip,"Fliff-check side; no Fliff market, DK -160 worse than shop-at -134"
+20261031_1537,Mikael Backlund,OVER,skip,"Fliff-check side; no Fliff market, DK -145 worse than shop-at -126"
+20261101_0908,NONE,NONE,no_bets,Yinzer FINAL CALL 9:24,"0 positive DK sides (best Chychrun U2.5 -5.4%); Ovechkin O1.5 skipped by recent-form/thin-edge; lineups ~24h; Tester1 single check matches"
+20261101_0933,NONE,NONE,no_bets,Yinzer FINAL CALL 9:53,"0 positive DK sides; 5 Fliff-check sides skipped (no Fliff market, lineups PHI ~24.5h UTA ~51h); Tester2 single check matches"
+20261101_1137,ALL,NONE,no bets,Yinzer FINAL CALL 11:54,"EDM@NYR: no +EV at DK; Podkolzin U1.5 and Dorofeyev U2.5 skipped (price worse than shop-at; Dorofeyev also stale NYR lineup)"
+20261101_1156_nfl,ALL,NONE,no_bets,Yinzer FINAL CALL 12:16,"0 of 202 DK/Fliff sides passed v2; best Vidal U7.5 DK -104 EV -1.92% outside model; no late PP legs evaluated; 23 shadow sides logged"
+20261101_1334,ALL,NONE,no bets,Yinzer FINAL CALL 1:57,"OTT@ANA: no +EV at DK; LaCombe U1.5 and Sennecke U2.5 skipped (DK worse than shop-at, Fliff not posted, stale ANA lineup); Tester2 matches"
+20261101_1614_nfl,ALL,NONE,no_bets,Yinzer FINAL CALL 4:30,"PHI@WSH: 0 of 58 DK/Fliff sides passed v2; best D.Brown U12.5 DK -108 EV -3.70% outside model; no SNF PP legs evaluated; 10 shadow unders logged; Tester1 matches"
+20261102_1232,ALL,NONE,no bets,Yinzer FINAL CALL 12:46,"VGK@BOS+DET@FLA: no +EV at DK (28 lines); Hertl U2.5/Arvidsson U2.5/Bennett O1.5 skipped (DK worse than shop-at, Fliff not posted in feed); Faulk U1.5 2-of-7; no tester objections"
+20261102_1337,ALL,NONE,no bets,Yinzer FINAL CALL 2:00,"COL@CHI: no +EV at DK (17 lines, best -5.5%); MacKinnon U3.5/Frondell O1.5/Schwartz U1.5 skipped (DK worse than shop-at, Fliff not posted in feed); Malinski U1.5 2-of-7; no tester objections"
+20261102_1438,ALL,NONE,no bets,Yinzer FINAL CALL 3:01,"CGY@SJS: no +EV at DK (20 lines, best -5.8%); Coronato U2.5/Nemec U1.5 skipped (Fliff and DK worse than shop-at); no tester objections"

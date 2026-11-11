@@ -1,0 +1,14 @@
+{
+ "n_pregame_rows": 416,
+ "n_played_rows": 356,
+ "n_matched": 330,
+ "played_rows_not_candidates": 26,
+ "candidates_who_did_not_play": 86,
+ "n_features": 78,
+ "features_with_differences": {},
+ "season": 2025,
+ "week": 10,
+ "pred_file": "data/predictions/2025_wk10/pregame_20261004T215313Z.parquet",
+ "mode": "DRY RUN (no D snapshot: recent-appearance candidates)",
+ "checked_at": "2026-10-04T14:53:16-07:00"
+}

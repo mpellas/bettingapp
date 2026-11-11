@@ -1,0 +1,275 @@
+"""NFL per-side EVIDENCE block (shadow/context only; added 2026-10-17). Sidecar: outside src/nflprops and the pinned
+prereg code; it only READS nfl-props caches/snapshots and keeps its own nflverse copies in sidecars/evidence/cache.
+Nothing here feeds a gate, a stake or the paper track.
+
+Seven signals per prop side (QB passing / rushing / receiving yards), each '+', '-' or '0' (neutral or no data):
+  champ   champion aa4d70b859 P(side) minus market no-vig P(side)                  band +/-1.0 pt
+  usage   last-3-games usage vs baseline (this season if >=4 games, else last 10):  band +/-10% (mean of metrics;
+          each metric's change clipped to +/-100%, skipped when its baseline is tiny: share < 0.03, count < 0.5/g)
+          pass: attempts, snap%; rush: carries, carry share, snap%; rec: target share, air-yards share, snap%
+          (routes run are not in free nflverse weekly data -> not used)
+  opp     opponent yards allowed per game to the position vs league (band +/-5%) and EPA/play allowed on pass
+          (pass/rec) or rush plays vs league (band +/-0.02); signal = sign of the two votes' sum
+  injury  nflverse weekly report (+ ESPN game-summary statuses live): meaningful teammate Out/Doubtful/Inactive
+          (snap>=50% last 3 or top-3 at position in targets/carries this season). rec: same-unit WR/TE (or RB) out
+          -> over +, starting QB out -> over -; rush: RB out -> over +; pass: WR/TE out -> over -; player himself
+          Questionable/Doubtful -> over -
+  script  implied team total (total/2 +/- spread/2): pass & rec over + if >=24.5, - if <=19.5;
+          rush over + if team favoured by >=4, - if underdog by >=4
+  move    DraftKings line now vs DraftKings open (ESPN 'open'): over + if line rose >= max(1.5 yds, 2% of line)
+  weather outdoor/open roof only: wind >=15 mph, temp <=25F or rain/snow in forecast -> pass/rec over -, rush over +;
+          dome/closed -> 0
+For an UNDER every signal flips sign. agrees_n = number of '+', disagrees_n = number of '-', out of 7.
+Bands and rules were fixed before any backtest (see BACKTEST.md for results)."""
+import datetime as dt, glob, json, math, os, re, sys, time
+import numpy as np, pandas as pd, requests
+HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
+CACHE = os.path.join(HERE, 'cache'); GH = 'https://github.com/nflverse/nflverse-data/releases/download'
+SIGS = ['champ', 'usage', 'opp', 'injury', 'script', 'move', 'weather']
+YMK = {'pass_yds': 'pass_yds', 'rush_yds': 'rush_yds', 'rec_yds': 'rec_yds', 'reception_yds': 'rec_yds'}
+STAT = {'pass_yds': 'passing_yards', 'rush_yds': 'rushing_yards', 'rec_yds': 'receiving_yards'}
+OUTSTAT = {'out', 'doubtful', 'inactive', 'injured reserve', 'suspension', 'ir'}
+
+def _dl(name, url, max_age_h):
+    p = os.path.join(CACHE, name)
+    if os.path.exists(p) and (time.time() - os.path.getmtime(p)) / 3600 < max_age_h: return p
+    os.makedirs(CACHE, exist_ok=True)
+    try:
+        r = requests.get(url, timeout=120); r.raise_for_status(); open(p + '.tmp', 'wb').write(r.content); os.replace(p + '.tmp', p)
+    except Exception as e:
+        print(f'[evidence] refresh failed for {name} ({e}); using cached copy' if os.path.exists(p) else f'[evidence] {name} unavailable: {e}')
+    return p
+
+def load(seasons=(2024, 2025, 2026), refresh_season=2026, max_age_h=6.0):
+    """nflverse player stats, snaps, pbp (subset), injuries, games. Only the current season is re-downloaded."""
+    D = {k: [] for k in ('ps', 'sn', 'pbp', 'inj')}
+    for s in seasons:
+        age = max_age_h if s == refresh_season else 1e9
+        D['ps'].append(pd.read_parquet(_dl(f'stats_player_week_{s}.parquet', f'{GH}/stats_player/stats_player_week_{s}.parquet', age)))
+        D['sn'].append(pd.read_parquet(_dl(f'snap_counts_{s}.parquet', f'{GH}/snap_counts/snap_counts_{s}.parquet', age)))
+        D['pbp'].append(pd.read_parquet(_dl(f'play_by_play_{s}.parquet', f'{GH}/pbp/play_by_play_{s}.parquet', age),
+                                        columns=['game_id', 'season', 'week', 'season_type', 'defteam', 'posteam', 'pass', 'rush', 'epa']))
+        try: D['inj'].append(pd.read_parquet(_dl(f'injuries_{s}.parquet', f'{GH}/injuries/injuries_{s}.parquet', age)))
+        except Exception as e: print('[evidence] injuries', s, e)
+    D = {k: pd.concat(v, ignore_index=True) for k, v in D.items() if v}
+    ps = D['ps']; D['ps'] = ps[ps.season_type == 'REG'].copy()
+    D['pbp'] = D['pbp'][(D['pbp'].season_type == 'REG') & D['pbp'].epa.notna()]
+    D['games'] = pd.read_csv(_dl('games.csv', 'https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv', max_age_h))
+    pl = pd.read_parquet(os.path.join(ROOT, 'data', 'cache', 'raw', 'players.parquet'))
+    pfr = dict(zip(pl.pfr_id, pl.gsis_id)); sn = D['sn'].copy(); sn['player_id'] = sn.pfr_player_id.map(pfr)
+    D['sn'] = sn[sn.player_id.notna() & (sn.game_type == 'REG')][['player_id', 'season', 'week', 'team', 'offense_pct']]
+    ps = D['ps'].merge(D['sn'][['player_id', 'season', 'week', 'offense_pct']], on=['player_id', 'season', 'week'], how='left')
+    tc = ps.groupby(['team', 'season', 'week']).carries.transform('sum'); ps['carry_share'] = ps.carries / tc.replace(0, np.nan)
+    ps['k'] = ps.season * 100 + ps.week
+    D['ps'] = ps.sort_values(['player_id', 'k']); D['by_player'] = {p: g for p, g in D['ps'].groupby('player_id', sort=False)}
+    D['pbp']['k'] = D['pbp'].season * 100 + D['pbp'].week
+    D['espn_ids'] = dict(zip(pl.gsis_id, pl.espn_id.astype('Int64').astype(str)))
+    return D
+
+def boot(d, g, B=2000, seed=0):
+    """mean with a game-clustered bootstrap 95% CI."""
+    s = pd.DataFrame(dict(d=d, g=g)).groupby('g').d.agg(['sum', 'count']); rng = np.random.default_rng(seed)
+    idx = rng.integers(0, len(s), (B, len(s))); m = s['sum'].values[idx].sum(1) / s['count'].values[idx].sum(1)
+    return float(np.mean(d)), float(np.percentile(m, 2.5)), float(np.percentile(m, 97.5))
+
+def band(x, b):
+    if x is None or (isinstance(x, float) and math.isnan(x)): return 0
+    return 1 if x > b else (-1 if x < -b else 0)
+
+# ------------------------------------------------------------------ signal pieces (as of week W: data with k < S*100+W)
+USAGE = {'pass_yds': ['attempts', 'offense_pct'], 'rush_yds': ['carries', 'carry_share', 'offense_pct'],
+         'rec_yds': ['target_share', 'air_yards_share', 'offense_pct']}
+def usage(D, pid, mk, S, W):
+    g = D['by_player'].get(pid)
+    if g is None: return 0, 'usage n/a (no games)'
+    g = g[g.k < S * 100 + W]
+    cur = g[g.season == S]; base = cur if len(cur) >= 4 else g.tail(10)
+    if len(base) < 4: return 0, f'usage n/a ({len(base)} games)'
+    l3 = g.tail(3); rel, txt = [], []
+    for m in USAGE[mk]:
+        b, r = base[m].mean(), l3[m].mean()
+        if pd.notna(b) and pd.notna(r) and b > (0.03 if m.endswith('share') else 0.5 if m in ('attempts', 'carries') else 0.05):
+            rel.append(float(np.clip(r / b - 1, -1, 1))); txt.append(f'{m.replace("offense_pct", "snap%").replace("_share", " sh")} {r:.2f} vs {b:.2f}' if m != 'attempts' and m != 'carries' else f'{m} {r:.1f} vs {b:.1f}')
+    if not rel: return 0, 'usage n/a'
+    v = float(np.mean(rel)); return band(v, 0.10), f'usage L3 {v:+.0%} ({"; ".join(txt)})'
+
+def _window(df, S, W, team_col):
+    """current-season rows before week W; teams with <3 games there also get last season's rows."""
+    cur = df[(df.season == S) & (df.week < W)]; prev = df[df.season == S - 1]
+    n = cur.groupby(team_col).game_id.nunique()
+    thin = set(prev[team_col].unique()) - set(n[n >= 3].index)
+    return pd.concat([cur, prev[prev[team_col].isin(thin)]])
+
+_OPP = {}
+def opp_tables(D, S, W):
+    key = (S, W)
+    if key in _OPP: return _OPP[key]
+    ps = _window(D['ps'], S, W, 'opponent_team'); out = {}
+    for mk, st in STAT.items():
+        grp = {'pass_yds': [None], 'rush_yds': ['RB', 'QB', 'WR'], 'rec_yds': ['WR', 'TE', 'RB']}[mk]
+        for pos in grp:
+            x = ps if pos is None or mk == 'pass_yds' else ps[ps.position == pos]
+            pg = x.groupby(['opponent_team', 'game_id'])[st].sum().groupby('opponent_team').mean()
+            out[(mk, pos)] = (pg, pg.mean())
+    pb = _window(D['pbp'], S, W, 'defteam')
+    for kind in ('pass', 'rush'):
+        e = pb[pb[kind] == 1].groupby('defteam').epa.mean(); out[('epa', kind)] = (e, pb[pb[kind] == 1].epa.mean())
+    _OPP[key] = out; return out
+
+def opp(D, mk, pos, oppt, S, W):
+    T = opp_tables(D, S, W); key = (mk, None if mk == 'pass_yds' else (pos if (mk, pos) in T else None))
+    if key not in T: return 0, 'opp n/a'
+    pg, lg = T[key]; e, le = T[('epa', 'rush' if mk == 'rush_yds' else 'pass')]
+    if oppt not in pg.index or not lg: return 0, 'opp n/a'
+    yr = pg[oppt] / lg - 1; ed = e.get(oppt, np.nan) - le
+    v = band(yr, 0.05) + band(ed, 0.02)
+    return int(np.sign(v)), f'{oppt} allows {pg[oppt]:.0f}/g to {"QBs" if mk == "pass_yds" else pos + "s"} ({yr:+.0%} vs lg), EPA/play {ed:+.3f}'
+
+_MEAN = {}
+def _meaningful(D, team, S, W):
+    if (team, S, W) not in _MEAN: _MEAN[(team, S, W)] = _meaningful0(D, team, S, W)
+    return _MEAN[(team, S, W)]
+def _meaningful0(D, team, S, W):
+    """team's meaningful skill players as of week W: {player_id: (pos, label)}; plus the starting QB id."""
+    ps = D['ps']; cur = ps[(ps.team == team) & (ps.season == S) & (ps.week < W)]
+    if cur.week.nunique() < 2: cur = pd.concat([cur, ps[(ps.team == team) & (ps.season == S - 1)]])
+    g = cur.groupby(['player_id', 'position']).agg(tgt=('targets', 'mean'), car=('carries', 'mean'), att=('attempts', 'mean'),
+                                                   n=('week', 'size')).reset_index()
+    last3 = cur[cur.k >= cur.k.max() - 3] if len(cur) else cur
+    snap = last3.groupby('player_id').offense_pct.mean()
+    m = {}
+    for r in g.itertuples():
+        same = g[g.position == r.position]
+        top_t = r.tgt > 0 and (same.tgt > r.tgt).sum() < 3 and r.position in ('WR', 'TE', 'RB')
+        top_c = r.car > 0 and (same.car > r.car).sum() < 2 and r.position == 'RB'
+        if top_t or top_c or snap.get(r.player_id, 0) >= 0.5: m[r.player_id] = (r.position, f'{r.tgt:.1f} tgt/g' if r.tgt else f'{r.car:.1f} car/g')
+    qb = g[g.position == 'QB'].sort_values('att', ascending=False)
+    return m, (qb.player_id.iloc[0] if len(qb) else None)
+
+def injury(D, pid, mk, pos, team, S, W, extra_status=None):
+    """extra_status: {gsis_id: status} from ESPN live (overrides/adds to the nflverse report)."""
+    if 'inj_by' not in D:
+        D['inj_by'] = {k: {r.gsis_id: str(r.report_status or '') for r in g.itertuples()} for k, g in D['inj'].groupby(['season', 'week', 'team'])}
+        D['names'] = D['ps'].drop_duplicates('player_id').set_index('player_id').player_display_name
+    st = dict(D['inj_by'].get((S, W, team), {}))
+    for k, v in (extra_status or {}).items(): st[k] = v or st.get(k, '')
+    m, qb = _meaningful(D, team, S, W); v, why = 0, []
+    out = {p for p, s in st.items() if s.lower() in OUTSTAT and p != pid}
+    names = D['names']
+    for p in out:
+        if p == qb and mk == 'rec_yds': v -= 1; why.append(f'starting QB {names.get(p, p)} out')
+        if p not in m: continue
+        ppos = m[p][0]
+        if mk == 'rec_yds' and ((pos in ('WR', 'TE') and ppos in ('WR', 'TE')) or (pos == 'RB' and ppos == 'RB')): v += 1; why.append(f'{names.get(p, p)} {ppos} out ({m[p][1]})')
+        elif mk == 'rush_yds' and ppos == 'RB' and pos == 'RB': v += 1; why.append(f'{names.get(p, p)} RB out ({m[p][1]})')
+        elif mk == 'pass_yds' and ppos in ('WR', 'TE'): v -= 1; why.append(f'{names.get(p, p)} {ppos} out ({m[p][1]})')
+    me = st.get(pid, '')
+    if me.lower() in ('questionable', 'doubtful'): v -= 1; why.append(f'self {me}')
+    return int(np.sign(v)), ('; '.join(why) if why else 'no relevant injuries')
+
+def script(mk, team, home, away, spread_home_fav, total):
+    """spread_home_fav: points the HOME team is favoured by (nflverse spread_line convention)."""
+    if total is None or pd.isna(total) or pd.isna(spread_home_fav): return 0, 'script n/a'
+    fav = spread_home_fav if team == home else -spread_home_fav; itt = (total + fav) / 2
+    if mk == 'rush_yds': return (1 if fav >= 4 else (-1 if fav <= -4 else 0)), f'{team} {"fav" if fav > 0 else "dog"} {abs(fav):g}, team total {itt:.1f}'
+    return (1 if itt >= 24.5 else (-1 if itt <= 19.5 else 0)), f'team total {itt:.1f} ({"fav" if fav > 0 else "dog"} {abs(fav):g})'
+
+def weather(mk, roof, temp, wind, text=''):
+    if isinstance(roof, str) and roof.lower() in ('dome', 'closed'): return 0, f'{roof.lower()}'
+    bad = []
+    if pd.notna(wind) and wind >= 15: bad.append(f'wind {wind:.0f} mph')
+    if pd.notna(temp) and temp <= 25: bad.append(f'{temp:.0f}F')
+    if text and re.search(r'rain|snow|shower|storm|sleet', str(text), re.I): bad.append(str(text))
+    if not bad:
+        known = pd.notna(wind) or pd.notna(temp) or bool(text)
+        return 0, ('weather fine' + (f' ({temp:.0f}F' + (f', wind {wind:.0f}' if pd.notna(wind) else '') + ')' if pd.notna(temp) else '')) if known else 'weather n/a'
+    return (1 if mk == 'rush_yds' else -1), 'bad weather: ' + ', '.join(bad)
+
+def move(line_now, line_open):
+    if line_open is None or pd.isna(line_open) or pd.isna(line_now): return 0, 'move n/a'
+    d = float(line_now) - float(line_open); b = max(1.5, 0.02 * abs(float(line_open)))
+    return (1 if d >= b else (-1 if d <= -b else 0)), f'DK line {line_open:g} -> {line_now:g} ({d:+g})'
+
+def champ(p_model_side, p_mkt_side):
+    if p_model_side is None or pd.isna(p_model_side) or pd.isna(p_mkt_side): return 0, 'no model coverage'
+    e = p_model_side - p_mkt_side; return band(e, 0.01), f'champion {e*100:+.1f} pts vs no-vig'
+
+def combine(name, side, line, mk, sig):
+    """sig: {name: (value_for_OVER, text)}. Returns flat dict for this side."""
+    s = 1 if side.lower().startswith('o') else -1; out = {}; agree, against = [], []
+    for k in SIGS:
+        v, t = sig.get(k, (0, 'n/a')); v = v * s if k != 'champ' else v   # champ is already side-specific
+        out[f'sig_{k}'] = {1: '+', -1: '-', 0: '0'}[v]; out[f'why_{k}'] = t
+        (agree if v > 0 else against if v < 0 else []).append(t)
+    out['agrees_n'] = len(agree); out['disagrees_n'] = len(against)
+    out['evidence_summary'] = (f"{name} {'O' if s > 0 else 'U'}{line:g} {mk}: agrees {len(agree)} of 7 (" + ('; '.join(agree) or 'none') + ')'
+                               + ('; against: ' + '; '.join(against) if against else '; nothing against'))
+    return out
+
+def over_signals(D, pid, mk, pos, team, oppt, S, W, home, away, spread_home_fav, total, roof, temp, wind, wtext='',
+                 line_now=None, line_open=None, extra_status=None):
+    """all signals except champ, oriented for the OVER."""
+    return {'usage': usage(D, pid, mk, S, W), 'opp': opp(D, mk, pos, oppt, S, W),
+            'injury': injury(D, pid, mk, pos, team, S, W, extra_status), 'script': script(mk, team, home, away, spread_home_fav, total),
+            'move': move(line_now, line_open), 'weather': weather(mk, roof, temp, wind, wtext)}
+
+# ---- 2026-11-09 EXTRA tests (room request). DISPLAY ONLY: agrees_n stays 'N of 7'; nothing here feeds a gate,
+# ranking or the paper track. Adds sig_x_*, agrees_all_n, tests_all_n (7 + extras), evidence_all_summary.
+#   hit    [Yinzer] hit rate at THIS line and side: this season (>= 4 games before week W) AND last 10 regular-season
+#                   games, vs market no-vig P(side): + if both >= no-vig + 5 pts, - if both <= no-vig - 5 pts, else 0.
+#   books  [Yinzer] book agreement from lines already in the same input (no new credits): other books' median line for
+#                   this player/market vs this row's line. Over: + if others >= line + max(1.5, 2%), - if <= line - band
+#                   (under flips). Same line: + if consensus no-vig P(side) beats this price's implied P by > 2 pts,
+#                   - if it trails by > 2 pts. 0 if no other book.
+# Other owners add f(ctx) -> (sign, why) entries to EXTRA_SIGS.
+HIT_BAND, HIT_MIN_SEASON_G = 0.05, 4
+EXTRA_SIGS = ['hit', 'books']
+
+def _am2p(a):
+    a = float(a); return -a / (-a + 100) if a < 0 else 100 / (a + 100)
+
+def x_hit(D, pid, mk, line, side, S, W, p_side):
+    ps = D['ps']; col = STAT.get(mk)
+    g = ps[(ps.player_id == pid) & ((ps.season < S) | ((ps.season == S) & (ps.week < W)))].sort_values(['season', 'week'])
+    if col is None or col not in g: return 0, 'hit rate n/a'
+    cur = g[g.season == S]
+    if len(cur) < HIT_MIN_SEASON_G: return 0, f'hit rate n/a (< {HIT_MIN_SEASON_G} games this season)'
+    o = str(side).lower().startswith('o'); f = (lambda v: v > line) if o else (lambda v: v < line)
+    y, y10 = cur[col].fillna(0), g.tail(10)[col].fillna(0)
+    hs, h10 = f(y).mean(), f(y10).mean()
+    why = (f"{'over' if o else 'under'} {line:g} hit {int(f(y).sum())} of {len(y)} this season ({hs*100:.0f}%), "
+           f"{int(f(y10).sum())} of {len(y10)} last 10 ({h10*100:.0f}%)")
+    if p_side is None or pd.isna(p_side): return 0, why + ' (no no-vig price)'
+    why += f' vs no-vig {p_side*100:.0f}%'
+    if hs >= p_side + HIT_BAND and h10 >= p_side + HIT_BAND: return 1, why
+    if hs <= p_side - HIT_BAND and h10 <= p_side - HIT_BAND: return -1, why
+    return 0, why
+
+def x_books(A, i):
+    """A: the full input frame (all books); i: row index."""
+    r = A.loc[i]
+    if 'book' not in A: return 0, 'book agreement n/a'
+    o = str(r.side).lower().startswith('o')
+    oth = A[(A.player == r.player) & (A.market == r.market) & (A.side.astype(str).str.lower() == str(r.side).lower()) & (A.book != r.book)]
+    if oth.empty: return 0, 'book agreement n/a (no other book)'
+    ln = float(r.line); med = float(oth.line.median()); b = max(1.5, 0.02 * abs(ln)); d = med - ln
+    if abs(d) >= b:
+        v = (1 if d > 0 else -1) * (1 if o else -1)
+        return v, f'other books ({",".join(sorted(oth.book.unique()))}) median line {med:g} vs {ln:g} at {r.book}'
+    fp = r.get('fair_prob')
+    try:
+        dp = float(fp) - _am2p(r.price)
+        return (1 if dp > 0.02 else (-1 if dp < -0.02 else 0)), f'consensus no-vig {float(fp)*100:.0f}% vs {r.book} price {int(r.price):+d} ({dp*100:+.1f} pts)'
+    except Exception:
+        return 0, f'other books median line {med:g} ~ {ln:g}'
+
+def combine_extra(c, xs):
+    """c: combine() output; xs: {name: (sign_for_side, why)}."""
+    out = {f'sig_x_{k}': {1: '+', -1: '-', 0: '0'}[v] for k, (v, t) in xs.items()}
+    out.update({f'why_x_{k}': t for k, (v, t) in xs.items()})
+    pro = [t for v, t in xs.values() if v > 0]; con = [t for v, t in xs.values() if v < 0]
+    tot = 7 + len(xs); n = c['agrees_n'] + len(pro)
+    out.update(agrees_all_n=n, tests_all_n=tot,
+               evidence_all_summary=f'with new tests: agrees {n} of {tot}' + (f' (new: {"; ".join(pro)})' if pro else '')
+               + (f'; new against: {"; ".join(con)}' if con else ''))
+    return out

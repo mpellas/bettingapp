@@ -1,0 +1,13 @@
+logged_at_utc,sport,event_id,game,kickoff_pt,player,market,line,side,book,price,fair_prob,fair_price,ev_pct,n_books,close_price,close_fair_prob,clv_pct
+2026-10-11T12:37:48+00:00,nfl,c4647ca1201e6768501877267ca8251b,Cincinnati Bengals @ Miami Dolphins,Sun 10:00 AM PT,Malik Willis,rush_attempts,5.5,Under,fliff,105,0.5022,-101,2.94,3,,,
+2026-10-11T12:37:48+00:00,nfl,d1d408fdfd272046fb517fe992a1c5a0,Denver Broncos @ Los Angeles Chargers,Sun 1:05 PM PT,Omarion Hampton,rush_attempts,11.5,Over,fliff,100,0.5062,-103,1.25,3,,,
+2026-10-11T12:37:48+00:00,nfl,cc52bba56e74f5cddbe9011046181c3d,Houston Texans @ Tennessee Titans,Sun 10:00 AM PT,Calvin Ridley,receptions,0.5,Under,draftkings,155,0.3962,152,1.03,8,,,
+2026-10-11T12:37:48+00:00,nfl,f8e7f43f73aa983c5c99c189587f0118,Detroit Lions @ Arizona Cardinals,Sun 1:25 PM PT,Jahmyr Gibbs,rush_attempts,19.5,Over,draftkings,-106,0.5197,-108,0.99,5,,,
+2026-10-11T12:37:48+00:00,nfl,6b024bad1abb54f597225e4ab9b39d89,Las Vegas Raiders @ New England Patriots,Sun 10:00 AM PT,Drake Maye,rush_attempts,5.5,Under,draftkings,114,0.471,112,0.8,4,,,
+2026-10-11T12:37:48+00:00,nfl,21b26266f3d78af02eb672e606275d95,Philadelphia Eagles @ Jacksonville Jaguars,Sun 6:30 AM PT,Brenton Strange,receptions,3.5,Under,draftkings,-133,0.5709,-133,0.02,8,,,
+2026-10-12T21:33:56+00:00,nfl,e6d00eedd87d367e510314bd8cab8f6f,Buffalo Bills @ Los Angeles Rams,Mon 5:15 PM PT,Ty Johnson,rush_yds,5.5,Under,draftkings,-101,0.5065,-103,0.8,5,,,
+2026-10-18T14:40:09+00:00,nfl,20fefae8c296247460ba5773caa42218,Los Angeles Chargers @ Kansas City Chiefs,Sun 1:25 PM PT,Omarion Hampton,reception_yds,5.5,Under,draftkings,-103,0.5248,-110,3.44,3,,,
+2026-10-25T14:32:22+00:00,nfl,b1be064fb52a198a62109c279e7ab24c,San Francisco 49ers @ Atlanta Falcons,Sun 10:00 AM PT,Brock Purdy,rush_yds,19.5,Over,draftkings,-113,0.5318,-114,0.23,4,,,
+2026-11-01T17:09:28+00:00,nfl,52e7ee9c42525e6deec02da32dc2fad8,Minnesota Vikings @ Detroit Lions,Sun 10:00 AM PT,Jared Goff,pass_yds,259.5,Under,draftkings,-113,0.5556,-125,4.74,3,,,
+2026-11-01T17:09:28+00:00,nfl,52e7ee9c42525e6deec02da32dc2fad8,Minnesota Vikings @ Detroit Lions,Sun 10:00 AM PT,Aaron Jones,rush_yds,29.5,Under,draftkings,-114,0.5473,-121,2.73,4,,,
+2026-11-03T00:13:45+00:00,nfl,7d664fbcd39350e559d83c0068ba7169,Chicago Bears @ Seattle Seahawks,Mon 5:20 PM PT,Luther Burden III,rush_yds,3.5,Under,draftkings,-109,0.53,-113,1.63,6,,,

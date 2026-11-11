@@ -1,0 +1,169 @@
+pass_id,player,game,gameId,side,line,dk_price,shop_at,nv_pick,blend_edge_pts,actual,result,units_dk,units_shop,nv_close,clv_pts,bucket,tag,source
+20261026_1311,Trevor Moore,Los Angeles Kings at New York Rangers,2026020185,OVER,1.5,-145,-123,0.5482,0.5,0.0,L,-1,-1,0.5862,3.8,1_fliff_skip,over_bias,room+card_decisions
+20261026_1311,Alex Laferriere,Los Angeles Kings at New York Rangers,2026020185,UNDER,2.5,-145,-123,0.4518,0.4,2.0,W,0.69,0.813,0.5347,-8.3,1_fliff_skip,rising_toi_under,room+card_decisions
+20261026_1438,Darren Raddysh,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,2.5,-125,-107,0.4853,0.3,3.0,L,-1,-1,0.4853,0.0,1_fliff_skip,other,room+card_decisions
+20261026_1516,Kasperi Kapanen,Detroit Red Wings at Edmonton Oilers,2026020187,UNDER,1.5,-110,+105,0.5147,0.4,1.0,W,0.909,1.05,0.5049,1.0,1_fliff_skip,rising_toi_under,room+card_decisions
+20261027_1305,Travis Sanheim,Columbus Blue Jackets at Philadelphia Flyers,2026020188,OVER,1.5,+110,+124,0.4425,0.4,2.0,W,1.1,1.24,0.4425,0.0,1_fliff_skip,over_bias,room+card_decisions
+20261027_1305,Christian Dvorak,Columbus Blue Jackets at Philadelphia Flyers,2026020188,UNDER,1.5,-120,-105,0.4899,0.3,4.0,L,-1,-1,0.5049,-1.5,1_fliff_skip,rising_toi_under,room+card_decisions
+20261027_1305,Alex Bump,Columbus Blue Jackets at Philadelphia Flyers,2026020188,UNDER,1.5,-105,+107,0.5203,0.5,5.0,L,-1,-1,0.5385,-1.8,1_fliff_skip,other,room+card_decisions
+20261027_1339,Logan Stankoven,Boston Bruins at Carolina Hurricanes,2026020189,OVER,2.5,+110,+125,0.4425,0.3,1.0,L,-1,-1,0.4425,0.0,1_fliff_skip,over_bias,room+card_decisions
+20261027_1432,Dylan Guenther,Minnesota Wild at Utah Mammoth,2026020195,UNDER,2.5,+120,+133,0.5752,0.5,4.0,L,-1,-1,0.5862,-1.1,1_fliff_skip,market_move,room+card_decisions
+20261027_1533,Tomas Hertl,Ottawa Senators at Vegas Golden Knights,2026020196,UNDER,2.5,-160,,0.4248,0.5,2.0,W,0.625,,0.422,0.3,1_fliff_skip,other,room+card_decisions
+20261027_1533,Jackson LaCombe,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,+100,,0.5347,0.3,1.0,W,1.0,,0.5,3.5,1_fliff_skip,rising_toi_under,room+card_decisions
+20261027_1533,Cutter Gauthier,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,3.5,+105,,0.5482,0.4,4.0,L,-1,,0.5482,0.0,1_fliff_skip,rising_toi_under,room+card_decisions
+20261027_1609,Jack Quinn,Buffalo Sabres at San Jose Sharks,2026020198,UNDER,2.5,-105,+109,0.5246,0.3,3.0,L,-1,-1,0.5246,0.0,1_fliff_skip,rising_toi_under,room+card_decisions
+20261028_1304,Travis Sanheim,Philadelphia Flyers at Washington Capitals,2026020199,OVER,1.5,+115,+129,0.4335,0.3,0.0,L,-1,-1,0.4615,2.8,1_fliff_skip,over_bias,room+card_decisions
+20261028_1304,Trevor Zegras,Philadelphia Flyers at Washington Capitals,2026020199,OVER,1.5,-125,-107,0.5147,0.4,4.0,W,0.8,0.935,0.5665,5.2,1_fliff_skip,over_bias,room+card_decisions
+20261028_1304,Aliaksei Protas,Philadelphia Flyers at Washington Capitals,2026020199,UNDER,1.5,-120,-103,0.4951,0.4,3.0,L,-1,-1,0.5203,-2.5,1_fliff_skip,cleared_unpriced,room+card_decisions
+20261028_1509,Sam Malinski,New Jersey Devils at Colorado Avalanche,2026020201,UNDER,1.5,-140,-121,0.4554,0.4,3.0,L,-1,-1,0.4305,2.5,1_fliff_skip,cleared_unpriced,room+card_decisions
+20261028_1535,William Nylander,Toronto Maple Leafs at Seattle Kraken,2026020202,OVER,2.5,-115,+101,0.4951,0.3,3.0,W,0.87,1.01,0.5246,2.9,1_fliff_skip,falling_toi_over,room+card_decisions
+20261028_1535,Darren Raddysh,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-130,-112,0.4754,0.4,1.0,W,0.769,0.893,0.4754,0.0,1_fliff_skip,cleared_unpriced,room+card_decisions
+20261029_1233,Gage Goncalves,Winnipeg Jets at Tampa Bay Lightning,2026020204,UNDER,1.5,-140,-121,0.4554,0.3,1.0,W,0.714,0.826,,,1_fliff_skip,rising_toi_under,room+card_decisions
+20261029_1233,MacKenzie Weegar,Utah Mammoth at Pittsburgh Penguins,2026020205,OVER,1.5,-120,-103,0.5049,0.4,1.0,L,-1,-1,0.5752,7.0,1_fliff_skip,over_bias,room+card_decisions
+20261029_1233,Dylan Guenther,Utah Mammoth at Pittsburgh Penguins,2026020205,UNDER,2.5,+115,+129,0.5665,0.3,0.0,W,1.15,1.29,0.5862,-2.0,1_fliff_skip,market_move,room+card_decisions
+20261029_1233,Nikolaj Ehlers,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,-170,-145,0.5862,0.6,0.0,L,-1,-1,,,1_fliff_skip,over_bias,room+card_decisions
+20261029_1233,Sebastian Aho,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,2.5,-120,-103,0.5049,0.3,1.0,L,-1,-1,0.5049,0.0,1_fliff_skip,over_bias,room+card_decisions
+20261027_1305,Zach Werenski,Columbus Blue Jackets at Philadelphia Flyers,2026020188,UNDER,3.5,-160,-137,0.4248,0.5,1.0,W,0.625,0.73,0.4335,-0.9,2_stale_lineup,stale_12h,room
+20261027_1339,Timo Meier,New Jersey Devils at Dallas Stars,2026020193,OVER,2.5,-105,+109,0.4754,0.4,0.0,L,-1,-1,0.4899,1.5,2_stale_lineup,stale_12h,room
+20261027_1339,Jesper Bratt,New Jersey Devils at Dallas Stars,2026020193,OVER,1.5,-140,-121,0.5446,0.3,0.0,L,-1,-1,0.5446,0.0,2_stale_lineup,stale_12h,room
+20261027_1339,Jack Hughes,New Jersey Devils at Dallas Stars,2026020193,OVER,2.5,-150,-127,0.5575,0.4,6.0,W,0.667,0.787,0.5541,-0.3,2_stale_lineup,stale_12h,room
+20261027_1432,Blake Coleman,Minnesota Wild at Utah Mammoth,2026020195,OVER,1.5,-135,-117,0.5347,0.5,5.0,W,0.741,0.855,0.5385,0.4,2_stale_lineup,stale_12h,room
+20261027_1533,Jake DeBrusk,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,2.5,-135,-117,0.4653,0.5,3.0,L,-1,-1,0.4248,4.0,2_stale_lineup,stale_12h,room
+20261027_1533,Drew O'Connor,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,-155,-132,0.4335,0.4,1.0,W,0.645,0.758,0.4305,0.3,2_stale_lineup,stale_12h,room
+20261026_1311,Pavel Dorofeyev,Los Angeles Kings at New York Rangers,2026020185,OVER,2.5,-155,,0.5665,-0.1,1.0,L,-1,,0.5575,-0.9,3_role_slot_veto,role_demotion,GATE
+20261026_1311,Will Cuylle,Los Angeles Kings at New York Rangers,2026020185,OVER,1.5,-165,,0.578,-0.1,4.0,W,0.606,,0.5665,-1.1,3_role_slot_veto,role_demotion,GATE
+20261026_1311,Brandt Clarke,Los Angeles Kings at New York Rangers,2026020185,OVER,1.5,-140,,0.5385,-0.2,1.0,L,-1,,0.5575,1.9,3_role_slot_veto,role_demotion,GATE
+20261026_1438,Morgan Frost,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,1.5,+110,,0.5575,0.2,2.0,L,-1,,0.5385,1.9,3_role_slot_veto,slot,GATE
+20261026_1438,Joel Farabee,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,2.5,-160,,0.4305,0.4,2.0,W,0.625,,0.4138,1.7,3_role_slot_veto,slot,GATE
+20261026_1438,Yegor Sharangovich,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,1.5,+125,,0.5835,0.2,1.0,W,1.25,,0.5575,2.6,3_role_slot_veto,slot,GATE
+20261026_1438,Matt Coronato,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,2.5,+100,,0.5385,0.5,2.0,W,1.0,,0.5203,1.8,3_role_slot_veto,slot,GATE
+20261026_1438,Simon Nemec,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,1.5,-105,,0.5246,0.3,1.0,W,0.952,,0.4951,2.9,3_role_slot_veto,slot,GATE
+20261026_1438,Easton Cowan,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,1.5,+100,,0.5306,0.1,1.0,W,1.0,,0.5347,-0.4,3_role_slot_veto,role_promotion,GATE
+20261026_1438,Zayne Parekh,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,1.5,-130,,0.4754,0.1,3.0,L,-1,,0.4754,0.0,3_role_slot_veto,slot,GATE
+20261026_1438,Matvei Gridin,Toronto Maple Leafs at Calgary Flames,2026020186,OVER,2.5,+120,,0.4248,-0.4,5.0,W,1.2,,0.4138,-1.1,3_role_slot_veto,role_demotion,GATE
+20261026_1438,Matvei Gridin,Toronto Maple Leafs at Calgary Flames,2026020186,UNDER,2.5,-160,,0.4248,0.4,5.0,L,-1,,0.4138,1.1,3_role_slot_veto,slot,GATE
+20261026_1516,Michael Brandsegg-Nygard,Detroit Red Wings at Edmonton Oilers,2026020187,UNDER,1.5,110,,0.5575,0.1,1.0,W,1.1,,0.5665,-0.9,3_role_slot_veto,role_promotion,GATE
+20261027_1305,Sean Couturier,Columbus Blue Jackets at Philadelphia Flyers,2026020188,OVER,1.5,+115,,0.4335,-0.1,1.0,L,-1,,0.4653,3.2,3_role_slot_veto,role_demotion,GATE
+20261027_1305,Sean Monahan,Columbus Blue Jackets at Philadelphia Flyers,2026020188,OVER,1.5,+100,,0.4653,-0.1,0.0,L,-1,,0.4653,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1305,Valeri Nichushkin,Columbus Blue Jackets at Philadelphia Flyers,2026020188,UNDER,1.5,+100,,0.5347,-0.1,1.0,W,1.0,,0.5665,-3.2,3_role_slot_veto,role_promotion,GATE
+20261027_1305,Mathieu Olivier,Columbus Blue Jackets at Philadelphia Flyers,2026020188,UNDER,1.5,-115,,0.5,0.3,1.0,W,0.87,,0.5101,-1.0,3_role_slot_veto,role_promotion,GATE
+20261027_1305,Tyson Foerster,Columbus Blue Jackets at Philadelphia Flyers,2026020188,OVER,2.5,+140,,0.3887,0.0,3.0,W,1.4,,0.4059,1.7,3_role_slot_veto,role_demotion,GATE
+20261027_1305,Matthew Knies,Columbus Blue Jackets at Philadelphia Flyers,2026020188,OVER,1.5,-115,,0.4951,-0.1,1.0,L,-1,,0.4951,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1305,Adam Fantilli,Columbus Blue Jackets at Philadelphia Flyers,2026020188,OVER,2.5,+100,,0.4653,-0.1,2.0,L,-1,,0.4754,1.0,3_role_slot_veto,role_demotion,GATE
+20261027_1305,Porter Martone,Columbus Blue Jackets at Philadelphia Flyers,2026020188,UNDER,2.5,-185,,0.396,0.3,2.0,W,0.541,,0.3983,-0.2,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Taylor Hall,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,-165,,0.578,-0.6,,UNGRADED,,,0.578,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Taylor Hall,Boston Bruins at Carolina Hurricanes,2026020189,UNDER,1.5,+120,,0.578,0.6,,UNGRADED,,,0.578,0.0,3_role_slot_veto,slot,GATE
+20261027_1339,Hampus Lindholm,Boston Bruins at Carolina Hurricanes,2026020189,OVER,0.5,-225,,0.6472,0.2,1.0,W,0.444,,0.6472,0.0,3_role_slot_veto,slot,GATE
+20261027_1339,Jordan Martinook,Boston Bruins at Carolina Hurricanes,2026020189,UNDER,1.5,-150,,0.4425,0.2,1.0,W,0.667,,0.4853,-4.3,3_role_slot_veto,slot,GATE
+20261027_1339,Elias Lindholm,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,+115,,0.4335,0.5,1.0,L,-1,,0.4335,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Elias Lindholm,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,+115,,0.4335,0.5,1.0,L,-1,,0.4335,0.0,3_role_slot_veto,slot,GATE
+20261027_1339,William Carrier,Boston Bruins at Carolina Hurricanes,2026020189,UNDER,1.5,-155,,0.4335,-0.0,4.0,L,-1,,0.4335,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,William Carrier,Boston Bruins at Carolina Hurricanes,2026020189,UNDER,1.5,-155,,0.4335,-0.0,4.0,L,-1,,0.4335,0.0,3_role_slot_veto,slot,GATE
+20261027_1339,David Pastrnak,Boston Bruins at Carolina Hurricanes,2026020189,OVER,2.5,-135,,0.5347,0.5,1.0,L,-1,,0.5347,0.0,3_role_slot_veto,slot,GATE
+20261027_1339,Pavel Zacha,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,-105,,0.4754,0.3,2.0,W,0.952,,0.4694,-0.6,3_role_slot_veto,slot,GATE
+20261027_1339,Charlie McAvoy,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,+115,,0.4305,0.1,0.0,L,-1,,0.4425,1.2,3_role_slot_veto,slot,GATE
+20261027_1339,Morgan Geekie,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,-110,,0.4899,-0.3,2.0,W,0.909,,0.5049,1.5,3_role_slot_veto,slot,GATE
+20261027_1339,Seth Jarvis,Boston Bruins at Carolina Hurricanes,2026020189,OVER,2.5,+100,,0.4653,-0.0,0.0,L,-1,,0.4951,3.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,JJ Peterka,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,-125,,0.5147,-0.0,2.0,W,0.8,,0.5049,-1.0,3_role_slot_veto,slot,GATE
+20261027_1339,Fraser Minten,Boston Bruins at Carolina Hurricanes,2026020189,OVER,1.5,-120,,0.5101,0.1,1.0,L,-1,,0.5,-1.0,3_role_slot_veto,slot,GATE
+20261027_1339,Teuvo Teravainen,Los Angeles Kings at Chicago Blackhawks,2026020190,OVER,1.5,+140,,0.3887,0.1,1.0,L,-1,,0.3983,1.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Erik Haula,Los Angeles Kings at Chicago Blackhawks,2026020190,OVER,1.5,-115,,0.4951,-0.1,0.0,L,-1,,0.4853,-1.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Tyler Bertuzzi,Los Angeles Kings at Chicago Blackhawks,2026020190,OVER,1.5,-110,,0.4899,0.1,2.0,W,0.909,,0.5347,4.5,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Ryan Donato,Los Angeles Kings at Chicago Blackhawks,2026020190,UNDER,1.5,-145,,0.4518,-0.2,1.0,W,0.69,,0.4518,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Erik Gustafsson,Los Angeles Kings at Chicago Blackhawks,2026020190,UNDER,1.5,-175,,0.4112,0.2,0.0,W,0.571,,0.4035,0.8,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Artemi Panarin,Los Angeles Kings at Chicago Blackhawks,2026020190,OVER,2.5,-120,,0.5101,0.1,0.0,L,-1,,0.5347,2.5,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Brandt Clarke,Los Angeles Kings at Chicago Blackhawks,2026020190,OVER,1.5,-135,,0.5347,-0.2,1.0,L,-1,,0.5147,-2.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Anton Frondell,Los Angeles Kings at Chicago Blackhawks,2026020190,OVER,1.5,-160,,0.5752,0.3,1.0,L,-1,,0.5752,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Chris Kreider,Montreal Canadiens at St. Louis Blues,2026020191,UNDER,1.5,-180,,0.3983,-0.4,1.0,W,0.556,,0.3983,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Pavel Buchnevich,Montreal Canadiens at St. Louis Blues,2026020191,OVER,1.5,-110,,0.4899,0.3,3.0,W,0.909,,0.4951,0.5,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Josh Anderson,Montreal Canadiens at St. Louis Blues,2026020191,UNDER,1.5,-130,,0.4754,-0.1,2.0,L,-1,,0.4853,-1.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Noah Dobson,Montreal Canadiens at St. Louis Blues,2026020191,UNDER,2.5,-170,,0.4138,0.4,2.0,W,0.588,,0.3887,2.5,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Jonatan Berggren,Montreal Canadiens at St. Louis Blues,2026020191,UNDER,1.5,-145,,0.4518,0.2,3.0,L,-1,,0.4615,-1.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Oliver Kapanen,Montreal Canadiens at St. Louis Blues,2026020191,UNDER,1.5,+110,,0.5575,0.9,1.0,W,1.1,,0.5347,2.3,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Jonathan Marchessault,New York Islanders at Nashville Predators,2026020192,OVER,2.5,+140,,0.3887,-0.3,1.0,L,-1,,,,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Ross Colton,New York Islanders at Nashville Predators,2026020192,OVER,1.5,-110,,0.4899,-0.1,1.0,L,-1,,0.4853,-0.5,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Nils Hoglander,New York Islanders at Nashville Predators,2026020192,UNDER,1.5,-195,,0.3818,0.7,2.0,L,-1,,0.3818,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Victor Eklund,New York Islanders at Nashville Predators,2026020192,UNDER,1.5,-120,,0.4899,0.3,3.0,L,-1,,0.4899,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Evan Rodrigues,New Jersey Devils at Dallas Stars,2026020193,OVER,1.5,+100,,0.4653,0.4,2.0,W,1.0,,0.4653,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Mikko Rantanen,New Jersey Devils at Dallas Stars,2026020193,OVER,2.5,+130,,0.4059,-0.3,0.0,L,-1,,0.4165,1.1,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Joel Kiviranta,New Jersey Devils at Dallas Stars,2026020193,UNDER,1.5,-150,,0.4425,1.0,4.0,L,-1,,0.4425,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1339,Anton Lundell,Florida Panthers at Winnipeg Jets,2026020194,OVER,1.5,-190,,0.6113,-0.3,4.0,W,0.526,,0.6113,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1339,Dawson Mercer,Florida Panthers at Winnipeg Jets,2026020194,OVER,1.5,-105,,0.4754,0.3,1.0,L,-1,,0.4754,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1432,Lawson Crouse,Minnesota Wild at Utah Mammoth,2026020195,UNDER,1.5,-120,,0.4951,0.2,1.0,W,0.833,,0.4951,0.0,3_role_slot_veto,role_promotion,GATE
+20261027_1533,Claude Giroux,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-115,,0.5,0.1,1.0,L,-1,,0.4797,-2.0,3_role_slot_veto,role_demotion,GATE
+20261027_1533,Claude Giroux,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-115,,0.5,0.1,1.0,L,-1,,0.4797,-2.0,3_role_slot_veto,slot,GATE
+20261027_1533,Brayden McNabb,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,+160,,0.3587,-0.0,1.0,L,-1,,0.4059,4.7,3_role_slot_veto,slot,GATE
+20261027_1533,Tomas Hertl,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,2.5,+120,,0.4248,-0.5,2.0,L,-1,,0.422,-0.3,3_role_slot_veto,role_demotion,GATE
+20261027_1533,Shea Theodore,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-160,,0.5695,-0.1,1.0,L,-1,,0.5246,-4.5,3_role_slot_veto,slot,GATE
+20261027_1533,Noah Hanifin,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,+105,,0.4554,-0.2,2.0,W,1.05,,0.4459,-1.0,3_role_slot_veto,slot,GATE
+20261027_1533,Drake Batherson,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,2.5,+135,,0.396,-0.2,1.0,L,-1,,0.3887,-0.7,3_role_slot_veto,slot,GATE
+20261027_1533,Dylan Cozens,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-190,,0.6113,0.4,1.0,L,-1,,0.6113,0.0,3_role_slot_veto,slot,GATE
+20261027_1533,Shane Pinto,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-150,,0.5575,-0.2,4.0,W,0.667,,0.5575,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1533,Shane Pinto,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-150,,0.5575,-0.2,4.0,W,0.667,,0.5575,0.0,3_role_slot_veto,slot,GATE
+20261027_1533,Fabian Zetterlund,Ottawa Senators at Vegas Golden Knights,2026020196,UNDER,1.5,+100,,0.5347,-0.0,1.0,W,1.0,,0.5446,-1.0,3_role_slot_veto,role_promotion,GATE
+20261027_1533,Tim Stutzle,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-165,,0.578,0.2,1.0,L,-1,,0.5862,0.8,3_role_slot_veto,slot,GATE
+20261027_1533,Jake Sanderson,Ottawa Senators at Vegas Golden Knights,2026020196,OVER,1.5,-135,,0.5347,0.0,4.0,W,0.741,,0.5347,0.0,3_role_slot_veto,slot,GATE
+20261027_1533,Alex Killorn,Vancouver Canucks at Anaheim Ducks,2026020197,OVER,1.5,-140,,0.5446,0.1,0.0,L,-1,,0.5446,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1533,A.J. Greer,Vancouver Canucks at Anaheim Ducks,2026020197,OVER,1.5,+105,,0.4554,-0.3,2.0,W,1.05,,0.4518,-0.4,3_role_slot_veto,role_demotion,GATE
+20261027_1533,A.J. Greer,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,-140,,0.4554,0.3,2.0,L,-1,,0.4518,0.4,3_role_slot_veto,slot,GATE
+20261027_1533,Sam Colangelo,Vancouver Canucks at Anaheim Ducks,2026020197,OVER,1.5,+100,,0.4653,-0.3,1.0,L,-1,,0.4653,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1533,Sam Colangelo,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,-135,,0.4653,0.3,1.0,W,0.741,,0.4653,0.0,3_role_slot_veto,slot,GATE
+20261027_1533,Judd Caulfield,Vancouver Canucks at Anaheim Ducks,2026020197,OVER,1.5,-120,,0.5049,-0.4,1.0,L,-1,,0.5446,4.0,3_role_slot_veto,role_demotion,GATE
+20261027_1533,Judd Caulfield,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,-115,,0.5049,0.4,1.0,W,0.87,,0.5446,-4.0,3_role_slot_veto,role_promotion,GATE
+20261027_1533,Judd Caulfield,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,-115,,0.5049,0.4,1.0,W,0.87,,0.5446,-4.0,3_role_slot_veto,slot,GATE
+20261027_1533,Nikita Nesterenko,Vancouver Canucks at Anaheim Ducks,2026020197,UNDER,1.5,-130,,0.4754,0.5,0.0,W,0.769,,0.4754,0.0,3_role_slot_veto,slot,GATE
+20261027_1533,Tim Washe,Vancouver Canucks at Anaheim Ducks,2026020197,OVER,1.5,+165,,0.3528,-0.1,2.0,W,1.65,,0.347,-0.6,3_role_slot_veto,role_demotion,GATE
+20261027_1609,Jason Zucker,Buffalo Sabres at San Jose Sharks,2026020198,OVER,1.5,-110,,0.4853,0.4,6.0,W,0.909,,0.4853,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1609,Kiefer Sherwood,Buffalo Sabres at San Jose Sharks,2026020198,OVER,1.5,-140,,0.5385,-0.2,3.0,W,0.714,,0.5482,1.0,3_role_slot_veto,role_demotion,GATE
+20261027_1609,Owen Power,Buffalo Sabres at San Jose Sharks,2026020198,OVER,1.5,-105,,0.4754,-0.1,1.0,L,-1,,0.4754,0.0,3_role_slot_veto,role_demotion,GATE
+20261027_1609,Josh Doan,Buffalo Sabres at San Jose Sharks,2026020198,UNDER,1.5,-115,,0.5049,-0.0,1.0,W,0.87,,0.5101,-0.5,3_role_slot_veto,role_promotion,GATE
+20261027_1609,Collin Graf,Buffalo Sabres at San Jose Sharks,2026020198,UNDER,1.5,-135,,0.4653,0.4,1.0,W,0.741,,0.4754,-1.0,3_role_slot_veto,role_promotion,GATE
+20261028_1304,Boone Jenner,Philadelphia Flyers at Washington Capitals,2026020199,OVER,1.5,-130,,0.5246,0.1,0.0,L,-1,,0.5147,-1.0,3_role_slot_veto,role_demotion,GATE
+20261028_1304,Pierre-Luc Dubois,Philadelphia Flyers at Washington Capitals,2026020199,OVER,1.5,-135,,0.5347,-0.1,1.0,L,-1,,0.5446,1.0,3_role_slot_veto,role_demotion,GATE
+20261028_1304,Jordan Kyrou,Philadelphia Flyers at Washington Capitals,2026020199,UNDER,2.5,-185,,0.396,-0.0,3.0,L,-1,,0.4138,-1.8,3_role_slot_veto,role_promotion,GATE
+20261028_1304,Tyson Foerster,Philadelphia Flyers at Washington Capitals,2026020199,OVER,1.5,-130,,0.5246,0.5,1.0,L,-1,,0.5385,1.4,3_role_slot_veto,role_demotion,GATE
+20261028_1304,Ryan Leonard,Philadelphia Flyers at Washington Capitals,2026020199,OVER,1.5,-190,,0.6113,0.3,4.0,W,0.526,,0.6017,-1.0,3_role_slot_veto,role_demotion,GATE
+20261028_1304,Porter Martone,Philadelphia Flyers at Washington Capitals,2026020199,UNDER,1.5,+100,,0.5385,-0.2,2.0,L,-1,,0.5446,-0.6,3_role_slot_veto,role_promotion,GATE
+20261028_1509,Nazem Kadri,New Jersey Devils at Colorado Avalanche,2026020201,OVER,2.5,+115,,0.4335,0.3,2.0,L,-1,,0.4425,0.9,3_role_slot_veto,role_demotion,GATE
+20261028_1509,Dougie Hamilton,New Jersey Devils at Colorado Avalanche,2026020201,OVER,2.5,+145,,0.3818,-0.1,2.0,L,-1,,0.3818,0.0,3_role_slot_veto,slot,GATE
+20261028_1509,Gabriel Landeskog,New Jersey Devils at Colorado Avalanche,2026020201,UNDER,1.5,-115,,0.5,-0.2,1.0,W,0.87,,0.5049,-0.5,3_role_slot_veto,role_promotion,GATE
+20261028_1509,Evan Rodrigues,New Jersey Devils at Colorado Avalanche,2026020201,OVER,1.5,-125,,0.5203,0.2,1.0,L,-1,,0.5203,0.0,3_role_slot_veto,role_demotion,GATE
+20261028_1509,Martin Necas,New Jersey Devils at Colorado Avalanche,2026020201,UNDER,2.5,-150,,0.4425,0.1,4.0,L,-1,,0.4059,3.7,3_role_slot_veto,role_promotion,GATE
+20261028_1509,Arseny Gritsyuk,New Jersey Devils at Colorado Avalanche,2026020201,UNDER,1.5,+135,,0.6017,0.2,1.0,W,1.35,,0.6017,0.0,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Jordan Eberle,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-180,,0.3983,0.3,1.0,W,0.556,,0.4138,-1.6,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Jordan Eberle,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-180,,0.3983,0.3,1.0,W,0.556,,0.4138,-1.6,3_role_slot_veto,slot,GATE
+20261028_1535,Adam Larsson,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,-170,,0.4138,-0.2,0.0,W,0.588,,0.4138,0.0,3_role_slot_veto,slot,GATE
+20261028_1535,Morgan Rielly,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,-150,,0.4425,0.0,0.0,W,0.667,,0.4425,0.0,3_role_slot_veto,slot,GATE
+20261028_1535,Vinni Lettieri,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,-145,,0.4459,-0.1,0.0,W,0.69,,0.4554,-1.0,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Brandon Montour,Toronto Maple Leafs at Seattle Kraken,2026020202,OVER,2.5,-120,,0.5049,-0.1,1.0,L,-1,,0.5,-0.5,3_role_slot_veto,role_demotion,GATE
+20261028_1535,Brandon Montour,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-115,,0.5049,0.1,1.0,W,0.87,,0.5,0.5,3_role_slot_veto,slot,GATE
+20261028_1535,Jack Roslovic,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-185,,0.396,0.5,1.0,W,0.541,,0.4459,-5.0,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Vince Dunn,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-170,,0.4138,0.2,2.0,W,0.588,,0.4138,0.0,3_role_slot_veto,slot,GATE
+20261028_1535,Matty Beniers,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,+120,,0.578,0.3,0.0,W,1.2,,0.5665,1.1,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Matty Beniers,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,+120,,0.578,0.3,0.0,W,1.2,,0.5665,1.1,3_role_slot_veto,slot,GATE
+20261028_1535,Mackie Samoskevich,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,-180,,0.4035,0.6,0.0,W,0.556,,0.3983,0.5,3_role_slot_veto,slot,GATE
+20261028_1535,Bobby McMann,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,+100,,0.5347,0.5,4.0,L,-1,,0.5482,-1.4,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Bobby McMann,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,2.5,+100,,0.5347,0.5,4.0,L,-1,,0.5482,-1.4,3_role_slot_veto,slot,GATE
+20261028_1535,Shane Wright,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,-145,,0.4518,0.3,0.0,W,0.69,,0.4425,0.9,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Jani Nyman,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,-170,,0.4138,0.5,1.0,W,0.588,,0.4335,-2.0,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Easton Cowan,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,+100,,0.5347,0.2,3.0,L,-1,,0.5306,0.4,3_role_slot_veto,role_promotion,GATE
+20261028_1535,Berkly Catton,Toronto Maple Leafs at Seattle Kraken,2026020202,OVER,1.5,-140,,0.5385,-0.3,1.0,L,-1,,0.5347,-0.4,3_role_slot_veto,role_demotion,GATE
+20261028_1535,Berkly Catton,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,+100,,0.5385,0.3,1.0,W,1.0,,0.5347,0.4,3_role_slot_veto,slot,GATE
+20261028_1535,Gavin McKenna,Toronto Maple Leafs at Seattle Kraken,2026020202,UNDER,1.5,+100,,0.5347,0.6,3.0,L,-1,,0.5752,-4.1,3_role_slot_veto,role_promotion,GATE
+20261029_1233,Neal Pionk,Winnipeg Jets at Tampa Bay Lightning,2026020204,OVER,1.5,-115,,0.4951,0.1,4.0,W,0.87,,0.5575,6.2,3_role_slot_veto,role_demotion,GATE
+20261029_1233,Dawson Mercer,Winnipeg Jets at Tampa Bay Lightning,2026020204,OVER,1.5,-105,,0.4797,0.1,3.0,W,0.952,,0.4754,-0.4,3_role_slot_veto,role_demotion,GATE
+20261029_1233,Elias Salomonsson,Winnipeg Jets at Tampa Bay Lightning,2026020204,UNDER,1.5,-170,,0.4138,0.7,2.0,L,-1,,,,3_role_slot_veto,role_promotion,GATE
+20261029_1233,Tommy Novak,Utah Mammoth at Pittsburgh Penguins,2026020205,UNDER,1.5,+105,,0.5482,0.6,1.0,W,1.05,,0.5941,-4.6,3_role_slot_veto,role_promotion,GATE
+20261029_1233,Ben Kindel,Utah Mammoth at Pittsburgh Penguins,2026020205,OVER,1.5,-125,,0.5147,0.1,2.0,W,0.8,,0.5446,3.0,3_role_slot_veto,role_demotion,GATE
+20261029_1233,Charlie Coyle,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,-105,,0.4797,-0.1,3.0,W,0.952,,0.5147,3.5,3_role_slot_veto,slot,GATE
+20261029_1233,Valeri Nichushkin,Columbus Blue Jackets at Carolina Hurricanes,2026020206,UNDER,1.5,-140,,0.4615,-0.2,1.0,W,0.714,,0.5665,-10.5,3_role_slot_veto,role_promotion,GATE
+20261029_1233,Valeri Nichushkin,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,+100,,0.4615,0.2,1.0,L,-1,,0.5665,10.5,3_role_slot_veto,slot,GATE
+20261029_1233,William Carrier,Columbus Blue Jackets at Carolina Hurricanes,2026020206,UNDER,1.5,-165,,0.4165,-0.2,2.0,L,-1,,0.4335,-1.7,3_role_slot_veto,role_promotion,GATE
+20261029_1233,Zach Werenski,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,2.5,-115,,0.4951,-0.0,1.0,L,-1,,0.5695,7.4,3_role_slot_veto,slot,GATE
+20261029_1233,Mathieu Olivier,Columbus Blue Jackets at Carolina Hurricanes,2026020206,UNDER,1.5,-175,,0.4059,-0.0,3.0,L,-1,,0.5101,-10.4,3_role_slot_veto,role_promotion,GATE
+20261029_1233,Seth Jarvis,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,2.5,+145,,0.3818,0.3,3.0,W,1.45,,0.4951,11.3,3_role_slot_veto,role_demotion,GATE
+20261029_1233,Kent Johnson,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,-105,,0.4754,0.2,2.0,W,0.952,,0.5482,7.3,3_role_slot_veto,slot,GATE
+20261029_1233,Matthew Knies,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,+125,,0.4165,-0.1,1.0,L,-1,,0.4951,7.9,3_role_slot_veto,role_demotion,GATE
+20261029_1233,Matthew Knies,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,+125,,0.4165,-0.1,1.0,L,-1,,0.4951,7.9,3_role_slot_veto,slot,GATE
+20261029_1233,Adam Fantilli,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,-185,,0.604,0.3,4.0,W,0.541,,,,3_role_slot_veto,role_demotion,GATE
+20261029_1233,Adam Fantilli,Columbus Blue Jackets at Carolina Hurricanes,2026020206,OVER,1.5,-185,,0.604,0.3,4.0,W,0.541,,,,3_role_slot_veto,slot,GATE

@@ -1,0 +1,15 @@
+Fliff check: Logan Stankoven OVER 2.5 (DK +110, Fliff at +125 or better) - model +6.0 pts vs no-vig; recent +24.0 pts
+   last 5: 5 of 5 over 2.5 (shots 5,3,5,5,5); model 50.2%, recent form 68.2% (shot rate last 10 x TOI last 5)
+   evidence: Logan Stankoven O2.5: agrees 5 of 7 (champion +6.0 pts; challenger +6.1 pts; shrunk form +8.9 pts; opponent allows +4% to F_top6; no-vig moved 1.8 pts toward side since open); nothing against
+Fliff check: Timo Meier OVER 2.5 (DK -105, Fliff at +109 or better) - model +7.8 pts vs no-vig; recent +29.2 pts
+   last 5: 4 of 5 over 2.5 (shots 2,3,8,5,3); model 55.3%, recent form 76.7% (shot rate last 10 x TOI last 5)
+   evidence: Timo Meier O2.5: agrees 4 of 7 (champion +7.8 pts; challenger +4.2 pts; shrunk form +19.8 pts; no-vig moved 2.4 pts toward side since open); against: opponent allows -6% to F_top6
+Fliff check: Jesper Bratt OVER 1.5 (DK -140, Fliff at -121 or better) - model +6.4 pts vs no-vig; recent +2.5 pts
+   last 5: 3 of 5 over 1.5 (shots 0,3,2,2,0); model 60.9%, recent form 57.0% (shot rate last 10 x TOI last 5)
+   evidence: Jesper Bratt O1.5: agrees 4 of 7 (champion +6.4 pts; challenger +4.1 pts; shrunk form +2.6 pts; on PP1); against: TOI last 5 16.2 vs this season 17.4 (-1.1 min); last 30 incl. last season 18.0 (reference only); opponent allows -6% to F_top6+PP1; no-vig moved 1.0 pts away from side since open
+Fliff check: Jack Hughes OVER 2.5 (DK -150, Fliff at -127 or better) - model +7.6 pts vs no-vig; recent +7.6 pts
+   last 5: 3 of 5 over 2.5 (shots 3,4,3,2,2); model 63.4%, recent form 63.3% (shot rate last 10 x TOI last 5)
+   evidence: Jack Hughes O2.5: agrees 5 of 7 (champion +7.6 pts; challenger +6.1 pts; shrunk form +10.0 pts; on PP1; no-vig moved 1.3 pts toward side since open); against: TOI last 5 19.1 vs this season 20.4 (-1.3 min); last 30 incl. last season 21.5 (reference only); opponent allows -6% to F_top6+PP1
+Fliff check: Mark Scheifele OVER 1.5 (DK -170, Fliff at -143 or better) - model +6.4 pts vs no-vig; recent +15.0 pts
+   last 5: 4 of 5 over 1.5 (shots 1,3,2,2,7); model 65.0%, recent form 73.7% (shot rate last 10 x TOI last 5)
+   evidence: Mark Scheifele O1.5: agrees 5 of 7 (champion +6.4 pts; challenger +3.2 pts; shrunk form +8.0 pts; on PP1; no-vig moved 2.9 pts toward side since open); against: opponent allows -6% to F_top6+PP1

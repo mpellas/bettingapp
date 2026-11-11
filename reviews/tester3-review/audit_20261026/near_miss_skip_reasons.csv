@@ -1,0 +1,88 @@
+date,pass,player,side,line,sheet_skip_reason
+20261017,1317,Brayden Schenn,OVER,1.5,passes all checks but outside top 5 by edge
+20261017,1317,Morgan Rielly,UNDER,1.5,passes all checks but outside top 5 by edge
+20261017,1317,Logan Stanley,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261017,1317,Simon Holmstrom,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261017,1317,Matias Maccelli,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261017,1317,Kirill Marchenko,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1317,Matthew Schaefer,OVER,3.5,passes all checks but outside top 5 by edge
+20261017,1317,Owen Power,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1317,Dylan Larkin,OVER,2.5,passes all checks but outside top 5 by edge
+20261017,1317,Lucas Raymond,OVER,2.5,passes all checks but outside top 5 by edge
+20261017,1317,Luca Cagnoni,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1317,Dylan Cozens,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1317,Tyson Foerster,OVER,1.5,passes all checks but outside top 5 by edge
+20261017,1317,J.T. Miller,UNDER,1.5,passes all checks but outside top 5 by edge
+20261017,1317,Adam Fox,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1317,Alexis Lafreniere,UNDER,2.5,passes all checks but outside top 5 by edge
+20261017,1317,Matthew Knies,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1317,Adam Fantilli,UNDER,2.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1317,Tyler Bertuzzi,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1317,Nils Lundkvist,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1317,Roman Kantserov,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1421,Jonathan Marchessault,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1421,Filip Forsberg,OVER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1421,Connor McMichael,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1520,Morgan Geekie,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1520,James Hagens,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1618,Zach Hyman,UNDER,2.5,passes all checks but outside top 5 by edge
+20261017,1618,Anders Lee,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1618,Alex Formenton,UNDER,1.5,passes all checks but outside top 5 by edge
+20261017,1618,Dylan Guenther,UNDER,2.5,"thin edge (model +6.2 pts, recent +0.5 pts vs no-vig; under 1 point)"
+20261017,1618,Evgeni Malkin,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1618,Tomas Hertl,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261017,1618,Jeremy Lauzon,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,1618,Rasmus Andersson,OVER,1.5,passes all checks but outside top 5 by edge
+20261017,1618,Brett Howden,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261017,morning,Kyle Connor,OVER,2.5,slot veto; no positive blended EV at DraftKings
+20261017,morning,Logan Stankoven,UNDER,2.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261018,1224,Blake Coleman,OVER,1.5,"thin edge (model +5.2 pts, recent +0.8 pts vs no-vig; under 1 point)"
+20261018,1224,Quinn Hughes,UNDER,2.5,"thin edge (model +8.2 pts, recent +1.0 pts vs no-vig; under 1 point)"
+20261018,1358,Mikael Backlund,OVER,2.5,slot veto; no positive blended EV at DraftKings
+20261019,1247,Mika Zibanejad,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261019,1247,Alexis Lafreniere,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261019,1247,Christian Dvorak,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261019,1319,Tyler Toffoli,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261019,1319,Ivar Stenberg,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261019,1518,Sidney Crosby,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261019,1518,Dylan Guenther,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261020,1305,Tyler Toffoli,OVER,1.5,passes all checks but outside top 5 by edge
+20261020,1305,Alex Newhook,UNDER,1.5,passes all checks but outside top 5 by edge
+20261020,1305,Lane Hutson,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261020,1305,Ivar Stenberg,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261020,1305,Brock Nelson,OVER,1.5,passes all checks but outside top 5 by edge
+20261020,1305,Timo Meier,OVER,2.5,passes all checks but outside top 5 by edge
+20261020,1305,Brayden Schenn,OVER,1.5,passes all checks but outside top 5 by edge
+20261020,1305,Kyle Palmieri,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261020,1305,Bo Horvat,UNDER,3.5,passes all checks but outside top 5 by edge
+20261020,1305,Emil Heineman,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261020,1305,Leo Carlsson,UNDER,2.5,passes all checks but outside top 5 by edge
+20261020,1305,Beckett Sennecke,UNDER,2.5,"thin edge (model +5.8 pts, recent +0.3 pts vs no-vig; under 1 point)"
+20261020,1305,Trevor Moore,OVER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261020,1305,Adrian Kempe,OVER,2.5,passes all checks but outside top 5 by edge
+20261020,1305,Jakob Chychrun,UNDER,2.5,passes all checks but outside top 5 by edge
+20261020,1305,Sean Monahan,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261020,1305,William Nylander,OVER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261020,1305,Zach Werenski,UNDER,3.5,slot veto; no positive blended EV at DraftKings
+20261020,1305,Cole Sillinger,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261020,1305,Matthew Knies,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261020,1305,Adam Fantilli,UNDER,3.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261020,1406,Miro Heiskanen,UNDER,1.5,passes all checks but outside top 5 by edge
+20261020,1508,Mattias Ekholm,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261024,1307,Pavel Zacha,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261024,1307,Morgan Geekie,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261024,1307,Ivar Stenberg,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261024,1307,Aliaksei Protas,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261024,1307,Zach Benson,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261024,1307,William Karlsson,UNDER,1.5,passes all checks but outside top 5 by edge
+20261024,1307,Tomas Hertl,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261024,1307,Jack Eichel,UNDER,2.5,side not from milestone prices; no positive blended EV at DraftKings
+20261024,1307,Brett Howden,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261024,1307,Kasperi Kapanen,UNDER,1.5,slot veto; no positive blended EV at DraftKings
+20261024,1307,Gavin McKenna,UNDER,1.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261024,1512,John Carlson,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261024,1512,Logan Cooley,UNDER,2.5,model more than 12 points from no-vig; no positive blended EV at DraftKings
+20261024,1609,Mackie Samoskevich,UNDER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261025,0922,Seth Jones,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings
+20261025,1404,Brock Nelson,OVER,1.5,"thin edge (model +8.0 pts, recent +0.2 pts vs no-vig; under 1 point)"
+20261025,1404,Jonathan Marchessault,OVER,1.5,side not from milestone prices; no positive blended EV at DraftKings

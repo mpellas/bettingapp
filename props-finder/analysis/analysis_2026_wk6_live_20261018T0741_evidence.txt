@@ -1,0 +1,2 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source analysis_2026_wk6_live_20261018T0741.csv, asof 20261018T144117Z
+Omarion Hampton Under 5.5 reception_yds @ -103 draftkings: Omarion Hampton U5.5 rec_yds: agrees 1 of 7 (team total 17.0 (dog 7.5)); nothing against

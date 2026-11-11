@@ -1,0 +1,5 @@
+run_pt,x_day_utc,calls,day_total,note
+2026-11-02 15:13:34 PT,2026-11-02,1,1,"setup test call (VGK@BOS, outside 30-45 window; posts not logged, next pass re-searches)"
+2026-11-02 15:18:11 PT,2026-11-02,2,3,"VGK@BOS + DET@FLA combined queries; 6 relevant posts, all already in DFO; no frozen-side players named"
+2026-11-02 16:19:11 PT,2026-11-03,1,1,"COL@CHI combined query; 3 relevant posts (O'Connor return, Avs projected lines, Blackwood), all already in DFO D snapshot; frozen-side players Schwartz/Toews named only in unchanged lineup, no lineup-changed flags; reddit RSS 429"
+2026-11-02 17:21:34 PT,2026-11-03,1,2,"CGY@SJS combined query; 25 results, no beat-writer/team lineup, scratch, or goalie news (noise only); no posts logged; DFO no_change both teams; reddit RSS r/hockey 429"

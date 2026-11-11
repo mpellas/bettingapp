@@ -1,0 +1,15 @@
+Fliff check: Jacob Trouba OVER 1.5 (DK +100, Fliff at +114 or better) - model +6.5 pts vs no-vig; recent +2.4 pts
+   last 5: 2 of 5 over 1.5 (shots 0,1,0,4,6); model 53.0%, recent form 48.9% (shot rate last 10 x TOI last 5)
+   evidence: Jacob Trouba O1.5: agrees 4 of 7 (champion +6.5 pts; challenger +4.7 pts; shrunk form +9.9 pts; TOI last 5 24.1 vs this season 22.6 (+1.4 min); last 30 incl. last season 22.5 (reference only)); against: opponent allows -5% to D; no-vig moved 1.0 pts away from side since open
+Fliff check: Quinton Byfield UNDER 2.5 (DK -130, Fliff at -112 or better) - model +7.8 pts vs no-vig; recent +12.7 pts
+   last 5: 3 of 5 under 2.5 (shots 0,2,6,5,0); model 60.3%, recent form 65.1% (shot rate last 10 x TOI last 5)
+   evidence: Quinton Byfield U2.5: agrees 4 of 7 (champion +7.8 pts; challenger +9.6 pts; shrunk form +11.8 pts; TOI last 5 16.6 vs this season 19.0 (-2.4 min); last 30 incl. last season 19.7 (reference only)); against: opponent allows +6% to F_top6+PP1; on PP1; no-vig moved 8.9 pts away from side since open
+Fliff check: Brandt Clarke UNDER 1.5 (DK +115, Fliff at +130 or better) - model +5.6 pts vs no-vig; recent +10.1 pts
+   last 5: 5 of 5 under 1.5 (shots 1,1,1,0,1); model 48.9%, recent form 53.5% (shot rate last 10 x TOI last 5)
+   evidence: Brandt Clarke U1.5: agrees 3 of 7 (champion +5.6 pts; challenger +0.9 pts; shrunk form +8.2 pts); against: no-vig moved 17.6 pts away from side since open
+Fliff check: Frederick Gaudreau UNDER 1.5 (DK -170, Fliff at -143 or better) - model +6.2 pts vs no-vig; recent +11.0 pts
+   last 5: 4 of 5 under 1.5 (shots 1,1,1,0,2); model 64.8%, recent form 69.6% (shot rate last 10 x TOI last 5)
+   evidence: Frederick Gaudreau U1.5: agrees 4 of 7 (champion +6.2 pts; challenger +6.6 pts; shrunk form +11.7 pts; no-vig moved 3.2 pts toward side since open); against: opponent allows +7% to F_top6
+Fliff check: Matt Coronato UNDER 2.5 (DK -145, Fliff at -123 or better) - model +9.1 pts vs no-vig; recent +2.7 pts
+   last 5: 4 of 5 under 2.5 (shots 2,3,1,2,0); model 63.9%, recent form 57.5% (shot rate last 10 x TOI last 5)
+   evidence: Matt Coronato U2.5: agrees 3 of 7 (champion +9.1 pts; challenger +6.0 pts; shrunk form +4.5 pts); against: opponent allows +4% to F_top6+PP1; on PP1

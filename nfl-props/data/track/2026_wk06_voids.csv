@@ -1,0 +1,10 @@
+season,week,event_id,game_id,player_id,player_name,market,line_D,line_C,void_reason,void_detail,stage
+2026,6,401872996,2026_06_HOU_JAX,00-0039849,Marvin Harrison Jr.,rec_yds,22.5,21.5,no player row: player's last team (ARI) is not in this game,,pregame
+2026,6,401872997,2026_06_BAL_CLE,00-0040784,Quinshon Judkins,rush_yds,46.5,,pulled_before_close,pulled between 2026-10-18T08:17:40-07:00 (last seen) and 2026-10-18T08:44:52-07:00 (first missing),track
+2026,6,401872997,2026_06_BAL_CLE,00-0040784,Quinshon Judkins,rec_yds,15.5,,pulled_before_close,pulled between 2026-10-18T08:17:40-07:00 (last seen) and 2026-10-18T08:44:52-07:00 (first missing),track
+2026,6,401872998,2026_06_CAR_PHI,00-0038400,Tanner McKee,rush_yds,6.5,,pulled_before_close,pulled between 2026-10-18T09:20:53-07:00 (last seen) and 2026-10-18T09:39:09-07:00 (first missing),track
+2026,6,401872998,2026_06_CAR_PHI,00-0040586,Jaydon Blue,rush_yds,18.5,17.5,no player row: player's last team (DAL) is not in this game,,pregame
+2026,6,401873003,2026_06_TEN_IND,00-0040128,Tyler Warren,rec_yds,48.5,,pulled_before_close,pulled between 2026-10-18T08:17:40-07:00 (last seen) and 2026-10-18T08:44:52-07:00 (first missing),track
+2026,6,401873005,2026_06_BUF_LV,00-0034857,Josh Allen,pass_yds,242.5,,pulled_before_close,pulled between 2026-10-18T11:50:28-07:00 (last seen) and 2026-10-18T12:01:47-07:00 (first missing),track
+2026,6,401873005,2026_06_BUF_LV,00-0034827,DJ Moore,rec_yds,48.5,,pulled_before_close,pulled between 2026-10-18T11:37:51-07:00 (last seen) and 2026-10-18T11:50:28-07:00 (first missing),track
+2026,6,401873006,2026_06_LAC_KC,00-0036355,Justin Herbert,pass_yds,196.5,,pulled_before_close,pulled between 2026-10-18T12:37:03-07:00 (last seen) and 2026-10-18T12:40:05-07:00 (first missing),track

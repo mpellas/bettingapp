@@ -1,0 +1,26 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 1:00 PM PT window pass (Mon Oct 26; routine fired late, run 1:11 PM PT), lines captured 1:10 PM PT. One game: Los Angeles Kings at New York Rangers (4:00 PM PT, start time rechecked on the NHL schedule, 169 min out). Toronto Maple Leafs at Calgary Flames (5:30 PM PT) and Detroit Red Wings at Edmonton Oilers (6:30 PM PT) are outside this window and get their own passes at 2:30 and 3:30 PM PT.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (12 lines up).
+
+Fliff check (2). Neither is a Fliff or DK bet right now: both Fliff prices and both DK prices are worse than the -123 shop-at. Both qualify on PrizePicks power3 and flex4-flex6 (not power2).
+1. Trevor Moore, Los Angeles Kings at New York Rangers (4:00 PM PT), OVER 1.5 shots on goal
+   DK now: -145 (opened -155), no-vig 54.8%, model 64.6%, recent expected shots 2.49, recent form 71.0% (shot rate last 10 x TOI last 5), shrunk 70.2% (info only). Shop-at (worst acceptable): -123 on DraftKings and Fliff. PrizePicks: power3, flex4, flex5, flex6.
+   Last 5: 3 of 5 over 1.5 (shots 4, 3, 0, 3, 1); last 10: 7 of 10 over.
+   Role: LA forward, history slot top 6 (no PP1); today line 2 and PP2 (no change; Kings DailyFaceoff lineup updated 9:39 AM PT today). TOI last 5 16.4 min vs 17.8 over last 30; PP 0.9 min a game. NYR allows 0.991x league to top-6 forwards; NYR allows 25.7 shots per game over last 20 (about 2.1 below league).
+   Evidence: agrees 3 of 7 (champion +9.8 pts; challenger +9.4 pts; shrunk form +15.3 pts); against: no-vig moved 1.8 pts away from the over since open.
+   Fliff: Fliff -165, worse than the -123 shop-at. Skip on Fliff. DK -145 also worse than -123, so not a DK bet.
+2. Alex Laferriere, Los Angeles Kings at New York Rangers (4:00 PM PT), UNDER 2.5 shots on goal
+   DK now: -145 (opened -105), no-vig 54.8%, model 62.5%, recent expected shots 1.94, recent form 69.4% (shot rate last 10 x TOI last 5), shrunk 52.2% (info only). Shop-at (worst acceptable): -123 on DraftKings and Fliff. PrizePicks: power3, flex4, flex5, flex6.
+   Last 5: 4 of 5 under 2.5 (shots 2, 2, 3, 2, 0); last 10: 8 of 10 under.
+   Role: LA forward, history slot top 6 on PP1; today line 1 and PP1 (no change; lineup updated 9:39 AM PT). TOI last 5 20.6 min vs 19.1 this season (+1.6 min); PP 2.6 min a game. NYR allows 1.001x league to top-6/PP1 forwards; NYR allows 25.7 shots per game over last 20 (about 2.1 below league).
+   Evidence: agrees 3 of 7 (champion +7.7 pts; challenger +2.4 pts; no-vig moved 7.3 pts toward the under since open); against: shrunk form -2.6 pts; TOI up 1.6 min; on PP1.
+   Heads-up: one of his 3 agreeing signals is the 7.3-pt market move (under -105 to -145). That's well short of the 20+ pt moves we've treated as huge, so it counts, but without it he'd be 2 of 7 and a skip.
+   Fliff: Fliff -130, worse than the -123 shop-at. Skip on Fliff. DK -145 also worse than -123, so not a DK bet.
+Correlation: both are Kings in the same game, opposite directions. A high-shot Kings night helps Moore's over and hurts Laferriere's under, so they partly offset; don't stack both in one PrizePicks entry expecting them to move together.
+Fliff credits: 1 of 10 used today (1 this pass); 109 left on the account.
+
+Vetoes: 1 side skipped by the lineup-status check (Gabe Perreault, Rangers, not found in today's DailyFaceoff lineup) and 3 overs by the role/lineup-slot check (all demotions: Pavel Dorofeyev from top 6 to the 3rd line, still PP1; Will Cuylle from top 6 to the 3rd line/PP2; Brandt Clarke off PP1 to PP2). None of those overs had an edge anyway. Closest misses: Alexis Lafreniere OVER 2.5 (+135) fell under the 5-point floor (+2.4 pts); Artemi Panarin OVER 2.5 (-125) had a thin model edge (+0.3 pts); J.T. Miller OVER 1.5 (-140) model +6.8 pts but recent form only 29.4%.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261026_D_1311_picks.xlsx (colors only show in Excel or Google Sheets).

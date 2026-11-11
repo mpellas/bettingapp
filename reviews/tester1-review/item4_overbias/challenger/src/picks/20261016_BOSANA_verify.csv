@@ -1,0 +1,18 @@
+player,espn_id,espn_team,active,status,opp_sa_r20,expected_opp_sa,roster_ok,opp_ok
+Alex Killorn,4968,Anaheim Ducks,True,Active,28.6,28.6,True,True
+Hampus Lindholm,2968818,Boston Bruins,True,Active,25.6,25.6,True,True
+Elias Lindholm,3041994,Boston Bruins,True,Active,25.6,25.6,True,True
+Nikita Zadorov,3042021,Boston Bruins,True,Active,25.6,25.6,True,True
+David Pastrnak,3114778,Boston Bruins,True,Active,25.6,25.6,True,True
+Pavel Zacha,3899949,Boston Bruins,True,Active,25.6,25.6,True,True
+Charlie McAvoy,3988803,Boston Bruins,True,Active,25.6,25.6,True,True
+Morgan Geekie,4268466,Boston Bruins,True,Active,25.6,25.6,True,True
+Jackson LaCombe,4565262,Anaheim Ducks,True,Active,28.6,28.6,True,True
+JJ Peterka,4697438,Boston Bruins,True,Active,25.6,25.6,True,True
+Judd Caulfield,4755684,Anaheim Ducks,True,Active,28.6,28.6,True,True
+Cutter Gauthier,5080145,Anaheim Ducks,True,Active,28.6,28.6,True,True
+Fraser Minten,5080207,Boston Bruins,True,Active,25.6,25.6,True,True
+Leo Carlsson,5149153,Anaheim Ducks,True,Active,28.6,28.6,True,True
+Beckett Sennecke,5216858,Anaheim Ducks,True,Active,28.6,28.6,True,True
+James Hagens,5275337,Boston Bruins,True,Active,25.6,25.6,True,True
+Nikita Klepov,5361658,Anaheim Ducks,True,Active,28.6,28.6,True,True

@@ -1,0 +1,294 @@
+{
+ "season": 2026,
+ "week": 7,
+ "scored_at": "2026-10-31T05:22:21-07:00",
+ "universe": "every line in the decision snapshot D (>=3h before kickoff)",
+ "n_lines_D": 286,
+ "n_scored": 255,
+ "n_void": 31,
+ "n_pending": 0,
+ "voids_by_reason": {
+  "no pregame prediction file created before kickoff": 24,
+  "pulled_before_close": 5,
+  "no player row: player's last team (NYJ) is not in this game": 1,
+  "no player row: player's last team (HOU) is not in this game": 1
+ },
+ "voids_by_market": {
+  "rec_yds": 19,
+  "rush_yds": 10,
+  "pass_yds": 2
+ },
+ "lines_by_market": {
+  "rec_yds": 176,
+  "rush_yds": 82,
+  "pass_yds": 28
+ },
+ "n_with_C": 257,
+ "share_started_no_C_capture_failure": 0.0,
+ "n_pulled_before_close": 5,
+ "n_pulled_before_close_by_model_side": {
+  "over": 3,
+  "under": 2,
+  "no_prediction": 0
+ },
+ "share_started_pulled_before_close": 0.017482517482517484,
+ "n_out_of_model_scope": 91,
+ "out_of_scope_by_market": {
+  "rec_yds": 51,
+  "rush_yds": 37,
+  "pass_yds": 3
+ },
+ "corr_logit_p_model_vs_move": 0.09368563926427861,
+ "z_clv": {
+  "voids_excluded": {
+   "n": 164,
+   "mean": 0.0027323694122176143,
+   "ci95_game_clustered": [
+    -0.004239746133471936,
+    0.011498027271703877
+   ]
+  },
+  "voids_as_zero": {
+   "n": 195,
+   "mean": 0.0022979927364291724,
+   "ci95_game_clustered": [
+    -0.003570551526339056,
+    0.00988705780587767
+   ]
+  }
+ },
+ "break_even_with_prices": {
+  "eligible": false,
+  "share_lines_with_real_prices_D_and_C": 0.0,
+  "flat_prices": true,
+  "reason": "prices absent, flat, or < 80% coverage: the provisional without-prices bar applies"
+ },
+ "ll_gain_vs_ln2_at_C": {
+  "n": 164,
+  "mean": 0.012529688446275116,
+  "ci95_game_clustered": [
+   -0.019416062152880165,
+   0.04598097035524206
+  ]
+ },
+ "z_clv_incl_out_of_scope": {
+  "voids_excluded": {
+   "n": 255,
+   "mean": -0.0008962499976197746,
+   "ci95_game_clustered": [
+    -0.005373618709004882,
+    0.004025469812797498
+   ]
+  },
+  "voids_as_zero": {
+   "n": 286,
+   "mean": -0.0007991040188567916,
+   "ci95_game_clustered": [
+    -0.005070448440604309,
+    0.0035256463681423563
+   ]
+  }
+ },
+ "decision_this_week_only": {
+  "label": "INTERIM (weekly number only; prereg verdict is weeks 5-18 pooled via track final)",
+  "main_passes": false,
+  "adverse_passes": false,
+  "failure_rule_triggered": false,
+  "signal_z_clv_main": {
+   "n": 164,
+   "n_games": 13,
+   "mean": 0.0027323694122176143,
+   "ci95_game_clustered": [
+    -0.004239746133471936,
+    0.011498027271703877
+   ],
+   "p_one_sided_gt0": 0.27025
+  },
+  "signal_z_clv_adverse": {
+   "n": 165,
+   "n_games": 13,
+   "mean": 0.0027158095975981134,
+   "ci95_game_clustered": [
+    -0.004205157588522713,
+    0.011440203798776985
+   ],
+   "p_one_sided_gt0": 0.27025
+  },
+  "ll_gain_vs_ln2_at_C": {
+   "n": 164,
+   "n_games": 13,
+   "mean": 0.012529688446275116,
+   "ci95_game_clustered": [
+    -0.019416062152880165,
+    0.04598097035524206
+   ],
+   "p_one_sided_gt0": 0.232
+  },
+  "ll_criterion_ok": true,
+  "break_even_main": {
+   "rule": "without prices: top-20% |lean| hit rate at line_D",
+   "n": 33,
+   "hit_rate": 0.5151515151515151,
+   "ci95_game_clustered": [
+    0.3142857142857143,
+    0.7059772296015184
+   ],
+   "bar": 0.535,
+   "pass": false,
+   "side_counts": {
+    "n": 33,
+    "n_over": 26,
+    "n_under": 7,
+    "share_over": 0.7878787878787878,
+    "share_under": 0.21212121212121213
+   },
+   "n_strong_lean": 33,
+   "matched_control": {
+    "n_strong": 33,
+    "n_board": 164,
+    "strong_lean_hit_rate": 0.5151515151515151,
+    "matched_control_hit_rate": 0.48049746261395154,
+    "diff": 0.034654052537563595,
+    "ci95_game_clustered": [
+     -0.1735968817214723,
+     0.23493347258318548
+    ],
+    "pass": false,
+    "market_side_rates": {
+     "pass_yds|under": 0.4782608695652174,
+     "rush_yds|under": 0.45714285714285713,
+     "rec_yds|under": 0.5660377358490566,
+     "pass_yds|over": 0.5217391304347826,
+     "rush_yds|over": 0.5428571428571429,
+     "rec_yds|over": 0.4339622641509434
+    },
+    "side_counts": {
+     "n": 33,
+     "n_over": 26,
+     "n_under": 7,
+     "share_over": 0.7878787878787878,
+     "share_under": 0.21212121212121213
+    }
+   },
+   "hit_rate_pass": false,
+   "matched_control_pass": false
+  },
+  "break_even_adverse": {
+   "rule": "without prices: top-20% |lean| hit rate at line_D (adverse)",
+   "n": 33,
+   "hit_rate": 0.5151515151515151,
+   "ci95_game_clustered": [
+    0.3142857142857143,
+    0.7059772296015184
+   ],
+   "bar": 0.535,
+   "pass": false,
+   "side_counts": {
+    "n": 33,
+    "n_over": 26,
+    "n_under": 7,
+    "share_over": 0.7878787878787878,
+    "share_under": 0.21212121212121213
+   },
+   "n_strong_lean": 33,
+   "matched_control": {
+    "n_strong": 33,
+    "n_board": 164,
+    "strong_lean_hit_rate": 0.5151515151515151,
+    "matched_control_hit_rate": 0.48049746261395154,
+    "diff": 0.034654052537563595,
+    "ci95_game_clustered": [
+     -0.1735968817214723,
+     0.23493347258318548
+    ],
+    "pass": false,
+    "market_side_rates": {
+     "pass_yds|under": 0.4782608695652174,
+     "rush_yds|under": 0.45714285714285713,
+     "rec_yds|under": 0.5660377358490566,
+     "pass_yds|over": 0.5217391304347826,
+     "rush_yds|over": 0.5428571428571429,
+     "rec_yds|over": 0.4339622641509434
+    },
+    "side_counts": {
+     "n": 33,
+     "n_over": 26,
+     "n_under": 7,
+     "share_over": 0.7878787878787878,
+     "share_under": 0.21212121212121213
+    }
+   },
+   "hit_rate_pass": false,
+   "matched_control_pass": false
+  },
+  "blanket_unders": {
+   "rule": "blanket unders (always under at line_D, full board; reported only, does not void PASS)",
+   "n": 164,
+   "hit_rate": 0.5304878048780488,
+   "ci95_game_clustered": [
+    0.4567865553414686,
+    0.6118490829346093
+   ],
+   "bar": 0.535,
+   "pass": false
+  },
+  "hit_rate_full_board_diagnostic": {
+   "rule": "DIAGNOSTIC only: full-board model-side hit rate",
+   "n": 164,
+   "hit_rate": 0.5548780487804879,
+   "ci95_game_clustered": [
+    0.5032247791247174,
+    0.6036585365853658
+   ],
+   "bar": 0.535,
+   "pass": true
+  },
+  "pulled_in_scope": {
+   "over": 0,
+   "under": 1
+  },
+  "label_raw_week_only": "FAIL",
+  "label_note": "Single-week label set by scripts/label_interim.py: a single week is not a prereg verdict. Numbers unchanged."
+ },
+ "bet_track": {
+  "n_bets_decided": 0,
+  "n_pending_bets": 0,
+  "n_settled_on_void_line_dk_rules": 0,
+  "n_refunded": 0,
+  "voids_excluded": {
+   "n": 0,
+   "flat_roi": null,
+   "note": "DraftKings settlement; refunds excluded"
+  },
+  "voids_as_zero": {
+   "n": 0,
+   "flat_roi": null,
+   "note": "refunds counted as 0 profit"
+  },
+  "paper_non_void_lines_only": {
+   "n": 0,
+   "flat_roi": null
+  }
+ },
+ "prices_assumed": true,
+ "stacker": {
+  "t": 202607.0,
+  "n": 2912.0,
+  "b": 0.980798349230326,
+  "c0": 0.04094882600774238,
+  "se_c0": 0.06479613324493576,
+  "a_pass_yds": 0.0015013947575477462,
+  "c_pass_yds": 0.036993708259726234,
+  "se_c_pass_yds": 0.07967438530084966,
+  "a_rec_yds": -0.015367371691147914,
+  "c_rec_yds": 0.04985434769683723,
+  "se_c_rec_yds": 0.0708771915176387,
+  "a_rush_yds": -0.014095139909634092,
+  "c_rush_yds": 0.046228910360451764,
+  "se_c_rush_yds": 0.07189243267110587
+ },
+ "file": "data/track/2026_wk07.parquet",
+ "void_report": "data/track/2026_wk07_voids.csv",
+ "sha256": "70567141c709929a4969ff452e6afbbf98cb0458d94223932e68810d427e80fb",
+ "sha256_voids": "7bf9b19eb281ddda31c1ff0114dc4d0cc2ea1fad5b4f687e70397357375e3ba2"
+}

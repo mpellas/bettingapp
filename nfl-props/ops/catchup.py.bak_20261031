@@ -1,0 +1,32 @@
+#!/usr/bin/env python3
+"""NFL outage catch-up (Enhancement 3). Read-only: 0 Odds API credits, never prices, never touches prereg/track.py.
+Finds last snapshot in data/snapshots/capture_log.jsonl; any game whose kickoff fell between that and now
+(+ games kicking off in the gap with no snapshot) is logged MISSED in logs/missed_games.csv (no late pricing).
+Results for those games are graded later via nflverse as usual. Usage: python3 ops/catchup.py [--dry-run]"""
+import json, os, sys, csv, datetime as dt, urllib.request
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+last=None; seen_ev=set()
+for l in open(os.path.join(ROOT,'data/snapshots/capture_log.jsonl')):
+    try: r=json.loads(l)
+    except Exception: continue
+    t=dt.datetime.fromisoformat(r['captured_at_utc'] if 'captured_at_utc' in r else r['captured_at_pt'])
+    last=max(last,t) if last else t
+now=dt.datetime.now(dt.timezone.utc); print('last snapshot',last,'gap h',round((now-last).total_seconds()/3600,1))
+evs={}; d=last.date()
+while d<=now.date():
+    for e in json.load(urllib.request.urlopen('https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates='+d.strftime('%Y%m%d'),timeout=30)).get('events',[]): evs[e['id']]=e
+    d+=dt.timedelta(days=1)
+rows=[]
+for e in evs.values():
+    ko=dt.datetime.fromisoformat(e['date'].replace('Z','+00:00'))
+    if last<ko<=now: rows.append([e['id'],e['shortName'],ko.isoformat(),e['status']['type']['name'],'MISSED','no snapshot between last capture and kickoff; not priced late',now.isoformat(timespec='seconds')])
+for r in rows: print(r[:4])
+out=os.path.join(ROOT,'logs/missed_games.csv')
+old={r[0] for r in csv.reader(open(out))} if os.path.exists(out) else set()
+rows=[r for r in rows if r[0] not in old]
+if rows and '--dry-run' not in sys.argv:
+    with open(out,'a',newline='') as f:
+        w=csv.writer(f)
+        if not old: w.writerow(['event_id','game','kickoff_utc','status','flag','note','logged_at'])
+        w.writerows(rows)
+print(len(rows),'new missed games')

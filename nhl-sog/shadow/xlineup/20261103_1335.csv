@@ -1,0 +1,18 @@
+player,team,lineup_source,gate_ev,gate_pp,x_ev,x_pp,x_url,post_time_pt,author,would_skip,reason
+Steven Stamkos,Nashville Predators,last_game_fallback,f1,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117694539729404320,2026-11-03 11:04 PT,32HockeyUpdates,no,agrees
+Ryan O'Reilly,Nashville Predators,last_game_fallback,f1,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117694539729404320,2026-11-03 11:04 PT,32HockeyUpdates,no,agrees
+Roman Josi,Nashville Predators,last_game_fallback,d1,pp1,d1,n/a,https://x.com/32HockeyUpdates/status/2117694539729404320,2026-11-03 11:04 PT,32HockeyUpdates,no,agrees
+Filip Forsberg,Nashville Predators,last_game_fallback,f2,pp1,f2,n/a,https://x.com/32HockeyUpdates/status/2117694539729404320,2026-11-03 11:04 PT,32HockeyUpdates,no,agrees
+Mark Jankowski,Carolina Hurricanes,last_game_fallback,f3,pp2,f3,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Jordan Martinook,Carolina Hurricanes,last_game_fallback,f3,,f3,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Shayne Gostisbehere,Carolina Hurricanes,last_game_fallback,d3,pp1,d3,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+William Carrier,Carolina Hurricanes,last_game_fallback,f1,,f1,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Jaccob Slavin,Carolina Hurricanes,last_game_fallback,d1,,d1,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Nikolaj Ehlers,Carolina Hurricanes,last_game_fallback,f2,pp1,f2,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Sebastian Aho,Carolina Hurricanes,last_game_fallback,f1,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Andrei Svechnikov,Carolina Hurricanes,last_game_fallback,f1,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Ross Colton,Nashville Predators,last_game_fallback,f3,pp2,f4,n/a,https://x.com/32HockeyUpdates/status/2117694539729404320,2026-11-03 11:04 PT,32HockeyUpdates,yes,line f3->f4
+Seth Jarvis,Carolina Hurricanes,last_game_fallback,f3,pp2,f3,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Mavrik Bourque,Nashville Predators,last_game_fallback,f1,pp2,f1,n/a,https://x.com/32HockeyUpdates/status/2117694539729404320,2026-11-03 11:04 PT,32HockeyUpdates,no,agrees
+Logan Stankoven,Carolina Hurricanes,last_game_fallback,f2,pp2,f2,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees
+Jackson Blake,Carolina Hurricanes,last_game_fallback,f2,pp1,f2,n/a,https://x.com/32HockeyUpdates/status/2117693989935554935,2026-11-03 11:02 PT,32HockeyUpdates,no,agrees

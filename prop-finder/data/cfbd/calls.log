@@ -1,0 +1,54 @@
+2026-10-04T10:06:50	/info	{}	200
+2026-10-04T10:06:58	/teams	{"year": 2026}	200
+2026-10-04T10:06:59	/player/portal	{"year": 2026}	200
+2026-10-04T10:06:59	/ratings/sp	{"year": 2026}	200
+2026-10-04T10:07:00	/player/returning	{"year": 2026}	200
+2026-10-04T10:07:07	/games/players	{"seasonType": "regular", "week": 1, "year": 2025}	200
+2026-10-04T10:08:13	/teams	{"year": 2025}	200
+2026-10-04T10:08:13	/ratings/sp	{"year": 2025}	200
+2026-10-04T10:08:15	/games/players	{"seasonType": "regular", "week": 2, "year": 2025}	200
+2026-10-04T10:08:17	/games/players	{"seasonType": "regular", "week": 3, "year": 2025}	200
+2026-10-04T10:08:18	/games/players	{"seasonType": "regular", "week": 4, "year": 2025}	200
+2026-10-04T10:08:19	/games/players	{"seasonType": "regular", "week": 5, "year": 2025}	200
+2026-10-04T10:08:21	/games/players	{"seasonType": "regular", "week": 6, "year": 2025}	200
+2026-10-04T10:08:22	/games/players	{"seasonType": "regular", "week": 7, "year": 2025}	200
+2026-10-04T10:08:23	/games/players	{"seasonType": "regular", "week": 8, "year": 2025}	200
+2026-10-04T10:08:24	/games/players	{"seasonType": "regular", "week": 9, "year": 2025}	200
+2026-10-04T10:08:26	/games/players	{"seasonType": "regular", "week": 10, "year": 2025}	200
+2026-10-04T10:08:27	/games/players	{"seasonType": "regular", "week": 11, "year": 2025}	200
+2026-10-04T10:08:28	/games/players	{"seasonType": "regular", "week": 12, "year": 2025}	200
+2026-10-04T10:08:30	/games/players	{"seasonType": "regular", "week": 13, "year": 2025}	200
+2026-10-04T10:08:32	/games/players	{"seasonType": "regular", "week": 14, "year": 2025}	200
+2026-10-04T10:08:32	/games/players	{"seasonType": "regular", "week": 15, "year": 2025}	200
+2026-10-04T10:08:32	/games/players	{"seasonType": "regular", "week": 16, "year": 2025}	200
+2026-10-04T10:08:33	/games/players	{"seasonType": "postseason", "week": 1, "year": 2025}	200
+2026-10-04T10:17:27	/info	{}	200
+2026-10-04T10:44:51	/roster	{"year": 2025}	200
+2026-10-04T10:44:52	/games	{"seasonType": "regular", "year": 2025}	200
+2026-10-04T10:44:54	/lines	{"seasonType": "regular", "year": 2025}	200
+2026-10-04T10:45:07	/teams	{"year": 2024}	200
+2026-10-04T10:45:07	/ratings/sp	{"year": 2024}	200
+2026-10-04T10:45:08	/player/portal	{"year": 2025}	200
+2026-10-04T10:45:09	/player/returning	{"year": 2025}	200
+2026-10-04T10:45:13	/games/players	{"seasonType": "regular", "week": 1, "year": 2024}	200
+2026-10-04T10:45:19	/games/players	{"seasonType": "regular", "week": 2, "year": 2024}	200
+2026-10-04T10:45:22	/games/players	{"seasonType": "regular", "week": 3, "year": 2024}	200
+2026-10-04T10:45:25	/games/players	{"seasonType": "regular", "week": 4, "year": 2024}	200
+2026-10-04T10:45:26	/games/players	{"seasonType": "regular", "week": 5, "year": 2024}	200
+2026-10-04T10:45:30	/games/players	{"seasonType": "regular", "week": 6, "year": 2024}	200
+2026-10-04T10:45:32	/games/players	{"seasonType": "regular", "week": 7, "year": 2024}	200
+2026-10-04T10:45:35	/games/players	{"seasonType": "regular", "week": 8, "year": 2024}	200
+2026-10-04T10:45:37	/games/players	{"seasonType": "regular", "week": 9, "year": 2024}	200
+2026-10-04T10:45:39	/games/players	{"seasonType": "regular", "week": 10, "year": 2024}	200
+2026-10-04T10:45:41	/games/players	{"seasonType": "regular", "week": 11, "year": 2024}	200
+2026-10-04T10:45:43	/games/players	{"seasonType": "regular", "week": 12, "year": 2024}	200
+2026-10-04T10:45:45	/games/players	{"seasonType": "regular", "week": 13, "year": 2024}	200
+2026-10-04T10:45:46	/games/players	{"seasonType": "regular", "week": 14, "year": 2024}	200
+2026-10-04T10:45:47	/games/players	{"seasonType": "regular", "week": 15, "year": 2024}	200
+2026-10-04T10:45:47	/games/players	{"seasonType": "regular", "week": 16, "year": 2024}	200
+2026-10-04T10:45:49	/games/players	{"seasonType": "postseason", "week": 1, "year": 2024}	200
+2026-10-04T10:45:49	/info	{}	200
+2026-10-04T11:45:50	/info	{}	200
+2026-10-04T11:51:56	/info	{}	200
+2026-10-04T12:03:54	/info	{}	200
+2026-10-04T12:06:23	/info	{}	200

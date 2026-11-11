@@ -1,0 +1,35 @@
+box rows 240421 ours 240410
+_merge
+both          240410
+left_only         11
+right_only         0
+Name: count, dtype: int64
+missing from ours by season:
+season
+2021    3
+2022    5
+2024    1
+2025    1
+2026    1
+dtype: int64
+            gameId    gameDate   playerId          name team  sog  toi_s
+53664   2022021165  2023-03-26  8476439.0    B. Ritchie  ARI  0.0    0.0
+54841   2025020538  2025-12-18  8476453.0   N. Kucherov  TBL  0.0    0.0
+90517   2022021101  2023-03-18  8477494.0     J. Drouin  MTL  0.0    0.0
+111607  2021021300  2022-04-29  8478055.0   G. Forsling  FLA  0.0    0.0
+156410  2021021281  2022-04-26  8479639.0    D. Coghlan  VGK  0.0    0.0
+156628  2022020952  2023-02-26  8479661.0    T. Jeannot  NSH  0.0    0.0
+200059  2024021146  2025-03-27  8481546.0       C. York  PHI  0.0    0.0
+210214  2022020950  2023-02-26  8482073.0  B. Schneider  NYR  0.0    0.0
+214911  2021021300  2022-04-29  8482113.0    A. Lundell  FLA  0.0    0.0
+223995  2022020479  2022-12-15  8482671.0      O. Power  BUF  0.0    0.0
+227196  2026020100  2026-10-13  8482742.0  Z. L'Heureux  COL  0.0    0.0
+in ours not box: 0
+Empty DataFrame
+Columns: [gameId, playerId, shots, timeOnIcePerGame]
+Index: []
+sog mismatches 0
+Empty DataFrame
+Columns: [gameId, gameDate, playerId, name, sog, shots]
+Index: []
+toi mismatches >1s 4

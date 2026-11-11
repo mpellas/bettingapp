@@ -1,0 +1,15 @@
+{
+ "event": "401892565",
+ "name": "Tampa Bay Lightning at Colorado Avalanche",
+ "start_utc": "2026-10-24T01:00Z",
+ "window_min": [
+  0,
+  30
+ ],
+ "legacy_no_archive": false,
+ "n_snapshots": 3,
+ "n_in_window": 0,
+ "status": "NO_IN_WINDOW_SNAPSHOT",
+ "closed": [],
+ "pulled_before_close": []
+}

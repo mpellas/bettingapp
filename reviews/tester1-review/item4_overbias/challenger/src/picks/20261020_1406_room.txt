@@ -1,0 +1,34 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots window pass 2:05 PM PT for the two 5:00 PM PT games: Jets at Blues, Bruins at Stars.
+
+DraftKings list: nothing qualifies. None of the 26 lines has a side with positive blended EV at DraftKings.
+
+Fliff check (5), all puck drop 5:00 PM PT. Fliff hasn't posted shots markets for either game yet, so none is offered on Fliff right now:
+1. Jimmy Snuggerud (STL, F) OVER 2.5 shots on goal, Winnipeg Jets at St. Louis Blues. DK +110, Fliff at +123 or better. PrizePicks: none.
+   Model +6.0 pts vs no-vig; recent form +1.9 pts.
+   Role: history F_top6, today f1/pp1 (promotion, so the under is skipped and the over is allowed); TOI last 5 17.7 min vs 17.8 over the last 30, PP TOI last 5 2.2 vs 2.4; opponent allows -3% to F_top6 (Jets allow 27.7 shots per game over the last 20).
+   Evidence: agrees 4 of 7 (champion +6.0; challenger +5.5; shrunk form +4.3; on PP1). Against: no-vig moved 1.9 pts away from side since open.
+2. Charlie McAvoy (BOS, D) UNDER 1.5 shots on goal, Boston Bruins at Dallas Stars. DK -110, Fliff at +105 or better. PrizePicks: none.
+   Model +6.8 pts vs no-vig; recent form +15.2 pts.
+   Role: history D+PP1, today d1/pp1 (no change); TOI last 5 24.3 min vs 24.9 over the last 30, PP TOI last 5 1.7 vs 3.0; opponent allows -2% to D+PP1 (Stars allow 23.3 shots per game).
+   Evidence: agrees 4 of 7 (champion +6.8; challenger +7.6; shrunk form +4.1; no-vig moved 3.3 pts toward side since open). Against: on PP1.
+3. Morgan Geekie (BOS, F) UNDER 1.5 shots on goal, Boston Bruins at Dallas Stars. DK -105, Fliff at +109 or better. PrizePicks: none.
+   Model +7.6 pts vs no-vig; recent form +23.9 pts.
+   Role: history F_top6+PP1, today f2/pp1 (no change); TOI last 5 17.0 min vs 17.4 over the last 30, PP TOI last 5 2.4 vs 2.8; opponent allows -5% to F_top6+PP1 (Stars allow 23.3 shots per game).
+   Evidence: agrees 5 of 7 (champion +7.6; challenger +8.8; shrunk form +4.0; opponent allows -5%; no-vig moved 4.5 pts toward side since open). Against: on PP1.
+4. JJ Peterka (BOS, F) UNDER 1.5 shots on goal, Boston Bruins at Dallas Stars. DK +105, Fliff at +118 or better. PrizePicks: none.
+   Model +8.6 pts vs no-vig; recent form +7.1 pts.
+   Role: history F_top6, today f1/pp2 (no change); TOI last 5 15.0 min vs 15.1 over the last 30, PP TOI last 5 1.2 vs 1.3; opponent allows -5% to F_top6 (Stars allow 23.3 shots per game).
+   Evidence: agrees 6 of 7 (champion +8.6; challenger +6.6; shrunk form +4.6; TOI down 1.5 min vs this season; opponent allows -5%; no-vig moved 3.1 pts toward side since open). Nothing against.
+   (Team per this morning's Bruins lineup data; the NHL API didn't respond for a second check.)
+5. Wyatt Johnston (DAL, F) UNDER 2.5 shots on goal, Boston Bruins at Dallas Stars. DK -105, Fliff at +109 or better. PrizePicks: none.
+   Model +8.7 pts vs no-vig; recent form +7.9 pts.
+   Role: history F_top6+PP1, today f1/pp1 (no change); TOI last 5 19.7 min vs 20.3 over the last 30, PP TOI last 5 3.6 vs 3.9; opponent allows +3% to F_top6+PP1 (Bruins allow 27.7 shots per game).
+   Evidence: agrees 3 of 7 (champion +8.7; challenger +8.0; shrunk form +7.7). Against: opponent allows +3%, on PP1, and no-vig moved 2.5 pts away from side since open.
+   Caution: Stars lineup data is from 10:01 AM PT yesterday (about 28 hours old).
+Correlation: McAvoy, Geekie, Peterka and Johnston are all unders in the same game, Bruins at Stars (a low-event game helps all four, a high-event game hurts all four), and McAvoy, Geekie and Peterka are all Boston. Treat the four as one bet's worth of exposure, or pick one or two.
+
+Lineup data for STL and BOS is from this morning (9:27 and 10:14 AM PT), under 12 hours old. 4 more sides passed every check but fell outside the top 5 by edge; they're in the sheet as Skipped. Role changes flagged in these games touch one listed pick (Snuggerud, promotion; only his under is skipped).
+Spreadsheet: /workspace/nhl-sog/sheets/20261020_D_1406_picks.xlsx
+Fliff credits today: 5 of 10 used.

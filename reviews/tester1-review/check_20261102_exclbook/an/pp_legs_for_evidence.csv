@@ -1,0 +1,4 @@
+game_id,player,player_id,market,line,side,team,opp,pos,mkt_p,model_p,book,price,ev_pct,in_final_list
+2026_08_ARI_DAL,Reggie Virgil,00-0041070,rec_yds,11.5,Under,DAL,ARI,WR,0.566,,prizepicks,PP std,4.41,True
+2026_08_BAL_BUF,Josh Palmer,00-0036988,rec_yds,8.5,Over,BUF,BAL,WR,0.5534,,prizepicks,PP std,2.08,True
+2026_08_BAL_BUF,Ty Johnson,00-0035537,rush_yds,1.5,Over,BUF,BAL,RB,0.5662,,prizepicks,PP std,4.45,True

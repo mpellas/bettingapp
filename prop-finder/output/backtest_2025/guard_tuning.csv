@@ -1,0 +1,19 @@
+set,variant,tune_top25_bets,tune_top25_hit,tune_top25_roi,holdout_top25_bets,holdout_top25_hit,holdout_top25_roi,better_on_both
+REAL NFL,live guards,199,0.6281,0.1992,99,0.4848,-0.0744,False
+REAL NFL,far_line discount OFF,193,0.6269,0.1969,99,0.4848,-0.0744,False
+REAL NFL,teammate_out discount OFF,199,0.6332,0.2088,99,0.4747,-0.0937,False
+REAL NFL,missed_last discount OFF,199,0.6332,0.2088,99,0.4646,-0.1129,False
+REAL NFL,small_sample discount OFF,199,0.6332,0.2088,99,0.4949,-0.0551,True
+REAL NFL,ALL guard discounts OFF,193,0.5803,0.1079,100,0.52,-0.0073,False
+SYNTHETIC NFL,live guards,185,0.7946,0.517,204,0.8578,0.6377,False
+SYNTHETIC NFL,far_line discount OFF,185,0.7946,0.517,205,0.8488,0.6204,False
+SYNTHETIC NFL,teammate_out discount OFF,185,0.8162,0.5582,200,0.84,0.6036,False
+SYNTHETIC NFL,missed_last discount OFF,172,0.8314,0.5872,178,0.8708,0.6624,True
+SYNTHETIC NFL,small_sample discount OFF,184,0.7989,0.5252,205,0.8585,0.639,True
+SYNTHETIC NFL,ALL guard discounts OFF,170,0.8176,0.561,173,0.8613,0.6442,True
+SYNTHETIC FBS,live guards,171,0.8187,0.563,141,0.8652,0.6518,False
+SYNTHETIC FBS,far_line discount OFF,164,0.8537,0.6297,142,0.8732,0.6671,True
+SYNTHETIC FBS,teammate_out discount OFF,171,0.8187,0.563,141,0.8652,0.6518,False
+SYNTHETIC FBS,missed_last discount OFF,153,0.817,0.5597,134,0.8731,0.6669,False
+SYNTHETIC FBS,small_sample discount OFF,173,0.8208,0.567,142,0.8592,0.6402,False
+SYNTHETIC FBS,ALL guard discounts OFF,117,0.8889,0.697,105,0.8667,0.6545,True

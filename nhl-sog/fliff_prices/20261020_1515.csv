@@ -1,0 +1,4 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261020,Vince Dunn,Detroit Red Wings at Seattle Kraken,UNDER,2.5,8478407,2026020149,401892547,b1c2bb946e4f5824800dab22ae585454,offered,2.5,-175,True,-133,False,-155,2.5,-155,2.5,True,2026-10-20T15:15:41-07:00,20261020_D_1513_picks.xlsx
+20261020,Kaapo Kakko,Detroit Red Wings at Seattle Kraken,UNDER,1.5,8481554,2026020149,401892547,b1c2bb946e4f5824800dab22ae585454,offered,1.5,-170,True,-140,False,-165,1.5,-165,1.5,True,2026-10-20T15:15:41-07:00,20261020_D_1513_picks.xlsx
+20261020,Mackie Samoskevich,Detroit Red Wings at Seattle Kraken,UNDER,1.5,8482713,2026020149,401892547,b1c2bb946e4f5824800dab22ae585454,offered,1.5,125,True,146,False,130,1.5,130,1.5,True,2026-10-20T15:15:41-07:00,20261020_D_1513_picks.xlsx

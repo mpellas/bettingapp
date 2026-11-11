@@ -1,0 +1,16 @@
+Fliff check: Kasperi Kapanen UNDER 1.5 (DK -110, Fliff at +105 or better) - model +7.1 pts vs no-vig; recent +2.2 pts
+   last 5: 1 of 5 under 1.5 (shots 2,2,0,3,2); model 55.6%, recent form 50.7% (shot rate last 10 x TOI last 5)
+   evidence: Kasperi Kapanen U1.5: agrees 4 of 7 (champion +7.1 pts; challenger +4.5 pts; shrunk form +3.8 pts; no-vig moved 2.4 pts toward side since open); against: TOI last 5 19.7 vs this season 18.4 (+1.3 min); last 30 incl. last season 17.1 (reference only)
+   with new tests: agrees 4 of 12; new against: shot attempts: att/60 last10 10.7 vs base 10.0 (+7%); SOG/att last10 0.47 vs base 0.57 (regression +21%); DK game total 6.5 (open); n/a: books
+Fliff check: Evan Bouchard UNDER 2.5 (DK +100, Fliff at +114 or better) - model +5.5 pts vs no-vig; recent +19.0 pts
+   last 5: 3 of 5 under 2.5 (shots 3,2,1,3,1); model 52.1%, recent form 65.6% (shot rate last 10 x TOI last 5)
+   evidence: Evan Bouchard U2.5: agrees 5 of 7 (champion +5.5 pts; challenger +5.4 pts; shrunk form +8.8 pts; TOI last 5 24.8 vs this season 25.8 (-1.0 min); last 30 incl. last season 25.3 (reference only); no-vig moved 2.3 pts toward side since open); against: opponent allows +4% to D+PP1; on PP1
+   with new tests: agrees 5 of 12; new against: shot attempts: att/60 last10 14.4 vs base 14.1 (+2%); SOG/att last10 0.35 vs base 0.46 (regression +33%); DK game total 6.5 (open); n/a: books
+Fliff check: Vasily Podkolzin UNDER 1.5 (DK -110, Fliff at +105 or better) - model +8.7 pts vs no-vig; recent +17.1 pts
+   last 5: 3 of 5 under 1.5 (shots 2,1,1,2,1); model 57.2%, recent form 65.6% (shot rate last 10 x TOI last 5)
+   evidence: Vasily Podkolzin U1.5: agrees 5 of 7 (champion +8.7 pts; challenger +9.1 pts; shrunk form +4.1 pts; TOI last 5 14.1 vs this season 17.6 (-3.4 min); last 30 incl. last season 17.2 (reference only); no-vig moved 2.4 pts toward side since open); nothing against
+   with new tests: agrees 5 of 12; new against: DK game total 6.5 (open); n/a: books
+Fliff check: Pavel Dorofeyev UNDER 2.5 (DK -120, Fliff at -105 or better) - model +7.5 pts vs no-vig; recent +2.0 pts
+   last 5: 3 of 5 under 2.5 (shots 1,1,1,4,3); model 58.5%, recent form 53.1% (shot rate last 10 x TOI last 5)
+   evidence: Pavel Dorofeyev U2.5: agrees 4 of 7 (champion +7.5 pts; challenger +4.7 pts; shrunk form +1.6 pts; TOI last 5 15.4 vs this season 16.9 (-1.5 min); last 30 incl. last season 17.4 (reference only)); against: on PP1
+   with new tests: agrees 4 of 12; new against: DK game total 6.5 (open); n/a: books

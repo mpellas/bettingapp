@@ -1,0 +1,75 @@
+date,pass_,player,side,line,agrees,agrees_rule,card_class
+20261017,1016,Brandon Hagel,OVER,3.5,5,5,final-card
+20261017,1016,Elias Pettersson,UNDER,1.5,3,3,final-card
+20261017,1222,Sam Reinhart,OVER,2.5,4,4,final-card
+20261017,1222,Mackie Samoskevich,UNDER,1.5,3,3,final-card
+20261017,1317,Noah Dobson,UNDER,2.5,3,3,final-card
+20261017,1317,Tyler Toffoli,OVER,1.5,3,3,final-card
+20261017,1317,Moritz Seider,OVER,1.5,4,4,final-card
+20261017,1317,Will Smith,UNDER,2.5,3,3,final-card
+20261017,1317,Mika Zibanejad,UNDER,2.5,4,4,final-card
+20261017,1421,Steven Stamkos,OVER,2.5,4,4,final-card
+20261017,1421,Roman Josi,OVER,2.5,4,4,final-card
+20261017,1421,Matthew Wood,OVER,1.5,3,3,final-card
+20261017,1520,David Pastrnak,OVER,3.5,2,2,final-card
+20261017,1520,Adrian Kempe,OVER,2.5,6,6,final-card
+20261017,1520,Charlie McAvoy,UNDER,1.5,5,5,final-card
+20261017,1520,JJ Peterka,UNDER,1.5,4,4,final-card
+20261017,1618,Connor McDavid,UNDER,3.5,3,3,final-card
+20261017,1618,Brayden McNabb,UNDER,1.5,4,4,final-card
+20261017,1618,Mark Stone,UNDER,2.5,4,4,final-card
+20261017,1618,Bryan Rust,UNDER,1.5,3,3,final-card
+20261017,1618,Mitch Marner,OVER,2.5,4,4,final-card
+20261017,morning,Dylan Strome,UNDER,1.5,5,5,final-card
+20261017,morning,Timo Meier,OVER,2.5,3,3,final-card
+20261017,morning,Jakob Chychrun,UNDER,2.5,4,4,final-card
+20261017,morning,Arseny Gritsyuk,OVER,1.5,4,4,final-card
+20261017,morning,Sebastian Aho,OVER,2.5,5,5,final-card
+20261018,1224,Matthew Knies,UNDER,1.5,4,4,final-card
+20261018,1224,Maxim Shabanov,UNDER,1.5,3,3,final-card
+20261018,1358,Nikolaj Ehlers,UNDER,2.5,3,3,final-card
+20261018,1358,Sebastian Aho,OVER,2.5,6,6,final-card
+20261019,1247,J.T. Miller,UNDER,1.5,4,4,final-card
+20261019,1247,Eeli Tolvanen,UNDER,1.5,5,5,final-card
+20261019,1247,Jackson LaCombe,UNDER,1.5,4,4,final-card
+20261019,1247,Beckett Sennecke,UNDER,2.5,2,2,final-card
+20261019,1247,Artturi Lehkonen,UNDER,1.5,3,3,final-card
+20261019,1319,Nick Paul,UNDER,1.5,4,4,final-card
+20261019,1518,Anders Lee,OVER,1.5,4,4,final-card
+20261019,1518,Rickard Rakell,UNDER,2.5,4,4,final-card
+20261019,1518,Logan Cooley,UNDER,2.5,3,3,final-card
+20261020,1305,Tony DeAngelo,UNDER,1.5,5,5,final-card
+20261020,1305,Jackson LaCombe,UNDER,1.5,4,4,final-card
+20261020,1305,Aliaksei Protas,UNDER,1.5,4,4,final-card
+20261020,1305,Morgan Rielly,UNDER,1.5,4,4,final-card
+20261020,1305,Kirill Marchenko,UNDER,2.5,4,4,final-card
+20261020,1406,Jimmy Snuggerud,OVER,2.5,4,4,final-card
+20261020,1406,Charlie McAvoy,UNDER,1.5,4,4,final-card
+20261020,1406,Morgan Geekie,UNDER,1.5,5,5,final-card
+20261020,1406,JJ Peterka,UNDER,1.5,6,6,final-card
+20261020,1406,Wyatt Johnston,UNDER,2.5,3,3,final-card
+20261020,1508,Kasperi Kapanen,UNDER,1.5,2,2,skipped (tester)
+20261020,1508,Kirill Kaprizov,UNDER,3.5,4,4,final-card
+20261020,1508,Alex Formenton,UNDER,1.5,5,5,final-card
+20261020,1508,Maxim Shabanov,UNDER,1.5,4,4,final-card
+20261020,1513,Vince Dunn,UNDER,2.5,4,4,final-card
+20261020,1513,Kaapo Kakko,UNDER,1.5,3,3,final-card
+20261020,1513,Mackie Samoskevich,UNDER,1.5,3,3,skipped (tester)
+20261020,1548,Shayne Gostisbehere,OVER,1.5,6,6,final-card
+20261024,0922,Jesper Bratt,OVER,1.5,4,4,final-card
+20261024,0922,Alex Laferriere,UNDER,2.5,5,5,final-card
+20261024,1307,Tyler Toffoli,OVER,1.5,5,5,final-card
+20261024,1307,Tom Wilson,UNDER,2.5,4,3,final-card
+20261024,1307,Mattias Samuelsson,UNDER,1.5,5,5,skipped (tester)
+20261024,1307,Sebastian Aho,OVER,2.5,5,5,final-card
+20261024,1307,Darren Raddysh,UNDER,2.5,4,4,skipped (tester)
+20261024,1512,Barrett Hayton,UNDER,1.5,2,2,skipped (tester)
+20261024,1609,Matt Coronato,UNDER,2.5,2,2,skipped (tester)
+20261024,1609,Emmitt Finnie,OVER,1.5,4,4,final-card
+20261024,1609,Vince Dunn,UNDER,2.5,3,2,skipped (tester)
+20261025,0922,Roman Kantserov,UNDER,1.5,4,4,skipped (Oct 25 NO BETS)
+20261025,1202,Brayden Schenn,OVER,1.5,5,5,skipped (Oct 25 NO BETS)
+20261025,1202,Roope Hintz,UNDER,2.5,4,4,skipped (Oct 25 NO BETS)
+20261025,1202,Miro Heiskanen,UNDER,1.5,3,3,skipped (Oct 25 NO BETS)
+20261025,1404,Roman Josi,OVER,1.5,5,4,skipped (Oct 25 NO BETS)
+20261025,1404,Sam Malinski,UNDER,1.5,3,3,skipped (Oct 25 NO BETS)

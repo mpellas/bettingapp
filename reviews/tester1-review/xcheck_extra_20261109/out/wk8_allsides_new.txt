@@ -1,0 +1,1 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source nfl_wk8_nov02_1613_all_sides.csv, asof 20261103T001300Z

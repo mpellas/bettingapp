@@ -1,0 +1,33 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+Both official lists are empty for games this pass can still post. NHL shots on goal, Mon Nov 9 3:12 PM PT line-capture pass (paper only): no DraftKings sides. The only Fliff check sides are the four Rangers at Oilers unders already posted at 2:01 PM PT (Kasperi Kapanen under 1.5, Evan Bouchard under 2.5, Vasily Podkolzin under 1.5, Pavel Dorofeyev under 2.5; Fliff was not offered then, so none was official). Flyers at Canucks (6:30 PM PT) has no DK or Fliff check sides. Islanders at Sharks (7:00 PM PT) is not in the D-window yet. Rangers at Oilers and Flyers at Canucks were kept unchanged from earlier scores; no new games were added. Fliff was not pulled this pass (0 credits; 1 of 10 used today).
+
+DraftKings list: none.
+
+Fliff check: none new.
+
+Vetoes: 1 lineup (Gabe Perreault, gate unverified), 0 stale-lineup, 9 role (7 over skipped, 2 under skipped).
+Spreadsheet: `/workspace/nhl-sog/sheets/20261109_D_1512_picks.xlsx`. Colors only work in Excel or Google Sheets. The puck-drop column shows 5:00 PM PT on every row; actual times are Rangers at Oilers 5:00 PM PT and Flyers at Canucks 6:30 PM PT.
+
+**Majority of tests** (4+ of 7, or more than half of all tests; informational only, off the card until they clear every gate). 19 scored sides have 4 or more of 7 (none qualified on the new-tests majority rule alone). Counts are shown as "N of 7; N of 12 with new tests".
+
+Philadelphia Flyers at Vancouver Canucks (6:30 PM PT), 8 sides:
+- Filip Hronek (Vancouver Canucks), Flyers at Canucks, OVER 1.5: 5 of 7; 7 of 12 with new tests. Shop-at Fliff +109 or better (DK -105). Skipped: recent form does not beat no-vig; no positive EV at DK. New for: opponent on a back-to-back, game total 6.5. New against: over 1.5 hit 5 of 19 this season (26%), 3 of 10 last 10 (30%) vs no-vig 48%.
+- Trevor Zegras (Philadelphia Flyers), Flyers at Canucks, OVER 1.5: 5 of 7; 6 of 12 with new tests. Shop-at -147 or better (DK -175). Skipped: role demotion (history top-6 + PP1, today third line / PP1), over skipped; no positive EV at DK. New for: game total 6.5. New against: Flyers on a back-to-back.
+- Porter Martone (Philadelphia Flyers), Flyers at Canucks, OVER 1.5: 5 of 7; 6 of 12 with new tests. Shop-at -126 or better (DK -150). Skipped: recent form does not beat no-vig; no positive EV at DK. New for: game total 6.5. New against: Flyers on a back-to-back.
+- Travis Konecny (Philadelphia Flyers), Flyers at Canucks, OVER 1.5: 4 of 7; 6 of 12 with new tests. Shop-at -137 or better (DK -160). Skipped: recent form does not beat no-vig; no positive EV at DK. New for: shot attempts +14%, SOG per attempt regression +54%, game total 6.5. New against: Flyers on a back-to-back.
+- Elias Pettersson (Vancouver Canucks), Flyers at Canucks, OVER 1.5: 4 of 7; 6 of 12 with new tests. Shop-at -119 or better (DK -140). Skipped: recent form does not beat no-vig; no positive EV at DK. New for: opponent on a back-to-back, game total 6.5. New against: over 1.5 hit 7 of 19 this season (37%), 3 of 10 last 10 (30%) vs no-vig 54%.
+- Christian Dvorak (Philadelphia Flyers), Flyers at Canucks, UNDER 1.5: 4 of 7; 5 of 12 with new tests. Shop-at Fliff +104 or better (DK -110). Skipped: side not from milestone prices; no positive EV at DK. New for: Flyers on a back-to-back with Canucks rested. New against: game total 6.5.
+- Matvei Michkov (Philadelphia Flyers), Flyers at Canucks, OVER 1.5: 4 of 7; 5 of 12 with new tests. Shop-at -141 or better (DK -170). Skipped: model not above no-vig; no positive EV at DK. New for: game total 6.5. New against: Flyers on a back-to-back, shot attempts −12%.
+- Jonathan Lekkerimaki (Vancouver Canucks), Flyers at Canucks, UNDER 1.5: 4 of 7; 4 of 12 with new tests. Shop-at Fliff +119 or better (DK +105). Skipped: side not from milestone prices; no positive EV at DK. New against: opponent on a back-to-back, shot attempts +32%, game total 6.5.
+
+New York Rangers at Edmonton Oilers (5:00 PM PT), 7 sides that were not on the 2:01 PM majority note (4 others from this game were posted then as Fliff checks: Bouchard under 2.5, Podkolzin under 1.5, Kapanen under 1.5, Dorofeyev under 2.5):
+- Ryan Nugent-Hopkins (Edmonton Oilers), Rangers at Oilers, UNDER 2.5: 5 of 7; 5 of 12 with new tests. Shop-at Fliff -159 or better (DK -190). Skipped: side not from milestone prices; no positive EV at DK. New against: shot attempts +25%, SOG per attempt regression +12%, game total 6.5.
+- J.T. Miller (New York Rangers), Rangers at Oilers, OVER 1.5: 4 of 7; 6 of 12 with new tests. Shop-at -121 or better (DK -140). Skipped: side not from milestone prices; no positive EV at DK. New for: shot attempts +21%, SOG per attempt regression +10%, game total 6.5.
+- Zach Hyman (Edmonton Oilers), Rangers at Oilers, UNDER 2.5: 4 of 7; 5 of 12 with new tests. Shop-at -137 or better (DK -165). Skipped: side not from milestone prices; no positive EV at DK. New for: under 2.5 hit 5 of 7 this season (71%), 8 of 10 last 10 (80%) vs no-vig 58%. New against: game total 6.5.
+- Mika Zibanejad (New York Rangers), Rangers at Oilers, OVER 1.5: 4 of 7; 5 of 12 with new tests. Shop-at -151 or better (DK -180). Skipped: side not from milestone prices; no positive EV at DK. New for: game total 6.5. New against: shot attempts −28%, SOG per attempt regression +4%.
+- Connor McDavid (Edmonton Oilers), Rangers at Oilers, OVER 3.5: 4 of 7; 5 of 12 with new tests. Shop-at +145 or better (DK +130). Skipped: recent form does not beat no-vig; no positive EV at DK. New for: game total 6.5. New against: over 3.5 hit 4 of 18 this season (22%), 2 of 10 last 10 (20%) vs no-vig 41%; shot attempts −19%.
+- Connor Murphy (Edmonton Oilers), Rangers at Oilers, UNDER 1.5: 4 of 7; 4 of 12 with new tests. Shop-at Fliff -191 or better (DK -230). Skipped: slot veto; no positive EV at DK. New against: game total 6.5.
+- Adam Fox (New York Rangers), Rangers at Oilers, UNDER 1.5: 4 of 7; 4 of 12 with new tests. Shop-at -102 or better (DK -120). Skipped: recent form does not beat no-vig; no positive EV at DK. New against: game total 6.5.
+
+Outside the −150 shop-at end of the price band: Ryan Nugent-Hopkins under 2.5 (−159), Mika Zibanejad over 1.5 (−151), Connor Murphy under 1.5 (−191). Flyers at Canucks shop-at prices are all inside that end.

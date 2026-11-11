@@ -1,0 +1,12 @@
+      pass_id                                      game           player  line  dk_price  shop_at  edge_model_pts  toi_rise  tally  new_status  makes_list                                                 blockers
+20261027_1339      Boston Bruins at Carolina Hurricanes  William Carrier   1.5      -155     -130            -0.3      3.41      1     Skipped       False                 sheet:model not above no-vig | tally 1/7
+20261027_1339   Los Angeles Kings at Chicago Blackhawks      Ryan Donato   1.5      -145     -120            -4.2     -1.09      2     Skipped       False                 sheet:model not above no-vig | tally 2/7
+20261027_1339   Los Angeles Kings at Chicago Blackhawks  Erik Gustafsson   1.5      -175     -144             3.5      2.23      3     Skipped       False   sheet:edge below 5-pt floor (model +3.5 pts vs no-vig)
+20261027_1339     Montreal Canadiens at St. Louis Blues    Chris Kreider   1.5      -180     -148            -8.5     -2.58      2     Skipped       False                 sheet:model not above no-vig | tally 2/7
+20261027_1339     Montreal Canadiens at St. Louis Blues    Josh Anderson   1.5      -130     -109            -2.3      1.09      1     Skipped       False                 sheet:model not above no-vig | tally 1/7
+20261027_1339     Montreal Canadiens at St. Louis Blues      Noah Dobson   2.5      -170     -143             7.6     -0.82      4 Fliff check        True                                                         
+20261027_1339     Montreal Canadiens at St. Louis Blues Jonatan Berggren   1.5      -145     -122             3.6      0.77      4     Skipped       False                   sheet:recent form does not beat no-vig
+20261027_1339     Montreal Canadiens at St. Louis Blues   Oliver Kapanen   1.5       110      122            17.1     -0.43      5     Skipped       False              sheet:model more than 12 points from no-vig
+20261027_1339 New York Islanders at Nashville Predators   Nils Hoglander   1.5      -195     -166            14.0     -1.32      3     Skipped       False              sheet:model more than 12 points from no-vig
+20261027_1339 New York Islanders at Nashville Predators    Victor Eklund   1.5      -120     -105             6.6      0.37      4     Skipped       False sheet:side not from milestone prices | stale lineup >12h
+20261027_1339         New Jersey Devils at Dallas Stars   Joel Kiviranta   1.5      -150     -131            19.6      1.04      4     Skipped       False              sheet:model more than 12 points from no-vig

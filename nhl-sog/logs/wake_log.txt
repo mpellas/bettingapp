@@ -1,0 +1,230 @@
+2026-10-15 13:39:05 PDT hourly wake start
+2026-10-15 13:39:21 PDT hourly wake end: loop healthy (pid 29692); all open D windows have D files (6 today-folder games + 3 in 20261016 folder); next puck drop in ~141 min (>85), no C window due, next hourly wake takes over
+2026-10-15 14:38:25 PDT START hourly capture wake
+2026-10-15 15:22:37 PDT
+Oct15 close-checkin START 2026-10-15T15:22:37-07:00
+2026-10-15 15:33:27 PDT Oct15 close-checkin END 2026-10-15T15:33:27-07:00: 5 games in 40m window (BUF@TOR NYI@OTT SEA@TB VAN@FLA NYR@NJ); all have in-window C at ~28min; close.py rebuilt OK; no miss alert
+2026-10-15 15:38:44 PDT hourly wake start
+2026-10-15 15:57:48 PDT close-check-in 3:50 slot start
+2026-10-15 16:02:14 PDT close-check-in 3:50 slot END: 4:00 games (BUF@TOR NYI@OTT NYR@NJ SEA@TB VAN@FLA) in-window C x4 through ~2min; PHI@DET in-window C at 28min (16:01:55); close.py rebuilt 20261015 OK; next games 5:00 PM outside 40m window at start; no miss alert
+2026-10-15 16:28:58 PDT close-checkin 4:20/4:50 slot start (fired 16:28)
+2026-10-15 16:35:15 PDT close-checkin 4:20/4:50 slot END: PHI@DET (4:30) in-window C x7 through ~0min, close OK (20 closed, 2 pulled); 5:00 games WPG@CHI SJ@NSH STL@MIN first in-window C at 26min (16:33:58), close.py rebuilt 20261016 OK; loop healthy; no miss alert; next check-in takes over
+2026-10-15 16:42:43 PDT wake_start hourly_capture_wake
+2026-10-15T16:59:33-07:00 Oct15-close-checkin START fire=23:59Z focus=5pm-window
+2026-10-15T17:03:15-07:00 Oct15-close-checkin END: 5:00 games (WPG@CHI SJ@NSH STL@MIN) puck drop passed; in-window C x8 through ~1.2min each; close.py rebuilt 20261016 OK (512:15c/0p 513:23c/1p 514:19c/0p); UTA@EDM/CGY@VGK outside 40m window; loop healthy next_sleep=1746; no miss alert
+2026-10-15 17:21:03 PDT close-checkin 5:20 start
+2026-10-15 17:32:23 PDT close-checkin 5:20 END: UTA@EDM (6:00) in-window C at 28min (17:32:09), close.py rebuilt 20261016/401892515 OK; CGY@VGK outside 40m window; loop healthy next_sleep=240; no miss alert; next check-in takes over
+2026-10-15 17:43:48 PDT START hourly wake
+2026-10-15 17:54:39 PDT close-checkin 5:50 start
+2026-10-15 17:59:59 PDT close-checkin 5:50 END: UTA@EDM (6:00) puck drop reached; in-window C x7 through 0.1min (17:59:51); close.py rebuilt 20261016/401892515 OK (22c/0p); CGY@VGK (7:00) outside 40m window; loop healthy; no miss alert; next check-in takes over
+[2026-10-15 18:20:46 PDT] NHL SOG Oct 15 close check-in START (routine nhl-sog-oct-15-close-check-ins)
+[2026-10-15 18:32:14 PDT] NHL SOG Oct 15 close check-in END: CGY@VGK (7:00) in-window C at 28min (18:32:04), close.py rebuilt 20261016/401892516 OK; earlier games already closed; loop healthy next_sleep=240; no miss alert; next check-in takes over
+2026-10-15 18:32:36 PDT END hourly wake: both within-85 games have in-window C (515 Utah@EDM n_in=7; 516 CGY@VGK n_in=1 at 28min); no missed D/C; ensure_capture ok; quiet
+2026-10-15 18:38:20 PDT START hourly-wake
+2026-10-15 18:39:54 PDT END hourly-wake reason=in-window C already present for only game within 85m (401892516 CGY@VGK ~20m to drop); no open D missing file; no closed D/C window without file; supervisor+loop alive
+[2026-10-15 18:54:43 PDT] NHL SOG Oct 15 close check-in START (routine nhl-sog-oct-15-close-check-ins) fire=6:50 slot focus=CGY@VGK
+[2026-10-15 19:02:13 PDT] NHL SOG Oct 15 close check-in END (routine nhl-sog-oct-15-close-check-ins) focus=CGY@VGK eid=401892516 reason=puck_drop_passed in_window_C=yes n_in_window=6 closed=22 close.py=OK snaps=18 latest_mts=4.0 loop=alive supervisor=ok
+2026-10-15 19:36:46 PDT hourly wake start
+2026-10-15 19:36:59 PDT hourly wake end: loop healthy; all 7 Oct 15 games have D and C files; next puck drop ~1343 min away, no D/C window open
+2026-10-16 09:42:32 PDT hourly wake start
+2026-10-16 09:42:44 PDT hourly wake end: capture loop healthy, next puck drop ~498 min out (~6:00 PM PT); no D window open, no game within 85 min
+2026-10-16 10:41:15 PDT hourly wake start
+2026-10-16 10:41:28 PDT hourly wake end: loop healthy, next puck drop ~439 min out (~6:00 PM PT); no D window open, nothing within 85 min
+2026-10-16 11:40:32 PDT hourly wake start
+2026-10-16 11:40:45 PDT hourly wake end: loop healthy, next puck drop ~380 min out (~6:00 PM PT); no D window open (opens ~2:30 PM), nothing within 85 min
+2026-10-16 12:38:55 PDT hourly wake start
+2026-10-16 12:39:03 PDT hourly wake end: loop healthy, next puck drop ~321 min out (~6:00 PM PT); no D window open (opens ~2:30 PM), nothing within 85 min
+2026-10-16 13:36:30 PDT hourly wake start
+2026-10-16 13:36:45 PDT hourly wake end: next puck drop ~264 min out (~6:00 PM PT); no D window open yet (earliest opens ~2:30 PM PT) and no game within 85 min; capture loop + supervisor running
+2026-10-16 14:42:32 PDT hourly wake start
+2026-10-16 14:42:49 PDT hourly wake end: PIT@COL (6:00 PM PT) D saved 2:42 PM in-window; BOS@ANA (7:00 PM PT) D window opens 3:30 PM; no game within 85 min; loop + supervisor running
+2026-10-16 15:43:14 PDT hourly wake start
+2026-10-16 15:43:29 PDT hourly wake end: loop healthy; PIT@COL (6:00 PM PT) and BOS@ANA (7:00 PM PT) D files present; no game within 85 min, next wake covers C windows
+2026-10-16 16:39:52 PDT hourly wake start
+2026-10-16 16:45:52 PDT BOS@ANA late pass: picks/20261016_BOSANA*.csv, sheets/20261016_BOSANA_D_picks_1640.xlsx; BOS@ANA rows appended to picks/20261016_D.csv (PIT@COL rows unchanged, backup picks/20261016_D_1512pass.csv)
+2026-10-16 17:38:19 PDT hourly wake start
+2026-10-16 18:37:01 PDT hourly wake start
+2026-10-16 18:37:08 PDT hourly wake end: loop healthy; PIT@COL (6:00 PM PT) D+C in window (C 28→2 min); BOS@ANA (7:00 PM PT) D present and in-window C saved at 28 and 23 min; no remaining games tonight, loop keeps refreshing C/CLOSE until puck drop
+2026-10-16 19:45:19 PDT wake start (hourly capture wake 7:35 slot, fired late)
+2026-10-16 19:45:27 PDT wake end: tonight's slate complete (all 7 games have D+C files incl. late BOS@ANA); next puck drop ~861 min away; capture loop+supervisor running
+2026-10-17 14:41:14 PDT hourly wake start
+2026-10-17 15:46:22 PDT hourly wake START
+2026-10-17 16:33:54 PDT hourly wake END: all 4:00 PM PT games (NYI@TOR, BUF@MTL, SJ@DET, OTT@PHI, NYR@CBJ, DAL@CHI) had D + in-window C (latest 14 min out); STL@NSH (5:00 PM PT) D present and in-window C saved at 28 min; BOS@LA (6:00 PM PT) D present, EDM@UTA and PIT@VGK (7:00 PM PT) D present; next puck drop beyond 85 min, so the 4:35 wake takes over. Note: box froze/restarted mid-run (supervisor PID changed 43703->7157), loop recovered on its own.
+2026-10-17 16:43:14 PDT hourly wake start
+2026-10-17 17:32:13 PDT hourly wake END: STL@NSH (5:00 PM PT) had D + in-window C (last at 1 min out); BOS@LA (6:00 PM PT) D present and in-window C saved ~28 min out; EDM@UTA and PIT@VGK (7:00 PM PT) D present, C windows open 6:30 PM, beyond 85 min of this wake's start, so the next hourly wake takes over; no missed windows; loop+supervisor running
+2026-10-17 17:43:18 PDT hourly wake start
+2026-10-17 18:44:11 PDT hourly wake start
+2026-10-17 18:45:08 PDT hourly wake END: EDM@UTA and PIT@VGK (7:00 PM PT) both have D + in-window C (latest 16 min out, 17 and 20 lines); BOS@LA (6:00 PM PT) had D + in-window C (15 lines through 17 min out), but its final C snapshots from 13 min to 1 min out had lines=0 and overwrote the main C file (good 15-line snapshots are in archive/401892530_C_003208..004318); no later games tonight; no missed windows; loop+supervisor running. Previous 5:43 wake left no END line.
+2026-10-17 19:46:43 PDT hourly wake start
+2026-10-17 19:48:05 PDT hourly wake end: all 16 Oct 17 PT games (incl. 4 late games under 20261018) have D and C files; no puck drop within 85 min (next in ~1153 min); capture loop running
+2026-10-18 14:47:03 PDT wake start (hourly capture wake)
+2026-10-18 14:47:54 PDT hourly wake END: Oct 18 slate is CBJ@MIN (3:00 PM PT) and CAR@CGY (5:00 PM PT). CBJ@MIN has D (17 lines) + in-window C (17 lines at 19 and 15 min out); CAR@CGY has D (19 lines, 183/173 min out), C window opens 4:30 PM PT and is >85 min away, so the next hourly wake (~3:35 PM) covers it. No missed windows; loop+supervisor running.
+2026-10-18 15:39:26 PDT hourly wake start
+2026-10-18 16:43:14 PDT hourly wake start
+2026-10-18 16:43:58 PDT hourly wake END: only remaining Oct 18 game CAR@CGY (5:00 PM PT) has D (14:06) and in-window C (19 lines at 24 and 17 min out, 16:43). No more games today; no missed windows. Note: 15:39 wake left no end entry; supervisor restarted a stale worker at 15:15 and loop is running.
+2026-10-18 17:39:22 PDT hourly wake start
+2026-10-18 17:40:13 PDT hourly wake end: all of today's post-noon games (CBJ@MIN, CAR@CGY) have D and in-window C files; supervisor restarted stale loop at 17:39; next puck drop ~1341 min away, nothing to hold for
+2026-10-18 18:40:42 PDT hourly wake start
+2026-10-18 18:41:16 PDT hourly wake end: today's slate is done (all games have D and C files); next puck drop ~1279 min away (Oct 19 afternoon), no window open or near; capture loop and supervisor running
+2026-10-18 19:44:52 PDT hourly wake start
+2026-10-18 19:45:27 PDT hourly wake end: no games left today; next puck drop in ~1215 min (Mon ~4 PM PT), no D/C windows open; capture loop and supervisor running
+2026-10-19 09:44:31 PDT 9:12 line-captures run (fired 9:40): graded 20261018 (36 lines, 0 picks); report+shadow OK; GAP CHECK FAILED 2026020129 (NYR@CBJ Oct 17: Fox 2 vs box 3, Schneider 3 vs box 4; no graded pick affected); predict 20261019: no lines to score (no D snapshots yet; games 4:00/4:00/4:30/6:00 PM PT); challenger skipped (no D file); empty-list post sent to Betting App.
+2026-10-19 14:40:03 PDT hourly wake start
+2026-10-19 15:21:48 PDT 3:12 line-captures run (fired 3:18): logs through 10-18, gap check OK; predict added PIT@UTA (13 lines, 3 earlier games kept); challenger merged; DK list empty; Fliff check 3 (Lee O1.5, Rakell U2.5, Cooley U2.5), none on Fliff yet; credits 4/10; sheet sheets/20261019_D_1518_picks.xlsx; posted to Betting App.
+2026-10-19 15:46:35 PDT wake start (hourly capture wake)
+2026-10-19 16:02:23 PDT hourly wake end: in-window C landed for ANA@NYR, COL@PHI (4:00) and SJ@TOR (4:30); all D files present incl. PIT@UTA (6:00, in captures/20261020); PIT@UTA C window opens 5:30, next hourly wake (~4:35) takes over; loop and supervisor running
+2026-10-19 16:46:45 PDT hourly wake start
+2026-10-19 17:32:14 PDT hourly wake end: in-window C landed for PIT@UTA (6:00 PT) at 5:32, 28 min before puck drop, 13 lines plus CLOSE; D already present; that was the last game today, so nothing left to cover; loop and supervisor running
+2026-10-19 17:45:22 PDT hourly wake start
+2026-10-19 17:46:10 PDT hourly wake end: all 4 Oct 19 games (ANA@NYR, COL@PHI, SJS@TOR, PIT@UTA) have in-window D and C files; last game PIT@UTA 6:00 PM PT already has C at 5:44 PM (15 min out); no more games tonight
+2026-10-19 18:43:02 PDT hourly wake start
+2026-10-19 18:43:48 PDT hourly wake end: Oct 19 slate complete (ANA@NYR, COL@PHI, SJS@TOR, PIT@UTA all have D and in-window C files); next puck drop ~1277 min away (Oct 20 afternoon), no window open or near; loop and supervisor running
+2026-10-19 19:43:06 PDT hourly wake start
+2026-10-19 19:43:56 PDT hourly wake end: Oct 19 slate already complete (all 4 games have D and in-window C); next puck drop ~1217 min away (Oct 20 afternoon), no D/C window open or near; loop and supervisor running
+2026-10-20 14:09:44 PDT window pass 1406: WPG@STL, BOS@DAL (5:00 PM PT) scored via predict --window-only (merged into picks/20261020_D.csv, 5 earlier games kept byte-identical); DK list nothing qualifies (26 lines); Fliff check 5 (Snuggerud O2.5, McAvoy U1.5, Geekie U1.5, Peterka U1.5, Johnston U2.5), Fliff not posted; Fliff credits 5/10; sheet sheets/20261020_D_1406_picks.xlsx; nothing posted
+2026-10-20 14:43:15 PDT hourly wake start
+2026-10-20 15:39:46 PDT hourly wake start
+2026-10-24 14:39:38 PDT hourly wake start
+2026-10-24 15:44:39 PDT hourly wake start
+2026-10-24 15:45:19 PDT hourly wake end: CAR@STL and TOR@EDM (4:00 PM PT) both have D and in-window C (16 min) files; tonight's late games DET@CGY, MIN@SEA (~7 PM) and 401892575 (~6 PM) already have D files; ANA@PHI was pre-noon (excluded); next puck drop ~6 PM is beyond 85 min, so the 4:35 PM wake covers its C window; loop and supervisor running
+2026-10-24 16:10:21 PDT window pass 1609 (4:00 PM routine, fired 4:08): DET@CGY, MIN@SEA (7:00 PM PT) scored via predict --window-only (merged into picks/20261024_D.csv), challenger merged (2 games); DK list none; Fliff check 3 (Finnie O1.5, Coronato U2.5, Dunn U2.5); Fliff: DET@CGY not posted, Dunn Fliff -205 worse than -159; credits 8/10; sheet sheets/20261024_D_1609_picks.xlsx; room text picks/20261024_1609_room.txt handed to parent
+2026-10-24 16:42:40 PDT wake start (hourly 4:35 slot)
+2026-10-24 17:32:20 PDT wake end: in-window C landed for 401892575 (6 PM game); next games (7 PM) have D files, next hourly wake covers their C
+2026-10-24 17:46:12 PDT hourly wake start
+2026-10-24 18:32:55 PDT hourly wake end: in-window C snapshots landed for TBL@UTA (6 PM), DET@CGY and MIN@SEA (7 PM); all D files present
+2026-10-24 18:40:58 PDT hourly wake start
+2026-10-24 18:41:25 PDT hourly wake end: all remaining games (401892575-577) have D and in-window C files; no further games tonight
+2026-10-24 19:45:50 PDT hourly wake start
+2026-10-24 19:46:12 PDT hourly wake end: no D window open, next puck drop ~976 min away; tonight's C captures landed
+2026-10-25 12:03:56 PDT window pass 1202 (12:00 PM routine, fired 12:02): NYI@DAL (3:00 PM PT, rechecked) scored via predict --window-only (merged into picks/20261025_D.csv, FLA@CHI kept), challenger merged; DK list none; Fliff check 3 (Schenn O1.5, Hintz U2.5, Heiskanen U1.5), all Fliff prices worse than shop-at; credits 2/10; sheet sheets/20261025_D_1202_picks.xlsx; room text picks/20261025_1202_room.txt handed to parent
+2026-10-25 13:07:16 PDT window pass 1306 (1:00 PM routine, fired 1:05): MTL@WPG (4:00 PM PT, rechecked) scored via predict --window-only (merged into picks/20261025_D.csv, 2 games kept), challenger merged; 11 DK lines; DK list none, Fliff check none (NO BETS); 4 role vetoes (promotions, unders); credits 0 this pass, 2/10 today; sheet sheets/20261025_D_1306_picks.xlsx; room text picks/20261025_1306_room.txt handed to parent
+2026-10-25 14:06:04 PDT window pass 1404 (2:00 PM routine, fired 2:04): COL@NSH (5:00 PM PT, rechecked 175 min) scored via predict --window-only (merged into picks/20261025_D.csv, 3 games kept), challenger merged; 18 DK lines; DK list none; Fliff check 2 (Josi O1.5 - Fliff only O2.5 +130; Malinski U1.5 - Fliff -115 worse than +109); 2 role vetoes (Landeskog, Wood unders, promotions); credits 3/10; sheet sheets/20261025_D_1404_picks.xlsx; room text picks/20261025_1404_room.txt handed to parent
+2026-10-25 14:38:35 PDT hourly wake start
+2026-10-25 15:44:34 PDT wake start (hourly capture wake 3:44 PM fire)
+2026-10-25 16:32:39 PDT wake end: COL@NSH 401892580 C landed 16:32 (28 min pre); MTL@WPG C done earlier; MIN@VAN D done, its C window (6:30 PM) left to later wakes
+2026-10-25 16:46:43 PDT hourly wake start
+2026-10-25 16:47:11 PDT hourly wake end: only game within 85 min is COL@NSH (401892580, ~5:00 PM PT) and it already has an in-window C (16 min out); MIN@VAN (401892581, ~7:00 PM PT) has its D, C window opens ~6:30 PM for the next wake; loop healthy
+2026-10-25 17:42:45 PDT hourly wake start
+2026-10-25 18:32:17 PDT hourly wake end: in-window C landed for MIN@VAN (401892581) at 6:32 PM PT, 28 min pre-drop; no other games pending
+2026-10-25 18:41:05 PDT hourly wake start
+2026-10-25 18:41:35 PDT hourly wake end: all of today's noon+ games (incl. last, MIN@VAN 7:00 PM PT) have D and in-window C files; nothing left to capture
+2026-10-25 19:44:32 PDT hourly wake start
+2026-10-25 19:44:53 PDT hourly wake end: next puck drop ~1220 min away, no D/C window open or missed
+2026-10-26 14:41:47 PDT hourly wake start
+2026-10-26 15:40:38 PDT hourly wake start
+2026-10-26 15:41:11 PDT hourly wake end: only game within 85 min is 401892582 (LA@NYR 4:00 PM PT), in-window C already saved (20 min); D files present for 583 (5:30 PM) and 584 (6:30 PM); loop+supervisor healthy; next wake covers 583 C window
+2026-10-26 16:40:51 PDT hourly wake start
+2026-10-26 17:02:47 PDT hourly wake end: in-window C landed for 401892583 TOR@CGY (28 min, 17:02); DET@EDM 401892584 (6:30 PM, D on file) is ~88 min out, left to next hourly wake
+2026-10-26 17:47:30 PDT hourly wake start
+2026-10-26 18:02:13 PDT hourly wake end: in-window C (28min) landed for 401892584 DET@EDM; all games through 18:30 PT have D and C; no later games
+2026-10-26 18:42:27 PDT hourly wake start
+2026-10-26 18:42:51 PDT hourly wake end: all today's games started (last DET@EDM C captured); next puck drop ~21h out, no D/C windows open
+2026-10-26 19:39:19 PDT wake start (hourly capture wake)
+2026-10-26 19:39:40 PDT wake end: no games within 85 min (next puck drop ~1221 min); no open D windows
+2026-10-27 14:47:41 PDT hourly wake start
+2026-10-27 15:35:34 PDT hourly wake end: C landed for CBJ@PHI 401892585 (4:00 PM drop, 28min); D files present for 401892586-594; next C windows (5 PM games) open 4:30 PM, covered by 4:35 wake; ~48 min elapsed
+2026-10-27 15:40:12 PDT hourly wake start
+2026-10-27 16:46:32 PDT wake start (hourly capture wake 4:35 slot)
+2026-10-27 17:33:08 PDT wake end: in-window C landed for all games within 85 min (MIN@UTA 401892592 C at 28min); 4:00 PM PT games all had C; later games (7:00/7:30 PM) have D files; next hourly wake takes over
+2026-10-27 17:42:03 PDT hourly wake start
+2026-10-27 18:40:43 PDT wake start (hourly capture wake 18:40 fire)
+2026-10-27 19:03:10 PDT wake end: all games within 85 min have in-window C (OTT@VGK, VAN@ANA 21min; BUF@SJ 27min); no later games today
+2026-10-27 19:46:54 PDT wake start (hourly capture wake)
+2026-10-27 19:47:16 PDT wake end: all of tonight's games started; D/C/CLOSE files present for all 10 (401892586-595); next puck drop ~1244 min away
+2026-10-28 15:43:45 PDT hourly wake start
+2026-10-28 16:02:50 PDT hourly wake end: PHI@WSH (401892596) C landed at 28 min pre-drop; no other game within 85 min (CGY@EDM 5:30 PM PT C window opens 5:00, next hourly wake covers); D files present for 597/598/599
+2026-10-28 16:43:29 PDT hourly wake start
+2026-10-28 17:38:17 PDT hourly wake start
+2026-10-28 18:38:44 PDT hourly-wake start
+2026-10-28 18:39:21 PDT hourly-wake end: all games have D and in-window C (TOR@SEA C at 21min, last game of slate); no gaps
+2026-10-28 19:40:29 PDT hourly-wake start
+2026-10-28 19:40:54 PDT hourly-wake end: no games within 85 min (next puck drop ~1219 min), no D window open, gap check OK
+2026-10-31 10:09:27 PDT window pass start (Oct 31 early-window one-off, 1 PM games)
+2026-10-31 10:10:28 PDT window pass end: list 20261031_1009 NO BETS (BUF@LA, OTT@SJ 1 PM); room post written
+2026-10-31 14:42:46 PDT hourly-wake START
+2026-10-31 15:32:10 PDT hourly-wake END: in-window C snapshots landed 15:32 PT for PIT@MTL and TOR@VAN (4:00 PM PT puck); next game CBJ@DAL ~5:00 PM PT has D, its C window is handed to the next hourly wake
+2026-10-31 15:40:26 PDT hourly-wake start
+2026-10-31 16:47:00 PDT hourly wake start
+2026-10-31 16:47:32 PDT hourly wake end: loop+supervisor alive; CBJ@DAL (~5:00 PM) has D and in-window C (13 min); CGY@COL (~7:00 PM) D captured, C window opens ~6:30 PM, beyond 85 min, so next wakes cover it
+2026-10-31 17:43:54 PDT hourly wake start
+2026-10-31 18:32:28 PDT hourly wake end: in-window C landed for 401892623 (7 PM game), D present; no other games within 85 min
+2026-10-31 18:41:05 PDT hourly wake start
+2026-10-31 18:41:25 PDT hourly wake end: last game of slate (401892623 CGY@COL 7:00 PM PT) already has D and in-window C; all games 401892614-623 have D/C files, nothing left to cover
+2026-10-31 19:41:46 PDT hourly wake start
+2026-10-31 19:42:02 PDT hourly wake end: tonight's slate done (last C captured for CGY@COL); next puck drop ~918 min out, no D/C windows open
+2026-11-01 14:47:52 PST hourly-wake start
+2026-11-01 14:48:15 PST hourly-wake end: only game within 85 min (EDM@NYR 3:00 PM PT) already has in-window C; OTT@ANA D file present, C window later; no gaps
+2026-11-01 15:39:20 PST hourly-wake start
+2026-11-01 16:44:25 PST hourly-wake START
+2026-11-01 16:44:42 PST hourly-wake END reason: all slate games have D and in-window C files (last game OTT@ANA 5:00 PM C saved 16min out); no later games
+2026-11-01 17:45:29 PST hourly-wake start
+2026-11-01 17:45:47 PST hourly-wake end: all of today's games started (last C for Senators at Ducks saved); next puck drop ~1335 min away, no open D/C windows; worker restarted after stale alert, healthy
+2026-11-01 18:40:38 PST hourly-wake start
+2026-11-01 18:40:54 PST hourly-wake end: no game within 85 min (next puck drop ~1279 min away), capture loop healthy
+2026-11-01 19:47:34 PST hourly-wake start
+2026-11-01 19:47:48 PST hourly-wake end: no games within 85 min (next puck drop ~1214 min); capture loop+supervisor running
+2026-11-02 14:40:49 PST hourly-wake start
+2026-11-02 15:38:12 PST hourly-wake start
+2026-11-02 16:47:31 PST hourly-wake START
+2026-11-02 16:47:46 PST hourly-wake END: only game within 85 min (COL@CHI) has in-window C; CGY@SJ D captured, its C window opens after this wake
+2026-11-02 17:40:47 PST hourly-wake start
+2026-11-02 17:41:09 PST hourly-wake end: all tonight's games (401892628-632) have D and in-window C files; last puck drop ~6:00 PM PT already has C (19 min out); no gaps
+2026-11-02 18:45:07 PST hourly-wake start
+2026-11-02 18:45:24 PST hourly-wake end: all tonight's games already started with D and C files (prior wake verified); next puck drop ~1278 min out; no open windows, no gaps
+2026-11-02 19:40:43 PST hourly wake start
+2026-11-02 19:41:00 PST hourly wake end: no game within 85 min (next puck drop ~1225 min, tomorrow ~4 PM PT); capture loop and supervisor running
+2026-11-03 14:45:31 PST hourly-capture-wake START
+2026-11-03 15:33:29 PST hourly-capture-wake END reason: in-window C snapshots landed for all 8 4:00 PM PT games; all 11 games have D files; Oilers at Devils (4:30 PM) C window opens 4:00 PM, handed to next hourly wake; capture loop + supervisor running
+2026-11-03 15:47:19 PST hourly-capture-wake START
+2026-11-03 16:30:09 PST hourly-capture-wake END reason: in-window C landed for EDM@NJ (28min) and CAR@NSH; ANA@VAN (6:00 PM PT, D on file) left to next wake
+2026-11-03 16:41:24 PST hourly-wake start
+2026-11-03 17:48:00 PST hourly-capture-wake START
+2026-11-03 17:48:23 PST hourly-capture-wake END: last game ANA@VAN (5:00 PM PT... 6:00 PM PT drop) already has 4 in-window C snapshots and D file; all other games started with C/close OK; no games left today
+2026-11-03 17:48:26 PST note: correction to END line above, ANA@VAN puck drop is 6:00 PM PT
+2026-11-03 18:39:20 PST hourly-wake start
+2026-11-03 18:39:46 PST hourly-wake end: all Nov 3 games already started (last 6:00 PM PT); close watch 15 started, 0 missing close; no open D/C windows
+2026-11-03 19:39:16 PST hourly-wake start
+2026-11-03 19:39:45 PST hourly-wake end: all 11 Nov 3 games started; every game has D and in-window C snaps; 0 missing close
+2026-11-04 14:45:16 PST hourly-wake start
+2026-11-04 14:45:51 PST hourly-wake end: no game within 85 min (next puck drop ~4:30 PM PT, ~104 min); OTT@BUF and CHI@FLA D files on file; no D/C window closed without a file; capture loop + supervisor running; C windows handed to 3:35 PM wake
+2026-11-04 15:38:42 PST hourly-wake START
+2026-11-04 16:02:20 PST hourly-wake END: C snapshots landed for both 4:30 PM PT games (OTT@BUF, CHI@FLA); 7:00 PM PT games (SJ@LA, CGY@SEA) have D files and are >85 min out
+2026-11-04 16:38:52 PST hourly-capture-wake START
+2026-11-04 16:39:26 PST hourly-capture-wake END reason: capture loop+supervisor running; 4:30 PM games (OTT@BUF, CHI@FLA) have D+C+CLOSE; 7:00 PM games (SJ@LA, CGY@SEA) D files landed 16:28 PT (in window); no game within 85 min (next puck drop ~148 min), C window opens 6:30 PM and is covered by the 5:35/6:35 wakes
+2026-11-04 17:42:07 PST hourly wake start
+2026-11-04 18:40:32 PST hourly-wake START (18:35 slot)
+2026-11-04 18:40:55 PST hourly-wake END reason: all 4 games tonight (644-647) have D and in-window C files; last puck drops 7:00 PM PT; nothing left to guard
+2026-11-04 19:46:59 PST hourly-wake start
+2026-11-04 19:47:23 PST hourly-wake end: all of tonight's games already started, close watch 15 started/0 missing close, capture loop running; no games within 85 min
+2026-11-05 18:47:08 PST START hourly-capture-wake
+2026-11-05 18:48:26 PST END hourly-capture-wake reason: no game within 85 min (next puck drop ~1272 min, Fri ~4 PM PT); capture loop+supervisor running (loop restarted 18:13 after ~5.3h stale); 10 games missing in-window C/close (8x 4PM D-only NO_IN_WINDOW; VAN@WPG + ANA@EDM NO_FILES); NSH@COL OK; no open D/C windows; posting Betting App alert
+2026-11-08 16:46:21 PST START hourly capture wake
+2026-11-08 17:02:15 PST END hourly capture wake reason: in-window C landed for PIT@ANA 401892679 (6 archive snaps 26.3-5.8 min out, CLOSE OK n_in_window=6); no other game within 85 min (next puck drop Mon ~5:00 PM PT NYR@EDM); no open D windows; C/close missing FLA@BOS 401892674, VGK@BUF 401892675, TB@WPG 401892677 (NO_FILES) plus all 12 Nov 7 games 401892662-673; D missing on NJ@TOR 401892676, PHI@CGY 401892678, PIT@ANA (C/close OK); loop+supervisor restarted 17:00:52 after worker died ~16:55 (venv rebuilt on restart); posting Betting App alert
+2026-11-08 17:40:56 PST START hourly capture wake
+2026-11-08 17:42:11 PST END hourly capture wake reason: no game within 85 min (next puck drop Mon ~5:00 PM PT, ~1399 min); no open D windows; loop+supervisor running (pids 7731/7738 since 17:00:52); today's noon+ slate: VGK@BUF 401892675 (12:30 PM PT) and TB@WPG 401892677 (3:00 PM PT) C/D/CLOSE NO_FILES; NJ@TOR 401892676 and PHI@CGY 401892678 (4:00 PM PT) C/CLOSE OK no D; PIT@ANA 401892679 (5:00 PM PT) C/CLOSE OK n_in_window=6 no D; FLA@BOS 401892674 (10:00 AM PT, excluded pre-noon) also NO_FILES; same gaps already reported by 16:46 wake, no new window closed this run, staying quiet
+2026-11-08 18:40:52 PST START hourly capture wake
+2026-11-08 18:41:40 PST END hourly capture wake reason: no game within 85 min (next puck drop Mon ~5:00 PM PT NYR@EDM, ~1339 min); no open D windows; loop+supervisor running (pids 7731/7738 since 17:00:52); today's noon+ slate: VGK@BUF 401892675 (12:30 PM PT) and TB@WPG 401892677 (3:00 PM PT) C/D/CLOSE NO_FILES; NJ@TOR 401892676 and PHI@CGY 401892678 (4:00 PM PT) C/CLOSE OK no D; PIT@ANA 401892679 (5:00 PM PT) C/CLOSE OK n_in_window=7 no D; FLA@BOS 401892674 (10:00 AM PT, excluded pre-noon) also NO_FILES; same gaps already reported by 16:46 wake, no new window closed this run, staying quiet
+2026-11-08 19:42:06 PST START hourly capture wake
+2026-11-08 19:42:58 PST END hourly capture wake reason: no game within 85 min (next puck drop Mon ~5:00 PM PT NYR@EDM, ~1277 min); no open D windows; loop+supervisor running (pids 7731/7738 since 17:00:52, heartbeat 19:42, next_sleep=600); today's noon+ slate: VGK@BUF 401892675 (12:30 PM PT) and TB@WPG 401892677 (3:00 PM PT) C/D/CLOSE NO_FILES; NJ@TOR 401892676 and PHI@CGY 401892678 (4:00 PM PT) C/CLOSE OK no D; PIT@ANA 401892679 (5:00 PM PT) C/CLOSE OK n_in_window=7 no D; FLA@BOS 401892674 (10:00 AM PT, excluded pre-noon) also NO_FILES; same gaps already reported by 16:46 wake, no new window closed this run, staying quiet
+2026-11-09 14:48:05 PST START hourly capture wake
+2026-11-09 15:02:40 PST END hourly capture wake reason: no game within 85 min (next puck drop NYR@EDM 5:00 PM PT, ~118 min); NYR@EDM 401892680 D on file (in-window last snap 150.5 min at 14:29); PHI@VAN 401892681 D landed 15:00 PT at 210 min as window opened; NYI@SJS 401892682 D window opens 3:30 PM PT (~28 min), handed to 3:35 PM wake; no D/C window closed without a file this run; loop+supervisor running (pids 7731/227453 since 11:16); Nov 7-8 missing C/close already reported 11/8 4:46 PM wake, staying quiet
+2026-11-09 15:41:58 PST START hourly capture wake
+2026-11-09 16:43:35 PST START hourly capture wake
+2026-11-09 16:44:40 PST END hourly capture wake reason: in-window C landed for NYR@EDM 401892680 (3 archive snaps 27.7/23.7/18.6 min out, CLOSE OK n_in_window=3); no other game within 85 min (next puck drop PHI@VAN 6:30 PM PT, ~105 min; C window opens 6:00 PM, covered by 5:35 wake); all 3 noon+ games have D files (NYR@EDM 150.5 min, PHI@VAN 159.2 min, NYI@SJS 179.1 min); no open D windows; no D/C window closed without a file this run; loop+supervisor running (pids 7731/227453 since 11:16); game logs through 2026-11-08, gap check OK; staying quiet
+2026-11-09 17:45:56 PST START hourly capture wake
+2026-11-09 18:34:20 PST END hourly capture wake reason: in-window C landed for PHI@VAN 401892681 (archive C snaps at 28/24/19/14/10/4/0 min out; CLOSE OK, close-watch snaps=16 in_window=8) and NYI@SJS 401892682 (in-window C at 26 min / 18:33 PT, plus earlier C at 34 and 30 min; CLOSE OK n_in_window=1); NYR@EDM 401892680 already had D+C+CLOSE (in_window=8); all 3 noon+ games have D files; no open D windows; no D/C window closed without a file this run; loop+supervisor running (pids 7731/227453 since 11:16); Nov 8 missing C/close (FLA@BOS, VGK@BUF, TB@WPG) already reported, 0 new alerts; staying quiet
+2026-11-09 18:42:21 PST START hourly capture wake
+2026-11-09 18:43:34 PST END hourly capture wake reason: in-window C already on file for NYI@SJS 401892682 (archive C snaps at 26.1/22.1/17.9 min out, plus earlier 34.4/30.2 out of window; CLOSE present); NYR@EDM 401892680 and PHI@VAN 401892681 already have D+C+CLOSE (in_window=8 each); all 3 noon+ games have D files; no open D windows; no D/C window closed without a file this run; loop+supervisor running (pids 7731/227453 since 11:16); game logs through 2026-11-08, gap check OK; Nov 8 missing C/close (FLA@BOS, VGK@BUF, TB@WPG) already reported, 0 new alerts; staying quiet
+2026-11-09 19:44:50 PST START hourly capture wake
+2026-11-09 19:46:03 PST END hourly capture wake reason: no game within 85 min (next puck drop in ~1217 min, Tue ~4:00 PM PT); all 3 noon+ games have D+C+CLOSE (NYR@EDM 401892680 in_window=8, PHI@VAN 401892681 in_window=8, NYI@SJS 401892682 in_window=7); no open D windows; no D/C window closed without a file this run; loop+supervisor running (pids 7731/456768, worker restarted 19:13 after stale 486s); Nov 8 missing C/close (FLA@BOS 401892674, VGK@BUF 401892675, TB@WPG 401892677) already reported, 0 new alerts; staying quiet
+2026-11-10 14:47:45 PST START hourly capture wake
+2026-11-10 15:33:47 PST END hourly capture wake reason: in-window C landed for COL@TOR 401892683, MIN@MTL 401892684, WSH@OTT 401892685, NJ@WPG 401892688 (archive C at 27.7 min / 15:32 PT, CLOSE in_window=1 each; earlier out-of-window C at 39.2 min); no other game within 85 min at start (FLA@CBJ 4:30 PM PT C window opens 4:00 PM, covered by 3:35 wake; DET@STL 5:00 PM PT C opens 4:30); all 7 noon+ games have D (COL@TOR/MIN@MTL/WSH@OTT/NJ@WPG 153.6 min, FLA@CBJ 159.3 min, DET@STL 153.2 min, NSH@LA 207.7 min landed 15:32 as D window opened); no open D windows missing a file; no D/C window closed without a file this run; loop+supervisor running (pids 7731/587931 since 11:24); game logs through 2026-11-09, gap check OK; Nov 8 missing C/close already reported, staying quiet
+2026-11-10 15:46:39 PST START hourly capture wake
+2026-11-10 16:32:53 PST END hourly capture wake reason: in-window C landed for FLA@CBJ 401892686 (archive C at 28.2 min / 16:01 PT, plus 24.1/20.0/16.0/11.9/7.8/3.7; CLOSE OK n_in_window=7) and DET@STL 401892687 (in-window C at 29.6 min / 16:30 PT, CLOSE OK n_in_window=1; earlier out-of-window C at 37.8/33.7 min); 4:00 PM games already had D+C+CLOSE (COL@TOR 401892683, MIN@MTL 401892684, WSH@OTT 401892685, NJ@WPG 401892688; archive C from 27.7 to 2.5 min, CLOSE n_in_window=7 each); all 7 noon+ games have D (NSH@LA 401892689 D window closed ~16:30 with 14 in-window snaps 207.7 at 15:32 through 153.7 at 16:26); no open D windows missing a file; no D/C window closed without a file this run; loop+supervisor running (pids 7731/587931 since 11:24); game logs through 2026-11-09, gap check OK; Nov 8 missing C/close already reported, staying quiet
+2026-11-10 16:42:46 PST START hourly capture wake
+2026-11-10 16:44:34 PST END hourly capture wake reason: in-window C already on file for DET@STL 401892687 (archive C at 29.6 min / 16:30 PT, plus 25.6/21.6/17.4; CLOSE OK n_in_window=4; latest loop snap 17 min out at 16:42 PT); no other game within 85 min (next puck drop NSH@LA 7:00 PM PT, ~136 min; C window opens 6:30 PM, covered by 5:35 wake); 4:00 PM games already had D+C+CLOSE (COL@TOR 401892683, MIN@MTL 401892684, WSH@OTT 401892685, NJ@WPG 401892688; archive C from 27.7 to 2.5 min, CLOSE n_in_window=7 each); FLA@CBJ 401892686 already had D+C+CLOSE (archive C 28.2 to 3.7 min, CLOSE n_in_window=7); all 7 noon+ games have D (NSH@LA 401892689 D window closed ~16:30 with 14 in-window snaps 207.7 at 15:32 through 153.7 at 16:26); no open D windows missing a file; no D/C window closed without a file this run; loop+supervisor running (pids 7731/587931 since 11:24); game logs through 2026-11-09, gap check OK; Nov 8 missing C/close already reported, staying quiet
+2026-11-10 17:42:13 PST START hourly capture wake
+2026-11-10 18:40:13 PST START hourly-capture-wake
+2026-11-10 18:41:37 PST END hourly capture wake reason: in-window C already on file for NSH@LA 401892689 (archive C at 27.7 min / 18:32 PT, plus 23.6/19.5; CLOSE OK n_in_window=3; latest loop snap 19.5 min out at 18:40 PT); no other game within 85 min (last noon+ game tonight); 4:00 PM games already had D+C+CLOSE (COL@TOR 401892683, MIN@MTL 401892684, WSH@OTT 401892685, NJ@WPG 401892688; CLOSE n_in_window=7 each); FLA@CBJ 401892686 already had D+C+CLOSE (n_in_window=7); DET@STL 401892687 already had D+C+CLOSE (n_in_window=6); all 7 noon+ games have D (NSH@LA 401892689 D window closed ~16:30 with 14 in-window snaps 207.7 at 15:32 through 153.7 at 16:26); no open D windows missing a file; no D/C window closed without a file this run; loop+supervisor running (pids 7731/587931 since 11:24); game logs through 2026-11-09, gap check OK; Nov 8 missing C/close already reported, staying quiet
+2026-11-10 19:43:02 PST START hourly-capture-wake
+2026-11-10 19:45:03 PST END hourly capture wake reason: no game within 85 min (next puck drop in ~1217 min, Wed ~4:00 PM PT); all 7 noon+ games have D+C+CLOSE (COL@TOR 401892683, MIN@MTL 401892684, WSH@OTT 401892685, NJ@WPG 401892688 at 4:00 PM PT, archive C 27.7 to 2.5 min, CLOSE n_in_window=7 each; FLA@CBJ 401892686 4:30 PM PT, archive C 28.2 to 3.7 min, n_in_window=7; DET@STL 401892687 5:00 PM PT, archive C 29.6/25.6/21.5/17.4/13.4/3.2 min, n_in_window=6; NSH@LA 401892689 7:00 PM PT, archive C 27.7/23.6/19.5/15.5/10.4/6.4/2.3 min, CLOSE n_in_window=7); all 7 have D (NSH@LA 401892689 D window closed ~16:30 with 14 in-window snaps 207.7 at 15:32 through 153.7 at 16:26); no open D windows; no D/C window closed without a file this run; loop+supervisor running (pids 7731/795455, worker restarted 19:43 after stale 604s); game logs through 2026-11-09, gap check OK; Nov 8 missing C/close already reported, 0 new alerts; staying quiet

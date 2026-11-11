@@ -1,0 +1,17 @@
+**NO BETS** this pass. NHL shots on goal, Tue Nov 3 12:30 PM window pass (fired 12:38, run 12:39 PM PT), DraftKings lines captured 12:37 PM PT. Eight games in the window, all 4:00 PM PT (201 min out at run time): Utah at Toronto, Winnipeg at Montreal, Detroit at Tampa Bay, St. Louis at NY Rangers, Minnesota at Philadelphia, Vegas at Pittsburgh, Dallas at Washington, and Colorado at Columbus. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 143 lines.
+
+Fliff check: five sides cleared the 5-point edge floor, but none can be bet.
+- Juraj Slafkovsky under 2.5 (Winnipeg at Montreal), 5 of 7 agree, DK -140, Fliff not posted yet, shop-at -121 or better. Last 5: 3 of 5 under. Skipped: DK worse than shop-at. Queued for the second Fliff pull about an hour before puck drop.
+- Jimmy Snuggerud under 2.5 (St. Louis at NY Rangers), 3 of 7 agree, DK -160, Fliff not posted yet, shop-at -137 or better. Last 5: 4 of 5 under. Skipped: DK worse than shop-at (and outside the -150 band). Queued for the second Fliff pull.
+- Tomas Hertl under 2.5 (Vegas at Pittsburgh), 5 of 7 agree, DK -190, Fliff -195, shop-at -160 or better. Last 5: 4 of 5 under. Skipped: both prices worse than shop-at and outside the -150 band. (His demotion to the 3rd line vetoes only the over.)
+- Noah Hanifin over 1.5 (Vegas at Pittsburgh), 4 of 7 agree, DK +135, Fliff +125, shop-at +150 or better. Last 5: 3 of 5 over. Skipped: both prices worse than shop-at.
+- Jeremy Lauzon under 1.5 (Vegas at Pittsburgh), 5 of 7 agree, DK -185, Fliff -200, shop-at -155 or better. Last 5: 4 of 5 under. Skipped: both prices worse than shop-at and outside the -150 band.
+No huge line moves among these (largest no-vig move 8.5 points, Snuggerud).
+Correlation note: Hertl under, Lauzon under and Hanifin over are all Vegas players in the same game; nothing qualified, so no stacking concern.
+Fliff credits: 3 this pass (Montreal, Rangers and Pittsburgh games); 3 of 10 used today.
+
+Lineups: 10 of 16 DailyFaceoff lineups are older than 12 hours, so every side on those teams was skipped (Columbus 25.6h, Winnipeg 27.0h, Rangers 27.2h, Toronto, Washington and Dallas 27.4h, Tampa Bay 27.5h, Minnesota 47.9h, Philadelphia and Utah 48.0h). Fresh today: Colorado, Detroit, Montreal, Pittsburgh, St. Louis and Vegas.
+Vetoes: 0 injury vetoes (injury re-pull clean), 15 role-check demotions (overs), 12 promotions (unders), 1 mixed (Trevor Connelly, both sides), 28 slot vetoes (16 overs, 12 unders), 2 unverified gates (Gabe Perreault, Nick Robertson).
+Spreadsheet: /workspace/nhl-sog/sheets/20261103_D_1239_picks.xlsx (colors only show in Excel or Google Sheets).

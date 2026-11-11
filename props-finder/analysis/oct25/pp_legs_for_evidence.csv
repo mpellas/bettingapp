@@ -1,0 +1,3 @@
+game_id,player,player_id,market,line,side,team,opp,pos,mkt_p,model_p,book,price,ev_pct,in_final_list
+2026_07_NYG_HOU,Darnell Mooney,00-0036309,reception_yds,19.5,Under,NYG,HOU,WR,0.5662,,prizepicks,PP std,1,True
+2026_07_NYG_HOU,J.J. McCarthy,00-0039923,rush_yds,24.5,Under,NYG,HOU,QB,0.5590,,prizepicks,PP std,1,True

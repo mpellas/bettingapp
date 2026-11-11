@@ -1,0 +1,985 @@
+season,week,id,home,away,level,min_games,provider,close_spread,model_spread,close_total,model_total,actual_spread,actual_total
+2026,r1,401866615,Delaware State,Stony Brook,FCS/FCS,0,DraftKings,4.5,-3.51,50.5,53.96,-7,75
+2026,r1,401867894,Youngstown State,Mercyhurst,FCS/FCS,0,DraftKings,-30.5,-8.47,57.5,54.81,-33,53
+2026,r1,401866532,Towson,Maine,FCS/FCS,0,DraftKings,-2.5,-2.33,46.5,52.76,3,39
+2026,r1,401868060,Austin Peay,Gardner-Webb,FCS/FCS,0,DraftKings,-14.5,-6.07,59.5,55.47,-18,52
+2026,r1,401868315,SE Louisiana,Houston Christian,FCS/FCS,0,DraftKings,-24.5,-15.65,51.5,51.68,6,62
+2026,r1,401867865,Murray State,Eastern Illinois,FCS/FCS,0,DraftKings,-4.5,-0.16,49.5,52.96,14,42
+2026,r1,401868962,Nicholls,Mississippi Valley State,FCS/FCS,0,DraftKings,-28.5,-8.21,51.5,52.8,-34,54
+2026,r1,401868240,West Georgia,Chattanooga,FCS/FCS,0,DraftKings,3.5,-6.73,50.5,53.69,14,34
+2026,r1,401868169,Lindenwood,Charleston Southern,FCS/FCS,0,DraftKings,-7.5,-4.41,45.5,51.39,-3,37
+2026,r1,401874035,West Florida,Southern Illinois,FCS/FCS,0,DraftKings,19.5,-4.92,55.5,55.91,-3,65
+2026,r1,401868070,UT Martin,Central Arkansas,FCS/FCS,0,DraftKings,-3,-4.08,50.5,53.09,12,60
+2026,r1,401867874,North Dakota,Long Island University,FCS/FCS,0,DraftKings,-27.5,-9.99,44.5,50.3,-21,63
+2026,r1,401866617,Merrimack,Rhode Island,FCS/FCS,0,DraftKings,21,5.97,47.5,52.76,27,41
+2026,r1,401868007,Fordham,Colgate,FCS/FCS,0,DraftKings,8.5,3.97,55.5,53.34,10,38
+2026,r1,401868261,New Haven,Marist,FCS/FCS,0,DraftKings,-2.5,-1.0,46.5,53.11,-1,43
+2026,r1,401868040,Villanova,William & Mary,FCS/FCS,0,DraftKings,-12.5,-7.77,47.5,52.94,3,67
+2026,r1,401866616,UAlbany,New Hampshire,FCS/FCS,0,DraftKings,10,6.18,46.5,52.22,-14,42
+2026,r1,401868129,Northern Colorado,Weber State,FCS/FCS,0,DraftKings,-3,-2.72,50.5,53.99,1,59
+2026,r1,401868073,Cal Poly,Idaho,FCS/FCS,0,DraftKings,5.5,-2.74,53.5,54.01,-4,72
+2026,r1,401856766,TCU,North Carolina,P4,0,DraftKings,-7.5,-6.14,46.5,52.46,5,25
+2026,r1,401867916,Wagner,Robert Morris,FCS/FCS,0,DraftKings,-5.5,-2.56,40.5,49.79,21,35
+2026,r1,401867882,South Dakota,Central Connecticut,FCS/FCS,0,DraftKings,-20.5,-3.64,49.5,53.34,-39,79
+2026,r1,401864494,USC,San José State,G5,0,DraftKings,-37.5,-14.41,61.5,54.37,-16,68
+2026,r1,401868324,Alabama State,Southern,FCS/FCS,0,DraftKings,19.5,-18.02,56.5,55.44,-13,47
+2026,r1,401868154,Portland State,UC Davis,FCS/FCS,0,DraftKings,25.5,11.7,60.5,55.91,7,55
+2026,r1,401858202,Virginia,NC State,P4,0,DraftKings,-4,-4.53,50.5,52.81,-26,42
+2026,r1,401868022,Holy Cross,Lehigh,FCS/FCS,0,DraftKings,14,8.27,47.5,51.15,25,45
+2026,r1,401868084,Northern Arizona,Eastern Washington,FCS/FCS,0,DraftKings,-5.5,-4.37,55.5,54.81,-7,61
+2026,r1,401866620,East Tennessee State,Campbell,FCS/FCS,0,DraftKings,-7,-8.79,56.5,55.51,12,86
+2026,r1,401864577,North Dakota State,Jacksonville State,G5,0,DraftKings,-6.5,-15.49,46.5,53.48,-26,40
+2026,r1,401866618,North Carolina A&T,Morgan State,FCS/FCS,0,DraftKings,7,7.59,49.5,54.67,10,24
+2026,r1,401866619,Stonehill,Bryant,FCS/FCS,0,DraftKings,4,-2.71,45.5,51.43,18,30
+2026,r1,401867988,Richmond,Bucknell,FCS/FCS,0,DraftKings,-12.5,-6.39,48.5,53.5,-21,49
+2026,r1,401868101,Idaho State,VMI,FCS/FCS,0,DraftKings,-34.5,-15.74,53.5,53.97,-28,48
+2026,r1,401868394,Wofford,The Citadel,FCS/FCS,0,DraftKings,-7.5,-6.8,45.5,50.68,-28,56
+2026,r1,401867855,Indiana State,Southeast Missouri State,FCS/FCS,0,DraftKings,-2.5,0.55,52.5,54.24,2,44
+2026,r1,401866408,Eastern Michigan,Sacramento State,G5,0,DraftKings,-9.5,3.73,52.5,54.61,-11,45
+2026,r1,401867977,Texas Southern,North Carolina Central,FCS/FCS,0,DraftKings,10.5,2.08,51.5,53.87,-12,72
+2026,r1,401858201,Stanford,Hawai'i,G5,0,DraftKings,-4.5,3.29,48.5,52.96,-10,64
+2026,r1,401866621,Tennessee Tech,Monmouth,FCS/FCS,0,DraftKings,-8.5,-2.08,58.5,55.56,-24,52
+2026,r1,401864570,Florida State,New Mexico State,G5,0,DraftKings,-30.5,-9.72,53.5,52.99,-17,51
+2026,r1,401872615,South Dakota State,Stetson,FCS/FCS,0,DraftKings,-50.5,-16.35,58.5,53.77,-63,77
+2026,r1,401874042,Mercer,East Texas A&M,FCS/FCS,0,DraftKings,-22.5,-10.0,57.5,56.92,-8,38
+2026,r1,401868149,North Alabama,Samford,FCS/FCS,0,DraftKings,-7,-6.17,55.5,54.9,-12,32
+2026,r1,401868049,Lamar,Abilene Christian,FCS/FCS,0,DraftKings,7.5,1.12,49.5,52.74,-7,35
+2026,r1,401868305,McNeese,Stephen F. Austin,FCS/FCS,0,DraftKings,12.5,7.68,49.5,53.19,11,65
+2026,r1,401868139,Western Carolina,Eastern Kentucky,FCS/FCS,0,DraftKings,-3,-5.64,54.5,54.69,-24,66
+2026,r1,401867935,Howard,Alabama A&M,FCS/FCS,0,DraftKings,1.5,-2.79,46.5,52.58,-7,55
+2026,r1,401868194,Tennessee State,Jackson State,FCS/FCS,0,DraftKings,12.5,11.95,49.5,50.92,2,50
+2026,r1,401868235,Tarleton State,Prairie View A&M,FCS/FCS,0,DraftKings,-19.5,-5.51,54.5,54.38,-19,79
+2026,r1,401868110,Montana,Southern Utah,FCS/FCS,0,DraftKings,-15.5,-8.83,59.5,57.34,-7,49
+2026,r1,401862693,UNLV,Memphis,G5,0,DraftKings,-4.5,-2.05,55.5,54.94,6,48
+2026,r1,401868118,Utah Tech,Montana State,FCS/FCS,0,DraftKings,32.5,17.63,57.5,53.11,54,54
+2026,r1,401858423,Rutgers,Massachusetts,G5,0,DraftKings,-29.5,-15.62,55.5,54.29,16,58
+2026,r1,401866622,Stony Brook,Lindenwood,FCS/FCS,0,DraftKings,-4,-4.21,50.5,53.59,-4,68
+2026,r1,401858204,Wake Forest,Akron,G5,0,DraftKings,-27.5,-8.35,50.5,52.97,-22,54
+2026,r1,401856767,UCF,Bethune-Cookman,FCS/P4,0,DraftKings,-43.5,-1.41,58.5,53.98,-67,79
+2026,r1,401864425,Kennesaw State,West Georgia,FCS/G5,0,DraftKings,-22.5,-1.79,50.5,52.6,-47,47
+2026,r1,401864424,Delaware,Merrimack,FCS/G5,0,DraftKings,-31.5,-2.75,56.5,53.77,-35,49
+2026,r1,401867889,Samford,Southern Illinois,FCS/FCS,0,DraftKings,20.5,14.0,54.5,54.82,4,40
+2026,r1,401866409,Buffalo,UAlbany,FCS/G5,0,DraftKings,-18.5,-7.17,47.5,52.34,-4,38
+2026,r1,401856776,Georgia Tech,Colorado,P4,0,DraftKings,-6.5,-9.67,53.5,53.81,1,27
+2026,r1,401858422,Minnesota,Eastern Illinois,FCS/P4,0,DraftKings,-42.5,-7.81,52.5,51.34,-52,66
+2026,r1,401856663,Missouri,Arkansas-Pine Bluff,FCS/P4,0,DraftKings,-55.5,-13.66,62.5,52.51,-40,68
+2026,r1,401858424,Illinois,UAB,G5,0,DraftKings,-25.5,-11.59,53.5,54.65,-19,65
+2026,r1,401856768,Utah,Idaho,FCS/P4,0,DraftKings,-38.5,-14.71,60.5,54.75,-52,80
+2026,r1,401864495,Eastern Michigan,San José State,G5,0,DraftKings,-1.5,-5.5,54.5,53.79,6,48
+2026,r1,401858435,Purdue,Indiana State,FCS/P4,0,DraftKings,-35.5,-3.81,55.5,54.07,-25,63
+2026,r1,401866623,Georgia State,North Carolina A&T,FCS/G5,0,DraftKings,-28.5,-5.91,58.5,55.54,-49,69
+2026,r1,401856769,Kansas,Long Island University,FCS/P4,0,DraftKings,-44.5,-3.11,57.5,51.05,-45,57
+2026,r1,401856664,Oklahoma,UTEP,G5,0,DraftKings,-40.5,-13.3,51.5,52.12,-51,51
+2026,r1,401858429,Michigan State,Toledo,G5,0,DraftKings,-10,7.77,48.5,52.01,-10,50
+2026,r1,401858206,Stanford,Miami,P4,0,DraftKings,24.5,14.25,46.5,50.92,39,51
+2026,r1,401858436,USC,Fresno State,G5,0,DraftKings,-21.5,-5.22,51.5,52.36,-39,39
+2026,r1,401856634,Alabama,East Carolina,G5,0,DraftKings,-28.5,-1.65,52.5,52.51,-38,58
+2026,r1,401861962,UConn,Lafayette,FCS/G5,0,DraftKings,-21.5,-2.56,51.5,56.65,-49,63
+2026,r1,401867924,New Haven,Stonehill,FCS/FCS,0,DraftKings,-6.5,-4.74,42.5,51.98,18,24
+2026,r1,401866410,Bowling Green,Tarleton State,FCS/G5,0,DraftKings,-1.5,10.47,49.5,53.53,7,33
+2026,r1,401856780,West Virginia,Coastal Carolina,G5,0,DraftKings,-21,-3.9,54.5,54.13,-7,55
+2026,r1,401856778,Houston,Oregon State,G5,0,DraftKings,-21,-9.67,50.5,52.62,-13,53
+2026,r1,401862701,Army,Bryant,FCS/G5,0,DraftKings,-37.5,-10.21,51.5,51.93,-56,62
+2026,r1,401858208,Syracuse,New Hampshire,FCS/P4,0,DraftKings,-35.5,5.36,56.5,52.87,-63,69
+2026,r1,401858425,Indiana,North Texas,G5,0,DraftKings,-39.5,-10.7,57.5,57.15,-36,68
+2026,r1,401869960,James Madison,Liberty,G5,0,DraftKings,-6,-12.79,50.5,54.56,-7,33
+2026,r1,401858430,Nebraska,Ohio,G5,0,DraftKings,-23.5,1.54,47.5,52.82,-28,70
+2026,r1,401858207,Pittsburgh,Miami (OH),G5,0,DraftKings,-16.5,-5.02,47.5,52.7,-45,73
+2026,r1,401868017,Georgetown,Lehigh,FCS/FCS,0,DraftKings,22.5,11.71,46.5,51.17,31,59
+2026,r1,401858432,Ohio State,Ball State,G5,0,DraftKings,-50.5,-22.52,55.5,50.53,-53,59
+2026,r1,401856665,South Carolina,Kent State,G5,0,DraftKings,-35.5,-8.37,52.5,52.76,-57,57
+2026,r1,401856779,Iowa State,Southeast Missouri State,FCS/P4,0,DraftKings,-29.5,-9.47,52.5,52.47,-28,48
+2026,r1,401856659,Kentucky,Youngstown State,FCS/P4,0,DraftKings,-22.5,1.29,61.5,55.54,-32,58
+2026,r1,401868000,Colgate,Holy Cross,FCS/FCS,0,DraftKings,-4.5,-1.58,49.5,53.32,-25,45
+2026,r1,401864496,Air Force,Duquesne,FCS/G5,0,DraftKings,-31.5,-0.63,55.5,54.17,-34,34
+2026,r1,401868186,Wofford,Gardner-Webb,FCS/FCS,0,DraftKings,-8.5,-5.34,50.5,51.97,-4,30
+2026,r1,401866624,Monmouth,Sacred Heart,FCS/FCS,0,DraftKings,-11.5,-5.46,58.5,55.91,-7,55
+2026,r1,401862698,Temple,Rhode Island,FCS/G5,0,DraftKings,-14.5,5.08,51.5,54.3,-24,52
+2026,r1,401856658,Georgia,Tennessee State,FCS/P4,0,DraftKings,-49.5,-19.14,55.5,50.5,-60,66
+2026,r1,401868111,Montana,Drake,FCS/FCS,0,DraftKings,-35.5,-7.87,60.5,54.42,-35,55
+2026,r1,401858434,Penn State,Marshall,G5,0,DraftKings,-23.5,-8.99,53.5,54.17,-45,45
+2026,r1,401856667,Texas,Texas State,G5,0,DraftKings,-29.5,-3.51,61.5,55.5,-52,66
+2026,r1,401862696,Navy,Towson,FCS/G5,0,DraftKings,-31.5,-5.88,50.5,53.55,-27,57
+2026,r1,401858209,Duke,Tulane,G5,0,DraftKings,-9.5,-2.71,51.5,55.28,-14,20
+2026,r1,401858433,Oregon,Boise State,G5,0,DraftKings,-24.5,-10.34,53.5,53.88,-7,61
+2026,r1,401866627,App State,Maine,FCS/G5,0,DraftKings,-21,1.41,53.5,52.95,-52,58
+2026,r1,401856636,Auburn,Baylor,P4,0,DraftKings,-6.5,-4.95,58.5,54.28,-1,33
+2026,r1,401862694,Charlotte,The Citadel,FCS/G5,0,DraftKings,-20.5,5.48,49.5,52.03,2,84
+2026,r1,401856777,Cincinnati,Boston College,P4,0,DraftKings,-7,-5.75,51.5,54.47,-19,49
+2026,r1,401864499,North Dakota State,Fordham,FCS/G5,0,DraftKings,-41.5,-23.46,54.5,52.71,-38,38
+2026,r1,401862700,UTSA,UT Rio Grande Valley,FCS/G5,0,DraftKings,-28.5,-1.45,59.5,55.93,-29,61
+2026,r1,401856666,Tennessee,Furman,FCS/P4,0,DraftKings,-49.5,-11.78,66.5,56.01,-47,65
+2026,r1,401856772,Tulsa,Oklahoma State,G5,0,DraftKings,13.5,-5.97,57.5,52.36,-14,34
+2026,r1,401867875,North Dakota,St. Thomas (MN),FCS/FCS,0,DraftKings,-28.5,-4.47,53.5,52.77,-36,88
+2026,r1,401856635,Arkansas,North Alabama,FCS/P4,0,DraftKings,-40.5,-7.39,63.5,57.11,-17,45
+2026,r1,401858426,Iowa,Northern Illinois,G5,0,DraftKings,-31.5,-14.33,44.5,50.94,-40,40
+2026,r1,401868356,Southern Miss,Alcorn State,FCS/G5,0,DraftKings,-20.5,-1.26,51.5,52.99,-46,52
+2026,r1,401868274,Mercer,Presbyterian,FCS/FCS,0,DraftKings,-22.5,0.88,54.5,54.6,-59,65
+2026,r1,401867692,William & Mary,Delaware State,FCS/FCS,0,DraftKings,-9.5,-0.79,54.5,54.14,-7,37
+2026,r1,401869127,Howard,Richmond,FCS/FCS,0,DraftKings,14,-0.15,43.5,51.27,7,49
+2026,r1,401860878,Colorado State,Wyoming,G5,0,DraftKings,-2.5,1.02,45.5,50.52,-22,48
+2026,r1,401866626,Davidson,Elon,FCS/FCS,0,DraftKings,32.5,8.75,58.5,53.99,38,38
+2026,r1,401867989,Bucknell,Villanova,FCS/FCS,0,DraftKings,22.5,10.5,54.5,53.63,1,33
+2026,r1,401868336,Chattanooga,Tennessee Tech,FCS/FCS,0,DraftKings,10.5,5.97,48.5,54.9,15,33
+2026,r1,401867973,Old Dominion,Norfolk State,FCS/G5,0,DraftKings,-41.5,-17.35,52.5,53.31,-21,41
+2026,r1,401868316,South Alabama,SE Louisiana,FCS/G5,0,DraftKings,-13.5,5.1,53.5,53.23,-25,53
+2026,r1,401868071,Central Arkansas,West Florida,FCS/FCS,0,DraftKings,-7.5,9.5,55.5,55.3,28,56
+2026,r1,401870763,Troy,Sam Houston,G5,0,DraftKings,-15.5,-11.4,52.5,52.53,-3,45
+2026,r1,401867866,Middle Tennessee,Murray State,FCS/G5,0,DraftKings,-22.5,-5.88,55.5,54.11,-24,52
+2026,r1,401868140,Jacksonville State,Eastern Kentucky,FCS/G5,0,DraftKings,-22.5,-4.31,51.5,51.72,-42,56
+2026,r1,401856771,Kansas State,Nicholls,FCS/P4,0,DraftKings,-41.5,-7.68,55.5,52.7,-68,74
+2026,r1,401862697,Rice,Houston Christian,FCS/G5,0,DraftKings,-22.5,-3.41,47.5,52.43,-28,34
+2026,r1,401868170,Georgia Southern,Charleston Southern,FCS/G5,0,DraftKings,-28.5,-4.16,51.5,52.33,-31,31
+2026,r1,401856669,Vanderbilt,Austin Peay,FCS/P4,0,DraftKings,-29.5,-7.61,57.5,56.59,-19,37
+2026,r1,401862695,Memphis,Arkansas State,G5,0,DraftKings,-10.5,-6.35,52.5,53.57,-18,66
+2026,r1,401868085,Eastern Washington,Northern Iowa,FCS/FCS,0,DraftKings,-7,-3.67,52.5,52.26,-10,58
+2026,r1,401856770,Texas Tech,Abilene Christian,FCS/P4,0,DraftKings,-45.5,-12.5,61.5,53.2,-23,43
+2026,r1,401860880,Utah State,Idaho State,FCS/G5,0,DraftKings,-15.5,-1.63,59.5,54.89,12,46
+2026,r1,401862699,South Florida,Florida International,G5,0,DraftKings,-14.5,-12.46,53.5,56.32,-10,28
+2026,r1,401856668,Texas A&M,Missouri State,G5,0,DraftKings,-38.5,-10.41,53.5,53.7,-50,50
+2026,r1,401858211,Virginia Tech,VMI,FCS/P4,0,DraftKings,-54.5,-11.07,60.5,53.21,-70,76
+2026,r1,401869129,Louisiana Tech,Northwestern State,FCS/G5,0,DraftKings,-44.5,-17.45,56.5,52.75,-74,86
+2026,r1,401856660,LSU,Clemson,P4,0,DraftKings,-10,0.01,48.5,51.0,-41,61
+2026,r1,401856662,Mississippi State,UL Monroe,G5,0,DraftKings,-28.5,-8.23,54.5,54.3,-49,75
+2026,r1,401858428,Michigan,Western Michigan,G5,0,DraftKings,-27.5,-0.09,50.5,51.04,-1,25
+2026,r1,401856637,Florida,Florida Atlantic,G5,0,DraftKings,-26.5,-6.08,59.5,54.38,-45,87
+2026,r1,401868158,Southern Utah,Weber State,FCS/FCS,0,DraftKings,-14.5,-9.84,58.5,55.78,-5,89
+2026,r1,401858431,Northwestern,South Dakota State,FCS/P4,0,DraftKings,-14,-0.6,49.5,51.64,-16,52
+2026,r1,401868306,Stephen F. Austin,East Texas A&M,FCS/FCS,0,DraftKings,-23.5,-14.8,55.5,55.74,-37,51
+2026,r1,401867845,Western Illinois,Illinois State,FCS/FCS,0,DraftKings,20.5,9.63,58.5,54.63,31,51
+2026,r1,401858427,Maryland,Hampton,FCS/P4,0,DraftKings,-45.5,-9.89,56.5,53.42,-62,62
+2026,r1,401869142,Louisiana,Lamar,FCS/G5,0,DraftKings,-20.5,0.14,48.5,52.43,-31,45
+2026,r1,401856775,BYU,Utah Tech,FCS/P4,0,DraftKings,-50.5,-15.86,61.5,51.6,-56,70
+2026,r1,401867883,Northern Colorado,South Dakota,FCS/FCS,0,DraftKings,20.5,5.72,56.5,53.1,15,61
+2026,r1,401868119,Montana State,Butler,FCS/FCS,0,DraftKings,-45.5,-15.34,59.5,53.69,-27,75
+2026,r1,401870790,New Mexico State,Mercyhurst,FCS/G5,0,DraftKings,-29.5,-0.67,52.5,51.65,-37,65
+2026,r1,401860879,San Diego State,Portland State,FCS/G5,0,DraftKings,-38.5,-17.95,61.5,52.8,-33,73
+2026,r1,401856773,Arizona,Northern Arizona,FCS/P4,0,DraftKings,-33.5,-8.4,59.5,54.37,-28,42
+2026,r1,401864498,New Mexico,Central Michigan,G5,0,DraftKings,-11.5,-4.72,47.5,51.29,-31,45
+2026,r1,401856774,Arizona State,Morgan State,FCS/P4,0,DraftKings,-43.5,-5.46,52.5,52.63,-63,77
+2026,r1,401866411,Sacramento State,Mississippi Valley State,FCS/G5,0,DraftKings,-38.5,-14.21,56.5,55.17,-52,52
+2026,r1,401868163,San Diego,UC Davis,FCS/FCS,0,DraftKings,14.5,-1.96,54.5,54.9,32,66
+2026,r1,401864497,Hawai'i,UNLV,G5,0,DraftKings,2.5,-0.68,55.5,54.91,15,27
+2026,r1,401858210,California,UCLA,P4,0,DraftKings,2.5,-6.03,53.5,53.55,21,69
+2026,r1,401864432,Nevada,Western Kentucky,G5,0,DraftKings,1.5,4.8,51.5,52.11,-35,63
+2026,r1,401868967,Prairie View A&M,Texas Southern,FCS/FCS,0,DraftKings,-10.5,-8.91,54.5,52.67,-38,66
+2026,r1,401867939,Florida A&M,South Carolina State,FCS/FCS,0,DraftKings,19.5,9.07,52.5,55.6,18,44
+2026,r1,401858437,Washington,Washington State,G5,0,DraftKings,-23.5,-5.97,51.5,51.45,-14,34
+2026,r1,401856661,Ole Miss,Louisville,P4,0,DraftKings,-6.5,-4.32,54.5,54.15,-3,79
+2026,r1,401858438,Notre Dame,Wisconsin,P4,0,DraftKings,-21,-14.81,45.5,51.56,-28,54
+2026,r1,401858212,Florida State,SMU,P4,0,DraftKings,3,1.97,52.5,53.24,3,51
+2026,r2,401858213,Miami,Florida A&M,FCS/P4,1,DraftKings,-59.5,-25.55,66.5,48.32,-70,84
+2026,r2,401858220,Virginia,Norfolk State,FCS/P4,1,DraftKings,-47.5,-14.78,56.5,50.98,-56,62
+2026,r2,401858215,Louisville,Villanova,FCS/P4,1,DraftKings,-39.5,-6.1,56.5,54.2,-46,72
+2026,r2,401858222,NC State,Richmond,FCS/P4,1,DraftKings,-33.5,0.82,50.5,51.3,-73,73
+2026,r2,401858214,Boston College,Rutgers,P4,1,DraftKings,-3,-3.65,53.5,54.47,-7,49
+2026,r2,401856678,Kansas,Missouri,P4,1,DraftKings,4,1.67,51.5,54.64,17,59
+2026,r2,401858221,Virginia Tech,Old Dominion,G5,1,DraftKings,-17.5,4.06,47.5,53.19,-23,65
+2026,r2,401866632,Long Island University,UAlbany,FCS/FCS,2,DraftKings,2.5,1.62,44.5,49.27,22,48
+2026,r2,401866628,Rhode Island,Elon,FCS/FCS,2,DraftKings,-8.5,8.81,48.5,49.93,-21,41
+2026,r2,401856679,Michigan,Oklahoma,P4,1,DraftKings,5.5,7.82,43.5,47.92,-7,27
+2026,r2,401866416,Kent State,Wofford,FCS/G5,1,DraftKings,-10,15.82,45.5,50.31,-21,51
+2026,r2,401856782,Oklahoma State,Oregon,P4,1,DraftKings,24.5,18.03,55.5,51.38,-8,70
+2026,r2,401858224,Purdue,Wake Forest,P4,1,DraftKings,2.5,4.3,51.5,54.03,2,74
+2026,r2,401862702,Army,South Florida,G5,1,DraftKings,-3,-4.91,45.5,51.45,4,52
+2026,r2,401856781,Kansas State,Washington State,G5,1,DraftKings,-17.5,-13.31,48.5,52.34,-27,41
+2026,r2,401867929,James Madison,Wagner,FCS/G5,1,DraftKings,-46.5,-17.37,56.5,47.46,-84,90
+2026,r2,401868187,Liberty,Gardner-Webb,FCS/G5,1,DraftKings,-28.5,-7.05,55.5,49.28,-1,47
+2026,r2,401858442,Temple,Penn State,G5,1,DraftKings,24.5,6.41,49.5,52.37,18,36
+2026,r2,401858439,Indiana,Howard,FCS/P4,1,DraftKings,-57.5,-30.72,67.5,53.2,-55,55
+2026,r2,401866633,North Carolina Central,North Carolina A&T,FCS/FCS,2,DraftKings,-24.5,-22.32,55.5,53.39,-8,52
+2026,r2,401858218,North Carolina,East Tennessee State,FCS/P4,1,DraftKings,-36.5,1.17,55.5,54.09,-32,38
+2026,r2,401856683,Texas A&M,Arizona State,P4,1,DraftKings,-15.5,-8.15,51.5,55.45,-28,68
+2026,r2,401864571,East Carolina,App State,G5,1,DraftKings,-6.5,5.92,55.5,54.48,3,51
+2026,r2,401868028,Lafayette,Marist,FCS/FCS,1,DraftKings,-15.5,3.36,47.5,53.3,-4,22
+2026,r2,401856673,Georgia,Western Kentucky,G5,1,DraftKings,-40.5,-24.58,55.5,54.95,-50,90
+2026,r2,401866415,Central Michigan,Colgate,FCS/G5,1,DraftKings,-18.5,5.83,48.5,50.21,-3,23
+2026,r2,401856791,West Virginia,UT Martin,FCS/P4,1,DraftKings,-41.5,-3.91,57.5,52.31,-45,59
+2026,r2,401866417,Miami (OH),Holy Cross,FCS/G5,1,DraftKings,-30.5,-3.63,46.5,51.93,-38,52
+2026,r2,401867990,VMI,Bucknell,FCS/FCS,2,DraftKings,8.5,9.23,47.5,53.19,11,17
+2026,r2,401866413,Ball State,Stony Brook,FCS/G5,1,DraftKings,-13.5,7.68,52.5,57.22,-24,58
+2026,r2,401868033,Lehigh,William & Mary,FCS/FCS,2,DraftKings,-13.5,-11.11,47.5,52.36,-24,64
+2026,r2,401868255,Northern Iowa,Drake,FCS/FCS,1,DraftKings,-11.5,-0.17,59.5,53.05,-42,70
+2026,r2,401867884,South Dakota,Eastern Washington,FCS/FCS,2,DraftKings,-15.5,-14.85,61.5,57.64,-18,64
+2026,r2,401867895,Youngstown State,Duquesne,FCS/FCS,1,DraftKings,-22.5,-10.47,54.5,53.55,-57,83
+2026,r2,401868112,Montana,Utah Tech,FCS/FCS,2,DraftKings,-35.5,-32.54,56.5,54.8,-21,49
+2026,r2,401859184,Notre Dame,Rice,G5,1,DraftKings,-44.5,-19.58,54.5,51.92,-52,52
+2026,r2,401856785,Colorado,Weber State,FCS/P4,1,DraftKings,-38.5,-5.51,57.5,55.0,-31,73
+2026,r2,401858216,Syracuse,California,P4,1,DraftKings,-4,-13.74,56.5,57.16,3,39
+2026,r2,401866419,Toledo,Central Connecticut,FCS/G5,1,DraftKings,-36.5,-13.61,52.5,53.96,-53,73
+2026,r2,401858217,Illinois,Duke,P4,1,DraftKings,-6,-1.65,51.5,52.42,4,58
+2026,r2,401858440,Michigan State,Eastern Michigan,G5,1,DraftKings,-17.5,-7.97,49.5,51.53,-28,42
+2026,r2,401858444,UConn,Maryland,G5,1,DraftKings,11.5,-5.37,52.5,56.09,24,52
+2026,r2,401866412,Akron,Robert Morris,FCS/G5,1,DraftKings,-26.5,8.85,45.5,48.27,-35,55
+2026,r2,401858446,Washington,Utah State,G5,1,DraftKings,-28.5,-13.82,55.5,51.17,-2,30
+2026,r2,401860884,Texas State,UTSA,G5,1,DraftKings,-1.5,15.65,65.5,58.67,5,57
+2026,r2,401856790,Pittsburgh,UCF,P4,1,DraftKings,-7.5,-4.98,55.5,57.73,-5,19
+2026,r2,401866420,Massachusetts,Sacred Heart,FCS/G5,1,DraftKings,-23.5,1.24,53.5,53.88,-27,47
+2026,r2,401862708,UAB,UL Monroe,G5,1,DraftKings,-9.5,-9.37,53.5,57.29,-6,46
+2026,r2,401856674,Kentucky,Alabama,P4,1,DraftKings,9.5,2.73,47.5,52.53,28,62
+2026,r2,401856677,Minnesota,Mississippi State,P4,1,DraftKings,1.5,-1.44,53.5,57.22,25,51
+2026,r2,401856810,BYU,Arizona,P4,1,DraftKings,-6.5,-0.77,49.5,52.9,-11,45
+2026,r2,401862705,North Texas,UNLV,G5,1,DraftKings,3,-2.34,58.5,55.42,-38,50
+2026,r2,401868285,Bethune-Cookman,Stetson,FCS/FCS,1,DraftKings,-14.5,-2.21,56.5,59.55,-25,61
+2026,r2,401858223,SMU,UC Davis,FCS/P4,1,DraftKings,-32.5,-3.06,59.5,55.01,-46,66
+2026,r2,401868093,Idaho,Lamar,FCS/FCS,2,DraftKings,-4.5,-1.54,51.5,53.73,6,40
+2026,r2,401864506,Wyoming,Northern Colorado,FCS/G5,1,DraftKings,-23.5,0.72,44.5,50.62,-8,34
+2026,r2,401865252,New Mexico,Mercyhurst,FCS/G5,1,DraftKings,-42.5,-30.78,54.5,51.67,-63,77
+2026,r2,401868326,Troy,Alabama State,FCS/G5,1,DraftKings,-23.5,10.3,52.5,50.28,-17,51
+2026,r2,401856684,Vanderbilt,Delaware,G5,1,DraftKings,-20.5,-11.46,54.5,53.22,-9,61
+2026,r2,401868061,Austin Peay,Morehead State,FCS/FCS,2,DraftKings,-36.5,-0.78,62.5,58.52,-56,70
+2026,r2,401868123,Northern Arizona,Incarnate Word,FCS/FCS,1,DraftKings,-4.5,7.04,54.5,56.5,-10,66
+2026,r2,401866630,Maine,Merrimack,FCS/FCS,2,DraftKings,-10,-8.31,47.5,49.68,9,37
+2026,r2,401856672,Florida,Campbell,FCS/P4,1,DraftKings,-51.5,-9.72,66.5,58.46,-49,55
+2026,r2,401868171,The Citadel,Charleston Southern,FCS/FCS,2,DraftKings,-3,-3.35,45.5,50.92,6,46
+2026,r2,401866629,Hampton,Bryant,FCS/FCS,2,DraftKings,3.5,1.47,51.5,52.67,28,34
+2026,r2,401866631,New Hampshire,Stonehill,FCS/FCS,2,DraftKings,-13.5,2.52,43.5,46.59,-7,77
+2026,r2,401868374,Mercer,Furman,FCS/FCS,2,DraftKings,-15.5,-16.81,54.5,52.4,7,33
+2026,r2,401866418,Ohio,Jacksonville State,G5,1,DraftKings,-1.5,7.26,48.5,53.59,-2,56
+2026,r2,401868102,Idaho State,San Diego,FCS/FCS,1,DraftKings,-22.5,-15.8,58.5,52.96,-42,76
+2026,r2,401868141,Eastern Kentucky,Chattanooga,FCS/FCS,2,DraftKings,3,10.57,48.5,50.8,-5,39
+2026,r2,401860881,Boise State,Memphis,G5,1,DraftKings,-9.5,-0.34,54.5,55.25,-18,58
+2026,r2,401866414,Florida International,Buffalo,G5,1,DraftKings,-8.5,-5.7,47.5,49.24,-13,53
+2026,r2,401866421,Western Michigan,Monmouth,FCS/G5,1,DraftKings,-29.5,-7.89,54.5,50.31,-35,63
+2026,r2,401864503,Northern Illinois,Illinois State,FCS/G5,1,DraftKings,2.5,24.12,47.5,52.04,4,52
+2026,r2,401868386,Tennessee Tech,Samford,FCS/FCS,2,DraftKings,-26.5,-22.56,48.5,47.4,-26,64
+2026,r2,401868195,Alabama A&M,Tennessee State,FCS/FCS,2,DraftKings,3.5,-2.95,49.5,53.61,-27,33
+2026,r2,401856786,Cincinnati,Western Carolina,FCS/P4,1,DraftKings,-36.5,-5.18,61.5,55.29,-52,72
+2026,r2,401868150,SE Louisiana,North Alabama,FCS/FCS,2,DraftKings,-6.5,-0.75,51.5,51.84,-5,55
+2026,r2,401858441,Nebraska,Bowling Green,G5,1,DraftKings,-30.5,-12.06,48.5,51.45,-49,63
+2026,r2,401868241,Arkansas State,West Georgia,FCS/G5,1,DraftKings,-31.5,-11.99,56.5,51.39,-45,59
+2026,r2,401869955,Kennesaw State,Georgia State,G5,1,DraftKings,-7.5,-8.67,55.5,55.39,14,48
+2026,r2,401871045,Marshall,Middle Tennessee,G5,1,DraftKings,-11.5,3.99,56.5,53.35,-2,54
+2026,r2,401867867,Murray State,Valparaiso,FCS/FCS,1,DraftKings,-14,13.5,47.5,54.08,-9,45
+2026,r2,401871046,Missouri State,Lindenwood,FCS/G5,1,DraftKings,-16.5,0.75,53.5,53.1,-34,62
+2026,r2,401856680,South Carolina,Towson,FCS/P4,1,DraftKings,-44.5,-21.14,57.5,51.48,-36,54
+2026,r2,401869130,East Texas A&M,Northwestern State,FCS/FCS,2,DraftKings,-20.5,-11.69,53.5,56.86,-24,52
+2026,r2,401872616,South Dakota State,New Haven,FCS/FCS,2,DraftKings,-42.5,-19.61,54.5,52.06,-43,71
+2026,r2,401867890,Southern Illinois,Southeast Missouri State,FCS/FCS,2,DraftKings,-7.5,-13.75,53.5,52.72,-14,54
+2026,r2,401867856,Eastern Illinois,Indiana State,FCS/FCS,2,DraftKings,3,-2.58,49.5,53.58,7,77
+2026,r2,401856681,Georgia Tech,Tennessee,P4,1,DraftKings,12.5,11.28,55.5,54.02,21,69
+2026,r2,401856787,Houston,Southern,FCS/P4,1,DraftKings,-51.5,-7.91,61.5,52.53,-71,83
+2026,r2,401862707,Sam Houston,Tulsa,G5,1,DraftKings,12.5,3.85,51.5,50.63,6,40
+2026,r2,401864575,Tulane,South Alabama,G5,1,DraftKings,-9.5,0.15,48.5,49.36,-4,52
+2026,r2,401868355,Alcorn State,Arkansas-Pine Bluff,FCS/FCS,2,DraftKings,-8.5,-6.14,49.5,54.53,-2,104
+2026,r2,401860882,Colorado State,Southern Utah,FCS/G5,1,DraftKings,-19.5,-0.28,57.5,56.37,-34,82
+2026,r2,401868236,McNeese,Tarleton State,FCS/FCS,2,DraftKings,19.5,7.18,56.5,54.8,3,51
+2026,r2,401868246,Nicholls,UT Rio Grande Valley,FCS/FCS,2,DraftKings,5.5,11.48,50.5,54.13,-3,59
+2026,r2,401858443,UCLA,San Diego State,G5,1,DraftKings,-13.5,3.02,53.5,55.45,-18,38
+2026,r2,401858447,Wisconsin,Western Illinois,FCS/P4,1,DraftKings,-43.5,-1.79,53.5,53.15,-27,45
+2026,r2,401862703,Florida Atlantic,Navy,G5,1,DraftKings,4.5,17.25,59.5,59.37,-8,68
+2026,r2,401868008,Coastal Carolina,Fordham,FCS/G5,1,DraftKings,-36.5,-9.05,54.5,50.38,-38,52
+2026,r2,401856788,Iowa,Iowa State,P4,1,DraftKings,-14,-7.89,42.5,49.81,-3,29
+2026,r2,401856783,Oregon State,Texas Tech,G5,1,DraftKings,25.5,19.32,52.5,50.53,11,59
+2026,r2,401858219,Clemson,Georgia Southern,G5,1,DraftKings,-20.5,7.75,54.5,52.16,-15,29
+2026,r2,401856682,Texas,Ohio State,P4,1,DraftKings,-2.5,-0.47,50.5,53.48,-1,47
+2026,r2,401867796,LSU,Louisiana Tech,G5,1,DraftKings,-34.5,-7.28,54.5,54.42,-31,59
+2026,r2,401856676,Ole Miss,Charlotte,G5,1,DraftKings,-44.5,-23.3,59.5,59.74,-32,50
+2026,r2,401856671,Auburn,Southern Miss,G5,1,DraftKings,-32.5,3.56,56.5,50.35,-35,51
+2026,r2,401856789,TCU,Grambling,FCS/P4,1,DraftKings,-44.5,2.4,56.5,52.44,-56,70
+2026,r2,401868050,Abilene Christian,Stephen F. Austin,FCS/FCS,2,DraftKings,3,14.16,50.5,52.61,19,33
+2026,r2,401856784,Baylor,Prairie View A&M,FCS/P4,1,DraftKings,-37.5,5.12,55.5,55.46,-41,47
+2026,r2,401864504,San José State,Cal Poly,FCS/G5,2,DraftKings,-21.5,0.46,58.5,55.22,-10,50
+2026,r2,401864505,UTEP,Texas Southern,FCS/G5,1,DraftKings,-27.5,2.95,53.5,56.11,-41,61
+2026,r2,401867876,Portland State,North Dakota,FCS/FCS,2,DraftKings,25.5,22.5,60.5,60.17,24,70
+2026,r2,401864502,Air Force,North Dakota State,G5,1,DraftKings,1.5,9.38,48.5,49.11,6,70
+2026,r2,401856670,Utah,Arkansas,P4,1,DraftKings,-13.5,-16.26,55.5,57.69,-33,53
+2026,r2,401860883,Fresno State,Sacramento State,G5,1,DraftKings,-17.5,5.58,43.5,49.71,-46,52
+2026,r2,401864500,Nevada,Montana State,FCS/G5,1,DraftKings,4.5,8.95,51.5,56.23,13,27
+2026,r2,401858445,USC,Louisiana,G5,1,DraftKings,-30.5,-10.29,58.5,53.51,-19,79
+2026,r2,401864578,Hawai'i,New Mexico State,G5,2,DraftKings,-7.5,3.83,50.5,52.54,-10,48
+2026,r3,401858225,Pittsburgh,Syracuse,P4,2,DraftKings,-10.5,-13.68,51.5,51.99,-14,40
+2026,r3,401858226,Wake Forest,Miami,P4,2,DraftKings,20.5,11.59,55.5,55.87,13,53
+2026,r3,401856811,Texas Tech,Houston,P4,2,DraftKings,-7.5,-3.95,52.5,54.84,-2,54
+2026,r3,401858455,Oregon,Portland State,FCS/P4,2,DraftKings,-58.5,-25.63,71.5,59.66,-84,84
+2026,r3,401869940,Delaware,Coastal Carolina,G5,2,DraftKings,-4.5,-4.35,56.5,55.48,-8,36
+2026,r3,401860889,Texas State,North Texas,G5,2,DraftKings,-3,11.06,62.5,59.91,-14,84
+2026,r3,401867805,New Haven,Brown,FCS/FCS,0,DraftKings,10,12.26,50.5,52.36,7,27
+2026,r3,401868242,East Tennessee State,West Georgia,FCS/FCS,3,DraftKings,-16.5,-19.23,53.5,54.53,-8,62
+2026,r3,401867817,Columbia,Lafayette,FCS/FCS,0,DraftKings,-3,-5.93,47.5,51.36,-6,74
+2026,r3,401867908,Long Island University,Villanova,FCS/FCS,3,DraftKings,18.5,7.57,50.5,52.56,4,36
+2026,r3,401867834,Lehigh,Dartmouth,FCS/FCS,0,DraftKings,-17.5,-14.48,50.5,52.74,-4,44
+2026,r3,401858456,Penn State,Buffalo,G5,2,DraftKings,-39.5,-24.19,48.5,48.87,-42,68
+2026,r3,401858454,Ohio State,Kent State,G5,2,DraftKings,-52.5,-25.61,58.5,52.56,-56,62
+2026,r3,401856686,Arkansas,Georgia,P4,2,DraftKings,24.5,15.09,54.5,57.74,28,62
+2026,r3,401856798,Iowa State,Bowling Green,G5,2,DraftKings,-22.5,-20.63,43.5,47.7,-48,62
+2026,r3,401858228,Georgia Tech,Mercer,FCS/P4,2,DraftKings,-38.5,-0.96,58.5,51.11,-33,55
+2026,r3,401858229,Clemson,North Carolina,P4,2,DraftKings,-3,5.5,44.5,45.46,-8,48
+2026,r3,401858451,Minnesota,Akron,G5,2,DraftKings,-22.5,-1.82,48.5,53.17,-34,48
+2026,r3,401856812,Kansas,Arizona State,P4,2,DraftKings,5.5,2.14,50.5,58.38,7,41
+2026,r3,401856792,Kansas State,Tulane,G5,2,DraftKings,-20.5,-16.68,49.5,50.79,-11,51
+2026,r3,401858460,Wisconsin,Eastern Michigan,G5,2,DraftKings,-23.5,-10.57,43.5,47.83,-44,64
+2026,r3,401856695,Vanderbilt,NC State,P4,2,DraftKings,-3,-7.23,50.5,54.33,-4,66
+2026,r3,401867826,Colgate,Cornell,FCS/FCS,0,DraftKings,-12.5,-2.86,50.5,48.99,-13,27
+2026,r3,401866639,New Hampshire,Harvard,FCS/FCS,0,DraftKings,14.5,11.46,51.5,57.0,24,38
+2026,r3,401867857,Indiana State,Valparaiso,FCS/FCS,2,DraftKings,-22.5,0.25,53.5,56.85,-23,55
+2026,r3,401868397,Davidson,VMI,FCS/FCS,3,DraftKings,4,-7.74,42.5,51.03,-3,51
+2026,r3,401864508,Central Michigan,Wyoming,G5,2,DraftKings,1.5,-2.02,39.5,44.09,-14,34
+2026,r3,401867686,Butler,Chicago State,FCS/FCS,3,DraftKings,-20.5,-15.1,54.5,56.37,-27,67
+2026,r3,401866638,Bryant,Princeton,FCS/FCS,0,DraftKings,2.5,-1.67,44.5,49.3,-7,35
+2026,r3,401868023,Holy Cross,Yale,FCS/FCS,0,DraftKings,21,19.16,50.5,50.74,10,66
+2026,r3,401858448,Illinois,Southern Illinois,FCS/P4,2,DraftKings,-34.5,-5.69,55.5,55.65,-38,58
+2026,r3,401858227,Boston College,Maine,FCS/P4,2,DraftKings,-37.5,-14.2,54.5,50.08,-6,38
+2026,r3,401868159,St. Thomas (MN),Southern Utah,FCS/FCS,3,DraftKings,12.5,-9.27,62.5,61.04,-2,54
+2026,r3,401868275,Western Carolina,Presbyterian,FCS/FCS,2,DraftKings,-33.5,-4.27,66.5,60.86,-44,72
+2026,r3,401866634,Stony Brook,Rhode Island,FCS/FCS,3,DraftKings,9.5,13.4,51.5,55.74,-32,80
+2026,r3,401867991,Bucknell,Pennsylvania,FCS/FCS,0,DraftKings,3.5,7.36,46.5,48.26,13,27
+2026,r3,401862774,Toledo,Temple,G5,2,DraftKings,-4.5,-6.45,48.5,52.57,-1,97
+2026,r3,401867846,Illinois State,Eastern Illinois,FCS/FCS,3,DraftKings,-29.5,-25.59,53.5,56.5,-36,62
+2026,r3,401867898,Montana State,Central Connecticut,FCS/FCS,2,DraftKings,-41.5,-35.07,59.5,57.56,-5,65
+2026,r3,401856801,Utah,Utah State,G5,2,DraftKings,-26.5,-22.8,55.5,54.35,-33,33
+2026,r3,401858233,California,Wagner,FCS/P4,2,DraftKings,-58.5,-14.97,65.5,51.61,-42,56
+2026,r3,401860890,Washington State,Duquesne,FCS/G5,2,DraftKings,-38.5,-19.03,51.5,49.62,-41,55
+2026,r3,401858450,Michigan,UTEP,G5,2,DraftKings,-34.5,-15.17,48.5,48.8,-35,69
+2026,r3,401856694,Texas A&M,Kentucky,P4,2,DraftKings,-16.5,-18.08,48.5,54.21,10,52
+2026,r3,401858230,Louisville,SMU,P4,2,DraftKings,-3,0.69,57.5,58.0,-10,72
+2026,r3,401866424,Massachusetts,Stonehill,FCS/G5,2,DraftKings,-30.5,-12.65,50.5,49.05,-22,50
+2026,r3,401866635,UAlbany,Monmouth,FCS/FCS,3,DraftKings,2.5,-7.16,50.5,52.57,8,48
+2026,r3,401868018,Richmond,Georgetown,FCS/FCS,1,DraftKings,-15.5,-8.93,45.5,54.08,-3,45
+2026,r3,401856797,Cincinnati,Miami (OH),G5,2,DraftKings,-14.5,-15.08,50.5,55.97,-4,66
+2026,r3,401856685,Alabama,Florida State,P4,2,DraftKings,-18.5,-14.8,50.5,53.09,-14,86
+2026,r3,401858457,Rutgers,USC,P4,2,DraftKings,21,23.41,59.5,57.08,7,77
+2026,r3,401867804,Baylor,Louisiana Tech,G5,2,DraftKings,-20.5,-13.56,50.5,53.5,-17,55
+2026,r3,401858471,Iowa,Northern Iowa,FCS/P4,2,DraftKings,-37.5,-16.42,48.5,50.06,-55,55
+2026,r3,401868051,Idaho,Abilene Christian,FCS/FCS,3,DraftKings,1.5,1.86,55.5,52.37,2,80
+2026,r3,401866641,Norfolk State,Hampton,FCS/FCS,3,DraftKings,-5.5,-11.52,49.5,52.66,-21,63
+2026,r3,401866422,Liberty,Ball State,G5,2,DraftKings,-14.5,-6.76,49.5,50.85,-36,66
+2026,r3,401858231,Duke,Stanford,P4,2,DraftKings,-9.5,-15.17,51.5,52.64,-28,42
+2026,r3,401858449,Indiana,Western Kentucky,G5,2,DraftKings,-44.5,-39.86,59.5,59.08,-38,38
+2026,r3,401856691,South Carolina,Mississippi State,P4,2,DraftKings,-3,-3.4,59.5,55.74,7,75
+2026,r3,401868317,UL Monroe,SE Louisiana,FCS/G5,2,DraftKings,-9.5,3.2,48.5,54.1,3,73
+2026,r3,401864574,App State,Charlotte,G5,2,DraftKings,-16.5,-19.05,52.5,55.76,-5,47
+2026,r3,401862710,Old Dominion,East Carolina,G5,2,DraftKings,-2.5,-6.14,48.5,52.4,3,37
+2026,r3,401866637,Elon,Sacred Heart,FCS/FCS,2,DraftKings,-11.5,-19.84,46.5,50.04,-3,45
+2026,r3,401866640,Towson,Morgan State,FCS/FCS,3,DraftKings,-8.5,2.64,44.5,51.52,15,67
+2026,r3,401868009,William & Mary,Fordham,FCS/FCS,3,DraftKings,-15.5,-17.44,51.5,51.27,25,79
+2026,r3,401868337,Chattanooga,Wofford,FCS/FCS,3,DraftKings,-1.5,4.41,43.5,45.84,-34,48
+2026,r3,401867979,Gardner-Webb,North Carolina Central,FCS/FCS,3,DraftKings,-7,-3.51,53.5,51.35,-24,64
+2026,r3,401866636,Campbell,North Carolina A&T,FCS/FCS,3,DraftKings,-20.5,-14.82,56.5,55.18,-28,56
+2026,r3,401868142,Eastern Kentucky,Dayton,FCS/FCS,2,DraftKings,-11.5,17.08,46.5,50.76,3,31
+2026,r3,401862771,Florida Atlantic,Florida International,G5,2,DraftKings,-5.5,4.51,62.5,57.9,-6,26
+2026,r3,401871047,Missouri State,Marshall,G5,2,DraftKings,4,-7.63,52.5,54.05,6,54
+2026,r3,401867896,South Dakota State,Youngstown State,FCS/FCS,3,DraftKings,-9.5,-7.58,59.5,61.31,-7,47
+2026,r3,401869147,Incarnate Word,Houston Christian,FCS/FCS,2,DraftKings,-14,-11.73,50.5,56.71,-7,53
+2026,r3,401868151,North Alabama,Alcorn State,FCS/FCS,3,DraftKings,-13.5,-0.47,52.5,56.35,-18,58
+2026,r3,401856803,Oklahoma State,Murray State,FCS/P4,2,DraftKings,-56.5,-14.7,70.5,50.18,-59,59
+2026,r3,401870764,Sam Houston,Nicholls,FCS/G5,2,DraftKings,-21,0.34,50.5,53.17,-59,59
+2026,r3,401862773,Rice,Western Michigan,G5,2,DraftKings,8.5,11.81,43.5,47.98,7,49
+2026,r3,401869948,Jacksonville State,Georgia Southern,G5,2,DraftKings,-3.5,-3.42,51.5,49.01,-4,58
+2026,r3,401868133,Southeast Missouri State,Central Arkansas,FCS/FCS,3,DraftKings,-4,8.29,54.5,55.45,-18,36
+2026,r3,401856689,Missouri,Troy,G5,2,DraftKings,-26.5,-16.36,49.5,52.11,-10,44
+2026,r3,401862777,South Florida,Delaware State,FCS/G5,2,DraftKings,-37.5,-16.74,59.5,49.47,-42,76
+2026,r3,401862772,Memphis,UT Martin,FCS/G5,3,DraftKings,-33.5,-11.5,58.5,53.95,-24,66
+2026,r3,401866423,South Alabama,Ohio,G5,2,DraftKings,-7,-6.04,49.5,55.22,-5,77
+2026,r3,401867984,Furman,South Carolina State,FCS/FCS,3,DraftKings,4.5,13.69,46.5,52.16,3,37
+2026,r3,401856687,Auburn,Florida,P4,2,DraftKings,2.5,-0.17,53.5,52.61,5,83
+2026,r3,401861963,Southern Miss,UConn,G5,2,DraftKings,3.5,-0.85,54.5,54.72,28,68
+2026,r3,401868237,Tarleton State,Merrimack,FCS/FCS,3,DraftKings,-32.5,-22.69,54.5,50.8,-25,65
+2026,r3,401868062,West Florida,Austin Peay,FCS/FCS,2,DraftKings,10.5,-5.74,55.5,55.21,22,54
+2026,r3,401856800,UCF,Georgia State,G5,2,DraftKings,-17.5,-7.2,50.5,52.55,-14,74
+2026,r3,401868196,Florida A&M,Tennessee State,FCS/FCS,3,DraftKings,-3,-10.83,47.5,49.82,3,55
+2026,r3,401864443,Middle Tennessee,Nevada,G5,2,DraftKings,3.5,3.3,50.5,50.49,-7,47
+2026,r3,401868205,Western Illinois,Morehead State,FCS/FCS,3,DraftKings,-20.5,0.05,61.5,61.34,-57,61
+2026,r3,401858459,Washington,Eastern Washington,FCS/P4,2,DraftKings,-42.5,-12.54,58.5,50.71,-32,64
+2026,r3,401858452,Nebraska,North Dakota,FCS/P4,2,DraftKings,-27.5,-5.11,56.5,61.12,-27,41
+2026,r3,401856802,Virginia,West Virginia,P4,2,DraftKings,-10.5,-9.31,51.5,52.8,11,65
+2026,r3,401858232,Maryland,Virginia Tech,P4,2,DraftKings,2.5,-3.37,53.5,57.24,9,61
+2026,r3,401856796,Northwestern,Colorado,P4,1,DraftKings,-3.5,-6.07,47.5,50.24,-34,48
+2026,r3,401858453,Notre Dame,Michigan State,P4,2,DraftKings,-28.5,-14.99,51.5,53.08,-17,37
+2026,r3,401856795,Colorado State,BYU,G5,2,DraftKings,17.5,5.54,54.5,56.24,18,64
+2026,r3,401856690,Oklahoma,New Mexico,G5,2,DraftKings,-21.5,-5.6,45.5,50.72,-8,20
+2026,r3,401856688,Ole Miss,LSU,P4,2,DraftKings,3,2.95,58.5,55.75,-8,56
+2026,r3,401856692,Tennessee,Kennesaw State,G5,2,DraftKings,-35.5,-18.35,60.5,57.01,-33,51
+2026,r3,401856799,TCU,Arkansas State,G5,2,DraftKings,-18.5,-15.21,56.5,54.76,-24,38
+2026,r3,401856693,Texas,UTSA,G5,2,DraftKings,-29.5,-8.4,58.5,56.08,-24,36
+2026,r3,401862775,Tulsa,East Texas A&M,FCS/G5,2,DraftKings,-41.5,-10.49,55.5,49.02,-42,42
+2026,r3,401862776,Louisiana,UAB,G5,2,DraftKings,-7,-13.86,55.5,56.72,-7,35
+2026,r3,401868124,Utah Tech,Northern Arizona,FCS/FCS,3,DraftKings,16.5,13.15,51.5,54.87,12,58
+2026,r3,401868075,Cal Poly,San Diego,FCS/FCS,2,DraftKings,-17.5,-16.13,57.5,56.99,3,73
+2026,r3,401868247,UT Rio Grande Valley,McNeese,FCS/FCS,3,DraftKings,-5.5,-5.15,52.5,53.55,-17,37
+2026,r3,401868168,Weber State,Northwestern State,FCS/FCS,3,DraftKings,-35.5,-12.99,56.5,63.41,-29,69
+2026,r3,401868307,Prairie View A&M,Stephen F. Austin,FCS/FCS,3,DraftKings,16.5,12.95,52.5,55.14,21,41
+2026,r3,401860887,San Diego State,James Madison,G5,2,DraftKings,-3,5.02,46.5,53.17,13,39
+2026,r3,401860885,Boise State,South Dakota,FCS/G5,2,DraftKings,-28.5,-1.72,61.5,58.0,-14,62
+2026,r3,401868164,UC Davis,Stetson,FCS/FCS,3,DraftKings,-47.5,-15.97,65.5,58.78,-38,52
+2026,r3,401856793,Arizona,Northern Illinois,G5,2,DraftKings,-34.5,-20.2,50.5,48.31,-25,59
+2026,r3,401864507,Sacramento State,North Dakota State,G5,3,DraftKings,26.5,20.25,50.5,52.61,21,41
+2026,r3,401858458,UCLA,Purdue,P4,2,DraftKings,-13.5,-8.69,53.5,55.76,-14,90
+2026,r3,401860886,Oregon State,Montana,FCS/G5,2,DraftKings,-17.5,6.71,55.5,53.27,-35,69
+2026,r3,401860888,San José State,Fresno State,G5,2,DraftKings,4,3.08,47.5,50.78,16,36
+2026,r4,401869941,Coastal Carolina,Liberty,G5,3,DraftKings,2.5,-0.35,50.5,51.12,17,51
+2026,r4,401862779,Temple,Army,G5,2,DraftKings,4,4.14,48.5,56.16,4,38
+2026,r4,401867806,Brown,Harvard,FCS/FCS,1,DraftKings,13.5,7.35,42.5,49.4,4,24
+2026,r4,401858468,Rutgers,Howard,FCS/P4,3,DraftKings,-42.5,-6.03,57.5,55.52,-51,65
+2026,r4,401862778,UAB,Navy,G5,2,DraftKings,6.5,4.52,50.5,54.04,-4,44
+2026,r4,401858461,Indiana,Northwestern,P4,2,DraftKings,-20.5,-12.72,49.5,50.58,-6,52
+2026,r4,401858234,California,Clemson,P4,3,DraftKings,2.5,-0.71,52.5,51.9,14,34
+2026,r4,401858243,Louisville,Wake Forest,P4,3,DraftKings,-11.5,-8.91,57.5,59.93,3,57
+2026,r4,401868263,Marist,Presbyterian,FCS/FCS,3,DraftKings,-8.5,-12.57,44.5,52.67,-35,49
+2026,r4,401860893,Toledo,San Diego State,G5,3,DraftKings,-2.5,-7.57,50.5,55.22,-25,57
+2026,r4,401856805,Texas Tech,Sam Houston,G5,3,DraftKings,-34.5,-15.33,55.5,51.32,-35,63
+2026,r4,401858242,Boston College,Virginia Tech,P4,3,DraftKings,14.5,14.14,45.5,55.05,7,35
+2026,r4,401856813,Baylor,Colorado,P4,3,DraftKings,-8.5,-13.17,54.5,50.16,-10,36
+2026,r4,401866425,Kent State,Ball State,G5,3,DraftKings,-2.5,-2.55,51.5,55.94,-13,39
+2026,r4,401864512,Akron,UNLV,G5,3,DraftKings,13.5,-0.29,52.5,50.23,28,48
+2026,r4,401860896,UTSA,Colorado State,G5,3,DraftKings,-14.5,-7.76,56.5,56.83,-14,104
+2026,r4,401856704,Tennessee,Texas,P4,3,DraftKings,5.5,-2.29,54.5,55.92,3,37
+2026,r4,401858236,Pittsburgh,Bucknell,FCS/P4,3,DraftKings,-54.5,-29.71,63.5,44.41,-59,59
+2026,r4,401858465,Ohio State,Illinois,P4,3,DraftKings,-25.5,-10.66,53.5,54.65,-23,61
+2026,r4,401866642,Sacred Heart,New Hampshire,FCS/FCS,3,DraftKings,-2.5,-7.1,41.5,54.1,-7,33
+2026,r4,401867818,Georgetown,Columbia,FCS/FCS,1,DraftKings,7,3.47,46.5,54.34,3,37
+2026,r4,401868024,Lafayette,Holy Cross,FCS/FCS,3,DraftKings,-4,-8.6,46.5,54.03,8,68
+2026,r4,401864576,Kentucky,South Alabama,G5,3,DraftKings,-20.5,-10.79,54.5,55.68,-24,66
+2026,r4,401867858,Indiana State,North Dakota,FCS/FCS,4,DraftKings,17.5,11.59,54.5,58.78,7,77
+2026,r4,401866427,Eastern Michigan,Lindenwood,FCS/G5,3,DraftKings,-24.5,-1.59,53.5,53.22,-26,32
+2026,r4,401868219,Davidson,Drake,FCS/FCS,3,DraftKings,11.5,-3.09,58.5,54.95,19,83
+2026,r4,401867827,Cornell,Yale,FCS/FCS,1,DraftKings,14,5.61,48.5,51.78,-13,63
+2026,r4,401872618,Merrimack,New Haven,FCS/FCS,4,DraftKings,-10,-3.33,42.5,48.32,-7,27
+2026,r4,401868034,Pennsylvania,Lehigh,FCS/FCS,1,DraftKings,12.5,7.05,45.5,50.33,13,27
+2026,r4,401866648,Fordham,Stony Brook,FCS/FCS,4,DraftKings,9.5,3.88,50.5,59.06,15,47
+2026,r4,401866647,Dartmouth,Monmouth,FCS/FCS,1,DraftKings,-3,-9.22,51.5,54.06,3,59
+2026,r4,401858462,Maryland,UCLA,P4,3,DraftKings,2.5,-0.87,55.5,57.31,51,57
+2026,r4,401868390,Wofford,Tennessee Tech,FCS/FCS,3,DraftKings,14.5,15.14,47.5,49.57,4,80
+2026,r4,401868063,Austin Peay,UT Martin,FCS/FCS,4,DraftKings,-15.5,-20.41,53.5,53.81,-23,47
+2026,r4,401867885,Youngstown State,South Dakota,FCS/FCS,4,DraftKings,-1.5,1.27,65.5,60.56,-19,75
+2026,r4,401868338,The Citadel,Chattanooga,FCS/FCS,3,DraftKings,10.5,7.76,46.5,52.31,19,35
+2026,r4,401866643,Elon,Maine,FCS/FCS,4,DraftKings,-5.5,-15.93,44.5,46.42,-26,60
+2026,r4,401858467,Purdue,Notre Dame,P4,3,DraftKings,27.5,19.67,57.5,58.59,39,59
+2026,r4,401864511,Georgia State,Northern Illinois,G5,3,DraftKings,-8.5,-11.47,56.5,55.63,-21,49
+2026,r4,401868211,Valparaiso,Butler,FCS/FCS,3,DraftKings,6.5,13.24,52.5,55.88,5,61
+2026,r4,401868037,Richmond,Furman,FCS/FCS,4,DraftKings,-3.5,3.43,43.5,49.03,-4,22
+2026,r4,401868281,St. Thomas (MN),San Diego,FCS/FCS,3,DraftKings,-5.5,-11.98,57.5,59.93,-33,67
+2026,r4,401868001,Villanova,Colgate,FCS/FCS,4,DraftKings,-3,5.13,44.5,46.7,7,49
+2026,r4,401866646,Princeton,UAlbany,FCS/FCS,1,DraftKings,1.5,-3.29,43.5,47.18,-22,22
+2026,r4,401858237,Florida State,Central Arkansas,FCS/P4,3,DraftKings,-45.5,-14.71,62.5,57.62,-27,41
+2026,r4,401864510,Wyoming,Hawai'i,G5,3,DraftKings,2.5,0.93,44.5,46.74,-17,37
+2026,r4,401866428,Ohio,Stonehill,FCS/G5,3,DraftKings,-32.5,-15.62,53.5,53.58,-28,42
+2026,r4,401866426,Buffalo,Robert Morris,FCS/G5,3,DraftKings,-27.5,-2.99,46.5,49.86,-3,59
+2026,r4,401868188,Marshall,Gardner-Webb,FCS/G5,3,DraftKings,-24.5,-0.7,56.5,52.27,-1,71
+2026,r4,401858244,Duke,William & Mary,FCS/P4,3,DraftKings,-43.5,-26.35,61.5,54.87,-55,69
+2026,r4,401856699,Florida,Ole Miss,P4,3,DraftKings,-4,-3.96,58.5,60.57,-24,80
+2026,r4,401858463,Michigan,Iowa,P4,3,DraftKings,-4.5,4.21,39.5,46.37,1,39
+2026,r4,401860897,Western Michigan,Boise State,G5,3,DraftKings,8.5,-1.98,50.5,51.69,25,39
+2026,r4,401856700,Georgia,Oklahoma,P4,3,DraftKings,-11.5,-8.44,43.5,50.98,-28,54
+2026,r4,401861970,Miami (OH),UConn,G5,3,DraftKings,-2.5,5.11,52.5,58.33,-3,45
+2026,r4,401864579,New Mexico State,New Mexico,G5,3,DraftKings,11.5,11.91,47.5,51.63,24,60
+2026,r4,401868387,Samford,VMI,FCS/FCS,3,DraftKings,-15.5,-7.57,46.5,49.49,-38,52
+2026,r4,401856816,Iowa State,Utah,P4,3,DraftKings,7.5,5.51,46.5,52.78,14,48
+2026,r4,401868346,East Tennessee State,Western Carolina,FCS/FCS,4,DraftKings,-1.5,2.25,63.5,62.39,-27,89
+2026,r4,401856815,UCF,TCU,P4,3,DraftKings,3.5,0.72,48.5,51.18,-8,34
+2026,r4,401856806,Georgia Southern,Houston,G5,3,DraftKings,17.5,11.23,56.5,52.61,14,70
+2026,r4,401869143,Nicholls,Lamar,FCS/FCS,3,DraftKings,8.5,1.41,45.5,50.8,31,67
+2026,r4,401866644,North Carolina A&T,Rhode Island,FCS/FCS,4,DraftKings,24.5,15.39,52.5,52.87,-4,40
+2026,r4,401868206,North Alabama,Western Illinois,FCS/FCS,4,DraftKings,-7,2.8,53.5,53.23,-3,43
+2026,r4,401868358,Alcorn State,Texas Southern,FCS/FCS,3,DraftKings,-3.5,-11.24,55.5,60.57,-3,83
+2026,r4,401862781,East Carolina,North Carolina Central,FCS/G5,3,DraftKings,-37.5,-14.3,58.5,53.44,-33,51
+2026,r4,401856698,Auburn,Vanderbilt,P4,3,DraftKings,-10,-0.58,54.5,54.72,-6,36
+2026,r4,401858466,Penn State,Wisconsin,P4,3,DraftKings,-9.5,-13.04,43.5,50.62,4,44
+2026,r4,401858464,Michigan State,Nebraska,P4,3,DraftKings,6,7.16,48.5,50.87,18,44
+2026,r4,401867847,Northern Iowa,Illinois State,FCS/FCS,3,DraftKings,19.5,15.15,58.5,56.51,-7,49
+2026,r4,401862785,Bowling Green,South Florida,G5,3,DraftKings,17.5,22.97,48.5,53.78,8,20
+2026,r4,401866649,Delaware State,Towson,FCS/FCS,4,DraftKings,-3,-8.67,48.5,53.58,-5,61
+2026,r4,401858239,Virginia,Delaware,G5,3,DraftKings,-19.5,-11.37,52.5,52.67,-39,45
+2026,r4,401867909,Florida International,Long Island University,FCS/G5,3,DraftKings,-37.5,-19.44,54.5,46.34,-17,23
+2026,r4,401868327,Alabama State,Mississippi Valley State,FCS/FCS,3,DraftKings,-34.5,-28.47,54.5,49.67,-26,56
+2026,r4,401869961,Old Dominion,James Madison,G5,3,DraftKings,7,8.63,44.5,50.51,26,66
+2026,r4,401866645,Hampton,Campbell,FCS/FCS,4,DraftKings,20.5,14.56,54.5,54.78,24,64
+2026,r4,401860892,Texas State,Incarnate Word,FCS/G5,3,DraftKings,-30.5,-3.46,66.5,61.67,-53,73
+2026,r4,401862780,Charlotte,Louisiana,G5,3,DraftKings,9.5,10.5,49.5,54.56,27,41
+2026,r4,401858238,Miami,Central Michigan,G5,3,DraftKings,-41.5,-27.33,52.5,48.83,-49,55
+2026,r4,401870745,Western Kentucky,Mercyhurst,FCS/G5,3,DraftKings,-39.5,-8.28,58.5,59.54,-45,59
+2026,r4,401856696,Alabama,South Carolina,P4,3,DraftKings,-12.5,-11.55,53.5,58.34,-31,67
+2026,r4,401871048,Jacksonville State,Middle Tennessee,G5,3,DraftKings,-7,-5.88,50.5,53.54,-10,36
+2026,r4,401862784,Tulane,Southern Miss,G5,3,DraftKings,-17.5,-9.84,52.5,50.21,-3,45
+2026,r4,401856814,Cincinnati,Kansas State,P4,3,DraftKings,6,2.86,55.5,57.1,-5,57
+2026,r4,401869931,Arkansas State,Kennesaw State,G5,3,DraftKings,-6.5,-2.41,53.5,51.87,-3,31
+2026,r4,401867868,Murray State,Southern Illinois,FCS/FCS,4,DraftKings,17.5,13.42,53.5,53.28,40,52
+2026,r4,401869137,McNeese,East Texas A&M,FCS/FCS,4,DraftKings,-6.5,-13.27,51.5,50.49,-3,51
+2026,r4,401856881,West Virginia,Oklahoma State,P4,3,DraftKings,-1.5,-8.8,60.5,55.36,17,65
+2026,r4,401868299,Florida A&M,Alabama A&M,FCS/FCS,4,DraftKings,3,4.75,51.5,52.73,19,61
+2026,r4,401867687,Chicago State,Norfolk State,FCS/FCS,4,DraftKings,17.5,4.56,55.5,58.64,23,63
+2026,r4,401868960,Jackson State,Southern,FCS/FCS,3,DraftKings,-20.5,-18.48,57.5,58.06,-18,52
+2026,r4,401868954,Grambling,Prairie View A&M,FCS/FCS,3,DraftKings,11.5,-2.54,55.5,57.57,7,35
+2026,r4,401868179,South Dakota State,Eastern Illinois,FCS/FCS,4,DraftKings,-34.5,-23.72,53.5,58.13,-35,49
+2026,r4,401868076,Eastern Washington,Cal Poly,FCS/FCS,4,DraftKings,-3.5,-0.79,58.5,57.44,4,58
+2026,r4,401868318,Northwestern State,SE Louisiana,FCS/FCS,4,DraftKings,37.5,18.54,60.5,59.31,31,73
+2026,r4,401867985,Bethune-Cookman,South Carolina State,FCS/FCS,3,DraftKings,17.5,12.89,58.5,58.38,10,52
+2026,r4,401871472,Southeast Missouri State,West Florida,FCS/FCS,3,DraftKings,-6,5.89,52.5,51.83,3,37
+2026,r4,401862783,North Texas,Houston Christian,FCS/G5,3,DraftKings,-38.5,-15.07,60.5,59.07,-49,77
+2026,r4,401856702,LSU,Texas A&M,P4,3,DraftKings,-8.5,-2.0,52.5,54.22,-29,41
+2026,r4,401864572,NC State,App State,G5,3,DraftKings,-12.5,-8.71,56.5,55.54,-10,72
+2026,r4,401856804,Washington State,Arizona,G5,3,DraftKings,11.5,7.25,47.5,47.8,10,58
+2026,r4,401860894,Utah State,Troy,G5,3,DraftKings,-3,2.66,47.5,46.72,-11,31
+2026,r4,401858469,USC,Oregon,P4,3,DraftKings,3.5,-4.82,60.5,61.85,14,68
+2026,r4,401856703,Mississippi State,Missouri,P4,3,DraftKings,-3.5,-3.62,58.5,57.67,-7,55
+2026,r4,401862782,UL Monroe,Florida Atlantic,G5,3,DraftKings,11.5,5.99,58.5,58.49,28,62
+2026,r4,401856697,Arkansas,Tulsa,G5,3,DraftKings,-7,7.59,51.5,50.22,-28,40
+2026,r4,401868052,Abilene Christian,Mercer,FCS/FCS,4,DraftKings,-3.5,-1.6,48.5,51.6,17,51
+2026,r4,401868103,Southern Utah,Idaho State,FCS/FCS,3,DraftKings,9.5,14.26,61.5,59.53,4,52
+2026,r4,401868131,Northern Colorado,Utah Tech,FCS/FCS,4,DraftKings,-7.5,-13.33,49.5,51.26,-24,50
+2026,r4,401868155,Weber State,Portland State,FCS/FCS,4,DraftKings,-7,-10.72,64.5,64.86,3,85
+2026,r4,401858241,SMU,Missouri State,G5,3,DraftKings,-30.5,-19.26,60.5,55.94,-10,58
+2026,r4,401866429,Sacramento State,Massachusetts,G5,3,DraftKings,6,6.99,49.5,52.1,29,41
+2026,r4,401860895,UTEP,Oregon State,G5,3,DraftKings,11.5,11.34,56.5,57.92,26,40
+2026,r4,401860891,Fresno State,Rice,G5,3,DraftKings,-12.5,-9.42,43.5,46.95,-14,62
+2026,r4,401868113,UC Davis,Montana,FCS/FCS,4,DraftKings,-3,-2.84,61.5,56.71,40,84
+2026,r4,401858240,Stanford,Georgia Tech,P4,3,DraftKings,3,11.61,48.5,52.36,-7,61
+2026,r4,401864509,Nevada,Air Force,G5,2,DraftKings,4.5,1.94,50.5,50.8,3,69
+2026,r4,401868120,Montana State,Northern Arizona,FCS/FCS,4,DraftKings,-20.5,-16.21,57.5,55.61,-14,42
+2026,r4,401858470,Washington,Minnesota,P4,3,DraftKings,-12.5,-4.92,44.5,49.71,3,51
+2026,r5,401871049,New Mexico State,Western Kentucky,G5,4,DraftKings,-1.5,-1.67,55.5,56.28,-21,47
+2026,r5,401862786,Tulsa,North Texas,G5,4,DraftKings,3,5.84,56.5,55.92,1,89
+2026,r5,401871050,Delaware,Liberty,G5,4,DraftKings,7,5.7,51.5,51.58,16,44
+2026,r5,401858245,Virginia Tech,Pittsburgh,P4,4,DraftKings,-1.5,6.36,53.5,54.05,2,68
+2026,r5,401858476,Northwestern,Penn State,P4,3,DraftKings,3,-1.32,46.5,49.78,-21,47
+2026,r5,401868094,Idaho,Montana State,FCS/FCS,4,DraftKings,14.5,16.66,56.5,57.59,-1,69
+2026,r5,401862787,Charlotte,Memphis,G5,4,DraftKings,18.5,17.81,52.5,55.74,51,67
+2026,r5,401858250,North Carolina,Notre Dame,P4,3,DraftKings,21,16.52,46.5,47.78,11,63
+2026,r5,401856822,Iowa State,West Virginia,P4,4,DraftKings,-3,-8.97,53.5,54.47,-3,87
+2026,r5,401870840,Yale,Merrimack,FCS/FCS,2,DraftKings,-14,-15.11,48.5,51.91,-17,65
+2026,r5,401868010,Lehigh,Fordham,FCS/FCS,5,DraftKings,-22.5,-24.13,44.5,49.23,-34,34
+2026,r5,401868276,Presbyterian,St. Thomas (MN),FCS/FCS,4,DraftKings,28.5,19.7,61.5,59.21,-34,76
+2026,r5,401867910,Long Island University,Mercyhurst,FCS/FCS,5,DraftKings,-8.5,-4.83,47.5,52.61,-3,51
+2026,r5,401858246,SMU,Boston College,P4,4,DraftKings,-21.5,-16.26,55.5,51.34,-9,41
+2026,r5,401867899,Central Connecticut,Wagner,FCS/FCS,3,DraftKings,-14,-6.67,46.5,55.99,-31,59
+2026,r5,401858251,Wake Forest,Stanford,P4,4,DraftKings,-14.5,-14.19,54.5,54.47,-54,60
+2026,r5,401856807,Kansas,Middle Tennessee,G5,3,DraftKings,-21.5,-7.75,51.5,51.31,-55,55
+2026,r5,401866654,Rhode Island,Brown,FCS/FCS,2,DraftKings,-3.5,0.0,46.5,47.6,-3,23
+2026,r5,401858252,UConn,Syracuse,G5,3,DraftKings,6.5,-4.18,51.5,54.08,1,83
+2026,r5,401856819,Houston,UCF,P4,4,DraftKings,-10.5,-4.99,50.5,55.04,-10,44
+2026,r5,401867819,Columbia,Princeton,FCS/FCS,2,DraftKings,-1.5,3.34,42.5,47.69,28,42
+2026,r5,401862791,Air Force,Navy,G5,3,DraftKings,-2.5,-6.19,45.5,55.97,-5,23
+2026,r5,401856707,Mississippi State,Alabama,P4,4,DraftKings,5.5,7.38,62.5,61.55,33,79
+2026,r5,401858474,Minnesota,Michigan,P4,4,DraftKings,6.5,1.86,41.5,48.95,-6,34
+2026,r5,401858479,Wisconsin,Michigan State,P4,4,DraftKings,-8.5,-6.72,43.5,47.88,-28,34
+2026,r5,401868029,Lafayette,Richmond,FCS/FCS,4,DraftKings,6.5,3.05,43.5,53.43,9,71
+2026,r5,401867828,Georgetown,Cornell,FCS/FCS,2,DraftKings,8.5,7.0,45.5,49.68,21,49
+2026,r5,401856705,Georgia,Vanderbilt,P4,4,DraftKings,-25.5,-15.41,49.5,57.6,-24,52
+2026,r5,401868228,Drake,Dayton,FCS/FCS,3,DraftKings,3,9.55,56.5,54.12,-8,52
+2026,r5,401866432,Buffalo,Western Michigan,G5,4,DraftKings,13.5,13.71,46.5,51.05,3,37
+2026,r5,401868270,Morehead State,Valparaiso,FCS/FCS,4,DraftKings,3.5,-0.69,52.5,60.7,34,40
+2026,r5,401866650,New Hampshire,Elon,FCS/FCS,5,DraftKings,7.5,12.79,45.5,51.25,-7,53
+2026,r5,401867967,Villanova,Morgan State,FCS/FCS,4,DraftKings,-16.5,0.0,48.5,53.01,3,73
+2026,r5,401866651,Monmouth,Towson,FCS/FCS,5,DraftKings,-10.5,-11.84,56.5,56.87,-1,81
+2026,r5,401868264,Stetson,Marist,FCS/FCS,4,DraftKings,10.5,13.67,46.5,49.65,14,42
+2026,r5,401868381,VMI,Mercer,FCS/FCS,5,DraftKings,34.5,20.38,48.5,50.92,51,57
+2026,r5,401867835,Dartmouth,Pennsylvania,FCS/FCS,2,DraftKings,-8.5,-2.72,45.5,47.86,-4,24
+2026,r5,401867918,Robert Morris,Norfolk State,FCS/FCS,4,DraftKings,-1.5,2.81,44.5,51.93,-2,64
+2026,r5,401866431,Ball State,Toledo,G5,4,DraftKings,20.5,18.67,52.5,57.73,15,63
+2026,r5,401868375,Furman,Wofford,FCS/FCS,5,DraftKings,-4,-5.81,44.5,46.41,7,57
+2026,r5,401867986,South Carolina State,The Citadel,FCS/FCS,4,DraftKings,-17.5,-24.64,48.5,54.23,3,65
+2026,r5,401867869,North Dakota,Murray State,FCS/FCS,5,DraftKings,-37.5,-30.4,56.5,56.37,-27,83
+2026,r5,401868359,Grambling,Alcorn State,FCS/FCS,4,DraftKings,-6,-9.45,55.5,60.96,-4,122
+2026,r5,401868965,Mississippi Valley State,Prairie View A&M,FCS/FCS,5,DraftKings,29.5,21.88,54.5,50.25,-1,55
+2026,r5,401866656,Hampton,Howard,FCS/FCS,4,DraftKings,10,9.62,45.5,53.8,14,40
+2026,r5,401867859,South Dakota,Indiana State,FCS/FCS,5,DraftKings,-16.5,-12.7,60.5,62.06,-30,58
+2026,r5,401858473,Iowa,Ohio State,P4,4,DraftKings,14.5,2.94,46.5,49.38,17,45
+2026,r5,401862793,UAB,Samford,FCS/G5,4,DraftKings,-30.5,-6.65,54.5,49.61,-19,47
+2026,r5,401858248,NC State,Louisville,P4,4,DraftKings,5.5,0.65,56.5,61.83,-3,59
+2026,r5,401858247,UNLV,California,G5,4,DraftKings,-1.5,-2.74,51.5,48.95,-8,70
+2026,r5,401856710,Tennessee,Auburn,P4,4,DraftKings,-6,-8.28,54.5,54.33,-10,38
+2026,r5,401866652,Maine,Sacred Heart,FCS/FCS,4,DraftKings,-2.5,5.46,44.5,48.39,8,40
+2026,r5,401864515,North Dakota State,Wyoming,G5,4,DraftKings,-17.5,-22.4,44.5,45.15,-28,28
+2026,r5,401868339,East Tennessee State,Chattanooga,FCS/FCS,5,DraftKings,-3,-1.92,52.5,53.95,-11,17
+2026,r5,401866655,UAlbany,Delaware State,FCS/FCS,5,DraftKings,-1.5,-1.66,45.5,48.43,-25,31
+2026,r5,401858253,Florida State,Virginia,P4,4,DraftKings,1.5,6.02,51.5,52.66,-31,45
+2026,r5,401869956,Georgia State,Old Dominion,G5,4,DraftKings,-1.5,-7.2,51.5,55.58,-32,52
+2026,r5,401866477,Miami (OH),Bowling Green,G5,4,DraftKings,-10.5,-12.61,41.5,50.07,4,44
+2026,r5,401866433,Massachusetts,Eastern Michigan,G5,4,DraftKings,-5.5,-15.0,49.5,49.89,24,52
+2026,r5,401866434,Kent State,Ohio,G5,4,DraftKings,3.5,6.47,50.5,55.19,3,23
+2026,r5,401856708,Missouri,Florida,P4,4,DraftKings,5.5,7.16,57.5,59.76,-28,62
+2026,r5,401868025,William & Mary,Holy Cross,FCS/FCS,5,DraftKings,-6,-2.75,54.5,58.79,27,55
+2026,r5,401866430,Central Michigan,Akron,G5,4,DraftKings,-6.5,-6.03,47.5,48.56,-24,58
+2026,r5,401869962,James Madison,Marshall,G5,4,DraftKings,-14.5,-20.85,55.5,55.88,-28,62
+2026,r5,401868328,Bethune-Cookman,Alabama State,FCS/FCS,4,DraftKings,7,2.46,51.5,56.7,-6,26
+2026,r5,401868220,San Diego,Davidson,FCS/FCS,4,DraftKings,-18.5,-3.56,62.5,59.98,-49,77
+2026,r5,401868114,Montana,Northern Colorado,FCS/FCS,5,DraftKings,-21.5,-14.6,58.5,54.1,-22,50
+2026,r5,401868197,Western Illinois,Tennessee State,FCS/FCS,4,DraftKings,-12.5,-9.46,52.5,51.28,-7,49
+2026,r5,401858475,Nebraska,Maryland,P4,4,DraftKings,-15.5,-19.95,52.5,54.4,-25,71
+2026,r5,401864514,New Mexico,UTEP,G5,4,DraftKings,-23.5,-23.44,47.5,53.7,-54,68
+2026,r5,401856709,South Carolina,Kentucky,P4,4,DraftKings,-2.5,2.79,52.5,56.14,1,69
+2026,r5,401858472,Illinois,Purdue,P4,4,DraftKings,-9.5,-13.69,62.5,60.96,7,41
+2026,r5,401868064,Austin Peay,New Haven,FCS/FCS,5,DraftKings,-35.5,-29.39,50.5,48.65,-25,59
+2026,r5,401867891,Southern Illinois,Youngstown State,FCS/FCS,5,DraftKings,4,2.87,64.5,58.73,12,44
+2026,r5,401868295,Jackson State,Alabama A&M,FCS/FCS,4,DraftKings,-10,-9.01,54.5,53.68,-3,59
+2026,r5,401866653,Bryant,North Carolina A&T,FCS/FCS,4,DraftKings,-13.5,-15.47,47.5,48.09,-1,61
+2026,r5,401868391,Western Carolina,Tennessee Tech,FCS/FCS,4,DraftKings,13.5,11.34,63.5,62.33,-24,64
+2026,r5,401860899,Colorado State,Oregon State,G5,4,DraftKings,7,4.92,60.5,59.88,30,82
+2026,r5,401862790,Florida Atlantic,Texas Southern,FCS/G5,4,DraftKings,-47.5,-21.22,62.5,61.37,-56,76
+2026,r5,401868143,Eastern Kentucky,North Alabama,FCS/FCS,4,DraftKings,-1.5,6.13,49.5,48.31,4,36
+2026,r5,401868309,Stephen F. Austin,Incarnate Word,FCS/FCS,4,DraftKings,-18.5,-23.81,55.5,57.96,-2,54
+2026,r5,401866657,North Carolina Central,Campbell,FCS/FCS,5,DraftKings,13.5,10.43,57.5,56.53,7,69
+2026,r5,401868173,Charleston Southern,Gardner-Webb,FCS/FCS,4,DraftKings,7,3.86,44.5,49.83,2,22
+2026,r5,401867848,Illinois State,South Dakota State,FCS/FCS,5,DraftKings,2.5,-0.98,51.5,56.03,17,45
+2026,r5,401868248,East Texas A&M,UT Rio Grande Valley,FCS/FCS,4,DraftKings,10.5,14.12,50.5,50.09,-3,37
+2026,r5,401867840,Harvard,Colgate,FCS/FCS,2,DraftKings,-4.5,-5.74,40.5,44.03,-3,37
+2026,r5,401871089,South Alabama,UL Monroe,G5,4,DraftKings,-12.5,-16.99,57.5,59.09,-17,87
+2026,r5,401868936,Southern,Arkansas-Pine Bluff,FCS/FCS,4,DraftKings,-3,-5.6,55.5,62.33,31,51
+2026,r5,401869942,Coastal Carolina,Georgia Southern,G5,4,DraftKings,2.5,1.19,53.5,50.78,7,55
+2026,r5,401867688,Tarleton State,Chicago State,FCS/FCS,4,DraftKings,-50.5,-25.17,64.5,59.6,-35,77
+2026,r5,401856711,Texas A&M,Arkansas,P4,4,DraftKings,-13.5,-8.62,51.5,52.63,-27,41
+2026,r5,401869151,Houston Christian,Nicholls,FCS/FCS,5,DraftKings,-1.5,-6.29,53.5,57.34,-14,18
+2026,r5,401862788,Rice,UTSA,G5,4,DraftKings,11.5,12.85,56.5,56.91,2,30
+2026,r5,401856818,TCU,BYU,P4,3,DraftKings,5.5,0.15,48.5,50.77,7,27
+2026,r5,401869131,Lamar,Northwestern State,FCS/FCS,4,DraftKings,-40.5,-28.95,54.5,54.92,-28,56
+2026,r5,401858478,USC,Washington,P4,4,DraftKings,-7.5,-6.39,58.5,55.94,-4,46
+2026,r5,401856821,Colorado,Texas Tech,P4,4,DraftKings,13.5,15.84,50.5,50.11,22,36
+2026,r5,401869842,Louisiana Tech,Army,G5,3,DraftKings,-1.5,7.53,46.5,53.91,-2,60
+2026,r5,401862792,South Florida,Temple,G5,4,DraftKings,-5.5,-9.51,50.5,53.04,4,30
+2026,r5,401858249,Clemson,Miami,P4,4,DraftKings,14,14.75,49.5,50.77,28,54
+2026,r5,401860898,Boise State,Utah State,G5,4,DraftKings,-19.5,-15.33,50.5,47.84,-19,55
+2026,r5,401856706,LSU,McNeese,FCS/P4,4,DraftKings,-53.5,-26.33,62.5,50.75,-49,77
+2026,r5,401868104,Idaho State,Northern Arizona,FCS/FCS,4,DraftKings,-7.5,-11.58,55.5,54.2,7,69
+2026,r5,401868160,Utah Tech,Southern Utah,FCS/FCS,5,DraftKings,10.5,11.24,56.5,57.0,13,79
+2026,r5,401869932,Louisiana,Arkansas State,G5,4,DraftKings,-4.5,-6.62,49.5,50.58,-3,43
+2026,r5,401858477,Rutgers,Indiana,P4,4,DraftKings,24.5,22.16,56.5,55.82,32,62
+2026,r5,401868077,Cal Poly,Weber State,FCS/FCS,5,DraftKings,-6,-7.13,66.5,63.03,8,76
+2026,r5,401868053,Abilene Christian,West Florida,FCS/FCS,4,DraftKings,-7,6.42,48.5,52.1,-28,42
+2026,r5,401860921,Washington State,Fresno State,G5,4,DraftKings,-2.5,0.3,44.5,47.44,20,32
+2026,r5,401868086,UC Davis,Eastern Washington,FCS/FCS,5,DraftKings,-8.5,-4.23,61.5,59.62,-11,87
+2026,r5,401856817,Arizona State,Baylor,P4,3,DraftKings,-3.5,3.7,49.5,52.73,36,74
+2026,r5,401860900,San Diego State,Texas State,G5,4,DraftKings,10,5.3,57.5,56.17,-2,60
+2026,r5,401856820,Arizona,Cincinnati,P4,4,DraftKings,-7,-2.68,56.5,55.12,-27,41
+2026,r5,401864513,Hawai'i,San José State,G5,4,DraftKings,-2.5,0.63,51.5,49.91,4,36
+2026,r6,401871090,Troy,Southern Miss,G5,4,DraftKings,-9.5,-7.61,51.5,49.36,-21,89
+2026,r6,401871051,Kennesaw State,Jacksonville State,G5,4,DraftKings,3,-0.26,48.5,49.45,1,53
+2026,r6,401871066,Florida International,New Mexico State,G5,4,DraftKings,-7,-2.33,46.5,47.12,-19,25
+2026,r6,401870766,Liberty,Sam Houston,G5,4,DraftKings,-13.5,-12.35,52.5,52.32,-32,38
+2026,r6,401871052,Western Kentucky,Missouri State,G5,4,DraftKings,1.5,1.75,56.5,55.96,-21,47
+2026,r6,401869933,Arkansas State,South Alabama,G5,5,DraftKings,-3,-2.81,60.5,56.92,7,105
+2026,r6,401862794,UTSA,South Florida,G5,5,DraftKings,-5.5,-1.9,49.5,52.16,-7,55
+2026,r6,401868329,Alabama State,Florida A&M,FCS/FCS,5,DraftKings,-14.5,-10.83,47.5,51.36,1,55
+2026,r6,401858254,Louisville,Florida State,P4,5,DraftKings,-4,2.53,60.5,57.64,-24,64
+2026,r6,401868265,Marist,Columbia,FCS/FCS,3,DraftKings,3.5,-12.26,43.5,45.99,13,69
+2026,r6,401860922,Utah State,Washington State,G5,5,DraftKings,-4,-1.84,44.5,44.6,-1,33
+2026,r6,401864519,San José State,Wyoming,G5,5,DraftKings,-4.5,-5.47,42.5,43.58,3,29
+2026,r6,401858487,Washington,Iowa,P4,5,DraftKings,-3,4.47,41.5,45.38,17,65
+2026,r6,401856826,BYU,Iowa State,P4,4,DraftKings,-11.5,-5.05,46.5,52.89,-14,34
+2026,r6,401856824,Oklahoma State,UCF,P4,4,DraftKings,-10.5,2.68,53.5,51.19,-14,70
+2026,r6,401867987,Charleston Southern,South Carolina State,FCS/FCS,5,DraftKings,6.5,9.17,37.5,48.38,-10,88
+2026,r6,401858260,NC State,Wake Forest,P4,5,DraftKings,4,1.99,56.5,58.34,24,52
+2026,r6,401858256,Pittsburgh,North Carolina,P4,4,DraftKings,-3.5,-7.75,47.5,50.2,4,38
+2026,r6,401867930,Wagner,Princeton,FCS/FCS,3,DraftKings,25.5,19.65,43.5,46.45,15,41
+2026,r6,401868229,Dayton,Morehead State,FCS/FCS,4,DraftKings,-21.5,-19.99,54.5,54.52,-28,84
+2026,r6,401866660,Sacred Heart,Stonehill,FCS/FCS,5,DraftKings,-7,-7.59,43.5,46.23,21,35
+2026,r6,401866658,North Carolina A&T,New Hampshire,FCS/FCS,6,DraftKings,5.5,1.38,44.5,52.77,-3,57
+2026,r6,401868347,The Citadel,East Tennessee State,FCS/FCS,5,DraftKings,7,10.8,55.5,57.85,18,50
+2026,r6,401856716,Missouri,Texas A&M,P4,5,DraftKings,-4.5,-5.91,50.5,51.42,-21,33
+2026,r6,401866436,Bowling Green,Sacramento State,G5,5,DraftKings,-9.5,-5.18,43.5,47.2,-28,48
+2026,r6,401868221,Presbyterian,Davidson,FCS/FCS,5,DraftKings,-14.5,-13.72,56.5,61.2,-17,59
+2026,r6,401866662,Brown,Bryant,FCS/FCS,3,DraftKings,-5.5,-3.49,43.5,43.86,-15,41
+2026,r6,401867919,Morgan State,Robert Morris,FCS/FCS,5,DraftKings,-10,-5.09,50.5,52.85,-1,55
+2026,r6,401867836,Yale,Dartmouth,FCS/FCS,3,DraftKings,-7,-3.13,53.5,53.88,-21,35
+2026,r6,401858481,Nebraska,Indiana,P4,5,DraftKings,9.5,5.72,48.5,54.66,3,37
+2026,r6,401862795,Army,Tulane,G5,4,DraftKings,-5.5,-8.01,48.5,48.23,-3,37
+2026,r6,401856823,West Virginia,Arizona,P4,5,DraftKings,3.5,6.16,61.5,57.41,21,83
+2026,r6,401867992,Georgetown,Bucknell,FCS/FCS,4,DraftKings,-2.5,-2.7,44.5,46.48,-7,35
+2026,r6,401858482,Northwestern,Ball State,G5,4,DraftKings,-34.5,-31.79,53.5,52.23,-31,59
+2026,r6,401856714,Florida,South Carolina,P4,5,DraftKings,-10.5,-9.81,59.5,63.01,19,57
+2026,r6,401869843,App State,Old Dominion,G5,4,DraftKings,-8.5,-6.78,45.5,53.42,7,13
+2026,r6,401862797,East Carolina,Rice,G5,4,DraftKings,-10,-7.71,46.5,48.64,-16,40
+2026,r6,401867960,Pennsylvania,Howard,FCS/FCS,3,DraftKings,-11.5,-10.11,42.5,45.66,-4,44
+2026,r6,401868212,Butler,San Diego,FCS/FCS,5,DraftKings,1.5,-15.44,61.5,61.35,-31,51
+2026,r6,401868300,Alabama A&M,Bethune-Cookman,FCS/FCS,5,DraftKings,-4,-7.12,48.5,55.01,-38,72
+2026,r6,401867829,Cornell,Harvard,FCS/FCS,3,DraftKings,7,1.61,41.5,47.61,12,70
+2026,r6,401867911,Duquesne,Long Island University,FCS/FCS,4,DraftKings,-3.5,-3.92,45.5,50.21,3,31
+2026,r6,401868340,Chattanooga,Samford,FCS/FCS,5,DraftKings,-11.5,-12.71,40.5,43.21,-16,22
+2026,r6,401867980,North Carolina Central,William & Mary,FCS/FCS,6,DraftKings,-2.5,-7.81,54.5,59.99,3,31
+2026,r6,401867860,Indiana State,Youngstown State,FCS/FCS,6,DraftKings,19.5,13.96,64.5,59.89,33,81
+2026,r6,401866440,Massachusetts,Miami (OH),G5,5,DraftKings,6,-1.6,44.5,52.26,1,39
+2026,r6,401868282,St. Thomas (MN),Stetson,FCS/FCS,5,DraftKings,-22.5,-15.13,52.5,57.97,-43,85
+2026,r6,401871473,Lindenwood,Southeast Missouri State,FCS/FCS,4,DraftKings,4.5,6.67,44.5,47.96,11,65
+2026,r6,401868256,Valparaiso,Drake,FCS/FCS,5,DraftKings,9.5,-3.25,57.5,56.42,-8,34
+2026,r6,401866661,Elon,Wofford,FCS/FCS,6,DraftKings,-3.5,-3.41,46.5,52.35,16,16
+2026,r6,401867886,South Dakota,Southern Illinois,FCS/FCS,6,DraftKings,-10.5,-10.37,57.5,57.95,-21,41
+2026,r6,401868095,Weber State,Idaho,FCS/FCS,5,DraftKings,4,2.17,69.5,68.29,-11,65
+2026,r6,401868382,Mercer,Western Carolina,FCS/FCS,6,DraftKings,-7.5,-4.04,60.5,60.39,-3,31
+2026,r6,401868966,Texas Southern,Mississippi Valley State,FCS/FCS,5,DraftKings,-14,-3.16,53.5,57.85,4,72
+2026,r6,401856718,Vanderbilt,Ole Miss,P4,4,DraftKings,9.5,0.19,54.5,56.15,35,69
+2026,r6,401868376,Tennessee Tech,Furman,FCS/FCS,5,DraftKings,-13.5,-8.75,44.5,50.03,-5,35
+2026,r6,401862799,Navy,Tulsa,G5,4,DraftKings,-3,0.93,47.5,49.04,-8,60
+2026,r6,401858257,Notre Dame,Stanford,P4,5,DraftKings,-40.5,-35.84,55.5,55.18,-51,65
+2026,r6,401866439,Western Michigan,Kent State,G5,5,DraftKings,-13.5,-11.95,43.5,45.23,-31,45
+2026,r6,401866438,Ohio,Central Michigan,G5,5,DraftKings,-2.5,-4.11,45.5,49.32,-17,45
+2026,r6,401868198,Tennessee State,UT Martin,FCS/FCS,5,DraftKings,8.5,-2.68,46.5,49.98,14,70
+2026,r6,401858480,Michigan State,Illinois,P4,5,DraftKings,2.5,1.3,48.5,49.1,1,75
+2026,r6,401856825,Kansas State,Houston,P4,4,DraftKings,-2.5,3.67,55.5,57.33,19,51
+2026,r6,401866437,Toledo,Buffalo,G5,5,DraftKings,-18.5,-20.74,54.5,59.2,15,31
+2026,r6,401858255,Georgia Tech,Duke,P4,4,DraftKings,4.5,5.56,45.5,53.16,-3,53
+2026,r6,401866435,Akron,Eastern Michigan,G5,5,DraftKings,4.5,5.16,51.5,52.0,2,48
+2026,r6,401868011,Fordham,Richmond,FCS/FCS,6,DraftKings,8.5,6.86,45.5,49.94,-6,34
+2026,r6,401862796,North Texas,Charlotte,G5,5,DraftKings,-27.5,-29.03,58.5,64.03,-40,60
+2026,r6,401856717,Oklahoma,Texas,P4,4,DraftKings,7.5,10.91,40.5,43.81,-3,51
+2026,r6,401858484,Oregon,UCLA,P4,4,DraftKings,-10,-3.18,57.5,60.31,2,32
+2026,r6,401868180,Gardner-Webb,Eastern Illinois,FCS/FCS,5,DraftKings,-12.5,-16.97,47.5,52.73,14,28
+2026,r6,401858259,California,Virginia Tech,P4,5,DraftKings,11.5,4.87,51.5,56.64,-5,45
+2026,r6,401861964,Temple,UConn,G5,5,DraftKings,-3.5,-3.27,55.5,56.53,14,54
+2026,r6,401868156,Portland State,Utah Tech,FCS/FCS,5,DraftKings,-2.5,-4.86,60.5,60.85,-16,44
+2026,r6,401866659,Towson,Stony Brook,FCS/FCS,5,DraftKings,3.5,6.98,58.5,61.41,7,55
+2026,r6,401868968,Prairie View A&M,Southern,FCS/FCS,6,DraftKings,-15.5,-8.37,50.5,53.69,14,42
+2026,r6,401869144,Lamar,Incarnate Word,FCS/FCS,5,DraftKings,-7,-3.0,49.5,54.36,-3,73
+2026,r6,401856713,Arkansas,Tennessee,P4,5,DraftKings,13.5,14.23,51.5,53.47,7,41
+2026,r6,401858483,Ohio State,Maryland,P4,5,DraftKings,-31.5,-26.8,56.5,55.67,-29,61
+2026,r6,401868955,Grambling,Jackson State,FCS/FCS,5,DraftKings,8.5,10.65,55.5,60.59,-7,83
+2026,r6,401868115,Northern Arizona,Montana,FCS/FCS,6,DraftKings,9.5,7.29,64.5,57.16,-5,93
+2026,r6,401867877,Northern Iowa,North Dakota,FCS/FCS,4,DraftKings,13.5,5.46,58.5,60.08,-7,41
+2026,r6,401868078,Idaho State,Cal Poly,FCS/FCS,5,DraftKings,-14.5,-11.56,63.5,57.17,1,49
+2026,r6,401860902,Oregon State,San Diego State,G5,5,DraftKings,-14.5,-13.43,52.5,52.2,-52,80
+2026,r6,401868144,Eastern Kentucky,West Georgia,FCS/FCS,5,DraftKings,-5.5,-0.78,43.5,49.72,-10,50
+2026,r6,401862798,Memphis,UAB,G5,5,DraftKings,-15.5,-14.59,55.5,55.21,-25,51
+2026,r6,401864518,UNLV,North Dakota State,G5,5,DraftKings,3,10.43,47.5,48.84,-6,20
+2026,r6,401864517,UTEP,Nevada,G5,4,DraftKings,10,8.92,48.5,54.89,17,43
+2026,r6,401856715,Kentucky,LSU,P4,5,DraftKings,9.5,6.15,50.5,56.32,-1,69
+2026,r6,401868065,Austin Peay,Tarleton State,FCS/FCS,5,DraftKings,-2.5,-3.62,57.5,58.13,8,72
+2026,r6,401869943,Marshall,Coastal Carolina,G5,5,DraftKings,-4.5,0.53,57.5,54.66,6,48
+2026,r6,401868087,Eastern Washington,Northern Colorado,FCS/FCS,6,DraftKings,-6.5,-0.08,58.5,54.63,-9,53
+2026,r6,401869949,Georgia Southern,James Madison,G5,5,DraftKings,7,11.33,51.5,54.2,3,51
+2026,r6,401858485,Penn State,USC,P4,5,DraftKings,1.5,-3.47,54.5,55.87,8,54
+2026,r6,401858258,Virginia,Syracuse,P4,4,DraftKings,-14,-10.79,49.5,52.85,-3,53
+2026,r6,401856712,Alabama,Georgia,P4,5,DraftKings,-2.5,-5.64,51.5,63.26,3,37
+2026,r6,401869965,Louisiana Tech,Louisiana,G5,4,DraftKings,-3,0.49,48.5,53.78,-1,63
+2026,r6,401864516,Northern Illinois,Air Force,G5,4,DraftKings,7,10.89,48.5,51.03,21,35
+2026,r6,401858486,Purdue,Minnesota,P4,5,DraftKings,2.5,3.24,48.5,54.89,-28,54
+2026,r6,401856827,Utah,Kansas,P4,4,DraftKings,-15.5,-17.98,49.5,53.95,-17,65
+2026,r6,401868249,UT Rio Grande Valley,SE Louisiana,FCS/FCS,5,DraftKings,3,-7.95,54.5,53.7,-10,16
+2026,r6,401868054,Abilene Christian,Central Arkansas,FCS/FCS,5,DraftKings,-10,-6.88,51.5,52.16,-6,34
+2026,r6,401856808,Arizona State,Hawai'i,G5,4,DraftKings,-20.5,-12.22,51.5,53.71,-18,42
+2026,r6,401860901,Fresno State,Boise State,G5,5,DraftKings,8.5,5.13,48.5,50.01,7,69
+2026,r7,401871067,Middle Tennessee,Delaware,G5,5,DraftKings,1.5,1.08,49.5,50.18,-3,63
+2026,r7,401871053,Jacksonville State,Florida International,G5,5,DraftKings,-3,-2.83,44.5,45.3,-3,51
+2026,r7,401871054,Missouri State,Kennesaw State,G5,5,DraftKings,2.5,5.44,52.5,50.69,-3,45
+2026,r7,401871068,Sam Houston,Western Kentucky,G5,5,DraftKings,1.5,-1.52,53.5,53.37,13,19
+2026,r7,401869950,Old Dominion,Georgia Southern,G5,6,DraftKings,3,4.6,44.5,48.17,8,38
+2026,r7,401862800,UAB,East Carolina,G5,5,DraftKings,5.5,5.99,49.5,49.33,-13,47
+2026,r7,401860923,Texas State,Colorado State,G5,5,DraftKings,-15.5,-8.56,69.5,67.4,-39,93
+2026,r7,401867821,Pennsylvania,Columbia,FCS/FCS,4,DraftKings,-6.5,-5.41,46.5,48.03,1,55
+2026,r7,401862801,Tulane,Memphis,G5,5,DraftKings,6.5,7.91,55.5,50.34,-14,48
+2026,r7,401869844,Coastal Carolina,App State,G5,5,DraftKings,1.5,-2.17,48.5,49.64,3,67
+2026,r7,401858493,Purdue,Washington,P4,6,DraftKings,-3,-1.82,50.5,54.99,12,64
+2026,r7,401867807,Princeton,Brown,FCS/FCS,4,DraftKings,-4,-7.43,38.5,39.61,-6,26
+2026,r7,401856724,Texas,Florida,P4,5,DraftKings,-13.5,-7.23,51.5,56.93,3,51
+2026,r7,401866663,Sacred Heart,Hampton,FCS/FCS,6,DraftKings,-14.5,-11.19,43.5,47.85,-14,56
+2026,r7,401856720,LSU,Mississippi State,P4,5,DraftKings,-17.5,-10.55,56.5,60.85,-31,31
+2026,r7,401866441,Bowling Green,Ball State,G5,6,DraftKings,-6,-7.78,46.5,50.49,1,63
+2026,r7,401856829,West Virginia,Cincinnati,P4,5,DraftKings,-1.5,0.73,64.5,62.03,-3,87
+2026,r7,401862802,Army,Florida Atlantic,G5,5,DraftKings,-2.5,-5.46,55.5,55.85,-32,80
+2026,r7,401858488,Indiana,Ohio State,P4,6,DraftKings,3,-4.41,49.5,51.73,4,34
+2026,r7,401858268,SMU,Virginia,P4,5,DraftKings,-10,-2.13,51.5,52.11,-10,36
+2026,r7,401858267,Boston College,Pittsburgh,P4,5,DraftKings,6.5,14.49,42.5,47.84,-6,48
+2026,r7,401858491,Michigan State,Northwestern,P4,5,DraftKings,7.5,12.96,50.5,49.78,3,45
+2026,r7,401856830,Kansas State,Kansas,P4,5,DraftKings,-3,-1.81,55.5,55.64,-11,59
+2026,r7,401867901,Mercyhurst,Central Connecticut,FCS/FCS,5,DraftKings,8.5,13.36,54.5,62.0,3,83
+2026,r7,401867925,Stonehill,Duquesne,FCS/FCS,5,DraftKings,-4.5,-5.12,43.5,48.51,7,21
+2026,r7,401869957,James Madison,Georgia State,G5,5,DraftKings,-7.5,-8.38,57.5,57.34,-27,71
+2026,r7,401866669,Yale,Rhode Island,FCS/FCS,4,DraftKings,-12.5,-10.02,48.5,52.57,18,64
+2026,r7,401866668,North Carolina A&T,Chicago State,FCS/FCS,6,DraftKings,-18.5,-4.44,54.5,57.55,-15,39
+2026,r7,401858261,Clemson,Charleston Southern,FCS/P4,5,DraftKings,-42.5,-12.53,53.5,47.3,-37,37
+2026,r7,401867920,Robert Morris,New Haven,FCS/FCS,6,DraftKings,-9.5,-9.03,45.5,47.72,11,41
+2026,r7,401858489,Maryland,Rutgers,P4,5,DraftKings,-5.5,-2.41,55.5,60.39,7,67
+2026,r7,401867837,Dartmouth,Merrimack,FCS/FCS,4,DraftKings,-10.5,-12.48,44.5,46.13,-6,48
+2026,r7,401869132,Northwestern State,McNeese,FCS/FCS,6,DraftKings,21,20.32,60.5,58.75,3,45
+2026,r7,401866664,Maine,Bryant,FCS/FCS,6,DraftKings,-1.5,8.73,45.5,48.57,3,31
+2026,r7,401866442,Buffalo,Massachusetts,G5,6,DraftKings,-6.5,-0.89,43.5,49.79,-7,43
+2026,r7,401866665,New Hampshire,Monmouth,FCS/FCS,6,DraftKings,7,3.25,55.5,58.79,21,63
+2026,r7,401862803,Temple,Charlotte,G5,6,DraftKings,-17.5,-20.52,47.5,53.3,7,69
+2026,r7,401868002,Colgate,Georgetown,FCS/FCS,5,DraftKings,-20.5,-17.32,43.5,43.86,10,44
+2026,r7,401868213,Butler,Dayton,FCS/FCS,5,DraftKings,-5.5,-6.82,50.5,53.85,10,28
+2026,r7,401867841,Harvard,Holy Cross,FCS/FCS,4,DraftKings,-15.5,-17.38,45.5,52.0,-23,37
+2026,r7,401868257,Drake,Marist,FCS/FCS,6,DraftKings,-3,0.51,51.5,50.56,5,49
+2026,r7,401868222,Davidson,Morehead State,FCS/FCS,6,DraftKings,1.5,0.41,57.5,62.67,-3,65
+2026,r7,401856725,Texas A&M,The Citadel,FCS/P4,6,DraftKings,-46.5,-26.46,56.5,51.1,-41,41
+2026,r7,401866443,Central Michigan,Western Michigan,G5,6,DraftKings,7.5,7.77,42.5,44.98,7,35
+2026,r7,401868398,Wofford,VMI,FCS/FCS,6,DraftKings,-30.5,-26.49,46.5,50.83,-27,55
+2026,r7,401868066,West Georgia,Austin Peay,FCS/FCS,6,DraftKings,19.5,14.94,53.5,54.55,14,34
+2026,r7,401867878,North Dakota,South Dakota State,FCS/FCS,6,DraftKings,14,5.66,56.5,58.52,-11,31
+2026,r7,401867830,Cornell,Lehigh,FCS/FCS,4,DraftKings,11.5,7.49,46.5,50.85,-10,86
+2026,r7,401868277,Stetson,Presbyterian,FCS/FCS,6,DraftKings,7.5,9.88,61.5,61.13,4,90
+2026,r7,401868145,Tennessee Tech,Eastern Kentucky,FCS/FCS,6,DraftKings,-14.5,-13.95,52.5,51.43,-29,69
+2026,r7,401866666,Stony Brook,UAlbany,FCS/FCS,6,DraftKings,-6,-1.76,46.5,51.63,17,79
+2026,r7,401868361,Prairie View A&M,Alcorn State,FCS/FCS,7,DraftKings,-6.5,-2.32,57.5,61.22,-3,79
+2026,r7,401868330,Arkansas-Pine Bluff,Alabama State,FCS/FCS,5,DraftKings,3.5,-2.86,54.5,55.46,6,36
+2026,r7,401867993,Bucknell,Lafayette,FCS/FCS,5,DraftKings,4.5,1.97,52.5,51.26,13,27
+2026,r7,401868096,Montana,Idaho,FCS/FCS,6,DraftKings,-16.5,-15.28,62.5,63.87,7,77
+2026,r7,401868189,UT Martin,Gardner-Webb,FCS/FCS,6,DraftKings,1.5,1.06,51.5,50.21,-11,23
+2026,r7,401868105,Weber State,Idaho State,FCS/FCS,6,DraftKings,4.5,6.4,63.5,63.1,-7,47
+2026,r7,401868949,Jackson State,Florida A&M,FCS/FCS,6,DraftKings,-15.5,-16.97,54.5,56.15,-10,44
+2026,r7,401868207,Southeast Missouri State,Western Illinois,FCS/FCS,6,DraftKings,-6,-0.07,52.5,51.09,-10,70
+2026,r7,401868943,Mississippi Valley State,Bethune-Cookman,FCS/FCS,6,DraftKings,6.5,11.24,50.5,55.33,20,48
+2026,r7,401868181,Eastern Illinois,Lindenwood,FCS/FCS,5,DraftKings,-1.5,-4.5,49.5,52.68,7,33
+2026,r7,401868301,Alabama A&M,Grambling,FCS/FCS,6,DraftKings,-7,-8.55,60.5,63.17,-30,92
+2026,r7,401858264,Virginia Tech,Georgia Tech,P4,5,DraftKings,-8.5,-2.5,55.5,56.05,-10,58
+2026,r7,401858490,Michigan,Penn State,P4,5,DraftKings,-6,1.72,43.5,46.67,-3,39
+2026,r7,401864524,Air Force,UNLV,G5,5,DraftKings,-1.5,-2.81,49.5,47.88,-10,72
+2026,r7,401864522,Wyoming,Northern Illinois,G5,5,DraftKings,-7,-5.46,42.5,41.7,-18,64
+2026,r7,401856828,Texas Tech,Arizona State,P4,5,DraftKings,-16.5,-20.26,50.5,54.75,-28,78
+2026,r7,401866667,Campbell,Towson,FCS/FCS,6,DraftKings,-11.5,-14.37,56.5,59.27,-4,44
+2026,r7,401858266,Duke,North Carolina,P4,5,DraftKings,-3,-1.97,46.5,48.44,4,44
+2026,r7,401868012,Fordham,Villanova,FCS/FCS,6,DraftKings,7.5,2.96,44.5,51.13,21,55
+2026,r7,401866478,Miami (OH),Akron,G5,6,DraftKings,-9.5,-11.89,47.5,52.5,-20,48
+2026,r7,401856719,Georgia,Auburn,P4,5,DraftKings,-19.5,-17.1,50.5,52.32,3,51
+2026,r7,401856721,Ole Miss,Missouri,P4,5,DraftKings,-4,1.94,57.5,56.13,-28,34
+2026,r7,401856723,Tennessee,Alabama,P4,6,DraftKings,7.5,8.13,50.5,56.83,-16,36
+2026,r7,401866444,Eastern Michigan,Toledo,G5,6,DraftKings,7.5,7.74,51.5,53.82,20,48
+2026,r7,401868310,Nicholls,Stephen F. Austin,FCS/FCS,6,DraftKings,22.5,27.81,50.5,54.06,56,56
+2026,r7,401867849,Southern Illinois,Illinois State,FCS/FCS,6,DraftKings,7,6.89,54.5,52.61,21,49
+2026,r7,401868289,San Diego,Valparaiso,FCS/FCS,6,DraftKings,-6,5.66,51.5,55.53,-25,51
+2026,r7,401862805,Rice,Tulsa,G5,6,DraftKings,3.5,4.27,47.5,48.85,21,55
+2026,r7,401869966,Louisiana,Troy,G5,5,DraftKings,-3,-2.97,49.5,51.53,-27,39
+2026,r7,401867912,Wagner,Long Island University,FCS/FCS,6,DraftKings,6.5,0.86,39.5,45.95,5,23
+2026,r7,401868319,SE Louisiana,Lamar,FCS/FCS,6,DraftKings,5.5,2.22,50.5,51.53,-3,65
+2026,r7,401867870,Murray State,South Dakota,FCS/FCS,6,DraftKings,28.5,27.52,60.5,57.55,28,68
+2026,r7,401860903,Oregon State,Washington State,G5,6,DraftKings,-18.5,-18.62,52.5,51.48,-18,78
+2026,r7,401867897,Youngstown State,Northern Iowa,FCS/FCS,5,DraftKings,-20.5,-11.87,60.5,57.01,-13,57
+2026,r7,401867968,Tennessee State,Morgan State,FCS/FCS,6,DraftKings,6,0.91,50.5,54.22,-9,41
+2026,r7,401868088,Eastern Washington,Montana State,FCS/FCS,6,DraftKings,20.5,15.06,64.5,57.53,36,76
+2026,r7,401868055,North Alabama,Abilene Christian,FCS/FCS,6,DraftKings,2.5,1.42,49.5,46.81,3,59
+2026,r7,401868125,Northern Arizona,Portland State,FCS/FCS,6,DraftKings,-17.5,-16.96,63.5,60.91,-13,63
+2026,r7,401869152,Houston Christian,East Texas A&M,FCS/FCS,6,DraftKings,-3,-2.32,48.5,48.56,-19,67
+2026,r7,401864520,North Dakota State,Nevada,G5,5,DraftKings,-14.5,-14.46,42.5,46.7,-14,48
+2026,r7,401858263,Miami,Florida State,P4,5,DraftKings,-20.5,-16.81,57.5,55.1,-8,78
+2026,r7,401869934,Southern Miss,Arkansas State,G5,5,DraftKings,5.5,3.67,61.5,57.81,10,36
+2026,r7,401856832,Baylor,TCU,P4,5,DraftKings,-3.5,-6.19,50.5,47.26,11,23
+2026,r7,401868383,Samford,Mercer,FCS/FCS,6,DraftKings,15.5,11.89,48.5,47.77,10,52
+2026,r7,401868134,Tarleton State,Central Arkansas,FCS/FCS,6,DraftKings,-19.5,-14.91,61.5,57.53,-14,84
+2026,r7,401868250,Incarnate Word,UT Rio Grande Valley,FCS/FCS,6,DraftKings,-3.5,0.71,54.5,53.12,-25,57
+2026,r7,401856726,Vanderbilt,Arkansas,P4,6,DraftKings,-5.5,-2.81,48.5,51.72,10,52
+2026,r7,401862806,South Florida,Kent State,G5,6,DraftKings,-20.5,-17.74,46.5,47.63,-27,31
+2026,r7,401858262,Stanford,Elon,FCS/P4,6,DraftKings,-33.5,-2.43,55.5,50.26,-27,41
+2026,r7,401856722,Oklahoma,Kentucky,P4,5,DraftKings,-7,0.65,44.5,50.43,8,34
+2026,r7,401858494,UCLA,Wisconsin,P4,5,DraftKings,-1.5,-3.71,42.5,50.6,-10,24
+2026,r7,401858265,Syracuse,Louisville,P4,5,DraftKings,14.5,8.13,56.5,59.53,8,60
+2026,r7,401856831,Houston,Oklahoma State,P4,5,DraftKings,-4,-11.28,62.5,56.45,-3,67
+2026,r7,401856809,BYU,Notre Dame,P4,5,DraftKings,10.5,8.4,47.5,52.14,-4,52
+2026,r7,401868161,Southern Utah,UC Davis,FCS/FCS,6,DraftKings,4.5,-0.72,65.5,63.34,-21,55
+2026,r7,401862804,UTSA,Navy,G5,5,DraftKings,-5.5,-7.51,52.5,54.31,-4,72
+2026,r7,401868079,Northern Colorado,Cal Poly,FCS/FCS,7,DraftKings,3,0.25,52.5,51.73,-10,46
+2026,r7,401871091,UL Monroe,Louisiana Tech,G5,5,DraftKings,13.5,13.74,55.5,60.56,24,24
+2026,r7,401864523,UTEP,San José State,G5,6,DraftKings,6.5,6.3,46.5,51.13,13,35
+2026,r7,401866445,Sacramento State,Ohio,G5,6,DraftKings,17.5,14.67,46.5,50.63,41,55
+2026,r7,401856833,Colorado,Utah,P4,5,DraftKings,15.5,20.1,49.5,50.72,3,51
+2026,r7,401864521,Hawai'i,New Mexico,G5,5,DraftKings,14.5,20.66,46.5,49.85,11,31
+2026,r7,401860904,San Diego State,Fresno State,G5,6,DraftKings,6.5,7.14,46.5,51.45,-3,49
+2026,r7,401858269,California,Wake Forest,P4,6,DraftKings,10,11.65,54.5,54.05,34,48
+2026,r7,401858492,Oregon,Nebraska,P4,5,DraftKings,-6.5,1.61,50.5,55.05,-3,31
+2026,r8,401871055,Florida International,Middle Tennessee,G5,6,DraftKings,-10.5,-10.73,46.5,45.56,3,49
+2026,r8,401871069,Delaware,Missouri State,G5,6,DraftKings,-3,-2.89,54.5,53.33,-23,99
+2026,r8,401871092,Marshall,South Alabama,G5,6,DraftKings,1.5,8.52,66.5,64.54,-7,33
+2026,r8,401871070,Sam Houston,New Mexico State,G5,6,DraftKings,3,2.27,46.5,47.85,6,54
+2026,r8,401871056,Kennesaw State,Liberty,G5,6,DraftKings,8.5,8.05,50.5,47.9,28,40
+2026,r8,401869845,App State,James Madison,G5,6,DraftKings,12.5,15.55,56.5,55.06,-3,65
+2026,r8,401862807,Memphis,East Carolina,G5,6,DraftKings,-10.5,-11.0,55.5,53.67,-7,75
+2026,r8,401867955,Delaware State,North Carolina Central,FCS/FCS,7,DraftKings,-5.5,-9.71,52.5,51.18,19,43
+2026,r8,401858271,Virginia,Duke,P4,6,DraftKings,-2.5,-0.31,47.5,48.73,3,35
+2026,r8,401870841,Pennsylvania,Yale,FCS/FCS,5,DraftKings,6.5,1.84,49.5,49.68,-3,45
+2026,r8,401861965,UConn,Massachusetts,G5,6,DraftKings,-12.5,-10.04,53.5,54.22,-19,51
+2026,r8,401862808,Tulsa,Army,G5,6,DraftKings,1.5,2.6,53.5,53.19,3,73
+2026,r8,401864525,Wyoming,Air Force,G5,6,DraftKings,7,9.5,46.5,46.9,-14,42
+2026,r8,401858272,Stanford,NC State,P4,6,DraftKings,7.5,7.13,54.5,57.0,-3,59
+2026,r8,401856728,Auburn,LSU,P4,6,DraftKings,7,9.19,51.5,51.11,21,55
+2026,r8,401868230,Dayton,San Diego,FCS/FCS,6,DraftKings,-6,-13.46,54.5,55.21,-5,69
+2026,r8,401858496,Michigan,Indiana,P4,6,DraftKings,7.5,14.59,43.5,45.61,7,19
+2026,r8,401858274,Miami,Pittsburgh,P4,6,DraftKings,-20.5,-17.47,50.5,55.46,-29,75
+2026,r8,401866674,Merrimack,New Hampshire,FCS/FCS,7,DraftKings,-1.5,-1.75,46.5,51.83,-7,41
+2026,r8,401862809,Florida Atlantic,Rice,G5,6,DraftKings,-9.5,-6.44,55.5,56.23,-2,100
+2026,r8,401866450,Toledo,Western Michigan,G5,7,DraftKings,-2.5,-2.13,48.5,49.83,-7,83
+2026,r8,401866670,Rhode Island,UAlbany,FCS/FCS,7,DraftKings,-6.5,-0.41,45.5,48.07,17,59
+2026,r8,401867902,Central Connecticut,New Haven,FCS/FCS,6,DraftKings,-13.5,-11.51,52.5,56.91,-22,62
+2026,r8,401868266,Marist,St. Thomas (MN),FCS/FCS,7,DraftKings,4,1.82,51.5,53.39,22,48
+2026,r8,401856841,TCU,West Virginia,P4,6,DraftKings,-10,-10.37,58.5,54.95,4,44
+2026,r8,401867931,Duquesne,Wagner,FCS/FCS,6,DraftKings,-13.5,-7.8,46.5,47.08,-31,73
+2026,r8,401858498,Northwestern,Rutgers,P4,6,DraftKings,-15.5,-19.0,58.5,56.95,-28,56
+2026,r8,401858270,SMU,California,P4,6,DraftKings,-18.5,-13.87,55.5,52.44,-39,79
+2026,r8,401867913,Long Island University,Stonehill,FCS/FCS,7,DraftKings,-3,-1.04,38.5,39.91,4,32
+2026,r8,401867808,Brown,Cornell,FCS/FCS,5,DraftKings,2.5,0.42,49.5,48.48,-7,69
+2026,r8,401856840,Cincinnati,Texas Tech,P4,6,DraftKings,10.5,12.25,57.5,57.24,-13,61
+2026,r8,401868944,Bethune-Cookman,Jackson State,FCS/FCS,7,DraftKings,8.5,11.65,53.5,55.55,-3,45
+2026,r8,401867994,Holy Cross,Bucknell,FCS/FCS,7,DraftKings,-10,-8.3,47.5,45.51,-31,37
+2026,r8,401868278,Valparaiso,Presbyterian,FCS/FCS,7,DraftKings,-4,-2.46,55.5,56.93,-17,31
+2026,r8,401866671,Maine,Campbell,FCS/FCS,7,DraftKings,10,12.41,52.5,52.03,29,41
+2026,r8,401868013,Fordham,Lafayette,FCS/FCS,6,DraftKings,2.5,3.92,50.5,51.62,14,48
+2026,r8,401866446,Kent State,Akron,G5,7,DraftKings,-3,-4.98,48.5,48.92,-15,55
+2026,r8,401868214,Drake,Butler,FCS/FCS,7,DraftKings,3,9.79,56.5,54.63,12,54
+2026,r8,401856834,Kansas,Baylor,P4,6,DraftKings,-1.5,5.04,54.5,52.27,-1,49
+2026,r8,401866476,Central Michigan,Miami (OH),G5,7,DraftKings,3.5,1.05,41.5,47.48,1,55
+2026,r8,401867975,South Carolina State,Norfolk State,FCS/FCS,7,DraftKings,-14.5,-12.11,54.5,60.76,-15,29
+2026,r8,401867822,Columbia,Dartmouth,FCS/FCS,5,DraftKings,1.5,-2.53,47.5,50.56,20,56
+2026,r8,401868348,VMI,East Tennessee State,FCS/FCS,7,DraftKings,36.5,29.21,55.5,55.41,38,38
+2026,r8,401868377,Furman,Samford,FCS/FCS,7,DraftKings,-8.5,-9.28,42.5,43.82,7,19
+2026,r8,401867879,South Dakota,North Dakota,FCS/FCS,8,DraftKings,-3,-3.63,57.5,59.5,-3,49
+2026,r8,401866673,Hampton,Monmouth,FCS/FCS,7,DraftKings,22.5,16.04,57.5,57.57,36,62
+2026,r8,401868238,West Georgia,Tarleton State,FCS/FCS,7,DraftKings,20.5,16.34,59.5,58.21,43,55
+2026,r8,401868392,The Citadel,Tennessee Tech,FCS/FCS,7,DraftKings,18.5,14.77,51.5,56.07,15,41
+2026,r8,401868271,Morehead State,Stetson,FCS/FCS,7,DraftKings,-1.5,-2.33,61.5,65.86,-7,69
+2026,r8,401867892,Southern Illinois,Northern Iowa,FCS/FCS,6,DraftKings,-2.5,1.61,50.5,50.4,-3,37
+2026,r8,401868003,Richmond,Colgate,FCS/FCS,7,DraftKings,-2.5,4.51,41.5,45.59,-7,19
+2026,r8,401867921,Robert Morris,Mercyhurst,FCS/FCS,7,DraftKings,-4.5,-7.35,49.5,55.98,-14,42
+2026,r8,401866672,Bryant,Stony Brook,FCS/FCS,7,DraftKings,4,-1.16,52.5,56.28,10,44
+2026,r8,401868341,Western Carolina,Chattanooga,FCS/FCS,7,DraftKings,-2.5,-2.26,49.5,48.58,23,59
+2026,r8,401869133,Northwestern State,Nicholls,FCS/FCS,7,DraftKings,12.5,4.16,54.5,57.41,4,58
+2026,r8,401867871,South Dakota State,Murray State,FCS/FCS,7,DraftKings,-42.5,-33.7,56.5,53.98,-33,51
+2026,r8,401868182,Eastern Illinois,Southeast Missouri State,FCS/FCS,7,DraftKings,7,8.91,50.5,50.53,10,30
+2026,r8,401867842,Harvard,Princeton,FCS/FCS,5,DraftKings,-10.5,-4.47,41.5,42.55,-28,42
+2026,r8,401868937,Florida A&M,Arkansas-Pine Bluff,FCS/FCS,6,DraftKings,-3,0.9,55.5,56.01,3,59
+2026,r8,401858495,Illinois,Oregon,P4,6,DraftKings,10.5,6.63,49.5,55.66,-11,31
+2026,r8,401867850,Illinois State,Indiana State,FCS/FCS,7,DraftKings,-22.5,-19.14,57.5,59.04,-7,27
+2026,r8,401868972,Texas Southern,Southern,FCS/FCS,6,DraftKings,-1.5,12.46,56.5,60.37,-3,45
+2026,r8,401868121,Montana State,Weber State,FCS/FCS,7,DraftKings,-25.5,-19.06,64.5,62.18,-5,71
+2026,r8,401867689,Lindenwood,Chicago State,FCS/FCS,6,DraftKings,-24.5,-9.01,53.5,54.54,-35,53
+2026,r8,401867962,Morgan State,Howard,FCS/FCS,7,DraftKings,-7,-3.0,48.5,52.39,6,46
+2026,r8,401868146,Eastern Kentucky,West Florida,FCS/FCS,6,DraftKings,1.5,11.05,47.5,50.15,-3,29
+2026,r8,401866447,Ball State,Sacramento State,G5,7,DraftKings,-14.5,-10.28,51.5,54.16,-17,51
+2026,r8,401856835,UCF,BYU,P4,6,DraftKings,7.5,6.46,43.5,49.66,-8,70
+2026,r8,401868019,William & Mary,Georgetown,FCS/FCS,6,DraftKings,-6,4.33,48.5,52.0,1,55
+2026,r8,401868035,Villanova,Lehigh,FCS/FCS,7,DraftKings,6.5,11.64,49.5,54.42,-6,42
+2026,r8,401856731,South Carolina,Tennessee,P4,6,DraftKings,-2.5,6.29,50.5,54.91,-3,51
+2026,r8,401862810,Navy,North Texas,G5,6,DraftKings,3,7.86,60.5,61.84,10,88
+2026,r8,401858497,Minnesota,Iowa,P4,6,DraftKings,7.5,11.26,40.5,48.81,-3,23
+2026,r8,401866448,Buffalo,Bowling Green,G5,7,DraftKings,-3,-5.15,44.5,48.3,-7,55
+2026,r8,401864526,Northern Illinois,Hawai'i,G5,6,DraftKings,3,2.27,48.5,46.21,35,77
+2026,r8,401858499,UCLA,Michigan State,P4,6,DraftKings,-16.5,-13.42,43.5,49.05,-18,38
+2026,r8,401856727,Alabama,Texas A&M,P4,7,DraftKings,-13.5,-12.02,49.5,51.5,-11,51
+2026,r8,401858273,Georgia Tech,Boston College,P4,6,DraftKings,-6.5,-7.22,50.5,49.86,22,76
+2026,r8,401868174,Tennessee State,Charleston Southern,FCS/FCS,7,DraftKings,3,0.62,38.5,48.34,13,27
+2026,r8,401856730,Mississippi State,Oklahoma,P4,6,DraftKings,1.5,-0.22,49.5,50.2,8,38
+2026,r8,401856839,Arizona State,Kansas State,P4,6,DraftKings,1.5,6.38,51.5,58.92,-11,45
+2026,r8,401871094,Troy,UL Monroe,G5,6,DraftKings,-13.5,-16.48,50.5,53.72,7,35
+2026,r8,401869145,Lamar,Houston Christian,FCS/FCS,7,DraftKings,-14,-9.29,46.5,52.4,-25,45
+2026,r8,401868201,Western Illinois,UT Martin,FCS/FCS,7,DraftKings,-1.5,-4.01,51.5,53.87,-31,79
+2026,r8,401866449,Ohio,Eastern Michigan,G5,7,DraftKings,-11.5,-13.48,48.5,50.83,-4,44
+2026,r8,401868097,Idaho,Southern Utah,FCS/FCS,7,DraftKings,-3,-2.82,68.5,62.99,-3,59
+2026,r8,401869138,Incarnate Word,McNeese,FCS/FCS,7,DraftKings,-14,-10.78,55.5,57.55,-32,44
+2026,r8,401868135,Central Arkansas,UT Rio Grande Valley,FCS/FCS,7,DraftKings,-2.5,-1.12,48.5,49.62,3,57
+2026,r8,401869967,Southern Miss,Louisiana,G5,6,DraftKings,11.5,11.75,52.5,52.18,-4,66
+2026,r8,401864528,Nevada,San José State,G5,6,DraftKings,-6,-6.61,46.5,47.38,-15,41
+2026,r8,401871093,Louisiana Tech,Old Dominion,G5,6,DraftKings,-13.5,-10.23,43.5,48.48,-26,26
+2026,r8,401868080,Cal Poly,Utah Tech,FCS/FCS,7,DraftKings,-15.5,-15.09,54.5,54.96,17,69
+2026,r8,401860907,Washington State,Boise State,G5,6,DraftKings,14.5,12.91,52.5,52.64,21,41
+2026,r8,401868311,Stephen F. Austin,SE Louisiana,FCS/FCS,7,DraftKings,-17.5,-21.74,53.5,54.09,-21,69
+2026,r8,401868106,Idaho State,Portland State,FCS/FCS,7,DraftKings,-14,-15.57,62.5,57.52,-30,46
+2026,r8,401860905,Colorado State,San Diego State,G5,6,DraftKings,1.5,1.74,57.5,63.47,-7,105
+2026,r8,401869935,Arkansas State,Georgia State,G5,6,DraftKings,2.5,1.39,58.5,57.32,-6,70
+2026,r8,401868132,UC Davis,Northern Colorado,FCS/FCS,7,DraftKings,-9.5,-0.86,58.5,54.05,-27,39
+2026,r8,401858276,Clemson,Virginia Tech,P4,6,DraftKings,-3,-5.27,50.5,51.22,4,36
+2026,r8,401868067,North Alabama,Austin Peay,FCS/FCS,7,DraftKings,9.5,8.2,48.5,51.07,6,48
+2026,r8,401868969,East Texas A&M,Prairie View A&M,FCS/FCS,7,DraftKings,-3,2.26,49.5,50.69,11,49
+2026,r8,401856836,Oklahoma State,Colorado,P4,6,DraftKings,-12.5,-9.15,55.5,51.37,-33,81
+2026,r8,401856732,Texas,Ole Miss,P4,6,DraftKings,-3,0.26,54.5,53.24,-7,61
+2026,r8,401860906,Texas State,Utah State,G5,6,DraftKings,-14.5,-13.85,58.5,54.44,-3,37
+2026,r8,401858275,North Carolina,Syracuse,P4,6,DraftKings,-7.5,-10.21,49.5,50.65,1,61
+2026,r8,401856729,Kentucky,Vanderbilt,P4,7,DraftKings,-9.5,-14.59,51.5,55.12,-17,51
+2026,r8,401858500,Wisconsin,USC,P4,6,DraftKings,1.5,-0.4,50.5,52.46,-17,31
+2026,r8,401856838,Arizona,Iowa State,P4,6,DraftKings,-11.5,-7.09,51.5,51.97,-36,42
+2026,r8,401862811,Tulane,UTSA,G5,6,DraftKings,3,0.39,52.5,50.91,23,61
+2026,r8,401864527,New Mexico,North Dakota State,G5,6,DraftKings,-4.5,-2.33,39.5,47.13,-5,37
+2026,r8,401856837,Utah,Houston,P4,6,DraftKings,-6.5,-5.41,57.5,57.09,-8,34
+2026,r9,401871071,Western Kentucky,Delaware,G5,7,DraftKings,-2.5,-0.28,55.5,55.0,14,56
+2026,r9,401871072,Missouri State,Sam Houston,G5,7,DraftKings,-5.5,-2.83,51.5,53.68,-21,27
+2026,r9,401871058,Middle Tennessee,Kennesaw State,G5,7,DraftKings,1.5,-1.67,49.5,48.65,16,72
+2026,r9,401871057,New Mexico State,Jacksonville State,G5,7,DraftKings,3,2.77,50.5,52.19,24,24
+2026,r9,401867969,Morgan State,South Carolina State,FCS/FCS,8,DraftKings,7,10.83,52.5,55.85,41,61
+2026,r9,401862812,North Texas,Florida Atlantic,G5,7,DraftKings,-15.5,-16.29,78.5,73.12,-7,89
+2026,r9,401869963,James Madison,Troy,G5,7,DraftKings,-17.5,-19.25,52.5,53.95,3,45
+2026,r9,401867838,Dartmouth,Harvard,FCS/FCS,6,DraftKings,9.5,10.69,44.5,45.77,-10,38
+2026,r9,401862813,Charlotte,Tulane,G5,7,DraftKings,8.5,13.12,47.5,49.84,7,69
+2026,r9,401856844,UCF,Baylor,P4,7,DraftKings,2.5,-0.34,49.5,51.51,32,50
+2026,r9,401866451,Sacramento State,Kent State,G5,8,DraftKings,7.5,9.14,47.5,48.09,-21,41

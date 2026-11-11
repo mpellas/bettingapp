@@ -1,0 +1,5 @@
+prereg_2026_wk5-18_PUBLISHED_20261005.yaml
+fc9961cfe3c5dd0075a89173393e5d88e67f3cd1
+candidate_sha1=3aaa9b2bbf70a3ccf7b134e0db428d20b7a37b7e
+git_commit=de029ac361a28973aba1689606ca27fdf8a83736
+published_at_pt=2026-10-05T13:50:20.135281-07:00

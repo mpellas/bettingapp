@@ -1,0 +1,16 @@
+player,team,lineup_source,gate_ev,gate_pp,x_ev,x_pp,x_url,post_time_pt,author,would_skip,reason
+Dougie Hamilton,New Jersey Devils,dfo_fresh,d2,pp2,d2,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,no,agrees
+Ryan Nugent-Hopkins,Edmonton Oilers,dfo_fresh,f2,pp1,f2,n/a,https://x.com/32HockeyUpdates/status/2117672461634269213,2026-11-03 09:37 PT,32HockeyUpdates,no,agrees
+Leon Draisaitl,Edmonton Oilers,dfo_fresh,f1,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117672461634269213,2026-11-03 09:37 PT,32HockeyUpdates,no,agrees
+Kasperi Kapanen,Edmonton Oilers,dfo_fresh,f2,pp1,f2,n/a,https://x.com/32HockeyUpdates/status/2117672461634269213,2026-11-03 09:37 PT,32HockeyUpdates,no,agrees
+Evan Rodrigues,New Jersey Devils,dfo_fresh,f3,,f3,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,no,agrees
+Connor McDavid,Edmonton Oilers,dfo_fresh,f1,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117672461634269213,2026-11-03 09:37 PT,32HockeyUpdates,no,agrees
+Timo Meier,New Jersey Devils,dfo_fresh,f1,pp2,f2,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,yes,line f1->f2
+Nico Hischier,New Jersey Devils,dfo_fresh,f1,pp1,f2,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,yes,line f1->f2
+Jesper Bratt,New Jersey Devils,dfo_fresh,f2,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,yes,line f2->f1
+Evan Bouchard,Edmonton Oilers,dfo_fresh,d1,pp1,d1,n/a,https://x.com/32HockeyUpdates/status/2117672461634269213,2026-11-03 09:37 PT,32HockeyUpdates,no,agrees
+Jack Hughes,New Jersey Devils,dfo_fresh,f2,pp1,f1,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,yes,line f2->f1
+Vasily Podkolzin,Edmonton Oilers,dfo_fresh,f1,pp2,f1,n/a,https://x.com/32HockeyUpdates/status/2117672461634269213,2026-11-03 09:37 PT,32HockeyUpdates,no,agrees
+Luke Evangelista,New Jersey Devils,dfo_fresh,f1,pp2,f2,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,yes,line f1->f2
+Luke Hughes,New Jersey Devils,dfo_fresh,d1,pp1,d1,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,no,agrees
+Arseny Gritsyuk,New Jersey Devils,dfo_fresh,f2,pp2,f1,n/a,https://x.com/32HockeyUpdates/status/2117673309064282559,2026-11-03 09:40 PT,32HockeyUpdates,yes,line f2->f1

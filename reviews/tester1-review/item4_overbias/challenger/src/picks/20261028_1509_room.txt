@@ -1,0 +1,20 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, 3:00 PM PT window pass (Wed Oct 28; fired 3:08, run 3:09 PM PT), DraftKings lines captured 3:02 PM PT. One game in the window: New Jersey Devils at Colorado Avalanche, 6:00 PM PT (171 min out at run time). No earlier pass today had scored it.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (19 lines up; best is -5.0%).
+
+Fliff check (1). Not a bet right now: Fliff and DraftKings are both worse than shop-at.
+1. Sam Malinski (COL D), Devils at Avalanche (6:00 PM PT), UNDER 1.5 shots on goal
+   DK now: -140 (opened -115), model under 62.2% vs no-vig 54.5%, recent form under 77.9%. Shop-at (worst acceptable): -121 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 4 of 5 under 1.5 (shots 0, 2, 0, 1, 0).
+   Role: Avalanche pair 2 defenseman, no power play, no change (Colorado DailyFaceoff lineup updated 10:25 AM PT today, about 5 hours old). TOI last 5 16.9 min vs 18.8 over last 30 (trending down, which fits the under); PP time last 5 about 0.1 min vs 0.5.
+   Evidence: agrees 4 of 7 (champion +7.7 pts; challenger +4.7 pts; shrunk form +3.1 pts; no-vig moved 4.5 pts toward the under since open); nothing against.
+   Fliff -140 and DK -140 are both worse than -121.
+Correlation: only one side, so nothing to stack.
+Fliff credits: 2 of 10 used today (1 this pass, for this one game); 98 left on the account.
+
+Vetoes: 5 role-check vetoes and 1 slot veto, all on sides with no positive DK EV. Overs dropped for demotions: Nazem Kadri, Evan Rodrigues; unders dropped for promotions: Gabriel Landeskog, Martin Necas, Arseny Gritsyuk; Dougie Hamilton over dropped by the slot check.
+Both teams' DailyFaceoff lineups are fresh (NJD 7:44 AM, COL 10:25 AM PT today), so no 12-hour lineup skips. No ESPN injury flags on the side.
+Missed game: Calgary Flames at Edmonton Oilers (5:30 PM PT) was never scored today. The 2:00, 2:30 and 3:00 PM passes that would have covered it don't show as having run (the last run before this was 1:37 PM), and at 3:09 PM it was 141 min out, past the window, so it's left off the card rather than scored late.
+Spreadsheet: /workspace/nhl-sog/sheets/20261028_D_1509_picks.xlsx (colors only show in Excel or Google Sheets).

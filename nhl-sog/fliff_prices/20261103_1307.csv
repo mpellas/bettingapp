@@ -1,0 +1,2 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261103,Evan Bouchard,Edmonton Oilers at New Jersey Devils,UNDER,2.5,8480803,2026020239,401892636,71d674d1a6ac60893018bd115d42d624,offered,2.5,-135,True,101,False,-115,2.5,-115,2.5,True,2026-11-03T13:07:41-08:00,20261103_1307_post.txt

@@ -1,0 +1,11 @@
+2026 graded in-scope candidate sides: 141 ({4: 10, 5: 131} by week), 14 games; overs 37%
+agrees_n distribution: {1: 44, 2: 57, 3: 30, 4: 10}
+| rule | sides | games | hit | hit - 50% (pts) | z-CLV (line-based) |
+|---|---|---|---|---|---|
+| all candidates | 141 | 14 | 0.553 | +5.3 [-2.5, +12.2] | +0.001 [-0.008, +0.011] |
+| agrees >= 2 | 97 | 14 | 0.505 | +0.5 [-9.4, +10.4] | -0.004 [-0.009, +0.002] |
+| agrees >= 3 | 40 | 12 | 0.475 | -2.5 [-16.7, +11.4] | -0.010 [-0.020, -0.002] |
+| agrees >= 4 (ex-ante K) | 10 | 5 | 0.500 | +0.0 [-26.9, +35.7] | -0.017 [-0.067, +0.007] |
+| agrees >= 5 | 0 | | too few | | |
+| agrees < 4 | 131 | 14 | 0.557 | +5.7 [-2.5, +13.3] | +0.002 [-0.007, +0.013] |
+signal + counts: {'champ': 141, 'usage': 17, 'opp': 59, 'injury': 10, 'script': 33, 'move': 28, 'weather': 0}  - counts: {'champ': 0, 'usage': 23, 'opp': 42, 'injury': 32, 'script': 43, 'move': 44, 'weather': 0}

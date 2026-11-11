@@ -1,0 +1,51 @@
+{
+ "created_at_utc": "2026-11-01T14:53:01+00:00",
+ "created_at_pt": "2026-11-01T06:53:01-08:00",
+ "season": 2026,
+ "week": 8,
+ "champion_hash": "aa4d70b859",
+ "config_hash": "37b5a34d8c",
+ "code_version": "6ddb05f9",
+ "pregame_code_sha1": "40b08d1852",
+ "data_version": "64035243",
+ "data_cutoff": "2026-10-29",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-10-08",
+ "lookback_games": 2,
+ "mode": "snapshot (D lines)",
+ "n_rows_built": 220,
+ "n_void_lines": 0,
+ "void_reasons": {},
+ "n_predictions": {
+  "pass_yds": 28,
+  "rush_yds": 89,
+  "rec_yds": 174
+ },
+ "d_lines_file": "data/lines/snap_2026_wk8_D.csv",
+ "d_lines_sha256": "1ee5d2439e6b5aaccf85dfc51280ff737e077260bc45a5a2049ec29831e77186",
+ "d_captured_at_utc": {
+  "401873023": "2026-10-29T01:01:35+00:00",
+  "401873024": "2026-11-01T14:43:36+00:00",
+  "401873025": "2026-11-01T14:43:36+00:00",
+  "401873026": "2026-11-01T14:43:36+00:00",
+  "401873027": "2026-11-01T14:43:36+00:00",
+  "401873028": "2026-11-01T14:43:36+00:00",
+  "401873029": "2026-11-01T14:43:36+00:00",
+  "401873030": "2026-11-01T14:43:36+00:00",
+  "401873031": "2026-11-01T14:43:36+00:00",
+  "401873032": "2026-11-01T14:43:36+00:00",
+  "401873033": "2026-11-01T14:43:36+00:00",
+  "401873034": "2026-11-01T14:43:36+00:00",
+  "401873035": "2026-11-01T14:43:36+00:00",
+  "401873036": "2026-11-01T14:43:36+00:00"
+ },
+ "n_with_line_D": 291,
+ "sha256_parquet": "7c877bd8f5a825d5b9b8edf9bf6f68014c00160f530c74ca3d6379410e5e16b3",
+ "sha256_csv": "8c614e2375f291dd7f7170b832f99b934d7710bd1329f17c86422d39cf740a9a",
+ "files": [
+  "data/predictions/2026_wk08/pregame_20261101T145301Z.parquet",
+  "data/predictions/2026_wk08/pregame_20261101T145301Z.csv"
+ ],
+ "void_report": "data/predictions/2026_wk08/pregame_20261101T145301Z_voids.csv",
+ "sha256_voids": "6b88b940936fba872cfea5d9b29db28ac588dd0b1b35afcac03f07efcb8608a4"
+}

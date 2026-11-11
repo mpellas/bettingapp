@@ -1,0 +1,20 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 2:30 PM PT window pass (Mon Oct 26; run 2:38 PM PT), lines captured 2:32 PM PT. One game: Toronto Maple Leafs at Calgary Flames (5:30 PM PT, start time rechecked on the NHL schedule, 172 min out). Detroit Red Wings at Edmonton Oilers (6:30 PM PT) is outside this window and gets its own pass at 3:30 PM PT; Los Angeles Kings at New York Rangers was covered at 1:11 PM PT.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (17 lines up).
+
+Fliff check (1). It is not a Fliff or DK bet right now: both prices are worse than the -107 shop-at. It doesn't qualify on any PrizePicks entry type (blended 51.8% clears no breakeven).
+1. Darren Raddysh, Toronto Maple Leafs at Calgary Flames (5:30 PM PT), UNDER 2.5 shots on goal
+   DK now: -125 (opened -110), no-vig 51.5%, model 58.0%, recent expected shots 1.95, recent form 69.1% (shot rate last 10 x TOI last 5), shrunk 45.5% (info only). Shop-at (worst acceptable): -107 on DraftKings and Fliff. PrizePicks: none.
+   Last 5: 3 of 5 under 2.5 (shots 3, 5, 1, 2, 0); last 10: 6 of 10 under.
+   Role: TOR defenseman, history slot D on PP1; today pair 1 and PP1 (no change; Leafs DailyFaceoff lineup updated 9:50 AM PT today). TOI last 5 23.5 min vs 23.3 over last 30; PP 3.4 min a game. CGY allows 1.047x league to D on PP1; CGY allows 32.2 shots per game over last 20 (about 4.4 above league).
+   Evidence: agrees 3 of 7 (champion +6.6 pts; challenger +4.8 pts; no-vig moved 2.9 pts toward the under since open); against: shrunk form -6.0 pts; opponent allows +5% to D+PP1; on PP1.
+   Heads-up: one of his 3 agreeing signals is the 2.9-pt market move (under -110 to -125). That's nowhere near a huge move, so it counts, but without it he'd be 2 of 7 and a skip.
+   Fliff: Fliff -125, worse than the -107 shop-at. Skip on Fliff. DK -125 also worse than -107, so not a DK bet.
+Correlation: only one side on the list, so nothing to stack. It's a Leafs under in a game where Calgary gives up a lot of shots, which is the main risk to it.
+Fliff credits: 2 of 10 used today (1 this pass); 108 left on the account.
+
+Vetoes: 1 side skipped by the lineup-status check (Ben Jones, not verified in today's DailyFaceoff lineup), 1 under by the role check (Easton Cowan, promoted from the 3rd line to line 1/PP2) and 1 over by the role check (Matvei Gridin, demoted from top 6 to the 3rd line, still PP1). The opponent-slot check also vetoed several unders (Coronato, Gridin, Farabee, Nemec, Sharangovich, Frost, Parekh). Closest misses: Ben Jones UNDER 1.5 (-160) model +21.3 pts but lineup unverified; Matt Coronato UNDER 2.5 (+100) model +10.4 pts but slot-vetoed; William Nylander OVER 2.5 (-115) model +8.3 pts but the side wasn't from milestone prices and no positive DK EV; Kirill Marchenko UNDER 2.5 (-125) fell under the 5-point floor (+3.9 pts).
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261026_D_1438_picks.xlsx (colors only show in Excel or Google Sheets).

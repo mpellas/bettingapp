@@ -1,0 +1,84 @@
+current EXTRA: ['hit', 'books', 'rest'] | sides 250
+sig_x_hit all: {'0': 124, '-': 63, '+': 63} | among 4+ of 7: {'0': 37, '+': 17, '-': 13}
+sig_x_books all: {'0': 250} | among 4+ of 7: {'0': 67}
+sig_x_rest all: {'0': 224, '+': 13, '-': 13} | among 4+ of 7: {'0': 58, '+': 5, '-': 4}
+att_show all: {'+': 88, '-': 88, '0': 60, 'n/a': 14} | among 4+ of 7: {'+': 27, '-': 20, '0': 15, 'n/a': 5}
+total_show all: {'+': 125, '-': 125} | among 4+ of 7: {'+': 35, '-': 32}
+4+ of 7: 67 | 6+ of 10: 15 | 7+ of 12: 17 | of the 67: 6+ of 10 15 , 7+ of 12 17
+of_12  0   1   2   3   4   5  6  7  8
+of_7                                 
+0      3   7   2   1   0   0  0  0  0
+1      0  11  27  12   2   0  0  0  0
+2      0   0  14  29  20   3  0  0  0
+3      0   0   0  15  22  11  4  0  0
+4      0   0   0   0  10  22  9  2  1
+5      0   0   0   0   0   2  6  9  2
+6      0   0   0   0   0   0  1  2  1
+                  player  side  line                                      game  of_7  of_10  of_12 sig_x_hit sig_x_books sig_x_rest att_show total_show
+          Clayton Keller  over   2.5        Utah Mammoth at Montreal Canadiens     6      7      8         +           0          0        -          +
+           Connor Bedard  over   2.5 Chicago Blackhawks at Tampa Bay Lightning     5      6      8         +           0          -        +          +
+           Matthew Knies under   1.5     Dallas Stars at Columbus Blue Jackets     5      6      8         +           0          0        +          +
+           Brayden Point  over   2.5 Chicago Blackhawks at Tampa Bay Lightning     4      6      8         +           0          +        +          +
+           Moritz Seider  over   1.5 Vegas Golden Knights at Detroit Red Wings     6      7      7         +           0          0        -          -
+          Porter Martone  over   1.5   Philadelphia Flyers at New York Rangers     6      6      7         0           0          0      n/a          +
+       Mikhail Sergachev  over   1.5        Utah Mammoth at Montreal Canadiens     5      6      7         +           0          0        0          +
+           Lucas Raymond  over   2.5 Vegas Golden Knights at Detroit Red Wings     5      6      7         +           0          0        +          -
+           Jake Guentzel  over   2.5 Chicago Blackhawks at Tampa Bay Lightning     5      6      7         -           0          +        -          +
+             Frank Nazar  over   1.5 Chicago Blackhawks at Tampa Bay Lightning     5      6      7         +           0          -        0          +
+           Sebastian Aho  over   2.5 Carolina Hurricanes at New York Islanders     5      6      7         +           0          0        +          -
+          Tyler Bertuzzi under   1.5 Chicago Blackhawks at Tampa Bay Lightning     4      6      7         +           0          +        +          -
+          Matvei Michkov  over   1.5   Philadelphia Flyers at New York Rangers     5      5      7         0           0          0        +          +
+          Rickard Rakell  over   2.5      Boston Bruins at Pittsburgh Penguins     5      5      7         0           0          0        +          +
+             Pavel Zacha  over   1.5      Boston Bruins at Pittsburgh Penguins     5      5      7         -           0          0        +          +
+          Egor Chinakhov  over   1.5      Boston Bruins at Pittsburgh Penguins     5      5      7         0           0          0        +          +
+         Anthony Cirelli  over   1.5 Chicago Blackhawks at Tampa Bay Lightning     4      5      7         -           0          +        +          +
+             Lane Hutson under   1.5        Utah Mammoth at Montreal Canadiens     6      6      6         0           0          0        -          -
+         Roman Kantserov under   1.5 Chicago Blackhawks at Tampa Bay Lightning     5      6      6         0           0          +      n/a          -
+        Matthew Schaefer  over   2.5 Carolina Hurricanes at New York Islanders     5      6      6         +           0          0        0          -
+        Juraj Slafkovsky under   2.5        Utah Mammoth at Montreal Canadiens     5      5      6         0           0          0        +          -
+      Vladislav Gavrikov under   1.5   Philadelphia Flyers at New York Rangers     5      5      6         0           0          0        +          -
+           Trevor Zegras  over   1.5   Philadelphia Flyers at New York Rangers     5      5      6         0           0          0        0          +
+          David Pastrnak  over   3.5      Boston Bruins at Pittsburgh Penguins     5      5      6         0           0          0        -          +
+          Nick Robertson  over   1.5      Boston Bruins at Pittsburgh Penguins     4      5      6         +           0          0        0          +
+              Ben Kindel under   2.5      Boston Bruins at Pittsburgh Penguins     4      5      6         +           0          0        +          -
+             Tomas Hertl under   1.5 Vegas Golden Knights at Detroit Red Wings     4      4      6         -           0          0        +          +
+           Robert Thomas under   1.5      St. Louis Blues at New Jersey Devils     4      4      6         -           0          0        +          +
+          Mason McTavish under   2.5      St. Louis Blues at New Jersey Devils     4      4      6         0           0          0        +          +
+         Jimmy Snuggerud under   2.5      St. Louis Blues at New Jersey Devils     4      4      6         0           0          0        +          +
+           Emil Heineman under   1.5 Carolina Hurricanes at New York Islanders     4      4      6         0           0          0        +          +
+           Erik Karlsson  over   2.5      Boston Bruins at Pittsburgh Penguins     4      4      6         -           0          0        +          +
+             Tommy Novak  over   1.5      Boston Bruins at Pittsburgh Penguins     4      4      6         -           0          0        +          +
+            Mitch Marner  over   1.5 Vegas Golden Knights at Detroit Red Wings     5      5      5         0           0          0        0          -
+             Oliver Bonk under   1.5   Philadelphia Flyers at New York Rangers     5      5      5         0           0          0      n/a          -
+        Rasmus Andersson  over   1.5 Vegas Golden Knights at Detroit Red Wings     4      5      5         +           0          0        -          -
+          Brayden Schenn  over   1.5 Carolina Hurricanes at New York Islanders     4      5      5         +           0          0        0          -
+           Denver Barkey under   1.5   Philadelphia Flyers at New York Rangers     4      5      5         +           0          0        -          -
+          Charlie McAvoy under   1.5      Boston Bruins at Pittsburgh Penguins     4      5      5         +           0          0        0          -
+        Vincent Trocheck  over   1.5        Utah Mammoth at Montreal Canadiens     4      4      5         0           0          0        0          +
+        MacKenzie Weegar  over   1.5        Utah Mammoth at Montreal Canadiens     4      4      5         0           0          0        0          +
+             Zack Bolduc under   1.5        Utah Mammoth at Montreal Canadiens     4      4      5         0           0          0        +          -
+            Brett Howden under   1.5 Vegas Golden Knights at Detroit Red Wings     4      4      5         0           0          0        -          +
+           Emmitt Finnie  over   1.5 Vegas Golden Knights at Detroit Red Wings     4      4      5         0           0          0        +          -
+          Anton Frondell  over   1.5 Chicago Blackhawks at Tampa Bay Lightning     4      4      5         -           0          -      n/a          +
+            Jesper Bratt  over   1.5      St. Louis Blues at New Jersey Devils     4      4      5         0           0          0        +          -
+             Jack Hughes  over   3.5      St. Louis Blues at New Jersey Devils     4      4      5         0           0          0        +          -
+          Dylan Holloway  over   1.5      St. Louis Blues at New Jersey Devils     4      4      5         0           0          0        +          -
+          Mika Zibanejad  over   2.5   Philadelphia Flyers at New York Rangers     4      4      5         0           0          0        -          +
+                Adam Fox  over   1.5   Philadelphia Flyers at New York Rangers     4      4      5         0           0          0        0          +
+          Jamie Drysdale  over   1.5   Philadelphia Flyers at New York Rangers     4      4      5         0           0          0        -          +
+           Sidney Crosby  over   2.5      Boston Bruins at Pittsburgh Penguins     4      4      5         -           0          0        0          +
+           Evgeni Malkin  over   1.5      Boston Bruins at Pittsburgh Penguins     4      4      5         0           0          0        -          +
+          Elias Lindholm  over   1.5      Boston Bruins at Pittsburgh Penguins     4      4      5         0           0          0        -          +
+             Roope Hintz  over   1.5     Dallas Stars at Columbus Blue Jackets     4      4      5         0           0          0        +          -
+            Kent Johnson under   1.5     Dallas Stars at Columbus Blue Jackets     4      4      5         -           0          0        -          +
+          Wyatt Johnston under   2.5     Dallas Stars at Columbus Blue Jackets     4      4      5         0           0          0        0          +
+           Cole Caufield under   2.5        Utah Mammoth at Montreal Canadiens     4      4      4         -           0          0        -          -
+            Logan Cooley under   2.5        Utah Mammoth at Montreal Canadiens     4      4      4         0           0          0        -          -
+              Mark Stone  over   1.5 Vegas Golden Knights at Detroit Red Wings     4      4      4         0           0          0        -          -
+             Jack Eichel  over   2.5 Vegas Golden Knights at Detroit Red Wings     4      4      4         0           0          0        -          -
+Michael Brandsegg-Nygard  over   1.5 Vegas Golden Knights at Detroit Red Wings     4      4      4         0           0          0      n/a          -
+ Charle-Edouard D'Astous under   1.5 Chicago Blackhawks at Tampa Bay Lightning     4      4      4         -           0          -        0          -
+         Dougie Hamilton  over   2.5      St. Louis Blues at New Jersey Devils     4      4      4         0           0          0        -          -
+          Philip Broberg  over   1.5      St. Louis Blues at New Jersey Devils     4      4      4         0           0          0        0          -
+             Luke Hughes  over   2.5      St. Louis Blues at New Jersey Devils     4      4      4         0           0          0        -          -
+        Braden Schneider under   1.5   Philadelphia Flyers at New York Rangers     4      4      4         -           0          0        -          -

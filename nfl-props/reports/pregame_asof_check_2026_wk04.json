@@ -1,0 +1,16 @@
+{
+ "n_pregame_rows": 32,
+ "n_played_rows": 378,
+ "n_matched": 15,
+ "played_rows_not_candidates": 363,
+ "candidates_who_did_not_play": 17,
+ "n_features": 78,
+ "features_with_differences": {},
+ "season": 2026,
+ "week": 4,
+ "pred_file": "data/predictions/2026_wk04/pregame_20261005T173631Z.parquet",
+ "mode": "snapshot (D lines)",
+ "checked_at": "2026-10-05T10:36:37-07:00",
+ "pred_sha256": "872a4e2aaf1de09b92d212d0ca0daa42db89887f635048e1cbeff28b71451135",
+ "d_lines_sha256": "0e098f9d1e015aef99221b099edb6c83773b287fe882895e7acfddac12d0396c"
+}

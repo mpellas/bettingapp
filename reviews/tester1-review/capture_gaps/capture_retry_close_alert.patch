@@ -1,0 +1,68 @@
+diff -ru a/capture.py b/capture.py
+--- a/capture.py	2026-10-26 12:07:21.388178195 -0700
++++ b/capture.py	2026-10-26 12:07:21.400177986 -0700
+@@ -11,6 +11,16 @@
+ H={'User-Agent':'Mozilla/5.0'}
+ os.chdir(os.path.dirname(os.path.abspath(__file__))); os.makedirs('captures',exist_ok=True)
+ def j(u,**kw): return requests.get(u.replace('http:','https:'),headers=H,timeout=(10,20),**kw).json()
++def jr(u,tries=3,**kw):
++    """Retry wrapper (Tester1 item #2) for the calls a capture cannot survive losing: scoreboard + DK propBets.
++    3 tries, 3s/6s backoff; worst case stays well inside the loop's 120s timeout. Re-raises after the last try."""
++    import time
++    for i in range(tries):
++        try:
++            r=requests.get(u.replace('http:','https:'),headers=H,timeout=(10,20),**kw); r.raise_for_status(); return r.json()
++        except Exception as ex:
++            if i==tries-1: raise
++            print(f'retry {i+1}/{tries-1} {u.split("?")[0][-60:]}: {ex}'); time.sleep(3*2**i)
+ def load(f): return json.load(open(f)) if os.path.exists(f) else {}
+ ATH,IDM='captures/athletes.json','captures/idmap.json'; ath,idm=load(ATH),load(IDM)
+ def norm(s): return re.sub(r'[^a-z]','',unicodedata.normalize('NFKD',s or '').encode('ascii','ignore').decode().lower())
+@@ -66,7 +76,7 @@
+ TEST=len(sys.argv)>1 and sys.argv[1] in ('TEST','ADHOC')  # writes <event>_TEST.json for every upcoming game
+ now=dt.datetime.now(dt.timezone.utc); soonest=1e9
+ for day in sorted({(now+dt.timedelta(hours=h)).strftime('%Y%m%d') for h in (-8,0,8)}):
+-  for e in j(SITE,params={'dates':day}).get('events',[]):
++  for e in jr(SITE,params={'dates':day}).get('events',[]):
+     start=dt.datetime.fromisoformat(e['date'].replace('Z','+00:00')); mins=(start-now).total_seconds()/60
+     if e['status']['type']['state']!='pre' or mins<0: continue
+     soonest=min(soonest,mins)
+@@ -75,7 +85,9 @@
+     eid=e['id']; comp=e['competitions'][0]['competitors']
+     teams={c['homeAway']:c['team'] for c in comp}; abbrs={t['abbreviation'] for t in teams.values()}|{ {'TB':'TBL','LA':'LAK','NJ':'NJD','SJ':'SJS','UTAH':'UTA'}.get(t['abbreviation'],t['abbreviation']) for t in teams.values()}
+     raw=[]
+-    for p in j(f'{CORE}/events/{eid}/competitions/{eid}/odds/100/propBets',params={'limit':1000}).get('items',[]):
++    try: items=jr(f'{CORE}/events/{eid}/competitions/{eid}/odds/100/propBets',params={'limit':1000}).get('items',[])
++    except Exception as ex: print(f'CAPTURE GAP {eid} {tag} {mins:.0f}min: propBets failed after retries: {ex}'); soonest=min(soonest,mins); continue
++    for p in items:
+         if not ('Shots on Goal' in p['type']['name'] or p['type']['name'] in ('Total Saves','Goalkeeper Saves Milestones')) or 'athlete' not in p: continue
+         aid,a=athlete(p['athlete']['$ref'])
+         raw.append({'type':p['type']['name'],'espn_id':aid,'player':a.get('name'),'nhl_id':nhl_id(aid,a.get('name'),abbrs,a.get('pos')) if a.get('name') else None,
+diff -ru a/ops/capture_loop.sh b/ops/capture_loop.sh
+--- a/ops/capture_loop.sh	2026-10-26 12:07:21.388178195 -0700
++++ b/ops/capture_loop.sh	2026-10-26 12:07:21.400177986 -0700
+@@ -7,6 +7,14 @@
+   touch logs/heartbeat; echo "=== $(date -Is) ===" >> logs/capture_loop.log
+   out=$(timeout -k 10 120 "$PY" capture.py 2>&1); rc=$?; echo "$out" >> logs/capture_loop.log
+   [ $rc -ne 0 ] && echo "capture.py exit $rc" >> logs/capture_loop.log
++  # Tester1 item #2: a failed/timed-out run (or a propBets gap) gets one quick re-run after 30s instead of waiting 180-600s.
++  if [ $rc -ne 0 ] || echo "$out" | grep -q '^CAPTURE GAP'; then
++    sleep 30; touch logs/heartbeat; echo "=== $(date -Is) retry ===" >> logs/capture_loop.log
++    out=$(timeout -k 10 120 "$PY" capture.py 2>&1); rc=$?; echo "$out" >> logs/capture_loop.log
++    [ $rc -ne 0 ] && echo "capture.py exit $rc (retry)" >> logs/capture_loop.log
++  fi
++  # Missing-close alert: dedupes per game in logs/close_alerts.log; '!!! CLOSE SNAPSHOT MISSING' lines are relayed to the room.
++  "$PY" /workspace/tester1-review/capture_gaps/close_watch.py --out logs $(date -d yesterday +%Y%m%d) $(date +%Y%m%d) >> logs/capture_loop.log 2>&1
+   s=$(echo "$out" | awk '/^NEXT_SLEEP/{print $2}'); s=${s:-180}; echo "$s" > logs/next_sleep
+   until=$(( $(date +%s) + s )); while [ "$(date +%s)" -lt "$until" ]; do touch logs/heartbeat; sleep 15; done
+ done
+diff -ru a/ops/ensure_capture.sh b/ops/ensure_capture.sh
+--- a/ops/ensure_capture.sh	2026-10-26 12:07:21.388178195 -0700
++++ b/ops/ensure_capture.sh	2026-10-26 12:07:21.400177986 -0700
+@@ -16,5 +16,6 @@
+   if ! timeout 300 .venv/bin/python check_gaps.py --days 14 --box 2>&1 | tee -a logs/gap_check.log; then echo "!!! GAP CHECK FAILED: NHL game logs have missing/mismatched box-score rows (logs/gap_check.log) !!!"; fi
+ else tail -n 1 logs/gap_check.log; fi
+ pgrep -af 'ops/capture_(supervisor|loop)\.sh'
++grep -h '^20.*CLOSE SNAPSHOT MISSING' logs/close_alerts.log 2>/dev/null | awk -F'\t' -v c="$(date -u -d '-1 day' -Is)" '$1>c{print $3}'  # Tester1 item #2: post these to the room
+ echo "--- last loop entries"; tail -n 6 logs/capture_loop.log 2>/dev/null
+ echo "--- supervisor"; tail -n 3 logs/capture_supervisor.log 2>/dev/null

@@ -1,0 +1,1 @@
+This directory was a full working copy of nfl-props (about 5.1G, including snapshot JSON). It was omitted as a duplicate of the top-level nfl-props/ tree. Review outputs for this audit are in the sibling orig/ folder and in audit_20261031/REPORT.md.

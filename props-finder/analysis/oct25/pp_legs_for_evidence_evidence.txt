@@ -1,0 +1,3 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source pp_legs_for_evidence.csv, asof 20261025T143318Z
+Darnell Mooney Under 19.5 reception_yds @ PP std prizepicks: Darnell Mooney U19.5 rec_yds: agrees 1 of 7 (team total 16.0 (dog 10.5)); against: HOU allows 186/g to WRs (+23% vs lg), EPA/play +0.021; Theo Johnson TE out (2.2 tgt/g); DK line 15.5 -> 17.5 (+2)
+J.J. McCarthy Under 24.5 rush_yds @ PP std prizepicks: J.J. McCarthy U24.5 rush_yds: agrees 4 of 7 (usage L3 -44% (carries 2.0 vs 3.4; carry sh 0.08 vs 0.13; snap% 0.37 vs 0.76); HOU allows 8/g to QBs (-54% vs lg), EPA/play -0.024; NYG dog 10.5, team total 16.0; DK line 25.5 -> 23.5 (-2)); nothing against

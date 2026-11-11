@@ -1,0 +1,3 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261028,William Nylander,Toronto Maple Leafs at Seattle Kraken,OVER,2.5,8477939,2026020202,401892599,f7510932dec00855b611e3685080819c,offered,2.5,-130,True,101,False,-115,2.5,-120,2.5,True,2026-10-28T15:35:20-07:00,20261028_1535_post.txt
+20261028,Darren Raddysh,Toronto Maple Leafs at Seattle Kraken,UNDER,2.5,8478178,2026020202,401892599,f7510932dec00855b611e3685080819c,offered,2.5,-125,True,-112,False,-130,2.5,-130,2.5,True,2026-10-28T15:35:20-07:00,20261028_1535_post.txt

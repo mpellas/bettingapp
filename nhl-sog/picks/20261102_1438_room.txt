@@ -1,0 +1,12 @@
+**NO BETS** this pass. NHL shots on goal, Mon Nov 2 2:30 PM window pass (fired 2:37, run 2:38 PM PT), DraftKings lines captured 2:30 PM PT. One game in the window: Calgary Flames at San Jose Sharks, 6:00 PM PT (202 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. 0 leans and 0 DK-listable sides (20 lines up, none with positive blended EV at DraftKings; best -5.8%).
+
+Fliff check: two sides cleared the 5-point edge floor, but neither can be bet. Fliff's prices are worse than the shop-at price on both, and so is DraftKings. Both DailyFaceoff lineups are fresh (Flames 10:51 AM, Sharks 10:52 AM PT).
+- Matt Coronato under 2.5 (Calgary at San Jose), 3 of 7 agree, Fliff -145, DK -135, shop-at -117 or better. Last 5: 4 of 5 under. Skipped: Fliff and DK worse than shop-at.
+- Simon Nemec under 1.5 (Calgary at San Jose), 3 of 7 agree, Fliff -140, DK -135, shop-at -116 or better. Last 5: 4 of 5 under. Skipped: Fliff and DK worse than shop-at.
+Correlation note: Coronato and Nemec unders are both Flames skaters in the same game and would move together; nothing qualified, so no stacking concern.
+Fliff credits: 1 this pass; 4 of 10 used today.
+
+Vetoes: 0 injury vetoes (injury re-pull clean), 4 role-check demotions (Morgan Frost, Yegor Sharangovich, Collin Graf and Ivar Stenberg overs), 3 promotions (Tyler Toffoli, Ryan Strome and Michael Misa unders), 0 slot vetoes.
+Spreadsheet: /workspace/nhl-sog/sheets/20261102_D_1438_picks.xlsx (colors only show in Excel or Google Sheets).

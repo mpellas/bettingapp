@@ -1,0 +1,9 @@
+Fliff check: Tomas Hertl UNDER 2.5 (DK -160, Fliff at -138 or better) - model +10.2 pts vs no-vig; recent +11.2 pts
+   last 5: 3 of 5 under 2.5 (shots 3,1,5,2,1); model 67.7%, recent form 68.7% (shot rate last 10 x TOI last 5)
+   evidence: Tomas Hertl U2.5: agrees 5 of 7 (champion +10.2 pts; challenger +11.4 pts; shrunk form +8.0 pts; opponent allows -7% to F_top6+PP1; no-vig moved 3.1 pts toward side since open); against: on PP1
+Fliff check: Jackson LaCombe UNDER 1.5 (DK +100, Fliff at +114 or better) - model +7.0 pts vs no-vig; recent +47.4 pts
+   last 5: 5 of 5 under 1.5 (shots 1,1,0,0,0); model 53.5%, recent form 93.9% (shot rate last 10 x TOI last 5)
+   evidence: Jackson LaCombe U1.5: agrees 4 of 7 (champion +7.0 pts; challenger +7.7 pts; shrunk form +17.8 pts; no-vig moved 4.3 pts toward side since open); against: opponent allows +5% to D+PP1; on PP1
+Fliff check: Cutter Gauthier UNDER 3.5 (DK +105, Fliff at +120 or better) - model +7.7 pts vs no-vig; recent +6.8 pts
+   last 5: 2 of 5 under 3.5 (shots 4,5,2,2,4); model 52.8%, recent form 52.0% (shot rate last 10 x TOI last 5)
+   evidence: Cutter Gauthier U3.5: agrees 4 of 7 (champion +7.7 pts; challenger +7.2 pts; shrunk form +0.9 pts; no-vig moved 1.8 pts toward side since open); against: opponent allows +7% to F_top6+PP1; on PP1

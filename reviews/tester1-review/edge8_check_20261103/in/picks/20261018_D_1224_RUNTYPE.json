@@ -1,0 +1,31 @@
+{
+ "date": "20261018",
+ "pass_hhmm": "1224",
+ "run_type": "catchup",
+ "game": "Columbus Blue Jackets at Minnesota Wild",
+ "espn_event": "401892533",
+ "nhl_gameId": 2026020135,
+ "puck_drop_pt": "15:00",
+ "d_snapshot_captured_utc": "2026-10-18T19:24:21.869881+00:00",
+ "d_snapshot_sha256": "0a6da50cbcc7bf27f54146ec6f383b9e1a3340e69c8c47ade6cc56c5a8e2f20a",
+ "predict_now": "2026-10-18T12:24:30-07:00",
+ "run_started_pt": "2026-10-18T12:33-07:00",
+ "live_checks_pt": "shop_gate (DFO+ESPN injuries) 12:33:51; ESPN rosters 12:34:32; Fliff 12:34",
+ "fliff_checks": [
+  "Matthew Knies U1.5",
+  "Maxim Shabanov U1.5"
+ ],
+ "dk_list": [],
+ "champion": "c3ab760178",
+ "challenger": "3386583f18",
+ "files": [
+  "picks/20261018_D_1224.csv",
+  "picks/20261018_D_1224_GATE.csv",
+  "picks/20261018_D_1224_recent.csv",
+  "picks/20261018_1224_post.txt",
+  "sheets/20261018_D_1224_picks.xlsx",
+  "fliff_prices/20261018_1234.csv",
+  "challenger/shadow/20261018_D_3386583f18_1224.csv"
+ ],
+ "note": "Rows for gameId 2026020135 in picks/20261018_D.csv and challenger/shadow/20261018_D_3386583f18.csv came from this catch-up run; those merged files were left untagged so later merges/grading scripts are unaffected."
+}

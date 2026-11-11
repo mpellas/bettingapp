@@ -1,0 +1,75 @@
+list,date,era,player,side,line,dk,shop_at,bucket,decision_src,gameId,actual,hit,u_dk,u_shop
+20261017_1016,20261017,pre-floor,Brandon Hagel,OVER,3.5,115,132,card,default card (no skip found),2026020123,5,1,1.15,1.3200000000000003
+20261017_1016,20261017,pre-floor,Elias Pettersson,UNDER,1.5,100,115,card,default card (no skip found),2026020123,2,0,-1.0,-1.0
+20261017_1222,20261017,pre-floor,Sam Reinhart,OVER,2.5,100,113,card,default card (no skip found),2026020124,3,1,1.0,1.13
+20261017_1222,20261017,pre-floor,Mackie Samoskevich,UNDER,1.5,100,115,card,default card (no skip found),2026020124,1,1,1.0,1.15
+20261017_1317,20261017,pre-floor,Noah Dobson,UNDER,2.5,-180,-152,card,default card (no skip found),2026020126,3,0,-1.0,-1.0
+20261017_1317,20261017,pre-floor,Tyler Toffoli,OVER,1.5,-160,-133,card,default card (no skip found),2026020127,0,0,-1.0,-1.0
+20261017_1317,20261017,pre-floor,Moritz Seider,OVER,1.5,-145,-126,card,default card (no skip found),2026020127,2,1,0.6896551724137931,0.7936507936507935
+20261017_1317,20261017,pre-floor,Will Smith,UNDER,2.5,-145,-123,card,default card (no skip found),2026020127,4,0,-1.0,-1.0
+20261017_1317,20261017,pre-floor,Mika Zibanejad,UNDER,2.5,-130,-112,card,default card (no skip found),2026020129,1,1,0.7692307692307692,0.8928571428571428
+20261017_1421,20261017,pre-floor,Steven Stamkos,OVER,2.5,100,117,card,default card (no skip found),2026020131,1,0,-1.0,-1.0
+20261017_1421,20261017,pre-floor,Roman Josi,OVER,2.5,115,132,card,default card (no skip found),2026020131,1,0,-1.0,-1.0
+20261017_1421,20261017,pre-floor,Matthew Wood,OVER,1.5,105,121,card,default card (no skip found),2026020131,0,0,-1.0,-1.0
+20261017_1520,20261017,pre-floor,David Pastrnak,OVER,3.5,115,132,card,default card (no skip found),2026020132,3,0,-1.0,-1.0
+20261017_1520,20261017,pre-floor,Adrian Kempe,OVER,2.5,-165,-138,card,default card (no skip found),2026020132,1,0,-1.0,-1.0
+20261017_1520,20261017,pre-floor,Charlie McAvoy,UNDER,1.5,-105,108,card,default card (no skip found),2026020132,2,0,-1.0,-1.0
+20261017_1520,20261017,pre-floor,JJ Peterka,UNDER,1.5,100,114,card,default card (no skip found),2026020132,2,0,-1.0,-1.0
+20261017_1618,20261017,pre-floor,Connor McDavid,UNDER,3.5,-150,-128,skipped,crosscheck/tester3_calls.csv,2026020133,2,1,0.6666666666666665,0.78125
+20261017_1618,20261017,pre-floor,Brayden McNabb,UNDER,1.5,-190,-158,card,default card (no skip found),2026020134,1,1,0.5263157894736841,0.6329113924050633
+20261017_1618,20261017,pre-floor,Mark Stone,UNDER,2.5,-165,-138,card,default card (no skip found),2026020134,1,1,0.606060606060606,0.7246376811594204
+20261017_1618,20261017,pre-floor,Bryan Rust,UNDER,1.5,135,150,skipped,crosscheck/tester3_calls.csv,2026020134,1,1,1.35,1.5
+20261017_1618,20261017,pre-floor,Mitch Marner,OVER,2.5,145,160,card,default card (no skip found),2026020134,1,0,-1.0,-1.0
+20261017_AM,20261017,pre-floor,Dylan Strome,UNDER,1.5,105,119,card,default card (no skip found),2026020121,3,0,-1.0,-1.0
+20261017_AM,20261017,pre-floor,Timo Meier,OVER,2.5,-140,-120,card,default card (no skip found),2026020121,3,1,0.7142857142857144,0.8333333333333335
+20261017_AM,20261017,pre-floor,Jakob Chychrun,UNDER,2.5,-140,-121,card,default card (no skip found),2026020121,1,1,0.7142857142857144,0.8264462809917354
+20261017_AM,20261017,pre-floor,Arseny Gritsyuk,OVER,1.5,-140,-120,card,default card (no skip found),2026020121,6,1,0.7142857142857144,0.8333333333333335
+20261017_AM,20261017,pre-floor,Sebastian Aho,OVER,2.5,-110,106,card,default card (no skip found),2026020122,0,0,-1.0,-1.0
+20261018_1224,20261018,pre-floor,Matthew Knies,UNDER,1.5,-120,-106,card,default card (no skip found),2026020135,1,1,0.8333333333333335,0.9433962264150944
+20261018_1224,20261018,pre-floor,Maxim Shabanov,UNDER,1.5,-125,-108,card,crosscheck/tester3_calls.csv,2026020135,0,1,0.8,0.925925925925926
+20261018_1358,20261018,pre-floor,Nikolaj Ehlers,UNDER,2.5,-165,-137,skipped,crosscheck/tester3_calls.csv,2026020136,3,0,-1.0,-1.0
+20261018_1358,20261018,pre-floor,Sebastian Aho,OVER,2.5,-110,104,card,default card (no skip found),2026020136,3,1,0.9090909090909092,1.04
+20261019_1247,20261019,pre-floor,J.T. Miller,UNDER,1.5,125,140,card,default card (no skip found),2026020137,2,0,-1.0,-1.0
+20261019_1247,20261019,pre-floor,Eeli Tolvanen,UNDER,1.5,-125,-108,card,default card (no skip found),2026020137,1,1,0.8,0.925925925925926
+20261019_1247,20261019,pre-floor,Jackson LaCombe,UNDER,1.5,-125,-107,card,default card (no skip found),2026020137,1,1,0.8,0.9345794392523366
+20261019_1247,20261019,pre-floor,Beckett Sennecke,UNDER,2.5,-110,105,skipped,Yinzer FINAL CALL 12:47,2026020137,4,0,-1.0,-1.0
+20261019_1247,20261019,pre-floor,Artturi Lehkonen,UNDER,1.5,115,130,skipped,Yinzer FINAL CALL 12:47,2026020138,2,0,-1.0,-1.0
+20261019_1319,20261019,pre-floor,Nick Paul,UNDER,1.5,-155,-131,skipped,room Oct 19 1:20 PM (no bets),2026020139,1,1,0.6451612903225805,0.7633587786259541
+20261019_1518,20261019,pre-floor,Anders Lee,OVER,1.5,-150,-128,card,default card (no skip found),2026020140,1,0,-1.0,-1.0
+20261019_1518,20261019,pre-floor,Rickard Rakell,UNDER,2.5,-135,-116,skipped,Yinzer FINAL CALL 3:12,2026020140,3,0,-1.0,-1.0
+20261019_1518,20261019,pre-floor,Logan Cooley,UNDER,2.5,-180,-154,card,default card (no skip found),2026020140,2,1,0.5555555555555556,0.6493506493506493
+20261020_1305,20261020,pre-floor,Tony DeAngelo,UNDER,1.5,-130,-112,skipped,Yinzer FINAL CALL 1:03,2026020143,0,1,0.7692307692307692,0.8928571428571428
+20261020_1305,20261020,pre-floor,Jackson LaCombe,UNDER,1.5,-125,-108,skipped,Yinzer FINAL CALL 1:03,2026020143,0,1,0.8,0.925925925925926
+20261020_1305,20261020,pre-floor,Aliaksei Protas,UNDER,1.5,-125,-110,card,default card (no skip found),2026020144,1,1,0.8,0.9090909090909092
+20261020_1305,20261020,pre-floor,Morgan Rielly,UNDER,1.5,-145,-123,skipped,Yinzer FINAL CALL 1:03,2026020145,0,1,0.6896551724137931,0.8130081300813008
+20261020_1305,20261020,pre-floor,Kirill Marchenko,UNDER,2.5,-105,108,skipped,Yinzer FINAL CALL 1:03,2026020145,2,1,0.9523809523809523,1.08
+20261020_1406,20261020,pre-floor,Jimmy Snuggerud,OVER,2.5,110,123,skipped,Yinzer FINAL CALL 2:05,2026020146,2,0,-1.0,-1.0
+20261020_1406,20261020,pre-floor,Charlie McAvoy,UNDER,1.5,-110,105,skipped,Yinzer FINAL CALL 2:05,2026020147,0,1,0.9090909090909092,1.0499999999999998
+20261020_1406,20261020,pre-floor,Morgan Geekie,UNDER,1.5,-105,109,card,default card (no skip found),2026020147,1,1,0.9523809523809523,1.0899999999999999
+20261020_1406,20261020,pre-floor,JJ Peterka,UNDER,1.5,105,118,card,default card (no skip found),2026020147,1,1,1.0499999999999998,1.1799999999999997
+20261020_1406,20261020,pre-floor,Wyatt Johnston,UNDER,2.5,-105,109,skipped,Yinzer FINAL CALL 2:05,2026020147,4,0,-1.0,-1.0
+20261020_1508,20261020,pre-floor,Kasperi Kapanen,UNDER,1.5,-125,-110,skipped,Yinzer FINAL CALL 3:08,2026020148,0,1,0.8,0.9090909090909092
+20261020_1508,20261020,pre-floor,Kirill Kaprizov,UNDER,3.5,-140,-121,skipped,Yinzer FINAL CALL 3:08,2026020148,3,1,0.7142857142857144,0.8264462809917354
+20261020_1508,20261020,pre-floor,Alex Formenton,UNDER,1.5,-135,-115,skipped,Yinzer FINAL CALL 3:08,2026020148,3,0,-1.0,-1.0
+20261020_1508,20261020,pre-floor,Maxim Shabanov,UNDER,1.5,-175,-145,card,default card (no skip found),2026020148,1,1,0.5714285714285714,0.6896551724137931
+20261020_1513,20261020,post-floor,Vince Dunn,UNDER,2.5,-155,-133,skipped,Yinzer FINAL CALL 3:12,2026020149,1,1,0.6451612903225805,0.7518796992481203
+20261020_1513,20261020,post-floor,Kaapo Kakko,UNDER,1.5,-165,-140,card,default card (no skip found),2026020149,0,1,0.606060606060606,0.7142857142857144
+20261020_1513,20261020,post-floor,Mackie Samoskevich,UNDER,1.5,130,146,skipped,Yinzer FINAL CALL 3:12,2026020149,2,0,-1.0,-1.0
+20261020_1548,20261020,post-floor,Shayne Gostisbehere,OVER,1.5,-145,-122,card,default card (no skip found),2026020150,0,0,-1.0,-1.0
+20261024_0922,20261024,post-floor,Jesper Bratt,OVER,1.5,-190,-159,card,default card (no skip found),2026020169,0,0,-1.0,-1.0
+20261024_0922,20261024,post-floor,Alex Laferriere,UNDER,2.5,-110,104,card,default card (no skip found),2026020169,0,1,0.9090909090909092,1.04
+20261024_1307,20261024,post-floor,Tyler Toffoli,OVER,1.5,-115,101,card,default card (no skip found),2026020170,3,1,0.8695652173913042,1.0099999999999998
+20261024_1307,20261024,post-floor,Tom Wilson,UNDER,2.5,-200,-166,card,default card (no skip found),2026020173,3,0,-1.0,-1.0
+20261024_1307,20261024,post-floor,Mattias Samuelsson,UNDER,1.5,-140,-119,skipped,room Oct 24 (Tester1/Yinzer),2026020173,1,1,0.7142857142857144,0.8403361344537816
+20261024_1307,20261024,post-floor,Sebastian Aho,OVER,2.5,100,116,card,default card (no skip found),2026020175,1,0,-1.0,-1.0
+20261024_1307,20261024,post-floor,Darren Raddysh,UNDER,2.5,-135,-117,skipped,room Oct 24 (Tester1/Yinzer),2026020176,0,1,0.7407407407407407,0.8547008547008548
+20261024_1512,20261024,post-floor,Barrett Hayton,UNDER,1.5,105,120,skipped,Yinzer FINAL CALL 3:12 NO BETS,2026020177,3,0,-1.0,-1.0
+20261024_1609,20261024,post-floor,Matt Coronato,UNDER,2.5,-140,-118,skipped,Yinzer FINAL CALL 4:09,2026020178,2,1,0.7142857142857144,0.847457627118644
+20261024_1609,20261024,post-floor,Emmitt Finnie,OVER,1.5,-105,109,card,default card (no skip found),2026020178,0,0,-1.0,-1.0
+20261024_1609,20261024,post-floor,Vince Dunn,UNDER,2.5,-190,-159,skipped,Yinzer FINAL CALL 4:09,2026020179,4,0,-1.0,-1.0
+20261025_0922,20261025,post-floor,Roman Kantserov,UNDER,1.5,100,115,skipped,room NO BETS cards Oct 25,2026020180,2,0,-1.0,-1.0
+20261025_1202,20261025,post-floor,Brayden Schenn,OVER,1.5,-105,109,skipped,room NO BETS cards Oct 25,2026020181,2,1,0.9523809523809523,1.0899999999999999
+20261025_1202,20261025,post-floor,Roope Hintz,UNDER,2.5,-185,-157,skipped,room NO BETS cards Oct 25,2026020181,2,1,0.5405405405405406,0.6369426751592355
+20261025_1202,20261025,post-floor,Miro Heiskanen,UNDER,1.5,130,145,skipped,room NO BETS cards Oct 25,2026020181,4,0,-1.0,-1.0
+20261025_1404,20261025,post-floor,Roman Josi,OVER,1.5,-195,-164,skipped,room NO BETS cards Oct 25,2026020183,4,1,0.5128205128205128,0.6097560975609757
+20261025_1404,20261025,post-floor,Sam Malinski,UNDER,1.5,-105,109,skipped,room NO BETS cards Oct 25,2026020183,0,1,0.9523809523809523,1.0899999999999999

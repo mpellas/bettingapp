@@ -1,0 +1,17 @@
+**NO BETS** this pass. NHL shots on goal, Wed Nov 4 1:00 PM window pass (fired 1:04, run 1:05 PM PT), DraftKings lines captured 1:02 PM PT. Two games in the window, both 4:30 PM PT (205 min out at run time): Ottawa at Buffalo and Chicago at Florida. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 31 lines.
+
+Fliff check: none. No side cleared every gate, so no Fliff price pull this pass.
+Closest misses:
+- Sam Reinhart (Florida) over 2.5 (Chicago at Florida), 6 of 7 agree (champion +5.3 pts, challenger +3.2, shrunk form +1.0, on PP1, Chicago allows 3% more to top-6 PP1 forwards, no-vig moved 4.8 pts toward the over), DK -115, shop-at -101. Last 5: 6, 2, 2, 4, 3. Skipped by the sheet: the over/under side couldn't be confirmed from the milestone prices, and no positive blended EV at DraftKings.
+- Claude Giroux (Ottawa) over 1.5 (Ottawa at Buffalo), champion +9.6 pts, 3 of 7 agree, DK +115. Skipped: DailyFaceoff has him demoted to 3rd line and PP2, which vetoes overs.
+- Carter Verhaeghe (Florida) over 2.5 (Chicago at Florida), 5 of 7 agree but champion only +3.6 pts, under the 5-point floor.
+No huge line moves count as signals; Anton Frondell's over moved 21.5 pts since open but he's skipped anyway (mixed role change).
+Correlation note: nothing qualified, so no stacking risk.
+Fliff credits: 0 this pass; 0 of 10 used today.
+
+Lineups: Buffalo (5:17 AM PT), Chicago (8:50 AM) and Florida (8:09 AM) DailyFaceoff lineups are fresh. Ottawa's is older than 12 hours (Nov 3 10:43 AM PT), so the last-game NHL.com fallback was used for its 8 players; none were skipped for staleness.
+Vetoes: 0 injury vetoes (injury re-pull clean), 4 demotions vetoing overs only (Giroux, Ottawa; Bertuzzi, Chicago; Luostarinen and Lundell, Florida), 2 promotions vetoing unders only (Zetterlund, Ottawa; Nazar, Chicago), 1 mixed change vetoing both sides (Frondell, Chicago), 1 slot veto on an over (Zellweger, Ottawa), 0 unverified gates.
+Spreadsheet: /workspace/nhl-sog/sheets/20261104_D_1305_picks.xlsx (colors only show in Excel or Google Sheets).
+Still to come today: San Jose at Los Angeles and Calgary at Seattle, 7:00 PM PT.

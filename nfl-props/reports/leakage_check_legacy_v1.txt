@@ -1,0 +1,11 @@
+== LEGACY v1 features (expected to FAIL) ==
+[FAIL] cutoff 2019-11-10: 29,840 rows checked (269 on the cutoff day itself), 1860 feature values changed; post-cutoff feature values changed by scramble: 2,886,649
+   offending columns: {'implied_tt': 269, 'wind': 269, 'temp': 269, 'total_line': 269, 'team_spread': 269, 'mkt_proj_rec_yds': 233, 'mkt_proj_rush_yds': 171, 'dome': 49, 'mkt_proj_pass_yds': 40, 'is_starting_qb': 22}
+[FAIL] cutoff 2022-09-11: 47,150 rows checked (349 on the cutoff day itself), 2427 feature values changed; post-cutoff feature values changed by scramble: 1,779,351
+   offending columns: {'implied_tt': 349, 'wind': 349, 'temp': 349, 'total_line': 349, 'team_spread': 349, 'mkt_proj_rec_yds': 284, 'mkt_proj_rush_yds': 214, 'dome': 101, 'mkt_proj_pass_yds': 55, 'is_starting_qb': 28}
+[FAIL] cutoff 2024-12-22: 67,057 rows checked (295 on the cutoff day itself), 2091 feature values changed; post-cutoff feature values changed by scramble: 500,706
+   offending columns: {'implied_tt': 295, 'wind': 295, 'temp': 295, 'total_line': 295, 'team_spread': 295, 'mkt_proj_rec_yds': 271, 'mkt_proj_rush_yds': 201, 'dome': 76, 'mkt_proj_pass_yds': 47, 'is_starting_qb': 21}
+[PASS] max |corr(feature, passing_yards)| = 0.926 (is_starting_qb)
+[PASS] max |corr(feature, rushing_yards)| = 0.763 (mkt_proj_rush_yds)
+[PASS] max |corr(feature, receiving_yards)| = 0.661 (p_receiving_yards_ewm6)
+OVERALL: FAIL

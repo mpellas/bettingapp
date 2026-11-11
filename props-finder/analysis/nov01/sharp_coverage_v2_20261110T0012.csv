@@ -1,0 +1,37 @@
+key,n_books,n_sharp,sharps
+"('17ad7eff2f7875e20a8109abe40470e3', 'josh allen', 'pass_yds', 231.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'carson wentz', 'pass_yds', 218.5)",4,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'justin jefferson', 'reception_yds', 79.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'dj moore', 'reception_yds', 48.5)",4,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'dalton kincaid', 'reception_yds', 40.5)",3,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'jordan addison', 'reception_yds', 40.5)",5,1,pinnacle
+"('17ad7eff2f7875e20a8109abe40470e3', 'khalil shakir', 'reception_yds', 39.5)",3,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 't j hockenson', 'reception_yds', 38.5)",3,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'keon coleman', 'reception_yds', 25.5)",5,1,pinnacle
+"('17ad7eff2f7875e20a8109abe40470e3', 'ty johnson', 'reception_yds', 14.5)",6,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'aaron jones', 'reception_yds', 9.5)",5,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'dawson knox', 'reception_yds', 9.5)",3,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'james cook', 'reception_yds', 7.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'ben yurosek', 'reception_yds', 4.5)",4,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'jordan mason', 'reception_yds', 0.5)",3,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'tai felton', 'reception_yds', 0.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'odell beckham', 'reception_yds', 0.5)",3,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'james cook', 'rush_yds', 87.5)",3,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'jordan mason', 'rush_yds', 47.5)",6,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'josh allen', 'rush_yds', 31.5)",4,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'aaron jones', 'rush_yds', 30.5)",4,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'carson wentz', 'rush_yds', 7.5)",7,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'ray davis', 'rush_yds', 4.5)",4,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'josh allen', 'pass_yds', 230.5)",3,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'carson wentz', 'pass_yds', 211.5)",2,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'dalton kincaid', 'reception_yds', 39.5)",3,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'james cook', 'reception_yds', 8.5)",5,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'dawson knox', 'reception_yds', 8.5)",4,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'justin jefferson', 'reception_yds', 77.5)",2,2,"fanduel,pinnacle"
+"('17ad7eff2f7875e20a8109abe40470e3', 'keon coleman', 'reception_yds', 24.5)",2,1,fanduel
+"('17ad7eff2f7875e20a8109abe40470e3', 'khalil shakir', 'reception_yds', 40.5)",3,1,pinnacle
+"('17ad7eff2f7875e20a8109abe40470e3', 't j hockenson', 'reception_yds', 39.5)",2,1,pinnacle
+"('17ad7eff2f7875e20a8109abe40470e3', 'aaron jones', 'reception_yds', 10.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'justin jefferson', 'reception_yds', 81.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'aaron jones', 'rush_yds', 29.5)",2,0,
+"('17ad7eff2f7875e20a8109abe40470e3', 'josh allen', 'rush_yds', 30.5)",3,1,pinnacle

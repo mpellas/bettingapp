@@ -1,0 +1,51 @@
+sides total 964 with >=1 other book 898 healthy 896
+EV>=2 sharp2=True model=False: 0 pass, 0 in band | band record -
+EV>=2 sharp2=True model=True: 0 pass, 0 in band | band record -
+EV>=2 sharp2=False model=False: 0 pass, 0 in band | band record -
+EV>=2 sharp2=False model=True: 0 pass, 0 in band | band record -
+EV>=0 sharp2=True model=False: 0 pass, 0 in band | band record -
+EV>=0 sharp2=True model=True: 0 pass, 0 in band | band record -
+EV>=0 sharp2=False model=False: 1 pass, 1 in band | band record 1-0-0 (0 ungraded/void), +0.88u
+EV>=0 sharp2=False model=True: 0 pass, 0 in band | band record -
+builder-method EV>=2 any: 0
+                                  game team       player    market  line   side        book  price  fair_excl  ev_excl  n_other_books    sharps  model_p gates actual result  units           pull
+343  Minnesota Vikings @ Detroit Lions  MIN  aaron jones  rush_yds  29.5  Under  draftkings   -114      0.541    1.517              3  pinnacle    0.208   EV0   22.0    win  0.877  20261101T1709
+
+per game (EV>=0 band passers):
+game
+Minnesota Vikings @ Detroit Lions    1-0-0 (0 ungraded/void), +0.88u
+
+model 55%+ band reference: 140 66-70-0 (4 ungraded/void), -13.29u
+game
+Arizona Cardinals @ Dallas Cowboys              7-0-0 (0 ungraded/void), +6.08u
+Atlanta Falcons @ Tampa Bay Buccaneers          9-4-0 (2 ungraded/void), +3.76u
+Baltimore Ravens @ Buffalo Bills                9-4-0 (0 ungraded/void), +3.77u
+Cleveland Browns @ Pittsburgh Steelers         10-5-0 (0 ungraded/void), +3.50u
+Indianapolis Colts @ Jacksonville Jaguars      3-10-0 (0 ungraded/void), -7.40u
+Kansas City Chiefs @ Denver Broncos             4-7-0 (0 ungraded/void), -3.56u
+Las Vegas Raiders @ New York Jets               1-7-0 (0 ungraded/void), -6.17u
+Los Angeles Chargers @ Los Angeles Rams         3-7-0 (0 ungraded/void), -4.41u
+Minnesota Vikings @ Detroit Lions               4-8-0 (0 ungraded/void), -4.60u
+New England Patriots @ Miami Dolphins           5-6-0 (0 ungraded/void), -1.65u
+Philadelphia Eagles @ Washington Commanders     7-5-0 (0 ungraded/void), +1.06u
+Tennessee Titans @ Cincinnati Bengals           4-7-0 (2 ungraded/void), -3.68u
+EV_excl quantiles {'count': 896.0, 'mean': -6.74, 'std': 1.97, 'min': -13.14, '25%': -8.33, '50%': -6.22, '75%': -5.36, 'max': 1.52}
+EV_all max -1.92
+             player         market   line   side        book  price  ev_excl  ev_all            sharps  model_p
+343     aaron jones       rush_yds   29.5  Under  draftkings   -114    1.517  -1.916          pinnacle    0.208
+346      jared goff       pass_yds  259.5  Under  draftkings   -113   -0.508  -5.355          pinnacle    0.000
+505  zonovan knight       rush_yds   19.5  Under  draftkings   -115   -0.799  -3.069               NaN      NaN
+237       ray davis       rush_yds    4.5  Under  draftkings   -104   -1.923  -1.923  fanduel,pinnacle      NaN
+852    kimani vidal  reception_yds    7.5  Under  draftkings   -104   -1.923  -1.923  fanduel,pinnacle      NaN
+void/ungraded:                                        game       player         market               result
+40    Tennessee Titans @ Cincinnati Bengals  mike carter       rush_yds  void(DNP/not found)
+62    Tennessee Titans @ Cincinnati Bengals  mike carter       rush_yds  void(DNP/not found)
+594  Atlanta Falcons @ Tampa Bay Buccaneers   cade otton  reception_yds  void(DNP/not found)
+596  Atlanta Falcons @ Tampa Bay Buccaneers   cade otton  reception_yds  void(DNP/not found)
+ledger 115 {'loss': 59, 'win': 54, 'void': 2} -12.29
+unmatched 0
+mismatch rows 2
+                                       file       player         market  line   side  price_led  price_me  actual_led  actual_me result_led            result_me
+26  nov01/shadow_modelled_20261101_1000.csv   cade otton  reception_yds  33.5  Under     -110.0      -110         NaN        NaN       void  void(DNP/not found)
+54  nov01/shadow_modelled_20261101_1000.csv  mike carter       rush_yds  12.5   Over     -108.0      -108         NaN        NaN       void  void(DNP/not found)
+best-book model set 113 54-57 -10.29

@@ -1,0 +1,54 @@
+{
+ "created_at_utc": "2026-10-18T10:19:20+00:00",
+ "created_at_pt": "2026-10-18T03:19:20-07:00",
+ "season": 2026,
+ "week": 6,
+ "champion_hash": "aa4d70b859",
+ "config_hash": "37b5a34d8c",
+ "code_version": "6ddb05f9",
+ "pregame_code_sha1": "40b08d1852",
+ "data_version": "582330ca",
+ "data_cutoff": "2026-10-15",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-10-08",
+ "lookback_games": 2,
+ "mode": "snapshot (D lines)",
+ "n_rows_built": 209,
+ "n_void_lines": 2,
+ "void_reasons": {
+  "no player row: player's last team (ARI) is not in this game": 1,
+  "no player row: player's last team (DAL) is not in this game": 1
+ },
+ "n_predictions": {
+  "pass_yds": 27,
+  "rush_yds": 85,
+  "rec_yds": 170
+ },
+ "d_lines_file": "data/lines/snap_2026_wk6_D.csv",
+ "d_lines_sha256": "60636b9571c7f7df6bf40c83c24ee565917e0b7de3d19ae42fce48101b524a7e",
+ "d_captured_at_utc": {
+  "401872995": "2026-10-15T21:03:39+00:00",
+  "401872996": "2026-10-18T10:18:34+00:00",
+  "401872997": "2026-10-18T10:18:34+00:00",
+  "401872998": "2026-10-18T10:18:34+00:00",
+  "401872999": "2026-10-18T10:18:34+00:00",
+  "401873000": "2026-10-18T10:18:34+00:00",
+  "401873001": "2026-10-18T10:18:34+00:00",
+  "401873002": "2026-10-18T10:18:34+00:00",
+  "401873003": "2026-10-18T10:18:34+00:00",
+  "401873004": "2026-10-18T10:18:34+00:00",
+  "401873005": "2026-10-18T10:18:34+00:00",
+  "401873006": "2026-10-18T10:18:34+00:00",
+  "401873007": "2026-10-18T10:18:34+00:00",
+  "401873008": "2026-10-18T10:18:34+00:00"
+ },
+ "n_with_line_D": 282,
+ "sha256_parquet": "ff07a8f1065cf95113093efee8f44cdc0bda28dffde3eb5b77d1112cb44261e0",
+ "sha256_csv": "81b5ada68d874e193b6fdc446d474d2203d37b4d70f98ddab7b63320aadd7d96",
+ "files": [
+  "data/predictions/2026_wk06/pregame_20261018T101920Z.parquet",
+  "data/predictions/2026_wk06/pregame_20261018T101920Z.csv"
+ ],
+ "void_report": "data/predictions/2026_wk06/pregame_20261018T101920Z_voids.csv",
+ "sha256_voids": "3457dcced57208302cc95c29cbebf049d006727215c5f6c6eb655329c9c9c842"
+}

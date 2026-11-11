@@ -1,0 +1,572 @@
+2026-10-04T15:04:59-07:00 supervisor pid 1148056 starting (stale threshold 1200s)
+2026-10-04T15:04:59-07:00 started worker pid 1148063
+2026-10-05T10:35:43-07:00 ALERT: no new log entry for 41423s (> 1200s); killing worker group 1148063 and restarting
+2026-10-05T10:35:45-07:00 started worker pid 1292440
+2026-10-05T13:52:08-07:00 supervisor stopping; killing worker group 1292440
+2026-10-05T13:52:11-07:00 another supervisor holds the lock; exiting
+2026-10-05T13:52:18-07:00 another supervisor holds the lock; exiting
+2026-10-05T13:52:42-07:00 supervisor pid 1354762 starting (stale threshold 1200s)
+2026-10-05T13:52:42-07:00 started worker pid 1354769
+2026-10-08T18:26:40-07:00 supervisor pid 563148 starting (stale threshold 1200s)
+2026-10-08T18:26:40-07:00 started worker pid 563155
+2026-10-08T18:30:38-07:00 supervisor stopping; killing worker group 563155
+2026-10-08T18:30:41-07:00 supervisor pid 565854 starting (stale threshold 1200s)
+2026-10-08T18:30:41-07:00 started worker pid 565861
+2026-10-09T04:55:04-07:00 ALERT: no new log entry for 20529s (> 1200s); killing worker group 565861 and restarting
+2026-10-09T04:55:06-07:00 started worker pid 646037
+2026-10-09T07:34:44-07:00 ALERT: no new log entry for 5949s (> 1200s); killing worker group 646037 and restarting
+2026-10-09T07:34:46-07:00 started worker pid 664857
+2026-10-09T12:13:40-07:00 ALERT: no new log entry for 5382s (> 1200s); killing worker group 664857 and restarting
+2026-10-09T12:13:42-07:00 started worker pid 718014
+2026-10-09T13:02:19-07:00 ALERT: no new log entry for 2917s (> 1200s); killing worker group 718014 and restarting
+2026-10-09T13:02:21-07:00 started worker pid 719495
+2026-10-09T14:58:47-07:00 ALERT: no new log entry for 6986s (> 1200s); killing worker group 719495 and restarting
+2026-10-09T14:58:49-07:00 started worker pid 723147
+2026-10-09T15:23:55-07:00 ALERT: no new log entry for 1506s (> 1200s); killing worker group 723147 and restarting
+2026-10-09T15:23:57-07:00 started worker pid 725412
+2026-10-09T17:01:00-07:00 ALERT: no new log entry for 5823s (> 1200s); killing worker group 725412 and restarting
+2026-10-09T17:01:02-07:00 started worker pid 727268
+2026-10-09T18:33:18-07:00 ALERT: no new log entry for 5536s (> 1200s); killing worker group 727268 and restarting
+2026-10-09T18:33:20-07:00 started worker pid 728770
+2026-10-10T04:55:11-07:00 ALERT: no new log entry for 37311s (> 1200s); killing worker group 728770 and restarting
+2026-10-10T04:55:13-07:00 started worker pid 731912
+2026-10-10T05:18:33-07:00 ALERT: no new log entry for 1400s (> 1200s); killing worker group 731912 and restarting
+2026-10-10T05:18:35-07:00 started worker pid 735312
+2026-10-10T07:12:01-07:00 ALERT: no new log entry for 5344s (> 1200s); killing worker group 735312 and restarting
+2026-10-10T07:12:03-07:00 started worker pid 755049
+2026-10-10T07:33:52-07:00 ALERT: no new log entry for 1309s (> 1200s); killing worker group 755049 and restarting
+2026-10-10T07:33:54-07:00 started worker pid 757564
+2026-10-10T08:21:35-07:00 ALERT: no new log entry for 2861s (> 1200s); killing worker group 757564 and restarting
+2026-10-10T08:21:37-07:00 started worker pid 760854
+2026-10-10T09:08:38-07:00 ALERT: no new log entry for 2217s (> 1200s); killing worker group 760854 and restarting
+2026-10-10T09:08:40-07:00 started worker pid 766908
+2026-10-10T10:42:18-07:00 ALERT: no new log entry for 5618s (> 1200s); killing worker group 766908 and restarting
+2026-10-10T10:42:20-07:00 started worker pid 770433
+2026-10-10T10:42:22-07:00 supervisor stopping; killing worker group 770433
+2026-10-10T10:42:26-07:00 another supervisor holds the lock; exiting
+2026-10-10T10:42:53-07:00 supervisor pid 770923 starting (stale threshold 1200s)
+2026-10-10T10:42:53-07:00 started worker pid 770930
+2026-10-10T11:24:10-07:00 ALERT: no new log entry for 2477s (> 1200s); killing worker group 770930 and restarting
+2026-10-10T11:24:12-07:00 started worker pid 782863
+2026-10-10T13:42:37-07:00 ALERT: no new log entry for 8305s (> 1200s); killing worker group 782863 and restarting
+2026-10-10T13:42:39-07:00 started worker pid 787035
+2026-10-10T14:03:17-07:00 ALERT: no new log entry for 1238s (> 1200s); killing worker group 787035 and restarting
+2026-10-10T14:03:19-07:00 started worker pid 792832
+2026-10-10T14:55:11-07:00 ALERT: no new log entry for 1232s (> 1200s); killing worker group 792832 and restarting
+2026-10-10T14:55:13-07:00 started worker pid 805800
+2026-10-10T17:59:55-07:00 ALERT: no new log entry for 11082s (> 1200s); killing worker group 805800 and restarting
+2026-10-10T17:59:57-07:00 started worker pid 807285
+2026-10-10T18:26:21-07:00 ALERT: no new log entry for 1584s (> 1200s); killing worker group 807285 and restarting
+2026-10-10T18:26:23-07:00 started worker pid 808841
+2026-10-10T19:12:41-07:00 ALERT: no new log entry for 2175s (> 1200s); killing worker group 808841 and restarting
+2026-10-10T19:12:43-07:00 started worker pid 814874
+2026-10-11T02:37:36-07:00 ALERT: no new log entry for 26693s (> 1200s); killing worker group 814874 and restarting
+2026-10-11T02:37:38-07:00 started worker pid 817413
+2026-10-11T03:25:03-07:00 ALERT: no new log entry for 2845s (> 1200s); killing worker group 817413 and restarting
+2026-10-11T03:25:05-07:00 started worker pid 819938
+2026-10-11T05:33:15-07:00 ALERT: no new log entry for 7690s (> 1200s); killing worker group 819938 and restarting
+2026-10-11T05:33:17-07:00 started worker pid 823006
+2026-10-11T06:07:18-07:00 ALERT: no new log entry for 1436s (> 1200s); killing worker group 823006 and restarting
+2026-10-11T06:07:20-07:00 started worker pid 831774
+2026-10-11T06:51:02-07:00 ALERT: no new log entry for 1215s (> 1200s); killing worker group 831774 and restarting
+2026-10-11T06:51:04-07:00 started worker pid 850441
+2026-10-11T07:55:56-07:00 ALERT: no new log entry for 2928s (> 1200s); killing worker group 850441 and restarting
+2026-10-11T07:55:58-07:00 started worker pid 868453
+2026-10-11T08:39:42-07:00 ALERT: no new log entry for 2624s (> 1200s); killing worker group 868453 and restarting
+2026-10-11T08:39:44-07:00 started worker pid 870870
+2026-10-11T11:15:43-07:00 ALERT: no new log entry for 4194s (> 1200s); killing worker group 870870 and restarting
+2026-10-11T11:15:45-07:00 started worker pid 899864
+2026-10-11T11:52:30-07:00 ALERT: no new log entry for 2205s (> 1200s); killing worker group 899864 and restarting
+2026-10-11T11:52:32-07:00 started worker pid 902137
+2026-10-11T12:23:17-07:00 ALERT: no new log entry for 1242s (> 1200s); killing worker group 902137 and restarting
+2026-10-11T12:23:19-07:00 started worker pid 912048
+2026-10-11T14:57:51-07:00 ALERT: no new log entry for 6858s (> 1200s); killing worker group 912048 and restarting
+2026-10-11T14:57:53-07:00 started worker pid 925552
+2026-10-11T15:19:12-07:00 ALERT: no new log entry for 1279s (> 1200s); killing worker group 925552 and restarting
+2026-10-11T15:19:14-07:00 started worker pid 928464
+2026-10-11T15:58:31-07:00 ALERT: no new log entry for 1754s (> 1200s); killing worker group 928464 and restarting
+2026-10-11T15:58:33-07:00 started worker pid 934668
+2026-10-11T16:37:20-07:00 ALERT: no new log entry for 1224s (> 1200s); killing worker group 934668 and restarting
+2026-10-11T16:37:22-07:00 started worker pid 942662
+2026-10-11T17:53:10-07:00 ALERT: no new log entry for 2016s (> 1200s); killing worker group 942662 and restarting
+2026-10-11T17:53:12-07:00 started worker pid 955516
+2026-10-11T18:29:32-07:00 ALERT: no new log entry for 2180s (> 1200s); killing worker group 955516 and restarting
+2026-10-11T18:29:34-07:00 started worker pid 957104
+2026-10-11T21:09:14-07:00 ALERT: no new log entry for 9580s (> 1200s); killing worker group 957104 and restarting
+2026-10-11T21:09:16-07:00 started worker pid 960058
+2026-10-11T21:52:30-07:00 ALERT: no new log entry for 2594s (> 1200s); killing worker group 960058 and restarting
+2026-10-11T21:52:32-07:00 started worker pid 962215
+2026-10-12T08:47:54-07:00 ALERT: no new log entry for 2980s (> 1200s); killing worker group 962215 and restarting
+2026-10-12T08:47:56-07:00 started worker pid 971359
+2026-10-12T11:13:57-07:00 ALERT: no new log entry for 3330s (> 1200s); killing worker group 971359 and restarting
+2026-10-12T11:13:59-07:00 started worker pid 1013026
+2026-10-12T12:09:21-07:00 ALERT: no new log entry for 2117s (> 1200s); killing worker group 1013026 and restarting
+2026-10-12T12:09:23-07:00 started worker pid 1021093
+2026-10-12T12:50:03-07:00 ALERT: no new log entry for 1837s (> 1200s); killing worker group 1021093 and restarting
+2026-10-12T12:50:05-07:00 started worker pid 1030881
+2026-10-12T13:36:20-07:00 ALERT: no new log entry for 2775s (> 1200s); killing worker group 1030881 and restarting
+2026-10-12T13:36:22-07:00 started worker pid 1034741
+2026-10-12T14:22:36-07:00 ALERT: no new log entry for 1665s (> 1200s); killing worker group 1034741 and restarting
+2026-10-12T14:22:38-07:00 started worker pid 1042524
+2026-10-12T15:04:56-07:00 ALERT: no new log entry for 1682s (> 1200s); killing worker group 1042524 and restarting
+2026-10-12T15:04:58-07:00 started worker pid 1051416
+2026-10-12T15:25:51-07:00 ALERT: no new log entry for 1253s (> 1200s); killing worker group 1051416 and restarting
+2026-10-12T15:25:53-07:00 started worker pid 1055648
+2026-10-12T16:05:03-07:00 ALERT: no new log entry for 2350s (> 1200s); killing worker group 1055648 and restarting
+2026-10-12T16:05:05-07:00 started worker pid 1056294
+2026-10-12T16:48:32-07:00 ALERT: no new log entry for 1445s (> 1200s); killing worker group 1056294 and restarting
+2026-10-12T16:48:34-07:00 started worker pid 1063485
+2026-10-12T18:31:08-07:00 ALERT: no new log entry for 4438s (> 1200s); killing worker group 1063485 and restarting
+2026-10-12T18:31:10-07:00 started worker pid 1077924
+2026-10-13T03:55:45-07:00 ALERT: no new log entry for 33875s (> 1200s); killing worker group 1077924 and restarting
+2026-10-13T03:55:47-07:00 started worker pid 1080818
+2026-10-13T08:01:34-07:00 ALERT: no new log entry for 14747s (> 1200s); killing worker group 1080818 and restarting
+2026-10-13T08:01:36-07:00 started worker pid 1083847
+2026-10-13T09:13:16-07:00 ALERT: no new log entry for 3412s (> 1200s); killing worker group 1083847 and restarting
+2026-10-13T09:13:18-07:00 started worker pid 1090927
+2026-10-13T09:34:16-07:00 ALERT: no new log entry for 1258s (> 1200s); killing worker group 1090927 and restarting
+2026-10-13T09:34:18-07:00 started worker pid 1098232
+2026-10-13T11:41:31-07:00 ALERT: no new log entry for 7633s (> 1200s); killing worker group 1098232 and restarting
+2026-10-13T11:41:33-07:00 started worker pid 1102580
+2026-10-13T12:03:44-07:00 ALERT: no new log entry for 1331s (> 1200s); killing worker group 1102580 and restarting
+2026-10-13T12:03:46-07:00 started worker pid 1104529
+2026-10-13T12:43:52-07:00 ALERT: no new log entry for 1748s (> 1200s); killing worker group 1104529 and restarting
+2026-10-13T12:43:54-07:00 started worker pid 1109736
+2026-10-13T13:30:36-07:00 ALERT: no new log entry for 2802s (> 1200s); killing worker group 1109736 and restarting
+2026-10-13T13:30:38-07:00 started worker pid 1112222
+2026-10-13T15:03:09-07:00 ALERT: no new log entry for 3947s (> 1200s); killing worker group 1112222 and restarting
+2026-10-13T15:03:11-07:00 started worker pid 1124476
+2026-10-13T17:08:49-07:00 ALERT: no new log entry for 5770s (> 1200s); killing worker group 1124476 and restarting
+2026-10-13T17:08:51-07:00 started worker pid 1142995
+2026-10-13T18:14:26-07:00 ALERT: no new log entry for 3935s (> 1200s); killing worker group 1142995 and restarting
+2026-10-13T18:14:28-07:00 started worker pid 1145906
+2026-10-13T19:26:32-07:00 ALERT: no new log entry for 4324s (> 1200s); killing worker group 1145906 and restarting
+2026-10-13T19:26:34-07:00 started worker pid 1148076
+2026-10-14T07:45:11-07:00 ALERT: no new log entry for 44317s (> 1200s); killing worker group 1148076 and restarting
+2026-10-14T07:45:13-07:00 started worker pid 1149955
+2026-10-14T08:16:17-07:00 ALERT: no new log entry for 1864s (> 1200s); killing worker group 1149955 and restarting
+2026-10-14T08:16:19-07:00 started worker pid 1156295
+2026-10-14T09:15:46-07:00 ALERT: no new log entry for 2961s (> 1200s); killing worker group 1156295 and restarting
+2026-10-14T09:15:48-07:00 started worker pid 1161937
+2026-10-14T10:06:11-07:00 ALERT: no new log entry for 1312s (> 1200s); killing worker group 1161937 and restarting
+2026-10-14T10:06:13-07:00 started worker pid 1173572
+2026-10-14T10:42:15-07:00 ALERT: no new log entry for 1557s (> 1200s); killing worker group 1173572 and restarting
+2026-10-14T10:42:17-07:00 started worker pid 1186581
+2026-10-14T11:44:35-07:00 ALERT: no new log entry for 3738s (> 1200s); killing worker group 1186581 and restarting
+2026-10-14T11:44:37-07:00 started worker pid 1188832
+2026-10-14T12:38:59-07:00 ALERT: no new log entry for 2528s (> 1200s); killing worker group 1188832 and restarting
+2026-10-14T12:39:01-07:00 started worker pid 1193283
+2026-10-14T13:37:28-07:00 ALERT: no new log entry for 3507s (> 1200s); killing worker group 1193283 and restarting
+2026-10-14T13:37:30-07:00 started worker pid 1194937
+2026-10-14T14:22:59-07:00 ALERT: no new log entry for 2729s (> 1200s); killing worker group 1194937 and restarting
+2026-10-14T14:23:01-07:00 started worker pid 1197012
+2026-10-14T15:14:38-07:00 ALERT: no new log entry for 1538s (> 1200s); killing worker group 1197012 and restarting
+2026-10-14T15:14:40-07:00 started worker pid 1209010
+2026-10-14T15:44:37-07:00 ALERT: no new log entry for 1797s (> 1200s); killing worker group 1209010 and restarting
+2026-10-14T15:44:39-07:00 started worker pid 1211266
+2026-10-14T16:21:30-07:00 ALERT: no new log entry for 1607s (> 1200s); killing worker group 1211266 and restarting
+2026-10-14T16:21:32-07:00 started worker pid 1217568
+2026-10-14T16:42:01-07:00 ALERT: no new log entry for 1229s (> 1200s); killing worker group 1217568 and restarting
+2026-10-14T16:42:03-07:00 started worker pid 1220155
+2026-10-14T17:43:46-07:00 ALERT: no new log entry for 2681s (> 1200s); killing worker group 1220155 and restarting
+2026-10-14T17:43:48-07:00 started worker pid 1224710
+2026-10-14T18:40:18-07:00 ALERT: no new log entry for 3390s (> 1200s); killing worker group 1224710 and restarting
+2026-10-14T18:40:20-07:00 started worker pid 1226649
+2026-10-14T19:01:16-07:00 ALERT: no new log entry for 1256s (> 1200s); killing worker group 1226649 and restarting
+2026-10-14T19:01:18-07:00 started worker pid 1229842
+2026-10-14T19:36:19-07:00 ALERT: no new log entry for 2101s (> 1200s); killing worker group 1229842 and restarting
+2026-10-14T19:36:21-07:00 started worker pid 1230641
+2026-10-14T20:10:36-07:00 ALERT: no new log entry for 2055s (> 1200s); killing worker group 1230641 and restarting
+2026-10-14T20:10:38-07:00 started worker pid 1232714
+2026-10-15T13:23:36-07:00 supervisor pid 89878 starting (stale threshold 1200s)
+2026-10-15T13:23:36-07:00 started worker pid 89885
+2026-10-15T13:43:41-07:00 ALERT: no new log entry for 1205s (> 1200s); killing worker group 89885 and restarting
+2026-10-15T13:43:43-07:00 started worker pid 93380
+2026-10-15T14:04:38-07:00 ALERT: no new log entry for 1255s (> 1200s); killing worker group 93380 and restarting
+2026-10-15T14:04:40-07:00 started worker pid 95088
+2026-10-15T14:38:46-07:00 ALERT: no new log entry for 2046s (> 1200s); killing worker group 95088 and restarting
+2026-10-15T14:38:48-07:00 started worker pid 99443
+2026-10-15T15:58:11-07:00 ALERT: no new log entry for 1293s (> 1200s); killing worker group 99443 and restarting
+2026-10-15T15:58:13-07:00 started worker pid 127399
+2026-10-15T20:14:40-07:00 ALERT: no new log entry for 2279s (> 1200s); killing worker group 127399 and restarting
+2026-10-15T20:14:42-07:00 started worker pid 205700
+2026-10-15T21:06:19-07:00 ALERT: no new log entry for 2194s (> 1200s); killing worker group 205700 and restarting
+2026-10-15T21:06:21-07:00 started worker pid 211732
+2026-10-15T23:37:19-07:00 ALERT: no new log entry for 8452s (> 1200s); killing worker group 211732 and restarting
+2026-10-15T23:37:21-07:00 started worker pid 217512
+2026-10-16T07:37:27-07:00 ALERT: no new log entry for 28806s (> 1200s); killing worker group 217512 and restarting
+2026-10-16T07:37:29-07:00 started worker pid 220860
+2026-10-16T08:18:13-07:00 ALERT: no new log entry for 2444s (> 1200s); killing worker group 220860 and restarting
+2026-10-16T08:18:15-07:00 started worker pid 229774
+2026-10-16T09:07:37-07:00 ALERT: no new log entry for 2962s (> 1200s); killing worker group 229774 and restarting
+2026-10-16T09:07:39-07:00 started worker pid 233122
+2026-10-16T10:41:57-07:00 ALERT: no new log entry for 3377s (> 1200s); killing worker group 233122 and restarting
+2026-10-16T10:41:59-07:00 started worker pid 255705
+2026-10-16T11:07:05-07:00 ALERT: no new log entry for 1506s (> 1200s); killing worker group 255705 and restarting
+2026-10-16T11:07:07-07:00 started worker pid 258224
+2026-10-16T11:33:59-07:00 ALERT: no new log entry for 1612s (> 1200s); killing worker group 258224 and restarting
+2026-10-16T11:34:01-07:00 started worker pid 264640
+2026-10-16T12:39:17-07:00 ALERT: no new log entry for 1461s (> 1200s); killing worker group 264640 and restarting
+2026-10-16T12:39:19-07:00 started worker pid 301246
+2026-10-16T13:36:56-07:00 ALERT: no new log entry for 2158s (> 1200s); killing worker group 301246 and restarting
+2026-10-16T13:36:58-07:00 started worker pid 320815
+2026-10-16T14:42:39-07:00 ALERT: no new log entry for 3941s (> 1200s); killing worker group 320815 and restarting
+2026-10-16T14:42:41-07:00 started worker pid 322757
+2026-10-16T15:03:32-07:00 ALERT: no new log entry for 1251s (> 1200s); killing worker group 322757 and restarting
+2026-10-16T15:03:34-07:00 started worker pid 329725
+2026-10-16T16:40:06-07:00 ALERT: no new log entry for 3051s (> 1200s); killing worker group 329725 and restarting
+2026-10-16T16:40:08-07:00 started worker pid 360056
+2026-10-16T19:07:14-07:00 ALERT: no new log entry for 1751s (> 1200s); killing worker group 360056 and restarting
+2026-10-16T19:07:16-07:00 started worker pid 396597
+2026-10-16T19:39:40-07:00 ALERT: no new log entry for 1944s (> 1200s); killing worker group 396597 and restarting
+2026-10-16T19:39:42-07:00 started worker pid 398670
+2026-10-16T20:12:29-07:00 ALERT: no new log entry for 1967s (> 1200s); killing worker group 398670 and restarting
+2026-10-16T20:12:31-07:00 started worker pid 402388
+2026-10-16T20:35:51-07:00 ALERT: no new log entry for 1400s (> 1200s); killing worker group 402388 and restarting
+2026-10-16T20:35:53-07:00 started worker pid 405163
+2026-10-16T20:39:39-07:00 supervisor pid 7880 starting (stale threshold 1200s)
+2026-10-16T20:39:39-07:00 started worker pid 7887
+2026-10-17T00:09:20-07:00 ALERT: no new log entry for 7137s (> 1200s); killing worker group 7887 and restarting
+2026-10-17T00:09:22-07:00 started worker pid 40813
+2026-10-17T04:17:44-07:00 ALERT: no new log entry for 14902s (> 1200s); killing worker group 40813 and restarting
+2026-10-17T04:17:46-07:00 started worker pid 43145
+2026-10-17T04:44:45-07:00 ALERT: no new log entry for 1619s (> 1200s); killing worker group 43145 and restarting
+2026-10-17T04:44:47-07:00 started worker pid 47106
+2026-10-17T05:08:25-07:00 ALERT: no new log entry for 1418s (> 1200s); killing worker group 47106 and restarting
+2026-10-17T05:08:27-07:00 started worker pid 49149
+2026-10-17T05:49:32-07:00 ALERT: no new log entry for 1860s (> 1200s); killing worker group 49149 and restarting
+2026-10-17T05:49:34-07:00 started worker pid 55894
+2026-10-17T07:24:03-07:00 ALERT: no new log entry for 3251s (> 1200s); killing worker group 55894 and restarting
+2026-10-17T07:24:05-07:00 started worker pid 82728
+2026-10-17T08:11:00-07:00 ALERT: no new log entry for 1254s (> 1200s); killing worker group 82728 and restarting
+2026-10-17T08:11:02-07:00 started worker pid 96235
+2026-10-17T09:08:58-07:00 ALERT: no new log entry for 2268s (> 1200s); killing worker group 96235 and restarting
+2026-10-17T09:09:00-07:00 started worker pid 115625
+2026-10-17T10:48:41-07:00 ALERT: no new log entry for 1928s (> 1200s); killing worker group 115625 and restarting
+2026-10-17T10:48:43-07:00 started worker pid 142743
+2026-10-17T11:26:38-07:00 ALERT: no new log entry for 2275s (> 1200s); killing worker group 142743 and restarting
+2026-10-17T11:26:40-07:00 started worker pid 144418
+2026-10-17T12:02:50-07:00 ALERT: no new log entry for 1244s (> 1200s); killing worker group 144418 and restarting
+2026-10-17T12:02:52-07:00 started worker pid 152798
+2026-10-17T12:50:39-07:00 ALERT: no new log entry for 1246s (> 1200s); killing worker group 152798 and restarting
+2026-10-17T12:50:41-07:00 started worker pid 164283
+2026-10-17T14:14:47-07:00 ALERT: no new log entry for 2048s (> 1200s); killing worker group 164283 and restarting
+2026-10-17T14:14:49-07:00 started worker pid 184893
+2026-10-18T02:43:51-07:00 supervisor pid 70001 starting (stale threshold 1200s)
+2026-10-18T02:43:51-07:00 started worker pid 70008
+2026-10-18T03:08:15-07:00 ALERT: no new log entry for 1464s (> 1200s); killing worker group 70008 and restarting
+2026-10-18T03:08:17-07:00 started worker pid 71690
+2026-10-18T03:18:31-07:00 supervisor pid 8054 starting (stale threshold 1200s)
+2026-10-18T03:18:31-07:00 started worker pid 8061
+2026-10-18T05:13:44-07:00 supervisor stopping; killing worker group 8061
+2026-10-18T05:13:47-07:00 another supervisor holds the lock; exiting
+2026-10-18T05:14:03-07:00 supervisor pid 17570 starting (stale threshold 1200s)
+2026-10-18T05:14:03-07:00 started worker pid 17577
+2026-10-18T05:37:00-07:00 ALERT: no new log entry for 1377s (> 1200s); killing worker group 17577 and restarting
+2026-10-18T05:37:02-07:00 started worker pid 19827
+2026-10-18T06:00:30-07:00 ALERT: no new log entry for 1408s (> 1200s); killing worker group 19827 and restarting
+2026-10-18T06:00:32-07:00 started worker pid 23560
+2026-10-18T07:21:36-07:00 ALERT: no new log entry for 1277s (> 1200s); killing worker group 23560 and restarting
+2026-10-18T07:21:38-07:00 started worker pid 41138
+2026-10-18T07:42:32-07:00 ALERT: no new log entry for 1254s (> 1200s); killing worker group 41138 and restarting
+2026-10-18T07:42:34-07:00 started worker pid 45014
+2026-10-18T08:17:37-07:00 ALERT: no new log entry for 1500s (> 1200s); killing worker group 45014 and restarting
+2026-10-18T08:17:39-07:00 started worker pid 52763
+2026-10-18T08:45:21-07:00 ALERT: no new log entry for 1662s (> 1200s); killing worker group 52763 and restarting
+2026-10-18T08:45:23-07:00 started worker pid 56524
+2026-10-18T09:07:05-07:00 ALERT: no new log entry for 1302s (> 1200s); killing worker group 56524 and restarting
+2026-10-18T09:07:07-07:00 started worker pid 58629
+2026-10-18T11:26:25-07:00 ALERT: no new log entry for 5048s (> 1200s); killing worker group 58629 and restarting
+2026-10-18T11:26:27-07:00 started worker pid 79393
+2026-10-18T14:41:07-07:00 ALERT: no new log entry for 2051s (> 1200s); killing worker group 79393 and restarting
+2026-10-18T14:41:09-07:00 started worker pid 122639
+2026-10-18T15:16:28-07:00 ALERT: no new log entry for 1517s (> 1200s); killing worker group 122639 and restarting
+2026-10-18T15:16:30-07:00 started worker pid 131534
+2026-10-18T17:39:30-07:00 ALERT: no new log entry for 1608s (> 1200s); killing worker group 131534 and restarting
+2026-10-18T17:39:32-07:00 started worker pid 163104
+2026-10-18T18:00:05-07:00 ALERT: no new log entry for 1233s (> 1200s); killing worker group 163104 and restarting
+2026-10-18T18:00:07-07:00 started worker pid 164820
+2026-10-18T18:29:08-07:00 ALERT: no new log entry for 1741s (> 1200s); killing worker group 164820 and restarting
+2026-10-18T18:29:10-07:00 started worker pid 167339
+2026-10-18T21:04:35-07:00 ALERT: no new log entry for 3779s (> 1200s); killing worker group 167339 and restarting
+2026-10-18T21:04:37-07:00 started worker pid 177800
+2026-10-19T07:46:05-07:00 ALERT: no new log entry for 35666s (> 1200s); killing worker group 177800 and restarting
+2026-10-19T07:46:07-07:00 started worker pid 183980
+2026-10-19T08:54:46-07:00 ALERT: no new log entry for 4119s (> 1200s); killing worker group 183980 and restarting
+2026-10-19T08:54:48-07:00 started worker pid 185663
+2026-10-19T09:33:57-07:00 ALERT: no new log entry for 2349s (> 1200s); killing worker group 185663 and restarting
+2026-10-19T09:33:59-07:00 started worker pid 190254
+2026-10-19T10:30:04-07:00 ALERT: no new log entry for 1434s (> 1200s); killing worker group 190254 and restarting
+2026-10-19T10:30:06-07:00 started worker pid 216842
+2026-10-19T11:17:53-07:00 ALERT: no new log entry for 2062s (> 1200s); killing worker group 216842 and restarting
+2026-10-19T11:17:55-07:00 started worker pid 220842
+2026-10-19T11:57:46-07:00 ALERT: no new log entry for 1742s (> 1200s); killing worker group 220842 and restarting
+2026-10-19T11:57:48-07:00 started worker pid 225935
+2026-10-19T12:24:46-07:00 ALERT: no new log entry for 1618s (> 1200s); killing worker group 225935 and restarting
+2026-10-19T12:24:48-07:00 started worker pid 228466
+2026-10-19T13:18:34-07:00 ALERT: no new log entry for 1238s (> 1200s); killing worker group 228466 and restarting
+2026-10-19T13:18:36-07:00 started worker pid 243184
+2026-10-19T13:51:39-07:00 ALERT: no new log entry for 1382s (> 1200s); killing worker group 243184 and restarting
+2026-10-19T13:51:41-07:00 started worker pid 251769
+2026-10-19T14:42:04-07:00 ALERT: no new log entry for 1217s (> 1200s); killing worker group 251769 and restarting
+2026-10-19T14:42:06-07:00 started worker pid 265017
+2026-10-19T18:28:37-07:00 ALERT: no new log entry for 1881s (> 1200s); killing worker group 265017 and restarting
+2026-10-19T18:28:39-07:00 started worker pid 349961
+2026-10-19T19:13:32-07:00 ALERT: no new log entry for 1558s (> 1200s); killing worker group 349961 and restarting
+2026-10-19T19:13:34-07:00 started worker pid 357195
+2026-10-19T19:33:56-07:00 ALERT: no new log entry for 1222s (> 1200s); killing worker group 357195 and restarting
+2026-10-19T19:33:58-07:00 started worker pid 360363
+2026-10-20T03:50:15-07:00 ALERT: no new log entry for 28821s (> 1200s); killing worker group 360363 and restarting
+2026-10-20T03:50:17-07:00 started worker pid 372075
+2026-10-20T07:10:12-07:00 ALERT: no new log entry for 11393s (> 1200s); killing worker group 372075 and restarting
+2026-10-20T07:10:14-07:00 started worker pid 377577
+2026-10-20T08:00:41-07:00 ALERT: no new log entry for 1223s (> 1200s); killing worker group 377577 and restarting
+2026-10-20T08:00:43-07:00 started worker pid 385153
+2026-10-20T08:30:17-07:00 ALERT: no new log entry for 1774s (> 1200s); killing worker group 385153 and restarting
+2026-10-20T08:30:19-07:00 started worker pid 390584
+2026-10-20T09:00:55-07:00 ALERT: no new log entry for 1232s (> 1200s); killing worker group 390584 and restarting
+2026-10-20T09:00:57-07:00 started worker pid 397177
+2026-10-20T09:32:33-07:00 ALERT: no new log entry for 1207s (> 1200s); killing worker group 397177 and restarting
+2026-10-20T09:32:35-07:00 started worker pid 408105
+2026-10-20T09:56:51-07:00 ALERT: no new log entry for 1456s (> 1200s); killing worker group 408105 and restarting
+2026-10-20T09:56:53-07:00 started worker pid 412495
+2026-10-20T10:56:16-07:00 ALERT: no new log entry for 1363s (> 1200s); killing worker group 412495 and restarting
+2026-10-20T10:56:18-07:00 started worker pid 424339
+2026-10-20T11:23:26-07:00 ALERT: no new log entry for 1628s (> 1200s); killing worker group 424339 and restarting
+2026-10-20T11:23:28-07:00 started worker pid 428719
+2026-10-20T11:59:12-07:00 ALERT: no new log entry for 1542s (> 1200s); killing worker group 428719 and restarting
+2026-10-20T11:59:14-07:00 started worker pid 435706
+2026-10-20T12:19:53-07:00 ALERT: no new log entry for 1239s (> 1200s); killing worker group 435706 and restarting
+2026-10-20T12:19:55-07:00 started worker pid 439294
+2026-10-20T12:42:32-07:00 ALERT: no new log entry for 1357s (> 1200s); killing worker group 439294 and restarting
+2026-10-20T12:42:34-07:00 started worker pid 442805
+2026-10-20T14:01:09-07:00 ALERT: no new log entry for 1990s (> 1200s); killing worker group 442805 and restarting
+2026-10-20T14:01:11-07:00 started worker pid 464086
+2026-10-20T14:32:48-07:00 ALERT: no new log entry for 1295s (> 1200s); killing worker group 464086 and restarting
+2026-10-20T14:32:50-07:00 started worker pid 480182
+2026-10-21T08:44:24-07:00 ALERT: no new log entry for 59763s (> 1200s); killing worker group 480182 and restarting
+2026-10-21T08:44:26-07:00 started worker pid 530088
+2026-10-21T11:03:02-07:00 ALERT: no new log entry for 8316s (> 1200s); killing worker group 530088 and restarting
+2026-10-21T11:03:04-07:00 started worker pid 532494
+2026-10-21T13:38:19-07:00 ALERT: no new log entry for 8712s (> 1200s); killing worker group 532494 and restarting
+2026-10-21T13:38:21-07:00 started worker pid 540705
+2026-10-22T09:28:07-07:00 ALERT: no new log entry for 71386s (> 1200s); killing worker group 540705 and restarting
+2026-10-22T09:28:09-07:00 started worker pid 544479
+2026-10-24T00:18:25-07:00 ALERT: no new log entry for 65571s (> 1200s); killing worker group 544479 and restarting
+2026-10-24T00:18:27-07:00 started worker pid 577295
+2026-10-25T02:40:55-07:00 supervisor pid 302016 starting (stale threshold 1200s)
+2026-10-25T02:40:55-07:00 started worker pid 302023
+2026-10-25T03:21:54-07:00 ALERT: no new log entry for 2459s (> 1200s); killing worker group 302023 and restarting
+2026-10-25T03:21:56-07:00 started worker pid 304346
+2026-10-25T05:17:18-07:00 ALERT: no new log entry for 6922s (> 1200s); killing worker group 304346 and restarting
+2026-10-25T05:17:20-07:00 started worker pid 307778
+2026-10-25T06:55:45-07:00 ALERT: no new log entry for 1230s (> 1200s); killing worker group 307778 and restarting
+2026-10-25T06:55:47-07:00 started worker pid 327682
+2026-10-25T07:16:33-07:00 ALERT: no new log entry for 1246s (> 1200s); killing worker group 327682 and restarting
+2026-10-25T07:16:35-07:00 started worker pid 329418
+2026-10-25T11:13:04-07:00 ALERT: no new log entry for 1253s (> 1200s); killing worker group 329418 and restarting
+2026-10-25T11:13:06-07:00 started worker pid 402272
+2026-10-25T14:02:19-07:00 ALERT: no new log entry for 1339s (> 1200s); killing worker group 402272 and restarting
+2026-10-25T14:02:21-07:00 started worker pid 461801
+2026-10-25T14:39:04-07:00 ALERT: no new log entry for 1590s (> 1200s); killing worker group 461801 and restarting
+2026-10-25T14:39:06-07:00 started worker pid 469923
+2026-10-25T19:38:05-07:00 ALERT: no new log entry for 1251s (> 1200s); killing worker group 469923 and restarting
+2026-10-25T19:38:07-07:00 started worker pid 572469
+2026-10-25T21:02:13-07:00 ALERT: no new log entry for 2995s (> 1200s); killing worker group 572469 and restarting
+2026-10-25T21:02:15-07:00 started worker pid 579767
+2026-10-25T21:53:16-07:00 ALERT: no new log entry for 1947s (> 1200s); killing worker group 579767 and restarting
+2026-10-25T21:53:18-07:00 started worker pid 585100
+2026-10-26T07:19:54-07:00 ALERT: no new log entry for 33996s (> 1200s); killing worker group 585100 and restarting
+2026-10-26T07:19:56-07:00 started worker pid 587579
+2026-10-26T18:55:04-07:00 ALERT: no new log entry for 1427s (> 1200s); killing worker group 587579 and restarting
+2026-10-26T18:55:06-07:00 started worker pid 796494
+2026-10-26T19:15:43-07:00 ALERT: no new log entry for 1237s (> 1200s); killing worker group 796494 and restarting
+2026-10-26T19:15:45-07:00 started worker pid 800258
+2026-10-26T19:40:08-07:00 ALERT: no new log entry for 1463s (> 1200s); killing worker group 800258 and restarting
+2026-10-26T19:40:10-07:00 started worker pid 803661
+2026-10-27T07:14:56-07:00 ALERT: no new log entry for 41084s (> 1200s); killing worker group 803661 and restarting
+2026-10-27T07:14:58-07:00 started worker pid 813035
+2026-10-27T09:01:19-07:00 ALERT: no new log entry for 1500s (> 1200s); killing worker group 813035 and restarting
+2026-10-27T09:01:21-07:00 started worker pid 831746
+2026-10-27T09:56:14-07:00 ALERT: no new log entry for 1232s (> 1200s); killing worker group 831746 and restarting
+2026-10-27T09:56:16-07:00 started worker pid 844702
+2026-10-27T10:18:47-07:00 ALERT: no new log entry for 1351s (> 1200s); killing worker group 844702 and restarting
+2026-10-27T10:18:49-07:00 started worker pid 848155
+2026-10-27T10:53:30-07:00 ALERT: no new log entry for 1329s (> 1200s); killing worker group 848155 and restarting
+2026-10-27T10:53:32-07:00 started worker pid 854970
+2026-10-27T11:14:33-07:00 ALERT: no new log entry for 1261s (> 1200s); killing worker group 854970 and restarting
+2026-10-27T11:14:35-07:00 started worker pid 857454
+2026-10-27T11:42:26-07:00 ALERT: no new log entry for 1671s (> 1200s); killing worker group 857454 and restarting
+2026-10-27T11:42:28-07:00 started worker pid 861656
+2026-10-27T13:08:02-07:00 ALERT: no new log entry for 1257s (> 1200s); killing worker group 861656 and restarting
+2026-10-27T13:08:04-07:00 started worker pid 882333
+2026-10-27T13:31:22-07:00 ALERT: no new log entry for 1398s (> 1200s); killing worker group 882333 and restarting
+2026-10-27T13:31:24-07:00 started worker pid 885739
+2026-10-28T00:47:07-07:00 ALERT: no new log entry for 16956s (> 1200s); killing worker group 885739 and restarting
+2026-10-28T00:47:09-07:00 started worker pid 1022225
+2026-10-28T07:22:15-07:00 ALERT: no new log entry for 23706s (> 1200s); killing worker group 1022225 and restarting
+2026-10-28T07:22:17-07:00 started worker pid 1024752
+2026-10-28T09:27:38-07:00 ALERT: no new log entry for 1225s (> 1200s); killing worker group 1024752 and restarting
+2026-10-28T09:27:40-07:00 started worker pid 1055137
+2026-10-28T11:57:52-07:00 ALERT: no new log entry for 1317s (> 1200s); killing worker group 1055137 and restarting
+2026-10-28T11:57:54-07:00 started worker pid 1080955
+2026-10-28T12:55:06-07:00 ALERT: no new log entry for 1225s (> 1200s); killing worker group 1080955 and restarting
+2026-10-28T12:55:08-07:00 started worker pid 1092636
+2026-10-28T13:38:39-07:00 ALERT: no new log entry for 1250s (> 1200s); killing worker group 1092636 and restarting
+2026-10-28T13:38:41-07:00 started worker pid 1107054
+2026-10-28T14:41:10-07:00 ALERT: no new log entry for 3749s (> 1200s); killing worker group 1107054 and restarting
+2026-10-28T14:41:12-07:00 started worker pid 1109220
+2026-10-28T15:02:14-07:00 ALERT: no new log entry for 1262s (> 1200s); killing worker group 1109220 and restarting
+2026-10-28T15:02:16-07:00 started worker pid 1111335
+2026-10-28T15:33:33-07:00 ALERT: no new log entry for 1232s (> 1200s); killing worker group 1111335 and restarting
+2026-10-28T15:33:35-07:00 started worker pid 1120590
+2026-11-01T02:45:00-08:00 supervisor pid 458165 starting (stale threshold 1200s)
+2026-11-01T02:45:00-08:00 started worker pid 458172
+2026-11-01T03:18:33-08:00 ALERT: no new log entry for 2013s (> 1200s); killing worker group 458172 and restarting
+2026-11-01T03:18:35-08:00 started worker pid 461452
+2026-11-01T05:15:12-08:00 ALERT: no new log entry for 6997s (> 1200s); killing worker group 461452 and restarting
+2026-11-01T05:15:14-08:00 started worker pid 466473
+2026-11-01T06:01:35-08:00 ALERT: no new log entry for 1270s (> 1200s); killing worker group 466473 and restarting
+2026-11-01T06:01:37-08:00 started worker pid 483282
+2026-11-01T06:44:07-08:00 ALERT: no new log entry for 1444s (> 1200s); killing worker group 483282 and restarting
+2026-11-01T06:44:09-08:00 started worker pid 491872
+2026-11-01T07:23:58-08:00 ALERT: no new log entry for 1612s (> 1200s); killing worker group 491872 and restarting
+2026-11-01T07:24:00-08:00 started worker pid 503325
+2026-11-01T10:40:50-08:00 ALERT: no new log entry for 1287s (> 1200s); killing worker group 503325 and restarting
+2026-11-01T10:40:52-08:00 started worker pid 581708
+2026-11-01T11:01:12-08:00 ALERT: no new log entry for 1220s (> 1200s); killing worker group 581708 and restarting
+2026-11-01T11:01:14-08:00 started worker pid 585328
+2026-11-01T15:39:50-08:00 ALERT: no new log entry for 1217s (> 1200s); killing worker group 585328 and restarting
+2026-11-01T15:39:52-08:00 started worker pid 700012
+2026-11-01T18:10:45-08:00 ALERT: no new log entry for 1244s (> 1200s); killing worker group 700012 and restarting
+2026-11-01T18:10:47-08:00 started worker pid 772749
+2026-11-01T18:41:40-08:00 ALERT: no new log entry for 1214s (> 1200s); killing worker group 772749 and restarting
+2026-11-01T18:41:42-08:00 started worker pid 781232
+2026-11-01T19:01:53-08:00 ALERT: no new log entry for 1211s (> 1200s); killing worker group 781232 and restarting
+2026-11-01T19:01:55-08:00 started worker pid 787034
+2026-11-01T19:47:08-08:00 ALERT: no new log entry for 1941s (> 1200s); killing worker group 787034 and restarting
+2026-11-01T19:47:10-08:00 started worker pid 796017
+2026-11-01T21:02:34-08:00 ALERT: no new log entry for 3692s (> 1200s); killing worker group 796017 and restarting
+2026-11-01T21:02:36-08:00 started worker pid 801424
+2026-11-01T21:57:14-08:00 ALERT: no new log entry for 2439s (> 1200s); killing worker group 801424 and restarting
+2026-11-01T21:57:16-08:00 started worker pid 807839
+2026-11-01T22:35:27-08:00 ALERT: no new log entry for 2291s (> 1200s); killing worker group 807839 and restarting
+2026-11-01T22:35:29-08:00 started worker pid 810896
+2026-11-01T23:38:37-08:00 ALERT: no new log entry for 3788s (> 1200s); killing worker group 810896 and restarting
+2026-11-01T23:38:39-08:00 started worker pid 813474
+2026-11-02T06:47:23-08:00 ALERT: no new log entry for 25724s (> 1200s); killing worker group 813474 and restarting
+2026-11-02T06:47:25-08:00 started worker pid 816900
+2026-11-02T10:58:22-08:00 ALERT: no new log entry for 1361s (> 1200s); killing worker group 816900 and restarting
+2026-11-02T10:58:24-08:00 started worker pid 911823
+2026-11-02T11:59:53-08:00 ALERT: no new log entry for 1239s (> 1200s); killing worker group 911823 and restarting
+2026-11-02T11:59:55-08:00 started worker pid 930957
+2026-11-02T14:07:40-08:00 ALERT: no new log entry for 1207s (> 1200s); killing worker group 930957 and restarting
+2026-11-02T14:07:42-08:00 started worker pid 968853
+2026-11-02T19:15:31-08:00 ALERT: no new log entry for 1257s (> 1200s); killing worker group 968853 and restarting
+2026-11-02T19:15:33-08:00 started worker pid 1096591
+2026-11-02T22:33:51-08:00 ALERT: no new log entry for 9365s (> 1200s); killing worker group 1096591 and restarting
+2026-11-02T22:33:53-08:00 started worker pid 1112803
+2026-11-02T23:40:30-08:00 ALERT: no new log entry for 3997s (> 1200s); killing worker group 1112803 and restarting
+2026-11-02T23:40:32-08:00 started worker pid 1115767
+2026-11-03T07:02:18-08:00 ALERT: no new log entry for 26506s (> 1200s); killing worker group 1115767 and restarting
+2026-11-03T07:02:20-08:00 started worker pid 1118343
+2026-11-03T09:00:28-08:00 ALERT: no new log entry for 1217s (> 1200s); killing worker group 1118343 and restarting
+2026-11-03T09:00:30-08:00 started worker pid 1167102
+2026-11-03T10:01:32-08:00 ALERT: no new log entry for 1782s (> 1200s); killing worker group 1167102 and restarting
+2026-11-03T10:01:34-08:00 started worker pid 1191380
+2026-11-03T10:58:42-08:00 ALERT: no new log entry for 1282s (> 1200s); killing worker group 1191380 and restarting
+2026-11-03T10:58:44-08:00 started worker pid 1207366
+2026-11-03T11:41:03-08:00 ALERT: no new log entry for 1217s (> 1200s); killing worker group 1207366 and restarting
+2026-11-03T11:41:05-08:00 started worker pid 1220586
+2026-11-03T12:01:17-08:00 ALERT: no new log entry for 1212s (> 1200s); killing worker group 1220586 and restarting
+2026-11-03T12:01:19-08:00 started worker pid 1223668
+2026-11-03T23:35:48-08:00 ALERT: no new log entry for 12807s (> 1200s); killing worker group 1223668 and restarting
+2026-11-03T23:35:50-08:00 started worker pid 1438241
+2026-11-04T07:03:23-08:00 ALERT: no new log entry for 26853s (> 1200s); killing worker group 1438241 and restarting
+2026-11-04T07:03:25-08:00 started worker pid 1440607
+2026-11-04T07:28:28-08:00 ALERT: no new log entry for 1503s (> 1200s); killing worker group 1440607 and restarting
+2026-11-04T07:28:30-08:00 started worker pid 1446611
+2026-11-04T08:01:11-08:00 ALERT: no new log entry for 1258s (> 1200s); killing worker group 1446611 and restarting
+2026-11-04T08:01:13-08:00 started worker pid 1457350
+2026-11-04T08:35:37-08:00 ALERT: no new log entry for 1454s (> 1200s); killing worker group 1457350 and restarting
+2026-11-04T08:35:39-08:00 started worker pid 1469409
+2026-11-04T08:58:25-08:00 ALERT: no new log entry for 1366s (> 1200s); killing worker group 1469409 and restarting
+2026-11-04T08:58:27-08:00 started worker pid 1473558
+2026-11-04T09:20:45-08:00 ALERT: no new log entry for 1338s (> 1200s); killing worker group 1473558 and restarting
+2026-11-04T09:20:47-08:00 started worker pid 1477445
+2026-11-04T10:08:24-08:00 ALERT: no new log entry for 1211s (> 1200s); killing worker group 1477445 and restarting
+2026-11-04T10:08:26-08:00 started worker pid 1491521
+2026-11-04T10:28:31-08:00 ALERT: no new log entry for 1205s (> 1200s); killing worker group 1491521 and restarting
+2026-11-04T10:28:33-08:00 started worker pid 1495101
+2026-11-04T10:48:38-08:00 ALERT: no new log entry for 1205s (> 1200s); killing worker group 1495101 and restarting
+2026-11-04T10:48:40-08:00 started worker pid 1500082
+2026-11-04T11:16:56-08:00 ALERT: no new log entry for 1696s (> 1200s); killing worker group 1500082 and restarting
+2026-11-04T11:16:58-08:00 started worker pid 1505452
+2026-11-04T11:54:47-08:00 ALERT: no new log entry for 1240s (> 1200s); killing worker group 1505452 and restarting
+2026-11-04T11:54:49-08:00 started worker pid 1515219
+2026-11-04T13:03:51-08:00 ALERT: no new log entry for 1232s (> 1200s); killing worker group 1515219 and restarting
+2026-11-04T13:03:53-08:00 started worker pid 1536651
+2026-11-04T19:38:54-08:00 ALERT: no new log entry for 1220s (> 1200s); killing worker group 1536651 and restarting
+2026-11-04T19:38:56-08:00 started worker pid 1705783
+2026-11-04T23:32:02-08:00 ALERT: no new log entry for 12720s (> 1200s); killing worker group 1705783 and restarting
+2026-11-04T23:32:04-08:00 started worker pid 1716823
+2026-11-05T05:15:29-08:00 ALERT: no new log entry for 19626s (> 1200s); killing worker group 1716823 and restarting
+2026-11-05T05:15:31-08:00 started worker pid 1724212
+2026-11-05T07:03:25-08:00 ALERT: no new log entry for 5847s (> 1200s); killing worker group 1724212 and restarting
+2026-11-05T07:03:27-08:00 started worker pid 1730083
+2026-11-05T11:20:31-08:00 ALERT: no new log entry for 1285s (> 1200s); killing worker group 1730083 and restarting
+2026-11-05T11:20:33-08:00 started worker pid 1801253
+2026-11-05T11:59:58-08:00 ALERT: no new log entry for 1248s (> 1200s); killing worker group 1801253 and restarting
+2026-11-05T12:00:00-08:00 started worker pid 1811821
+2026-11-05T18:14:15-08:00 ALERT: no new log entry for 19741s (> 1200s); killing worker group 1811821 and restarting
+2026-11-05T18:14:17-08:00 started worker pid 1838664
+2026-11-08T15:56:21-08:00 ALERT: no new log entry for 248217s (> 1200s); killing worker group 1838664 and restarting
+2026-11-08T15:56:23-08:00 started worker pid 1867906
+2026-11-08T16:58:01-08:00 supervisor pid 6006 starting (stale threshold 1200s)
+2026-11-08T16:58:01-08:00 started worker pid 6013
+2026-11-08T19:32:48-08:00 ALERT: no new log entry for 1255s (> 1200s); killing worker group 6013 and restarting
+2026-11-08T19:32:50-08:00 started worker pid 76008
+2026-11-08T21:05:35-08:00 ALERT: no new log entry for 3934s (> 1200s); killing worker group 76008 and restarting
+2026-11-08T21:05:37-08:00 started worker pid 88502
+2026-11-08T22:00:33-08:00 ALERT: no new log entry for 3296s (> 1200s); killing worker group 88502 and restarting
+2026-11-08T22:00:35-08:00 started worker pid 92300
+2026-11-08T22:34:31-08:00 ALERT: no new log entry for 1436s (> 1200s); killing worker group 92300 and restarting
+2026-11-08T22:34:33-08:00 started worker pid 100556
+2026-11-08T23:35:12-08:00 ALERT: no new log entry for 3638s (> 1200s); killing worker group 100556 and restarting
+2026-11-08T23:35:14-08:00 started worker pid 105308
+2026-11-09T07:06:53-08:00 ALERT: no new log entry for 27099s (> 1200s); killing worker group 105308 and restarting
+2026-11-09T07:06:55-08:00 started worker pid 110111
+2026-11-09T11:00:07-08:00 ALERT: no new log entry for 1259s (> 1200s); killing worker group 110111 and restarting
+2026-11-09T11:01:28-08:00 started worker pid 224970
+2026-11-09T11:22:59-08:00 ALERT: no new log entry for 1291s (> 1200s); killing worker group 224970 and restarting
+2026-11-09T11:23:01-08:00 started worker pid 229384
+2026-11-09T22:33:53-08:00 ALERT: no new log entry for 8386s (> 1200s); killing worker group 229384 and restarting
+2026-11-09T22:33:55-08:00 started worker pid 496748
+2026-11-09T23:33:52-08:00 ALERT: no new log entry for 3597s (> 1200s); killing worker group 496748 and restarting
+2026-11-09T23:33:54-08:00 started worker pid 501230
+2026-11-10T00:02:33-08:00 ALERT: no new log entry for 1719s (> 1200s); killing worker group 501230 and restarting
+2026-11-10T00:02:35-08:00 started worker pid 506563
+2026-11-10T07:03:27-08:00 ALERT: no new log entry for 25252s (> 1200s); killing worker group 506563 and restarting
+2026-11-10T07:03:29-08:00 started worker pid 511965
+2026-11-10T07:23:40-08:00 ALERT: no new log entry for 1211s (> 1200s); killing worker group 511965 and restarting
+2026-11-10T07:23:42-08:00 started worker pid 516978
+2026-11-10T10:02:21-08:00 ALERT: no new log entry for 1240s (> 1200s); killing worker group 516978 and restarting
+2026-11-10T10:02:23-08:00 started worker pid 573795
+2026-11-10T10:24:01-08:00 ALERT: no new log entry for 1298s (> 1200s); killing worker group 573795 and restarting
+2026-11-10T10:24:03-08:00 started worker pid 578084
+2026-11-10T11:13:22-08:00 ALERT: no new log entry for 1220s (> 1200s); killing worker group 578084 and restarting
+2026-11-10T11:13:24-08:00 started worker pid 586840
+2026-11-10T11:38:22-08:00 ALERT: no new log entry for 1498s (> 1200s); killing worker group 586840 and restarting
+2026-11-10T11:38:24-08:00 started worker pid 592722
+2026-11-10T12:02:16-08:00 ALERT: no new log entry for 1432s (> 1200s); killing worker group 592722 and restarting
+2026-11-10T12:02:18-08:00 started worker pid 596314
+2026-11-10T14:27:15-08:00 ALERT: no new log entry for 1452s (> 1200s); killing worker group 596314 and restarting
+2026-11-10T14:27:17-08:00 started worker pid 648505
+2026-11-10T17:26:43-08:00 ALERT: no new log entry for 1450s (> 1200s); killing worker group 648505 and restarting
+2026-11-10T17:26:45-08:00 started worker pid 735709
+2026-11-10T23:34:13-08:00 ALERT: no new log entry for 8286s (> 1200s); killing worker group 735709 and restarting
+2026-11-10T23:34:15-08:00 started worker pid 845908
+2026-11-11T00:01:27-08:00 ALERT: no new log entry for 1632s (> 1200s); killing worker group 845908 and restarting
+2026-11-11T00:01:29-08:00 started worker pid 850599
+2026-11-11T06:53:43-08:00 ALERT: no new log entry for 24734s (> 1200s); killing worker group 850599 and restarting
+2026-11-11T06:53:45-08:00 started worker pid 855300

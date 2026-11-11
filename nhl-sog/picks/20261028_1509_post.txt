@@ -1,0 +1,3 @@
+Fliff check: Sam Malinski UNDER 1.5 (DK -140, Fliff at -121 or better) - model +7.7 pts vs no-vig; recent +23.5 pts
+   last 5: 4 of 5 under 1.5 (shots 0,2,0,1,0); model 62.2%, recent form 77.9% (shot rate last 10 x TOI last 5)
+   evidence: Sam Malinski U1.5: agrees 4 of 7 (champion +7.7 pts; challenger +4.7 pts; shrunk form +3.1 pts; no-vig moved 4.5 pts toward side since open); nothing against

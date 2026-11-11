@@ -1,0 +1,4 @@
+Fliff check: Matthew Knies UNDER 1.5 (DK -120, Fliff at -106 or better) - model +11.8 pts vs no-vig; recent +16.2 pts
+   last 5: 5 of 5 under 1.5 (shots 1,0,0,1,1); model 62.8%, recent form 67.3% (shot rate last 10 x TOI last 5)
+   evidence: Matthew Knies U1.5: agrees 5 of 7 (champion +11.8 pts; challenger +10.2 pts; shrunk form +9.9 pts; opponent allows -5% to F_top6+PP1; no-vig moved 2.5 pts toward side since open); against: on PP1
+   with new tests: agrees 7 of 12 (new: under 1.5 hit 10 of 15 this season (67%), 7 of 10 last 10 (70%) vs no-vig 51%; shot attempts: att/60 last10 6.8 vs base 9.6 (-30%); SOG/att last10 0.57 vs base 0.59 (regression +2%)); new against: DK game total 6.5 (open); n/a: books

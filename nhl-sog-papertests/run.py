@@ -1,0 +1,148 @@
+"""PAPER ONLY paper-test pass. Never writes under /workspace/nhl-sog. Usage: python3 run.py [--now ISO] [--lo 30 --hi 45]
+For NHL games starting lo-hi min from now: re-pull DailyFaceoff vs the D-snapshot lineup (window pass baseline) ->
+lineup_repull_log.csv; Reddit public /new (team sub + r/hockey, past 3h) -> social_log.csv; flags lineup-changed sides with
+current DK price (latest capture in /workspace/nhl-sog/captures/*/archive) and the frozen side; scores challenger A ->
+challenger_picks.csv. Prints JSON summary (games, teams) last line for the X step."""
+import sys,os,re,json,glob,time,unicodedata,datetime as dt,requests,pandas as pd,numpy as np
+from scipy import stats
+HERE='/workspace/nhl-sog-papertests'; LIVE='/workspace/nhl-sog'; PT='America/Los_Angeles'
+UA={'User-Agent':'Mozilla/5.0 (paper-test research; yinzer bot; contact via reddit) python-requests'}
+a=sys.argv; NOW=pd.Timestamp(a[a.index('--now')+1]) if '--now' in a else pd.Timestamp.now(tz='UTC')
+if NOW.tzinfo is None: NOW=NOW.tz_localize('UTC')
+LO=float(a[a.index('--lo')+1]) if '--lo' in a else 30; HI=float(a[a.index('--hi')+1]) if '--hi' in a else 45
+norm=lambda s:re.sub(r'[^a-z]','',unicodedata.normalize('NFKD',s or '').encode('ascii','ignore').decode().lower())
+nowpt=NOW.tz_convert(PT); date=nowpt.strftime('%Y%m%d'); stamp=nowpt.strftime('%Y-%m-%d %H:%M:%S PT')
+OUTDIR=os.environ.get('PT_OUT',HERE)
+def app(f,rows):
+    if not rows: return
+    p=f'{OUTDIR}/{f}'; d=pd.DataFrame(rows)
+    if os.path.exists(p): d=d.reindex(columns=list(pd.read_csv(p,nrows=0).columns))  # match existing header order (fix 2026-11-03, Tester1)
+    d.to_csv(p,mode='a',header=not os.path.exists(p),index=False)
+games=[]
+for d in {nowpt.strftime('%Y-%m-%d'),(nowpt+pd.Timedelta(days=1)).strftime('%Y-%m-%d')}:
+    for g in requests.get(f'https://api-web.nhle.com/v1/score/{d}',timeout=30).json().get('games',[]):
+        m=(pd.Timestamp(g['startTimeUTC'])-NOW).total_seconds()/60
+        if LO<=m<=HI and g['gameState'] in ('FUT','PRE'): games.append((g,m))
+if not games: print(json.dumps({'games':[],'note':f'no games {LO:.0f}-{HI:.0f} min out at {stamp}'})); sys.exit(0)
+def dfo(team):
+    slug=re.sub(r'[^a-z0-9]+','-',unicodedata.normalize('NFKD',team).encode('ascii','ignore').decode().lower()).strip('-')
+    h=requests.get(f'https://www.dailyfaceoff.com/teams/{slug}/line-combinations',headers={'User-Agent':'Mozilla/5.0'},timeout=(10,20)).text
+    c=json.loads(re.search(r'__NEXT_DATA__" type="application/json">(.*?)</script>',h).group(1))['props']['pageProps']['combinations']
+    return {'updatedAt':c.get('updatedAt'),'players':c['players']}
+def idx(lu):
+    o={}
+    for p in lu.get('players',[]):
+        r=o.setdefault(norm(p['name']),{'name':p['name'],'ev':None,'pp':None,'inj':None,'gtd':False,'g_order':None})
+        if p.get('categoryIdentifier')=='ev': r['ev']=p.get('groupIdentifier')
+        if p.get('categoryIdentifier')=='pp': r['pp']=p.get('groupIdentifier')
+        if p.get('categoryIdentifier')=='oi' or p.get('injuryStatus'): r['inj']=p.get('injuryStatus') or p.get('groupIdentifier')
+        r['gtd']|=bool(p.get('gameTimeDecision'))
+    gs=[p['name'] for p in lu.get('players',[]) if p.get('groupIdentifier')=='g']
+    return o,(gs[0] if gs else None)
+P=pd.read_csv(f'{LIVE}/picks/{date}_D.csv',dtype={'over':str,'under':str}) if os.path.exists(f'{LIVE}/picks/{date}_D.csv') else pd.DataFrame()
+gates=sorted(glob.glob(f'{LIVE}/picks/{date}_D_*_GATE.csv')); G=pd.concat([pd.read_csv(f).assign(gate_file=os.path.basename(f)) for f in gates]) if gates else pd.DataFrame()
+def latest_price(event):
+    fs=sorted(glob.glob(f'{LIVE}/captures/*/archive/{event}_*.json'),key=os.path.getmtime)[::-1]
+    for f in fs:
+        d=json.load(open(f))
+        if d.get('sog_lines'): return d,os.path.basename(f)
+    return None,None
+RCACHE={}; T0=time.time(); RBUDGET=float(os.environ.get('REDDIT_BUDGET_S','90'))
+summary=[]; lu_rows=[]; soc=[]; chal=[]; flags=[]
+import lightgbm as lgb; sys.path.insert(0,HERE); from chal_common import *
+CM=lgb.Booster(model_file=f'{HERE}/models/chal_A.txt'); CMETA=json.load(open(f'{HERE}/models/chal_A.json')); FK=json.load(open(f'{LIVE}/models/model_c3ab760178.json'))['k']
+for g,mins in games:
+    gid=int(g['id']); home,away=g['homeTeam'],g['awayTeam']
+    snap=[f for f in glob.glob(f'{LIVE}/captures/*/*_D.json') if json.load(open(f)).get('start_utc','')[:16]==g['startTimeUTC'][:16] and home['name']['default'] in json.load(open(f)).get('home','')]
+    D=json.load(open(snap[0])) if snap else {}; event=D.get('event')
+    changed={}   # norm name -> list of change strings
+    for tname,base in D.get('lineups',{}).items():
+        try: live=dfo(tname)
+        except Exception as e: lu_rows.append(dict(run_pt=stamp,gameId=gid,team=tname,player='',change='dfo_fetch_error',detail=str(e)[:200])); continue
+        bi,bg=idx(base); li,lg=idx(live)
+        bev={k for k,v in bi.items() if v['ev'] and v['ev']!='g'}; lev={k for k,v in li.items() if v['ev'] and v['ev']!='g'}
+        rec=lambda pl,ch,det:(lu_rows.append(dict(run_pt=stamp,gameId=gid,team=tname,player=pl,change=ch,detail=det,base_updated=base.get('updatedAt'),live_updated=live.get('updatedAt'),mins_to_drop=round(mins,1))),changed.setdefault(norm(pl),[]).append(ch))
+        for k in bev-lev: rec(bi[k]['name'],'scratch_or_out',f"was {bi[k]['ev']}/{bi[k]['pp']}; now {li.get(k,{}).get('inj') or 'not in EV lineup'}")
+        for k in lev-bev: rec(li[k]['name'],'added_to_lineup',f"now {li[k]['ev']}/{li[k]['pp']}")
+        for k in bev&lev:
+            if bi[k]['ev']!=li[k]['ev']: rec(li[k]['name'],'line_change',f"{bi[k]['ev']}->{li[k]['ev']}")
+            if bi[k]['pp']!=li[k]['pp']: rec(li[k]['name'],'pp_change',f"{bi[k]['pp']}->{li[k]['pp']}")
+            if li[k]['gtd'] and not bi[k]['gtd']: rec(li[k]['name'],'now_gtd','')
+        if bg!=lg: rec(lg or '','goalie_change',f"{bg}->{lg}")
+        if not any(r['gameId']==gid and r['team']==tname for r in lu_rows):
+            lu_rows.append(dict(run_pt=stamp,gameId=gid,team=tname,player='',change='no_change',detail='',base_updated=base.get('updatedAt'),live_updated=live.get('updatedAt'),mins_to_drop=round(mins,1)))
+    # Reddit: team subs + r/hockey /new, past 3h
+    subs={'hockey'}; 
+    SUB={'BOS':'BostonBruins','VGK':'goldenknights','DET':'DetroitRedWings','FLA':'FloridaPanthers','COL':'ColoradoAvalanche','CHI':'hawks','CGY':'CalgaryFlames','SJS':'SanJoseSharks','UTA':'UtahHC','TOR':'leafs','WPG':'winnipegjets','MTL':'Habs','TBL':'TampaBayLightning','STL':'stlouisblues','NYR':'rangers','MIN':'wildhockey','PHI':'Flyers','PIT':'penguins','DAL':'DallasStars','WSH':'caps','CBJ':'BlueJackets','EDM':'EdmontonOilers','NJD':'devils','CAR':'canes','NSH':'Predators','ANA':'AnaheimDucks','VAN':'canucks','LAK':'losangeleskings','SEA':'SeattleKraken','OTT':'OttawaSenators','BUF':'sabres','NYI':'NewYorkIslanders'}
+    for t in (home['abbrev'],away['abbrev']):
+        if t in SUB: subs.add(SUB[t])
+    KW=re.compile(r'line|scratch|lineup|injur|out tonight|goalie|start|morning skate|game.?time|healthy|IR\b|recall|activated|pp1|power play',re.I)
+    names={norm(x['player']):x['player'] for _,x in P[P.gameId==gid].iterrows()} if len(P) else {}
+    for s in sorted(subs):
+        try:
+            if s not in RCACHE and time.time()-T0>RBUDGET: RCACHE[s]=None  # reddit time budget per run (fix 2026-11-03 3:30 PM, Yinzer: 429 backoff stalled run >7 min)
+            if s not in RCACHE:
+                for _try in range(3 if time.time()-T0<RBUDGET/2 else 1):  # back off on 429 using Retry-After (fix 2026-11-03, Tester1)
+                    RCACHE[s]=requests.get(f'https://www.reddit.com/r/{s}/new/.rss?limit=50',headers=UA,timeout=20); time.sleep(8)
+                    if RCACHE[s].status_code!=429: break
+                    try: _w=int(float(RCACHE[s].headers.get('Retry-After') or 30))
+                    except (TypeError,ValueError): _w=30
+                    time.sleep(min(_w,20))
+            r=RCACHE[s]
+            if r is None: continue
+            posts=[]
+            if r.status_code==200:
+                import xml.etree.ElementTree as ET; A='{http://www.w3.org/2005/Atom}'
+                for e in ET.fromstring(r.content).findall(A+'entry'):
+                    body=re.sub(r'<[^>]+>',' ',__import__('html').unescape(e.findtext(A+'content') or ''))
+                    posts.append(dict(title=e.findtext(A+'title') or '',selftext=re.sub(r'\s+',' ',body),author=(e.findtext(A+'author/'+A+'name') or '').replace('/u/',''),
+                                      link=e.find(A+'link').get('href') if e.find(A+'link') is not None else '',t=e.findtext(A+'published') or e.findtext(A+'updated')))
+            else: lu_rows.append(dict(run_pt=stamp,gameId=gid,team='',player='',change='reddit_http_'+str(r.status_code),detail=s))
+        except Exception as e: posts=[]; lu_rows.append(dict(run_pt=stamp,gameId=gid,team='',player='',change='reddit_error',detail=f'{s}: {str(e)[:120]}'))
+        for p in posts:
+            t=pd.Timestamp(p['t']).tz_convert('UTC')
+            if (NOW-t).total_seconds()>3*3600: continue
+            txt=(p['title']+' '+p['selftext'])[:600]
+            if not KW.search(txt): continue
+            if s=='hockey' and not re.search('|'.join([home['name']['default'],away['name']['default'],home['abbrev'],away['abbrev']]),txt,re.I): continue
+            named=[v for k,v in names.items() if k and len(v.split()[-1])>3 and norm(v.split()[-1]) in norm(txt)]
+            soc.append(dict(run_pt=stamp,gameId=gid,source='reddit',author=p['author'],time_pt=t.tz_convert(PT).strftime('%Y-%m-%d %H:%M')+' PT',url=p['link'],text=txt.replace('\n',' '),players_named='; '.join(named),dfo_reflected=''))
+    # challenger + flags on the D-snapshot lines (frozen inputs) with current price
+    rowsP=P[P.gameId==gid] if len(P) else P
+    cur,curf=latest_price(event) if event else (None,None)
+    curl={(int(x['nhl_id']) if x.get('nhl_id') else None,float(x['line'])):x for x in (cur or {}).get('sog_lines',[])}
+    if len(rowsP):
+        os.chdir(LIVE); hist=load(); hist=hist[hist.gameDate<nowpt.strftime('%Y-%m-%d')]; os.chdir(HERE)
+        syn=[]
+        for _,r in rowsP.iterrows():
+            last=hist[hist.playerId==r.nhl_id].tail(1)
+            if last.empty: continue
+            team=home['abbrev'] if r.get('home',None)==1 else None
+            gr=G[(G.nhl_id==r.nhl_id)&(G.gameId==gid)] if len(G) else G
+            tn=gr.team_dfo.iloc[-1] if len(gr) and isinstance(gr.team_dfo.iloc[-1],str) else None
+            team=home['abbrev'] if tn and home['name']['default'] in tn else away['abbrev'] if tn and away['name']['default'] in tn else last.teamAbbrev.iloc[0]
+            if team not in (home['abbrev'],away['abbrev']): continue
+            h1=int(team==home['abbrev'])
+            syn.append(dict(playerId=int(r.nhl_id),gameId=gid,gameDate=nowpt.strftime('%Y-%m-%d'),date=pd.Timestamp(nowpt.strftime('%Y-%m-%d')),teamAbbrev=team,opponentTeamAbbrev=away['abbrev'] if h1 else home['abbrev'],home=h1,homeRoad='H' if h1 else 'R',D=int(last.D.iloc[0]),positionCode=last.positionCode.iloc[0],season=2026))
+        S=pd.DataFrame(syn).drop_duplicates('playerId')
+        X=add_pos(feats(pd.concat([hist,S],ignore_index=True))); X=X[(X.gameId==gid)&X.shots.isna()].set_index('playerId')
+        for _,r in rowsP.iterrows():
+            pid=int(r.nhl_id)
+            if pid not in X.index: continue
+            mu=float(CM.predict(X.loc[[pid],CMETA['features']])[0]); k=CMETA['k']
+            pc=1-stats.nbinom.cdf(np.floor(r.line),k,k/(k+mu))
+            c=curl.get((pid,float(r.line))); o,u=(str(c['over']),str(c['under'])) if c else (r.over,r.under)
+            po,pu=[(-float(x)/(-float(x)+100) if float(x)<0 else 100/(float(x)+100)) for x in (o,u)]; nv=po/(po+pu)
+            frozen_side='OVER' if r.p_model_over>r.nv_over else 'UNDER'
+            for side,edge,price in (('OVER',pc-nv,o),('UNDER',(1-pc)-(1-nv),u)):
+                inband=-150<=float(price)<=110
+                if edge>=0.05 and inband:
+                    chal.append(dict(logged_pt=stamp,mins_to_drop=round(mins,1),date=date,gameId=gid,game=r.game,player=r.player,nhl_id=pid,line=r.line,side=side,dk_price=price,price_src=curf or 'D_snapshot',nv_over_now=round(nv,4),p_chal_over=round(pc,4),mu_chal=round(mu,3),edge_pts=round(edge*100,1),p_frozen_over=round(r.p_model_over,4),frozen_side=frozen_side,live_pick=r.get('pick','') if isinstance(r.get('pick',''),str) else '',opp_sa_pos_r20=round(float(X.loc[pid,'opp_sa_pos_r20']),2)))
+            ch=changed.get(norm(r.player))
+            if ch:
+                fs=frozen_side; price=o if fs=='OVER' else u
+                flags.append(dict(logged_pt=stamp,date=date,gameId=gid,game=r.game,player=r.player,nhl_id=pid,line=r.line,dk_over=o,dk_under=u,price_src=curf or 'D_snapshot',frozen_side=fs,frozen_price=price,in_band=-150<=float(price)<=110,changes='|'.join(ch),sources='dailyfaceoff'))
+    summary.append(dict(gameId=gid,game=f"{away['abbrev']} @ {home['abbrev']}",away=away['name']['default'],home=home['name']['default'],mins=round(mins,1),event=event,changes=sum(1 for r in lu_rows if r['gameId']==gid and r['change'] in ('scratch_or_out','added_to_lineup','line_change','pp_change','now_gtd','goalie_change')),reddit_posts=sum(1 for r in soc if r['gameId']==gid)))
+app('lineup_repull_log.csv',lu_rows); app('social_log.csv',soc); app('challenger_picks.csv',chal); app('lineup_changed_sides.csv',flags)
+print(pd.DataFrame(lu_rows).to_string() if lu_rows else 'no lineup rows'); print(pd.DataFrame(chal).to_string() if chal else 'no challenger picks'); print(pd.DataFrame(soc)[['source','author','time_pt','text']].to_string() if soc else 'no reddit posts')
+print(json.dumps({'games':summary,'run_pt':stamp,'chal_picks':len(chal),'flags':len(flags)}))

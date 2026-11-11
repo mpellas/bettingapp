@@ -1,0 +1,34 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots window pass 1:03 PM PT for the five 4:00 PM PT games: Sharks at Canadiens, Avalanche at Devils, Ducks at Islanders, Kings at Capitals, Maple Leafs at Blue Jackets.
+
+DraftKings list: nothing qualifies. None of the 81 lines has a side with positive blended EV at DraftKings.
+
+Fliff check (5), all puck drop 4:00 PM PT. Fliff hasn't posted shots markets for any of these games yet, so none is offered on Fliff right now:
+1. Tony DeAngelo (NYI, D) UNDER 1.5 shots on goal, Anaheim Ducks at New York Islanders. DK -130, Fliff at -112 or better. PrizePicks: none.
+   Model +8.7 pts vs no-vig; recent form +8.7 pts.
+   Role: history D, today d3/pp2 (no change); TOI last 5 15.5 min vs 19.4 over the last 30, PP TOI last 5 0.8 vs 1.4; opponent allows -1% to D (Ducks allow 25.7 shots per game over the last 20).
+   Evidence: agrees 5 of 7 (champion +8.7; challenger +7.2; shrunk form +0.5; TOI down; no-vig moved 3.9 pts toward side since open). Nothing against.
+   Caution: Islanders lineup data is from 7:42 AM PT yesterday (about 29 hours old).
+2. Jackson LaCombe (ANA, D) UNDER 1.5 shots on goal, Anaheim Ducks at New York Islanders. DK -125, Fliff at -108 or better. PrizePicks: none.
+   Model +10.6 pts vs no-vig; recent form +8.1 pts.
+   Role: history D+PP1, today d1/pp1 (no change); TOI last 5 23.8 min vs 24.2 over the last 30, PP TOI last 5 4.1 vs 3.4; opponent neutral to D (Islanders allow 25.5 shots per game).
+   Evidence: agrees 4 of 7 (champion +10.6; challenger +10.5; shrunk form +6.7; TOI down 2.0 min vs this season). Against: on PP1, and no-vig moved 4.3 pts away from side since open.
+3. Aliaksei Protas (WSH, F) UNDER 1.5 shots on goal, Los Angeles Kings at Washington Capitals. DK -125, Fliff at -110 or better. PrizePicks: none.
+   Model +9.2 pts vs no-vig; recent form +18.9 pts.
+   Role: history F_top6, today f2/no PP (no change); TOI last 5 16.1 min vs 17.4 over the last 30, PP TOI last 5 0.0 vs 0.2; opponent allows +1% to F_top6 (Kings allow 26.8 shots per game).
+   Evidence: agrees 4 of 7 (champion +9.2; challenger +6.2; shrunk form +3.8; no-vig moved 4.5 pts toward side since open). Nothing against.
+4. Morgan Rielly (TOR, D) UNDER 1.5 shots on goal, Toronto Maple Leafs at Columbus Blue Jackets. DK -145, Fliff at -123 or better. PrizePicks: Power 3, Flex 4, Flex 5, Flex 6.
+   Model +8.5 pts vs no-vig; recent form +6.6 pts.
+   Role: history D, today d2/pp2 (no change); TOI last 5 18.5 min vs 19.8 over the last 30, PP TOI last 5 0.9 vs 1.7; opponent allows +6% to D (Blue Jackets allow 27.5 shots per game).
+   Evidence: agrees 4 of 7 (champion +8.5; challenger +9.0; shrunk form +4.3; TOI down). Against: opponent allows +6% to D, and no-vig moved 4.6 pts away from side since open.
+5. Kirill Marchenko (TOR, F) UNDER 2.5 shots on goal, Toronto Maple Leafs at Columbus Blue Jackets. DK -105, Fliff at +108 or better. PrizePicks: none.
+   Model +11.0 pts vs no-vig; recent form +5.3 pts.
+   Role: history F_top6+PP1, today f2/pp1 (no change); TOI last 5 17.7 min vs 19.3 over the last 30, PP TOI last 5 4.2 vs 3.7; opponent allows +3% to F_top6+PP1 (Blue Jackets allow 27.5 shots per game).
+   Evidence: agrees 4 of 7 (champion +11.0; challenger +8.6; shrunk form +9.4; TOI down). Against: opponent allows +3%, on PP1, and no-vig moved 2.9 pts away from side since open.
+   (Team checked against the NHL API: Marchenko is on Toronto now.)
+Correlation: DeAngelo and LaCombe are both unders in the same game (a low-event game hurts or helps both), and Rielly and Marchenko are both Toronto unders in the same game. Treat each pair as one bet's worth of exposure.
+
+Lineup data for ANA, WSH and TOR is from this morning (7:08 to 9:20 AM PT), under 12 hours old. 13 more sides passed every check but fell outside the top 5 by edge; they're in the sheet as Skipped. Role changes flagged in these games touch no listed pick.
+Spreadsheet: /workspace/nhl-sog/sheets/20261020_D_1305_picks.xlsx
+Fliff credits today: 3 of 10 used.

@@ -1,0 +1,95 @@
+**NO BETS** this pass. NHL shots on goal, Thu Nov 5 12:30 PM window pass (fired 12:39, run 12:39 PM PT), DraftKings lines from the D snapshots in captures/20261106. Eight games in the window, all 4:00 PM PT (about 200 min out at run time): Utah at Montreal, Philadelphia at NY Rangers, Dallas at Columbus, Boston at Pittsburgh, Carolina at NY Islanders, Chicago at Tampa Bay, St. Louis at New Jersey, and Vegas at Detroit. No earlier pass today had scored them. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 125 lines.
+
+Fliff check (5 sides cleared every gate except price; Fliff hasn't posted shots markets for these games yet and DK is worse than shop-at on all, so none qualify):
+- Lane Hutson (Montreal) under 1.5 (Utah at Montreal), 6 of 7 agree, champion +9.7 pts. DK -120, Fliff shop-at -106.
+- Zack Bolduc (Montreal) under 1.5 (Utah at Montreal), 4 of 7 agree, champion +9.3 pts. DK -140, Fliff shop-at -121.
+- Oliver Bonk (Philadelphia) under 1.5 (Philadelphia at NY Rangers), 5 of 7 agree, champion +9.9 pts. DK -165 (outside the −150 band), Fliff shop-at -139.
+- Matthew Knies (Columbus) under 1.5 (Dallas at Columbus), 5 of 7 agree, champion +11.2 pts. DK -125, Fliff shop-at -108.
+- Thomas Harley (Dallas) under 1.5 (Dallas at Columbus), 3 of 7 agree, champion +11.2 pts. DK +115, Fliff shop-at +130. Its 8.4-pt no-vig move went away from the side, so it isn't counted as a signal.
+The 1-hour-before-puck Fliff re-pull will check these again.
+Correlation note: Hutson and Bolduc are both Canadiens unders in the same game, and Knies and Harley are both unders in Dallas at Columbus, so each pair would move together if they ever qualified.
+Fliff credits: 3 this pass (1 per game: Utah at Montreal, Philadelphia at NY Rangers, Dallas at Columbus); 3 of 10 used today.
+
+Majority of tests (4 or more of 7 agreed; 67 sides, none on the card). The strongest were the 6-of-7 sides: Clayton Keller (Utah) over 2.5, Lane Hutson (Montreal) under 1.5, Porter Martone (Philadelphia) over 1.5, and Moritz Seider (Detroit) over 1.5. Full list by game:
+Boston at Pittsburgh:
+- Rickard Rakell (Pittsburgh) over 2.5, 5 of 7, DK -110. Thin edge (one model under 1 pt vs market).
+- David Pastrnak (Boston) over 3.5, 5 of 7, DK +100. Thin edge (one model under 1 pt vs market).
+- Pavel Zacha (Boston) over 1.5, 5 of 7, DK -120. Thin edge (one model under 1 pt vs market).
+- Egor Chinakhov (Pittsburgh) over 1.5, 5 of 7, DK -175. Recent form doesn't beat the market; no positive expected value at DK; DK -175 is outside the −150 band.
+- Sidney Crosby (Pittsburgh) over 2.5, 4 of 7, DK +140. Recent form doesn't beat the market; no positive expected value at DK.
+- Evgeni Malkin (Pittsburgh) over 1.5, 4 of 7, DK -150. Recent form doesn't beat the market; no positive expected value at DK.
+- Erik Karlsson (Pittsburgh) over 2.5, 4 of 7, DK +140. Recent form doesn't beat the market; no positive expected value at DK.
+- Elias Lindholm (Boston) over 1.5, 4 of 7, DK -135. Demotion vetoes the over; no positive expected value at DK.
+- Tommy Novak (Pittsburgh) over 1.5, 4 of 7, DK -160. Champion not above the market; no positive expected value at DK; DK -160 is outside the −150 band.
+- Charlie McAvoy (Boston) under 1.5, 4 of 7, DK +110. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Nick Robertson (team not in lineup feed) over 1.5, 4 of 7, DK +100. Champion not above the market; no positive expected value at DK.
+- Ben Kindel (Pittsburgh) under 2.5, 4 of 7, DK -190. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -190 is outside the −150 band.
+Carolina at NY Islanders:
+- Sebastian Aho (Carolina) over 2.5, 5 of 7, DK +100. Recent form doesn't beat the market; no positive expected value at DK.
+- Matthew Schaefer (NY Islanders) over 2.5, 5 of 7, DK -110. Slot veto; no positive expected value at DK.
+- Brayden Schenn (NY Islanders) over 1.5, 4 of 7, DK +125. Slot veto; no positive expected value at DK.
+- Emil Heineman (NY Islanders) under 1.5, 4 of 7, DK -155. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -155 is outside the −150 band.
+Chicago at Tampa Bay:
+- Jake Guentzel (Tampa Bay) over 2.5, 5 of 7, DK -150. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Frank Nazar (Chicago) over 1.5, 5 of 7, DK -120. Slot veto; no positive expected value at DK.
+- Connor Bedard (Chicago) over 2.5, 5 of 7, DK -115. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Roman Kantserov (Chicago) under 1.5, 5 of 7, DK -110. Recent form doesn't beat the market; no positive expected value at DK.
+- Tyler Bertuzzi (Chicago) under 1.5, 4 of 7, DK -190. Edge +2.5 pts, under the 5-pt floor; DK -190 is outside the −150 band.
+- Brayden Point (Tampa Bay) over 2.5, 4 of 7, DK +110. Recent form doesn't beat the market; no positive expected value at DK.
+- Anthony Cirelli (Tampa Bay) over 1.5, 4 of 7, DK -165. Champion not above the market; no positive expected value at DK; DK -165 is outside the −150 band.
+- Charle-Edouard D'Astous (Tampa Bay) under 1.5, 4 of 7, DK -125. Recent form doesn't beat the market; no positive expected value at DK.
+- Anton Frondell (Chicago) over 1.5, 4 of 7, DK -150. Demotion vetoes the over; no positive expected value at DK.
+Dallas at Columbus:
+- Matthew Knies (Columbus) under 1.5, 5 of 7, DK -125. Fliff check above (not on Fliff yet; DK worse than shop-at).
+- Roope Hintz (Dallas) over 1.5, 4 of 7, DK -155. Recent form doesn't beat the market; no positive expected value at DK; DK -155 is outside the −150 band.
+- Kent Johnson (Columbus) under 1.5, 4 of 7, DK +100. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Wyatt Johnston (Dallas) under 2.5, 4 of 7, DK -155. Recent form doesn't beat the market; no positive expected value at DK; DK -155 is outside the −150 band.
+Philadelphia at NY Rangers:
+- Porter Martone (Philadelphia) over 1.5, 6 of 7, DK -105. Cleared the gates but was outside the top 5 by edge.
+- Vladislav Gavrikov (NY Rangers) under 1.5, 5 of 7, DK -160. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -160 is outside the −150 band.
+- Trevor Zegras (Philadelphia) over 1.5, 5 of 7, DK -140. Edge +3.2 pts, under the 5-pt floor.
+- Matvei Michkov (Philadelphia) over 1.5, 5 of 7, DK -150. Demotion vetoes the over; no positive expected value at DK.
+- Oliver Bonk (Philadelphia) under 1.5, 5 of 7, DK -165. Fliff check above (not on Fliff yet; DK worse than shop-at); DK -165 is outside the −150 band.
+- Mika Zibanejad (NY Rangers) over 2.5, 4 of 7, DK +130. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Adam Fox (NY Rangers) over 1.5, 4 of 7, DK -105. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Jamie Drysdale (Philadelphia) over 1.5, 4 of 7, DK +120. Champion not above the market; no positive expected value at DK.
+- Braden Schneider (NY Rangers) under 1.5, 4 of 7, DK -185. Recent form doesn't beat the market; no positive expected value at DK; DK -185 is outside the −150 band.
+- Denver Barkey (Philadelphia) under 1.5, 4 of 7, DK -195. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -195 is outside the −150 band.
+St. Louis at New Jersey:
+- Dougie Hamilton (New Jersey) over 2.5, 4 of 7, DK +130. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Robert Thomas (St. Louis) under 1.5, 4 of 7, DK -175. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -175 is outside the −150 band.
+- Jesper Bratt (New Jersey) over 1.5, 4 of 7, DK -185. Recent form doesn't beat the market; no positive expected value at DK; DK -185 is outside the −150 band.
+- Jack Hughes (New Jersey) over 3.5, 4 of 7, DK -125. Edge +3.6 pts, under the 5-pt floor.
+- Philip Broberg (St. Louis) over 1.5, 4 of 7, DK -105. Champion not above the market; no positive expected value at DK.
+- Dylan Holloway (St. Louis) over 1.5, 4 of 7, DK -180. Cleared the gates but was outside the top 5 by edge; DK -180 is outside the −150 band.
+- Mason McTavish (St. Louis) under 2.5, 4 of 7, DK -175. Recent form doesn't beat the market; no positive expected value at DK; DK -175 is outside the −150 band.
+- Luke Hughes (New Jersey) over 2.5, 4 of 7, DK +125. Champion not above the market; no positive expected value at DK.
+- Jimmy Snuggerud (St. Louis) under 2.5, 4 of 7, DK -195. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -195 is outside the −150 band.
+Utah at Montreal:
+- Clayton Keller (Utah) over 2.5, 6 of 7, DK +115. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Lane Hutson (Montreal) under 1.5, 6 of 7, DK -120. Fliff check above (not on Fliff yet; DK worse than shop-at).
+- Mikhail Sergachev (Utah) over 1.5, 5 of 7, DK -185. Champion not above the market; no positive expected value at DK; DK -185 is outside the −150 band.
+- Juraj Slafkovsky (Montreal) under 2.5, 5 of 7, DK -180. Cleared the gates but was outside the top 5 by edge; DK -180 is outside the −150 band.
+- Vincent Trocheck (Utah) over 1.5, 4 of 7, DK -140. Edge +4.4 pts, under the 5-pt floor.
+- MacKenzie Weegar (Utah) over 1.5, 4 of 7, DK -155. Side couldn't be confirmed from milestone prices; no positive expected value at DK; DK -155 is outside the −150 band.
+- Cole Caufield (Montreal) under 2.5, 4 of 7, DK +110. Edge +2.1 pts, under the 5-pt floor.
+- Zack Bolduc (Montreal) under 1.5, 4 of 7, DK -140. Fliff check above (not on Fliff yet; DK worse than shop-at).
+- Logan Cooley (Utah) under 2.5, 4 of 7, DK -190. Recent form doesn't beat the market; no positive expected value at DK; DK -190 is outside the −150 band.
+Vegas at Detroit:
+- Moritz Seider (Detroit) over 1.5, 6 of 7, DK -160. Slot veto; no positive expected value at DK; DK -160 is outside the −150 band.
+- Mitch Marner (Vegas) over 1.5, 5 of 7, DK -190. Thin edge (one model under 1 pt vs market); DK -190 is outside the −150 band.
+- Lucas Raymond (Detroit) over 2.5, 5 of 7, DK +105. Slot veto; no positive expected value at DK.
+- Mark Stone (Vegas) over 1.5, 4 of 7, DK -160. Champion not above the market; no positive expected value at DK; DK -160 is outside the −150 band.
+- Tomas Hertl (Vegas) under 1.5, 4 of 7, DK +135. Side couldn't be confirmed from milestone prices; no positive expected value at DK.
+- Jack Eichel (Vegas) over 2.5, 4 of 7, DK +110. Champion not above the market; no positive expected value at DK.
+- Rasmus Andersson (Vegas) over 1.5, 4 of 7, DK +120. Cleared the gates but was outside the top 5 by edge.
+- Brett Howden (Vegas) under 1.5, 4 of 7, DK -165. Model more than 12 pts from market; no positive expected value at DK; DK -165 is outside the −150 band.
+- Emmitt Finnie (Detroit) over 1.5, 4 of 7, DK -145. Champion not above the market; no positive expected value at DK.
+- Michael Brandsegg-Nygard (Detroit) over 1.5, 4 of 7, DK -110. Recent form doesn't beat the market; no positive expected value at DK.
+Lineups: Chicago, Detroit, Montreal, New Jersey, NY Rangers, Philadelphia, Pittsburgh, St. Louis and Vegas DailyFaceoff lineups are fresh (today). Boston, Carolina, Columbus, Dallas, NY Islanders, Tampa Bay and Utah are older than 12 hours (Nov 4 morning), so the last-game NHL.com fallback was used for their players; none were skipped for staleness.
+Vetoes: 0 injury vetoes, 21 demotions vetoing overs only, 7 promotions vetoing unders only (Lee, Crouse and Hayton, Utah; Brandsegg-Nygard, Detroit; Cirelli, Tampa Bay; Nazar, Chicago; Martone, Philadelphia), 16 slot vetoes.
+Data oddity: Nick Robertson (Boston at Pittsburgh) has no team in the lineup feed, and Knies again shows as Columbus in the feed.
+Spreadsheet: /workspace/nhl-sog/sheets/20261105_D_1239_picks.xlsx (colors only show in Excel or Google Sheets).
+No missed games. Later games: Vancouver at Winnipeg and Anaheim at Edmonton 5:00 PM, Nashville at Colorado 6:30 PM.

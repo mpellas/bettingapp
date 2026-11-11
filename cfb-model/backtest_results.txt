@@ -1,0 +1,30 @@
+== 2024 all weeks: n=1436
+  ALL   n=1436 MAE vs close: spread 6.29 total 3.07 | MAE vs result: model 13.80 close 11.93 | ATS@thr spread 343-312 (52.4%, -0.0% ROI@-110) total 190-141 (57.4%, +9.6% ROI@-110)
+  P4    n= 346 MAE vs close: spread 4.40 total 3.26 | MAE vs result: model 12.75 close 12.02 | ATS@thr spread 105-94 (52.8%, +0.7% ROI@-110) total 93-56 (62.4%, +19.2% ROI@-110)
+  G5    n= 413 MAE vs close: spread 5.59 total 3.38 | MAE vs result: model 13.55 close 11.98 | ATS@thr spread 66-76 (46.5%, -11.3% ROI@-110) total 46-40 (53.5%, +2.1% ROI@-110)
+  other n= 677 MAE vs close: spread 7.69 total 2.78 | MAE vs result: model 14.49 close 11.85 | ATS@thr spread 172-142 (54.8%, +4.6% ROI@-110) total 51-45 (53.1%, +1.4% ROI@-110)
+== 2024 both teams >=4 games this season: n=1068
+  ALL   n=1068 MAE vs close: spread 4.25 total 2.78 | MAE vs result: model 12.43 close 11.64 | ATS@thr spread 203-188 (51.9%, -0.9% ROI@-110) total 112-93 (54.6%, +4.3% ROI@-110)
+  P4    n= 283 MAE vs close: spread 3.99 total 3.08 | MAE vs result: model 12.62 close 12.19 | ATS@thr spread 82-73 (52.9%, +1.0% ROI@-110) total 70-43 (61.9%, +18.3% ROI@-110)
+  G5    n= 293 MAE vs close: spread 3.68 total 3.07 | MAE vs result: model 12.19 close 11.34 | ATS@thr spread 29-39 (42.6%, -18.6% ROI@-110) total 21-29 (42.0%, -19.8% ROI@-110)
+  other n= 492 MAE vs close: spread 4.74 total 2.44 | MAE vs result: model 12.46 close 11.50 | ATS@thr spread 92-76 (54.8%, +4.5% ROI@-110) total 21-21 (50.0%, -4.5% ROI@-110)
+== 2025 all weeks: n=1597
+  ALL   n=1597 MAE vs close: spread 6.09 total 2.60 | MAE vs result: model 14.04 close 11.88 | ATS@thr spread 335-337 (49.9%, -4.8% ROI@-110) total 135-134 (50.2%, -4.2% ROI@-110)
+  P4    n= 352 MAE vs close: spread 3.27 total 2.69 | MAE vs result: model 11.77 close 11.16 | ATS@thr spread 79-80 (49.7%, -5.1% ROI@-110) total 63-63 (50.0%, -4.5% ROI@-110)
+  G5    n= 456 MAE vs close: spread 5.24 total 2.75 | MAE vs result: model 13.64 close 12.33 | ATS@thr spread 83-72 (53.5%, +2.2% ROI@-110) total 33-30 (52.4%, +0.0% ROI@-110)
+  other n= 789 MAE vs close: spread 7.83 total 2.47 | MAE vs result: model 15.28 close 11.94 | ATS@thr spread 173-185 (48.3%, -7.7% ROI@-110) total 39-41 (48.8%, -6.9% ROI@-110)
+== 2025 both teams >=4 games this season: n=1067
+  ALL   n=1067 MAE vs close: spread 3.45 total 2.42 | MAE vs result: model 12.63 close 11.94 | ATS@thr spread 150-153 (49.5%, -5.5% ROI@-110) total 83-79 (51.2%, -2.2% ROI@-110)
+  P4    n= 278 MAE vs close: spread 2.87 total 2.65 | MAE vs result: model 11.68 close 11.27 | ATS@thr spread 59-52 (53.2%, +1.5% ROI@-110) total 45-51 (46.9%, -10.5% ROI@-110)
+  G5    n= 304 MAE vs close: spread 3.03 total 2.63 | MAE vs result: model 12.72 close 12.38 | ATS@thr spread 27-27 (50.0%, -4.5% ROI@-110) total 21-18 (53.8%, +2.8% ROI@-110)
+  other n= 485 MAE vs close: spread 4.05 total 2.17 | MAE vs result: model 13.11 close 12.06 | ATS@thr spread 64-74 (46.4%, -11.5% ROI@-110) total 17-10 (63.0%, +20.2% ROI@-110)
+== 2026 all weeks: n=984
+  ALL   n= 984 MAE vs close: spread 8.68 total 3.13 | MAE vs result: model 15.69 close 11.87 | ATS@thr spread 235-279 (45.7%, -12.7% ROI@-110) total 129-121 (51.6%, -1.5% ROI@-110)
+  P4    n= 181 MAE vs close: spread 4.26 total 3.02 | MAE vs result: model 12.99 close 11.88 | ATS@thr spread 49-57 (46.2%, -11.7% ROI@-110) total 42-35 (54.5%, +4.1% ROI@-110)
+  G5    n= 272 MAE vs close: spread 6.93 total 2.59 | MAE vs result: model 14.20 close 11.09 | ATS@thr spread 49-59 (45.4%, -13.4% ROI@-110) total 24-20 (54.5%, +4.1% ROI@-110)
+  other n= 531 MAE vs close: spread 11.08 total 3.44 | MAE vs result: model 17.37 close 12.26 | ATS@thr spread 137-163 (45.7%, -12.8% ROI@-110) total 63-66 (48.8%, -6.8% ROI@-110)
+== 2026 both teams >=4 games this season: n=459
+  ALL   n= 459 MAE vs close: spread 4.12 total 2.89 | MAE vs result: model 12.66 close 12.02 | ATS@thr spread 77-73 (51.3%, -2.0% ROI@-110) total 56-54 (50.9%, -2.8% ROI@-110)
+  P4    n= 105 MAE vs close: spread 4.03 total 3.08 | MAE vs result: model 13.00 close 11.95 | ATS@thr spread 28-32 (46.7%, -10.9% ROI@-110) total 23-24 (48.9%, -6.6% ROI@-110)
+  G5    n= 125 MAE vs close: spread 2.33 total 2.40 | MAE vs result: model 12.12 close 11.37 | ATS@thr spread 5-6 (45.5%, -13.2% ROI@-110) total 10-7 (58.8%, +12.3% ROI@-110)
+  other n= 229 MAE vs close: spread 5.14 total 3.07 | MAE vs result: model 12.81 close 12.40 | ATS@thr spread 44-35 (55.7%, +6.3% ROI@-110) total 23-23 (50.0%, -4.5% ROI@-110)

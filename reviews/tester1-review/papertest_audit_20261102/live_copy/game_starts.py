@@ -1,0 +1,194 @@
+"""Puck-drop start times for NHL SOG grading (America/Los_Angeles).
+
+Looks up each game from saved captures (start_utc on *_D/_C/_CLOSE.json) first,
+joined to gameId via picks/ and graded/ rows, then the free NHL web API
+(api-web.nhle.com gamecenter) by gameId. Used to enforce the draft prereg rule:
+only games with puck drop at or after 12:00 PM PT are eligible for the graded
+track (status excluded_pre_noon otherwise, from 2026-10-17 on).
+"""
+from __future__ import annotations
+import glob, json, os
+from datetime import datetime
+from zoneinfo import ZoneInfo
+import requests
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+PT = ZoneInfo('America/Los_Angeles')
+EXCLUDE_FROM = '20261017'  # enforce exclusion on scored slices from this date on
+EXCLUDE_UNTIL = '20261101'  # 2026-11-02: user approved removal (Nov 1); last enforced date
+_CACHE: dict[int, datetime] | None = None
+
+
+def _parse_utc(s: str) -> datetime:
+    s = (s or '').strip()
+    if s.endswith('Z'):
+        s = s[:-1] + '+00:00'
+    # captures use 2026-10-17T17:00Z (no seconds)
+    if len(s) >= 17 and s[16] in '+-' and s[15].isdigit():
+        # YYYY-MM-DDTHH:MM+00:00 -> insert :00 seconds
+        if len(s) == 22 or (len(s) > 16 and s[16] in '+-' and (len(s) < 19 or s[17].isdigit())):
+            if s[15].isdigit() and not (len(s) > 17 and s[16] == ':'):
+                # form ...HH:MM+00:00
+                head, off = s[:16], s[16:]
+                if len(head) == 16 and head[13] == ':':
+                    s = head + ':00' + off
+    return datetime.fromisoformat(s)
+
+
+def _event_start_from_captures() -> dict[str, datetime]:
+    out: dict[str, datetime] = {}
+    for f in glob.glob(os.path.join(ROOT, 'captures', '20*', '*.json')):
+        base = os.path.basename(f)
+        if not any(base.endswith(suf) for suf in ('_D.json', '_C.json', '_CLOSE.json', '_TEST.json')):
+            continue
+        try:
+            d = json.load(open(f))
+        except Exception:
+            continue
+        ev, su = d.get('event'), d.get('start_utc')
+        if not ev or not su:
+            continue
+        try:
+            out.setdefault(str(ev), _parse_utc(su).astimezone(PT))
+        except Exception:
+            continue
+    return out
+
+
+def _event_to_game_ids() -> dict[str, set[int]]:
+    """event (ESPN) -> set of NHL gameIds from picks and graded CSVs."""
+    import pandas as pd
+    m: dict[str, set[int]] = {}
+    paths = glob.glob(os.path.join(ROOT, 'picks', '*_D.csv'))
+    paths += glob.glob(os.path.join(ROOT, 'graded', '2*.csv'))
+    paths += glob.glob(os.path.join(ROOT, 'rebuilt', 'graded', '2*.csv'))
+    paths += glob.glob(os.path.join(ROOT, 'rebuilt', 'picks', '*_D.csv'))
+    for f in paths:
+        try:
+            df = pd.read_csv(f, usecols=lambda c: c in ('event', 'gameId'))
+        except Exception:
+            continue
+        if 'event' not in df.columns or 'gameId' not in df.columns:
+            continue
+        for ev, gid in df[['event', 'gameId']].dropna().drop_duplicates().itertuples(index=False):
+            try:
+                m.setdefault(str(int(ev) if str(ev).isdigit() else ev), set()).add(int(gid))
+            except (TypeError, ValueError):
+                try:
+                    m.setdefault(str(ev), set()).add(int(gid))
+                except (TypeError, ValueError):
+                    pass
+    return m
+
+
+def _load_local_starts() -> dict[int, datetime]:
+    ev_start = _event_start_from_captures()
+    ev_gids = _event_to_game_ids()
+    out: dict[int, datetime] = {}
+    for ev, dt in ev_start.items():
+        for gid in ev_gids.get(str(ev), ()):
+            out.setdefault(gid, dt)
+    return out
+
+
+def _nhl_start(game_id: int) -> datetime | None:
+    try:
+        r = requests.get(f'https://api-web.nhle.com/v1/gamecenter/{int(game_id)}/landing', timeout=20)
+        if r.status_code != 200:
+            return None
+        su = r.json().get('startTimeUTC')
+        if not su:
+            return None
+        return _parse_utc(su).astimezone(PT)
+    except Exception:
+        return None
+
+
+def starts_for(game_ids) -> dict[int, datetime]:
+    """Return {gameId: puck-drop datetime in America/Los_Angeles} for the given ids."""
+    global _CACHE
+    if _CACHE is None:
+        _CACHE = _load_local_starts()
+    need = []
+    out = {}
+    for gid in game_ids:
+        try:
+            gid = int(gid)
+        except (TypeError, ValueError):
+            continue
+        if gid in _CACHE:
+            out[gid] = _CACHE[gid]
+        else:
+            need.append(gid)
+    for gid in need:
+        dt = _nhl_start(gid)
+        if dt is not None:
+            _CACHE[gid] = dt
+            out[gid] = dt
+    return out
+
+
+def is_pre_noon(dt: datetime) -> bool:
+    """True if puck drop is strictly before 12:00 PM in America/Los_Angeles."""
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=PT)
+    else:
+        dt = dt.astimezone(PT)
+    return (dt.hour, dt.minute, dt.second) < (12, 0, 0)
+
+
+def mark_pre_noon(df, date_col='date', game_col='gameId', status_col='status',
+                  enforce_from: str = EXCLUDE_FROM):
+    """Set status to excluded_pre_noon for rows in games before noon PT on dates >= enforce_from.
+
+    Returns (df, summary) where summary lists per-date pre-noon counts. Logged CSV files
+    are not rewritten; callers apply this in-memory for scoring.
+    """
+    import pandas as pd
+    d = df.copy()
+    if date_col not in d.columns or game_col not in d.columns:
+        return d, []
+    d[date_col] = d[date_col].astype(str)
+    starts = starts_for(d[game_col].dropna().unique())
+    d['_start_pt'] = d[game_col].map(lambda g: starts.get(int(g)) if pd.notna(g) else None)
+    d['_pre_noon'] = d['_start_pt'].map(lambda t: bool(t is not None and is_pre_noon(t)))
+    summary = []
+    for date, sub in d.groupby(date_col, sort=True):
+        pre = sub[sub['_pre_noon']]
+        games = []
+        for gid, gsub in pre.groupby(game_col):
+            st = gsub['_start_pt'].iloc[0]
+            games.append({
+                'gameId': int(gid),
+                'start_pt': st.strftime('%Y-%m-%d %H:%M %Z') if st is not None else None,
+                'rows': int(len(gsub)),
+                'ok': int((gsub[status_col] == 'OK').sum()) if status_col in gsub else 0,
+                'name': (gsub['game'].iloc[0] if 'game' in gsub.columns else ''),
+            })
+        summary.append({
+            'date': date,
+            'pre_noon_rows': int(len(pre)),
+            'pre_noon_ok': int((pre[status_col] == 'OK').sum()) if status_col in pre and len(pre) else 0,
+            'enforced': enforce_from <= date <= EXCLUDE_UNTIL,
+            'games': games,
+        })
+    enforce = d['_pre_noon'] & (d[date_col] >= enforce_from) & (d[date_col] <= EXCLUDE_UNTIL)
+    if status_col in d.columns:
+        d.loc[enforce, status_col] = 'excluded_pre_noon'
+    d.drop(columns=['_start_pt', '_pre_noon'], inplace=True)
+    return d, summary
+
+
+def counterfactual_ok_mask(df, game_col='gameId'):
+    """True for rows that are NOT pre-noon (info-only historical recomputes). Unknown start kept."""
+    import pandas as pd
+    starts = starts_for(df[game_col].dropna().unique())
+
+    def keep(g):
+        if pd.isna(g):
+            return True
+        dt = starts.get(int(g))
+        if dt is None:
+            return True
+        return not is_pre_noon(dt)
+    return df[game_col].map(keep)

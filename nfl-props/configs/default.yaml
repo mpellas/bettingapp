@@ -1,0 +1,83 @@
+# Default (initial champion) configuration. All periods are walk-forward / out-of-sample.
+data:
+  first_season: 2015
+  last_season: 2025          # most recent COMPLETE season available on 2026-10-04
+
+periods:
+  validation_seasons: [2019, 2020, 2021, 2022]   # candidate configs are compared/tuned ONLY here
+  selection_seasons: [2023, 2024]                # champion-vs-challenger promotion test (held out from tuning)
+  holdout_season: 2025                           # final untouched holdout: evaluated only for promoted champions
+
+markets: [pass_yds, rush_yds, rec_yds]
+
+universe:
+  min_proj: 20.0             # a line is "posted" for RB/WR/TE only if the public projection >= 20 yds
+
+model:
+  feature_set: full          # player_only | player_proxy | no_opponent | full (features.FEATURE_SETS)
+  use_snaps: true
+  use_market_proj: true
+  dist: empirical            # empirical | normal
+  retrain_every_weeks: 4     # mean model refit cadence inside a test season; scale/residual model once per season
+  n_folds: 3
+  lgbm:
+    n_estimators: 400
+    learning_rate: 0.03
+    num_leaves: 15
+    min_child_samples: 50
+    colsample_bytree: 0.8
+    reg_lambda: 1.0
+
+lines:
+  source: none               # none (v3 default: projection-only; promotion uses actual outcomes) | csv (real lines)
+                             # | simulated (DIAGNOSTIC ONLY: learnable, never used for promotion/tuning, Tester1 N1)
+  csv_path: data/lines/real_lines.csv
+  sim:
+    ref_share: 0.5           # 1.0 = line built on a fixed strong public LightGBM model's OOS median (market knows
+                             # everything a good public model knows); 0.0 = simple usage x implied-total projection
+                             # (soft). 0.5 = in between (default). See README "Simulated lines" + sensitivity table.
+    reference:               # the market's own public model: part of the ENVIRONMENT, never tuned by the loop
+      feature_set: full
+      first_season: 2017
+      lgbm: {}
+    info_weight: 0.0         # weight on the "inside info" shift (actual volume x pre-game efficiency);
+                             # ignored for markets listed in target_mae_ratio (w is then solved on the pre-validation seasons, 2017-2018)
+    target_mae_ratio:        # MAE(line)/MAE(public projection) measured on REAL ESPN BET 2025 opening lines
+      pass_yds: 0.82
+      rush_yds: 0.93
+      rec_yds: 0.93
+    noise_frac: 0.01         # pure (uninformative) line noise, fraction of projection. Kept small: a sharp
+                             # market is not randomly wrong (0.06 gave free edges of ~15 yds on QB lines)
+    seed: 7
+    price: -110
+
+betting:
+  prob_method: hier_stacker  # hierarchical logistic stacker (calibration.py), fit on strictly earlier lines | blend
+  stacker_prior:             # pre-declared priors: a_m ~ N(0, sigma_a^2); b ~ N(1, sigma_b^2);
+    sigma_a: 0.02            #   c_m ~ N(c0, tau^2) pooled across markets; c0 ~ N(0, sigma_c0^2). No min_n.
+    sigma_b: 0.1
+    tau: 0.05
+    sigma_c0: 0.1
+  stacker_history_csv: data/lines/espn_bet_2025_open_uncertain_timing.csv   # 2025 real lines = stacker HISTORY
+                             # only (training data for 2026); the frozen 2025 holdout is never re-scored for selection
+  market_blend: 0.0          # only used when prob_method=blend: p = (1-a)*p_model + a*p_market_novig
+  edge_threshold: 0.04       # bet only if p - p_novig >= threshold (and EV > 0 at the actual price)
+  kelly_fraction: 0.25       # fractional Kelly on the STACKED probability
+  max_bet_frac: 0.02         # cap per bet (fraction of bankroll)
+  max_game_frac: 0.04        # cap per game
+  max_team_frac: 0.03        # cap per team-game (QB pass + same-team rec yds are correlated)
+  max_bets_per_game: 3
+  max_bets_per_player: 1     # per player-game (best edge of his markets)
+  max_week_exposure: 0.20
+  start_bankroll: 1000.0
+
+improve:
+  candidates_per_iteration: 4
+  min_val_seasons_better: 3  # challenger's relative CRPS gain must be > 0 in >= 3 of the 4 validation seasons (not 4/4)
+  alpha: 0.05
+  max_promotion_tests: 10    # PRE-DECLARED family size: z = Phi^-1(1 - alpha/10) for every test (FWER <= alpha)
+  real_gate_csv: null        # real lines for the selection period (none exist for 2023-24) -> gate not applicable
+diagnostic_policy:           # fixed (untuned) betting rule shown in walk-forward reports
+  prob_method: hier_stacker
+  edge_threshold: 0.04
+  kelly_fraction: 0.25

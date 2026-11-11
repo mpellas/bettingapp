@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nflprops"
+version = "0.1.0"
+description = "NFL player-prop research pipeline: leakage-safe features, distributional models, walk-forward backtests"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2", "numpy", "scipy", "scikit-learn", "lightgbm", "pyarrow", "matplotlib", "pyyaml", "nflreadpy", "requests"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

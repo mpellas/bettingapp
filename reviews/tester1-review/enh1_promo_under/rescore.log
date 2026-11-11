@@ -1,0 +1,8 @@
+FAIL picks/20261015_D_GATE.csv 'DataFrame' object has no attribute 'role_veto_under'
+FAIL picks/20261016_D_GATE.csv 'DataFrame' object has no attribute 'role_veto_under'
+FAIL picks/20261016_D_GATE_1512pass.csv 'DataFrame' object has no attribute 'role_veto_under'
+FAIL picks/20261017_D_1016_GATE.csv 'DataFrame' object has no attribute 'role_veto_under'
+FAIL picks/20261017_D_1222_GATE.csv 'DataFrame' object has no attribute 'role_veto_under'
+FAIL picks/20261017_D_GATE.csv 2.5
+FAIL picks/20261025_D_GATE.csv 1.5
+123

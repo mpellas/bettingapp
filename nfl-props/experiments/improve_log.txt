@@ -1,0 +1,98 @@
+2026-10-04 14:10:18,666 nflprops.backtest season 2019 predicted in 6.8s (3565 rows) [model aa4d70b859_6ddb05f9_f78fc34e]
+2026-10-04 14:10:27,134 nflprops.backtest season 2020 predicted in 8.5s (3789 rows) [model aa4d70b859_6ddb05f9_f78fc34e]
+2026-10-04 14:10:35,804 nflprops.backtest season 2021 predicted in 8.7s (3922 rows) [model aa4d70b859_6ddb05f9_f78fc34e]
+2026-10-04 14:10:44,506 nflprops.backtest season 2022 predicted in 8.7s (3744 rows) [model aa4d70b859_6ddb05f9_f78fc34e]
+2026-10-04 14:10:53,955 nflprops.backtest season 2023 predicted in 9.4s (3678 rows) [model aa4d70b859_6ddb05f9_f78fc34e]
+2026-10-04 14:11:03,871 nflprops.backtest season 2024 predicted in 9.9s (3661 rows) [model aa4d70b859_6ddb05f9_f78fc34e]
+2026-10-04 14:11:03,918 improve === iteration 1 | champion aa4d70b859 | val CRPS 20.5102
+2026-10-04 14:11:10,300 nflprops.backtest season 2019 predicted in 6.4s (3565 rows) [model 74b3ed5c9f_6ddb05f9_f78fc34e]
+2026-10-04 14:11:17,447 nflprops.backtest season 2020 predicted in 7.1s (3789 rows) [model 74b3ed5c9f_6ddb05f9_f78fc34e]
+2026-10-04 14:11:25,319 nflprops.backtest season 2021 predicted in 7.9s (3922 rows) [model 74b3ed5c9f_6ddb05f9_f78fc34e]
+2026-10-04 14:11:33,631 nflprops.backtest season 2022 predicted in 8.3s (3744 rows) [model 74b3ed5c9f_6ddb05f9_f78fc34e]
+2026-10-04 14:11:33,672 improve   cand 0 ['model.use_snaps=False'] -> val rel CRPS gain -0.00122; seasons {2019: 0.0012, 2020: -0.0021, 2021: -0.0013, 2022: -0.0026}
+2026-10-04 14:11:42,874 nflprops.backtest season 2019 predicted in 9.2s (3565 rows) [model 2deca31858_6ddb05f9_f78fc34e]
+2026-10-04 14:12:11,636 nflprops.backtest season 2020 predicted in 28.8s (3789 rows) [model 2deca31858_6ddb05f9_f78fc34e]
+2026-10-04 14:12:25,241 nflprops.backtest season 2021 predicted in 13.6s (3922 rows) [model 2deca31858_6ddb05f9_f78fc34e]
+2026-10-04 14:12:37,614 nflprops.backtest season 2022 predicted in 12.4s (3744 rows) [model 2deca31858_6ddb05f9_f78fc34e]
+2026-10-04 14:12:37,655 improve   cand 1 ['model.retrain_every_weeks=2', 'model.dist=normal'] -> val rel CRPS gain -0.01151; seasons {2019: -0.0094, 2020: -0.0107, 2021: -0.0153, 2022: -0.0103}
+2026-10-04 14:12:43,680 nflprops.backtest season 2019 predicted in 6.0s (3565 rows) [model f960b2b7b7_6ddb05f9_f78fc34e]
+2026-10-04 14:12:50,875 nflprops.backtest season 2020 predicted in 7.2s (3789 rows) [model f960b2b7b7_6ddb05f9_f78fc34e]
+2026-10-04 14:12:58,242 nflprops.backtest season 2021 predicted in 7.4s (3922 rows) [model f960b2b7b7_6ddb05f9_f78fc34e]
+2026-10-04 14:13:08,831 nflprops.backtest season 2022 predicted in 10.6s (3744 rows) [model f960b2b7b7_6ddb05f9_f78fc34e]
+2026-10-04 14:13:08,868 improve   cand 2 ['model.lgbm.min_child_samples=200'] -> val rel CRPS gain +0.00008; seasons {2019: 0.0014, 2020: -0.0014, 2021: 0.0017, 2022: -0.0014}
+2026-10-04 14:13:14,531 nflprops.backtest season 2019 predicted in 5.7s (3565 rows) [model 75872504b6_6ddb05f9_f78fc34e]
+2026-10-04 14:13:20,953 nflprops.backtest season 2020 predicted in 6.4s (3789 rows) [model 75872504b6_6ddb05f9_f78fc34e]
+2026-10-04 14:13:28,867 nflprops.backtest season 2021 predicted in 7.9s (3922 rows) [model 75872504b6_6ddb05f9_f78fc34e]
+2026-10-04 14:13:38,371 nflprops.backtest season 2022 predicted in 9.5s (3744 rows) [model 75872504b6_6ddb05f9_f78fc34e]
+2026-10-04 14:13:38,415 improve   cand 3 ['model.lgbm.min_child_samples=200', 'model.use_market_proj=False'] -> val rel CRPS gain +0.00036; seasons {2019: 0.0035, 2020: -0.0022, 2021: 0.0003, 2022: -0.0}
+2026-10-04 14:13:38,415 improve   decision: {'iteration': 1, 'best_candidate_run': 'r0006', 'val_rel_crps_gain': 0.00036379857488903853, 'val_seasons_better': '2/4', 'n_candidates_tried': 4, 'event': 'no challenger (better in only 2/4 validation seasons)', 'promoted': False}
+2026-10-04 14:13:38,433 improve === iteration 2 | champion aa4d70b859 | val CRPS 20.5102
+2026-10-04 14:13:46,160 nflprops.backtest season 2019 predicted in 7.7s (3565 rows) [model edf72f92da_6ddb05f9_f78fc34e]
+2026-10-04 14:13:55,325 nflprops.backtest season 2020 predicted in 9.2s (3789 rows) [model edf72f92da_6ddb05f9_f78fc34e]
+2026-10-04 14:14:04,398 nflprops.backtest season 2021 predicted in 9.1s (3922 rows) [model edf72f92da_6ddb05f9_f78fc34e]
+2026-10-04 14:14:13,993 nflprops.backtest season 2022 predicted in 9.6s (3744 rows) [model edf72f92da_6ddb05f9_f78fc34e]
+2026-10-04 14:14:14,033 improve   cand 0 ['model.dist=normal'] -> val rel CRPS gain -0.01214; seasons {2019: -0.0114, 2020: -0.0116, 2021: -0.0151, 2022: -0.0103}
+2026-10-04 14:14:24,649 nflprops.backtest season 2019 predicted in 10.6s (3565 rows) [model 3b55c65b64_6ddb05f9_f78fc34e]
+2026-10-04 14:14:35,506 nflprops.backtest season 2020 predicted in 10.9s (3789 rows) [model 3b55c65b64_6ddb05f9_f78fc34e]
+2026-10-04 14:14:48,637 nflprops.backtest season 2021 predicted in 13.1s (3922 rows) [model 3b55c65b64_6ddb05f9_f78fc34e]
+2026-10-04 14:15:01,284 nflprops.backtest season 2022 predicted in 12.6s (3744 rows) [model 3b55c65b64_6ddb05f9_f78fc34e]
+2026-10-04 14:15:01,323 improve   cand 1 ['model.lgbm.num_leaves=15'] -> val rel CRPS gain -0.00614; seasons {2019: -0.0102, 2020: -0.0069, 2021: -0.0048, 2022: -0.0029}
+2026-10-04 14:15:05,623 nflprops.backtest season 2019 predicted in 4.3s (3565 rows) [model 4eed3711d9_6ddb05f9_f78fc34e]
+2026-10-04 14:15:10,582 nflprops.backtest season 2020 predicted in 5.0s (3789 rows) [model 4eed3711d9_6ddb05f9_f78fc34e]
+2026-10-04 14:15:16,089 nflprops.backtest season 2021 predicted in 5.5s (3922 rows) [model 4eed3711d9_6ddb05f9_f78fc34e]
+2026-10-04 14:25:31,112 nflprops.backtest season 2022 predicted in 615.0s (3744 rows) [model 4eed3711d9_6ddb05f9_f78fc34e]
+2026-10-04 14:25:31,160 improve   cand 2 ['model.lgbm.n_estimators=200'] -> val rel CRPS gain +0.00311; seasons {2019: 0.0064, 2020: 0.0036, 2021: 0.0008, 2022: 0.0019}
+2026-10-04 14:25:37,584 nflprops.backtest season 2019 predicted in 6.4s (3565 rows) [model 69149e9f61_6ddb05f9_f78fc34e]
+2026-10-04 14:25:45,300 nflprops.backtest season 2020 predicted in 7.7s (3789 rows) [model 69149e9f61_6ddb05f9_f78fc34e]
+2026-10-04 14:25:53,312 nflprops.backtest season 2021 predicted in 8.0s (3922 rows) [model 69149e9f61_6ddb05f9_f78fc34e]
+2026-10-04 14:26:01,392 nflprops.backtest season 2022 predicted in 8.1s (3744 rows) [model 69149e9f61_6ddb05f9_f78fc34e]
+2026-10-04 14:26:01,437 improve   cand 3 ['model.dist=normal', 'model.lgbm.min_child_samples=200'] -> val rel CRPS gain -0.01172; seasons {2019: -0.0096, 2020: -0.0123, 2021: -0.0134, 2022: -0.0114}
+2026-10-04 14:26:08,322 nflprops.backtest season 2023 predicted in 6.9s (3678 rows) [model 4eed3711d9_6ddb05f9_f78fc34e]
+2026-10-04 14:26:16,170 nflprops.backtest season 2024 predicted in 7.8s (3661 rows) [model 4eed3711d9_6ddb05f9_f78fc34e]
+2026-10-04 14:26:16,230 improve   decision: {'iteration': 2, 'best_candidate_run': 'r0009', 'val_rel_crps_gain': 0.003112607066295813, 'val_seasons_better': '4/4', 'n_candidates_tried': 8, 'sel_gain': 0.0017785201539689062, 'sel_se': 0.0007464728715330819, 'z': 2.5758293035489004, 'margin': 0.0019227866967992061, 'test_no': 1, 'boot_p_gain_pos': 0.99075, 'real_gate': {'status': 'not applicable (no real lines for the selection period; 2025 is the frozen holdout)'}, 'sel_crps_challenger': 20.19704205495378, 'sel_crps_champion': 20.248758344626694, 'promoted': False, 'event': 'challenger rejected on selection seasons'}
+2026-10-04 14:26:16,248 improve === iteration 3 | champion aa4d70b859 | val CRPS 20.5102
+2026-10-04 14:26:20,709 nflprops.backtest season 2019 predicted in 4.5s (3565 rows) [model 43471b9452_6ddb05f9_f78fc34e]
+2026-10-04 14:26:25,590 nflprops.backtest season 2020 predicted in 4.9s (3789 rows) [model 43471b9452_6ddb05f9_f78fc34e]
+2026-10-04 14:26:32,128 nflprops.backtest season 2021 predicted in 6.5s (3922 rows) [model 43471b9452_6ddb05f9_f78fc34e]
+2026-10-04 14:26:38,964 nflprops.backtest season 2022 predicted in 6.8s (3744 rows) [model 43471b9452_6ddb05f9_f78fc34e]
+2026-10-04 14:26:39,003 improve   cand 0 ['model.dist=normal', 'model.lgbm.n_estimators=200'] -> val rel CRPS gain -0.00972; seasons {2019: -0.0054, 2020: -0.0086, 2021: -0.0151, 2022: -0.0093}
+2026-10-04 14:26:45,379 nflprops.backtest season 2019 predicted in 6.4s (3565 rows) [model 8ca1b9fcbe_6ddb05f9_f78fc34e]
+2026-10-04 14:26:53,364 nflprops.backtest season 2020 predicted in 8.0s (3789 rows) [model 8ca1b9fcbe_6ddb05f9_f78fc34e]
+2026-10-04 14:27:00,818 nflprops.backtest season 2021 predicted in 7.5s (3922 rows) [model 8ca1b9fcbe_6ddb05f9_f78fc34e]
+2026-10-04 14:27:08,380 nflprops.backtest season 2022 predicted in 7.6s (3744 rows) [model 8ca1b9fcbe_6ddb05f9_f78fc34e]
+2026-10-04 14:27:08,442 improve   cand 1 ['model.feature_set=player_proxy', 'model.dist=normal'] -> val rel CRPS gain -0.01388; seasons {2019: -0.0109, 2020: -0.0141, 2021: -0.0174, 2022: -0.0127}
+2026-10-04 14:27:27,548 nflprops.backtest season 2019 predicted in 19.1s (3565 rows) [model 508fd7c770_6ddb05f9_f78fc34e]
+2026-10-04 14:28:23,432 nflprops.backtest season 2020 predicted in 55.9s (3789 rows) [model 508fd7c770_6ddb05f9_f78fc34e]
+2026-10-04 14:29:22,255 nflprops.backtest season 2021 predicted in 58.8s (3922 rows) [model 508fd7c770_6ddb05f9_f78fc34e]
+2026-10-04 14:30:14,269 nflprops.backtest season 2022 predicted in 52.0s (3744 rows) [model 508fd7c770_6ddb05f9_f78fc34e]
+2026-10-04 14:30:14,314 improve   cand 2 ['model.dist=normal', 'model.use_snaps=False'] -> val rel CRPS gain -0.01373; seasons {2019: -0.0107, 2020: -0.0146, 2021: -0.0163, 2022: -0.013}
+2026-10-04 14:30:55,371 nflprops.backtest season 2019 predicted in 41.1s (3565 rows) [model 8d6b2fe9a3_6ddb05f9_f78fc34e]
+2026-10-04 14:31:40,575 nflprops.backtest season 2020 predicted in 45.2s (3789 rows) [model 8d6b2fe9a3_6ddb05f9_f78fc34e]
+2026-10-04 14:32:31,094 nflprops.backtest season 2021 predicted in 50.5s (3922 rows) [model 8d6b2fe9a3_6ddb05f9_f78fc34e]
+2026-10-04 14:33:26,236 nflprops.backtest season 2022 predicted in 55.1s (3744 rows) [model 8d6b2fe9a3_6ddb05f9_f78fc34e]
+2026-10-04 14:33:26,279 improve   cand 3 ['model.lgbm.min_child_samples=200', 'model.feature_set=no_opponent'] -> val rel CRPS gain -0.00080; seasons {2019: 0.0015, 2020: -0.0023, 2021: -0.0001, 2022: -0.0022}
+2026-10-04 14:33:26,279 improve   decision: {'iteration': 3, 'best_candidate_run': 'r0015', 'val_rel_crps_gain': -0.0007995330443262099, 'val_seasons_better': '1/4', 'n_candidates_tried': 12, 'event': 'no challenger (no candidate beat the champion on validation)', 'promoted': False}
+2026-10-04 14:33:26,307 improve === iteration 4 | champion aa4d70b859 | val CRPS 20.5102
+2026-10-04 14:34:13,516 nflprops.backtest season 2019 predicted in 47.2s (3565 rows) [model d2d6b5a3f4_6ddb05f9_f78fc34e]
+2026-10-04 14:34:59,136 nflprops.backtest season 2020 predicted in 45.6s (3789 rows) [model d2d6b5a3f4_6ddb05f9_f78fc34e]
+2026-10-04 14:35:42,414 nflprops.backtest season 2021 predicted in 43.3s (3922 rows) [model d2d6b5a3f4_6ddb05f9_f78fc34e]
+2026-10-04 14:36:34,152 nflprops.backtest season 2022 predicted in 51.7s (3744 rows) [model d2d6b5a3f4_6ddb05f9_f78fc34e]
+2026-10-04 14:36:34,193 improve   cand 0 ['model.feature_set=player_proxy'] -> val rel CRPS gain -0.00106; seasons {2019: 0.0002, 2020: -0.0015, 2021: -0.0015, 2022: -0.0014}
+2026-10-04 14:37:21,206 nflprops.backtest season 2019 predicted in 47.0s (3565 rows) [model 5e07d17a6c_6ddb05f9_f78fc34e]
+2026-10-04 14:38:15,428 nflprops.backtest season 2020 predicted in 54.2s (3789 rows) [model 5e07d17a6c_6ddb05f9_f78fc34e]
+2026-10-04 14:39:14,436 nflprops.backtest season 2021 predicted in 59.0s (3922 rows) [model 5e07d17a6c_6ddb05f9_f78fc34e]
+2026-10-04 14:40:04,605 nflprops.backtest season 2022 predicted in 50.2s (3744 rows) [model 5e07d17a6c_6ddb05f9_f78fc34e]
+2026-10-04 14:40:04,648 improve   cand 1 ['model.lgbm.num_leaves=15', 'model.lgbm.n_estimators=200'] -> val rel CRPS gain -0.00037; seasons {2019: -0.0003, 2020: -0.0008, 2021: -0.0019, 2022: 0.0015}
+2026-10-04 14:40:30,205 nflprops.backtest season 2019 predicted in 25.6s (3565 rows) [model c0dcec41fe_6ddb05f9_f78fc34e]
+2026-10-04 14:41:01,280 nflprops.backtest season 2020 predicted in 31.1s (3789 rows) [model c0dcec41fe_6ddb05f9_f78fc34e]
+2026-10-04 14:41:41,128 nflprops.backtest season 2021 predicted in 39.8s (3922 rows) [model c0dcec41fe_6ddb05f9_f78fc34e]
+2026-10-04 14:42:27,872 nflprops.backtest season 2022 predicted in 46.7s (3744 rows) [model c0dcec41fe_6ddb05f9_f78fc34e]
+2026-10-04 14:42:27,914 improve   cand 2 ['model.lgbm.n_estimators=200', 'model.use_market_proj=False'] -> val rel CRPS gain +0.00296; seasons {2019: 0.0062, 2020: 0.0032, 2021: 0.0015, 2022: 0.001}
+2026-10-04 14:43:45,764 nflprops.backtest season 2019 predicted in 77.8s (3565 rows) [model 657eb8857b_6ddb05f9_f78fc34e]
+2026-10-04 14:44:58,615 nflprops.backtest season 2020 predicted in 72.9s (3789 rows) [model 657eb8857b_6ddb05f9_f78fc34e]
+2026-10-04 14:46:28,075 nflprops.backtest season 2021 predicted in 89.5s (3922 rows) [model 657eb8857b_6ddb05f9_f78fc34e]
+2026-10-04 14:47:44,708 nflprops.backtest season 2022 predicted in 76.6s (3744 rows) [model 657eb8857b_6ddb05f9_f78fc34e]
+2026-10-04 14:47:44,751 improve   cand 3 ['model.retrain_every_weeks=2'] -> val rel CRPS gain +0.00060; seasons {2019: 0.0021, 2020: 0.0011, 2021: -0.0004, 2022: -0.0002}
+2026-10-04 14:47:50,931 nflprops.backtest season 2023 predicted in 6.2s (3678 rows) [model c0dcec41fe_6ddb05f9_f78fc34e]
+2026-10-04 14:47:57,526 nflprops.backtest season 2024 predicted in 6.6s (3661 rows) [model c0dcec41fe_6ddb05f9_f78fc34e]
+2026-10-04 14:47:57,584 improve   decision: {'iteration': 4, 'best_candidate_run': 'r0018', 'val_rel_crps_gain': 0.002959602957545538, 'val_seasons_better': '4/4', 'n_candidates_tried': 16, 'sel_gain': 0.0018632904142869716, 'sel_se': 0.0008808933071192942, 'z': 2.5758293035489004, 'margin': 0.002269030793777979, 'test_no': 2, 'boot_p_gain_pos': 0.9815, 'real_gate': {'status': 'not applicable (no real lines for the selection period; 2025 is the frozen holdout)'}, 'sel_crps_challenger': 20.190808560985456, 'sel_crps_champion': 20.248758344626694, 'promoted': False, 'event': 'challenger rejected on selection seasons'}

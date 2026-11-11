@@ -1,0 +1,17 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots window pass 1:19 PM PT for San Jose Sharks at Toronto Maple Leafs, puck drop 4:30 PM PT.
+
+DraftKings list: nothing qualifies. None of the 15 lines has a side with positive blended EV at DraftKings.
+
+Fliff check (1):
+1. Nick Paul (TOR, F) UNDER 1.5 shots on goal, San Jose Sharks at Toronto Maple Leafs, 4:30 PM PT. DK -155, Fliff at -131 or better (not offered on Fliff yet, since Fliff hasn't posted a shots market for this game). PrizePicks: none.
+   Model +3.2 pts vs no-vig; recent form +14.1 pts.
+   Role: history F_top6, today f2/pp2 (no change); TOI last 5 16.0 min vs 13.4 over the last 30, PP TOI last 5 0.2 min vs 0.9; opponent allows +6% to F_top6 (Sharks allow 28.0 shots per game over the last 20).
+   Evidence: agrees 4 of 7 (champion +3.2 pts; challenger +3.3 pts; shrunk form +5.9 pts; no-vig moved 0.9 pts toward side since open). Against: opponent allows +6% to F_top6, and his even-strength minutes are up 2.6 over the last 5.
+   Lineup data is from 7:47 AM PT today, under 12 hours old.
+Correlation: only one pick, so there's nothing to correlate.
+
+Role flags in this game (no picks affected): Mason Marchment moved down (history top 6, today f3/pp2), Easton Cowan moved up (today f2/pp2), Gavin McKenna moved up (today f3/pp1).
+Spreadsheet: /workspace/nhl-sog/sheets/20261019_D_1319_picks.xlsx
+Fliff credits today: 3 of 10 used.

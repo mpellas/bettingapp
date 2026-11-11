@@ -1,0 +1,40 @@
+# PRE-DECLARED 2025 HOLDOUT POLICY (v2). Written before the v2 improvement loop finished and before any v2 holdout
+# scoring. `python -m nflprops.holdout` refuses to run unless the sha1 of this file is printed in reports/REPORT.md,
+# and refuses to run a second time (experiments/holdout_frozen.json) without --force.
+# Nothing in here may be changed after the holdout has been scored.
+version: 2
+declared_by: "v2 pass after Tester1 review"
+holdout_season: 2025
+model: champion                 # whatever experiments/champion.json holds after the v2 improvement loop
+primary:
+  line_source: data/lines/espn_bet_2025_open_uncertain_timing.csv
+  label: "ESPN BET lines of uncertain timing (2025 REG weeks 1-13; ESPN timestamps are last-update times, 99.3% after kickoff)"
+  probabilities:
+    method: stacker             # per-market logistic stacker  logit p = a + b*logit(p_mkt) + c*logit(p_model)
+    lambda: 50                  # ridge prior toward (a,b,c) = (0,1,0) = "trust the market"
+    min_n: 300                  # market probability (=> no bet) until a market has 300 earlier priced lines
+    history: "strictly earlier 2025 weeks of the SAME real line source only (no earlier real lines exist; simulated lines are never mixed in)"
+  bet_rule:
+    edge_threshold: 0.04        # stacked p minus no-vig market p, on the chosen side
+    require_positive_ev: true   # at the actual quoted price
+    one_side_per_player_market: true
+  staking:
+    kelly_fraction: 0.25        # on the stacked probability
+    max_bet_frac: 0.02
+    max_game_frac: 0.04
+    max_bets_per_game: 3
+    max_team_frac: 0.03
+    max_bets_per_player: 1      # per player-game (highest-edge market)
+    max_week_exposure: 0.20
+    start_bankroll: 1000
+  markets: [pass_yds, rush_yds, rec_yds]
+  universe: "model universe (min projection 20 yds; QBs = projected starter from prior weeks) intersected with ESPN lines"
+  report:
+    - "flat-stake ROI, hit rate, number of bets, by market and overall, with 95% GAME-clustered bootstrap CI (4000 resamples, seed 0)"
+    - "Kelly bankroll path and max drawdown"
+    - "log loss of P(over) on every priced line: raw model, stacked, no-vig market; paired game-clustered bootstrap of (market - raw) and (market - stacked)"
+    - "stacker coefficients by week and market"
+secondary:
+  - "same champion on SIMULATED 2025 lines, stacker history = simulated 2019-2024 (labelled SIMULATED)"
+  - "simulated vs real line realism diagnostic on overlapping player-games"
+interpretation: "Single, small, one-book sample of uncertain timing. A CI that includes 0 is a null result. No parameter is re-tuned on it."

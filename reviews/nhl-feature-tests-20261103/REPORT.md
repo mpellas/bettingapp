@@ -1,0 +1,7 @@
+# NHL SOG feature backtests (2026-11-03, paper only, past seasons)
+Train 2021-22..2024-25 (early stop on 2024-25), test full 2025-26 = 46,669 player-games. 2026-27 excluded. Live model/files untouched, no --rescore, 0 Odds API credits.
+Each variant = frozen recipe (26 features of c3ab760178) + one feature, retrained copy.
+Step 1 MoneyPuck: season totals at moneypuck.com/moneypuck/playerData/seasonSummary/{YYYY}/regular/{skaters,goalies,lines,teams}.csv (lines.csv has position=pairing, 5on5 etc.). Game-by-game exists only as one CSV per player (moneypuck/playerData/careers/gameByGame/regular/{skaters,goalies}/{playerId}.csv) - hundreds of pulls, not used. Used PRIOR-season skater 5v5 on-ice SOG-against/60 for each D (leak-free). Goalie not used (starter unknown pre-game, skater logs have no goalies).
+Results: metrics.csv, edge_buckets.csv. Code: backtest.py, evaluate.py. Data: mp/.
+Verdict: a venue split = neutral (+0.11 NLLx1000, CI -0.02..+0.24); b vs-opponent = hurts (+0.26, CI +0.09..+0.42); c dressed-D NHL-only = hurts slightly (+0.15, +0.01..+0.29); c + MoneyPuck = hurts (+0.37, +0.10..+0.65; calibration ECE 0.006->0.011, top picks skew to unders). Recommend no challenger.
+Caveat: no past-season prop prices exist on the box (captures start 2026-10-11 = held-out season), so 'edge' = model prob minus 50% at a proxy line (half-line nearest base median), not vs market; +110/-150 band can't be tested.

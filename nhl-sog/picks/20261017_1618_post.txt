@@ -1,0 +1,10 @@
+Fliff check: Connor McDavid UNDER 3.5 (DK -150, Fliff at -128 or better) - model +8.2 pts vs no-vig; recent +19.0 pts
+   evidence: Connor McDavid U3.5: agrees 3 of 7 (champion +8.2 pts; challenger +6.7 pts; opponent allows -4% to F_top6+PP1); against: shrunk form -0.8 pts; TOI last 5 +0.6 min vs season; on PP1; no-vig moved 2.9 pts away from side since open
+Fliff check: Brayden McNabb UNDER 1.5 (DK -190, Fliff at -158 or better) - model +5.0 pts vs no-vig; recent +16.8 pts
+   evidence: Brayden McNabb U1.5: agrees 4 of 7 (champion +5.0 pts; challenger +7.1 pts; opponent allows -4% to D; no-vig moved 5.4 pts toward side since open); against: shrunk form -0.8 pts
+Fliff check: Mark Stone UNDER 2.5 (DK -165, Fliff at -138 or better) - model +5.5 pts vs no-vig; recent +6.4 pts
+   evidence: Mark Stone U2.5: agrees 4 of 7 (champion +5.5 pts; challenger +7.0 pts; shrunk form +10.3 pts; no-vig moved 7.8 pts toward side since open); against: on PP1
+Fliff check: Bryan Rust UNDER 1.5 (DK +135, Fliff at +150 or better) - model +5.0 pts vs no-vig; recent +14.8 pts
+   evidence: Bryan Rust U1.5: agrees 3 of 7 (champion +5.0 pts; challenger +1.6 pts; opponent allows -8% to F_top6); against: shrunk form -3.3 pts; no-vig moved 21.3 pts away from side since open
+Fliff check: Mitch Marner OVER 2.5 (DK +145, Fliff at +160 or better) - model +6.1 pts vs no-vig; recent +5.2 pts
+   evidence: Mitch Marner O2.5: agrees 4 of 7 (champion +6.1 pts; challenger +5.0 pts; shrunk form +1.8 pts; on PP1); against: no-vig moved 2.2 pts away from side since open

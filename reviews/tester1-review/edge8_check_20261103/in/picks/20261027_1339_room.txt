@@ -1,0 +1,26 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 1:30 PM PT window pass (Tue Oct 27; run 1:39 PM PT), DraftKings lines captured about 1:30 PM PT. Six games, all 5:00 PM PT (200 min out at run time): Boston Bruins at Carolina Hurricanes, Los Angeles Kings at Chicago Blackhawks, Montreal Canadiens at St. Louis Blues, New York Islanders at Nashville Predators, New Jersey Devils at Dallas Stars, Florida Panthers at Winnipeg Jets. Columbus at Philadelphia was already posted by the 1:00 PM pass and was not re-scored.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (106 lines up).
+
+Fliff check (2, plus 3 skipped for a stale lineup). None is a bet right now: Fliff is worse than shop-at on Stankoven, hasn't posted Scheifele's game yet, and both DK prices are worse than their shop-at.
+1. Logan Stankoven (CAR F), Boston Bruins at Carolina Hurricanes (5:00 PM PT), OVER 2.5 shots on goal
+   DK now: +110 (opened +120), no-vig 44.3%, model 50.2%, recent form 68.2% (shot rate last 10 x TOI last 5). Shop-at (worst acceptable): +125 on Fliff and DraftKings. PrizePicks: none.
+   Last 5: 5 of 5 over 2.5 (shots 5, 3, 5, 5, 5).
+   Role: Hurricanes forward, today line 2 and PP2 (no change; Hurricanes DailyFaceoff lineup updated 12:29 PM PT today). TOI last 5 17.6 min vs 16.7 over last 30. BOS allows +4% to top-six forwards.
+   Evidence: agrees 5 of 7 (champion +6.0 pts; challenger +6.1 pts; shrunk form +8.9 pts; opponent +4%; no-vig moved 1.8 pts toward the over since open); nothing against.
+   Fliff: +105, worse than +125. DK +110 is also worse than +125, so not a bet.
+2. Mark Scheifele (WPG F), Florida Panthers at Winnipeg Jets (5:00 PM PT), OVER 1.5 shots on goal
+   DK now: -170 (opened -150), no-vig 58.6%, model 65.0%, recent form 73.7%. Shop-at: -143 on Fliff and DraftKings. PrizePicks: qualifies for power2/3 and flex3-6.
+   Last 5: 4 of 5 over 1.5 (shots 1, 3, 2, 2, 7).
+   Role: Jets forward, today line 1 and PP1 (no change; Jets DailyFaceoff lineup updated 9:08 AM PT today). TOI last 5 22.1 min vs 21.7 over last 30.
+   Evidence: agrees 5 of 7 (champion +6.4 pts; challenger +3.2 pts; shrunk form +8.0 pts; on PP1; no-vig moved 2.9 pts toward the over since open); against: FLA allows 6% fewer to top-six PP1 forwards.
+   Fliff: not posted yet for this game. DK -170 is worse than -143, so not a DK bet. If you play it on PrizePicks, it qualifies for power2/3 and flex3-6.
+Skipped (stale lineup): Timo Meier OVER 2.5 (DK -105, shop-at +109, 4 of 7), Jesper Bratt OVER 1.5 (DK -140, shop-at -121, 4 of 7) and Jack Hughes OVER 2.5 (DK -150, shop-at -127, 5 of 7), all New Jersey Devils at Dallas Stars. The scripts list them as Fliff checks, but the Devils' DailyFaceoff lineup was last updated Mon Oct 26 8:56 AM PT, about 29 hours ago, so the approved skip-if-lineup-older-than-12h rule applies. Testers: object if you read that rule differently.
+Correlation: Stankoven and Scheifele are in different games, so no same-game link.
+Fliff credits: 3 of 10 used today (2 this pass, one per game for the two eligible sides only); 104 left on the account.
+
+Vetoes: 10 sides with a 5+ point edge were skipped by the role/lineup-slot check. Overs dropped for demotions: Elias Lindholm, Frondell, Buchnevich, Rodrigues, Mercer (all down to the 3rd line). Unders dropped for promotions (locked script rule): Dobson, Kapanen, Hoglander, Eklund, Kiviranta. None had positive DK EV.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261027_D_1339_picks.xlsx (colors only show in Excel or Google Sheets).

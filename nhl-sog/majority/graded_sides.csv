@@ -1,0 +1,155 @@
+date,list_id,appeared_on,game,gameId,nhl_id,player,side,line,agrees_n,dk_price,fliff_price,fliff_status,price,price_source,in_band,actual,game_finished,result,units
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8485414,Ben Kindel,UNDER,2.5,4,-190,,,-190,dk,False,0.0,True,W,0.526316
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8479325,Charlie McAvoy,UNDER,1.5,4,110,,,110,dk,True,1.0,True,W,1.1
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8477956,David Pastrnak,OVER,3.5,5,100,,,100,dk,True,4.0,True,W,1.0
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8482475,Egor Chinakhov,OVER,1.5,5,-175,,,-175,dk,False,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8477496,Elias Lindholm,OVER,1.5,4,-135,,,-135,dk,True,3.0,True,W,0.740741
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8474578,Erik Karlsson,OVER,2.5,4,140,,,140,dk,True,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8471215,Evgeni Malkin,OVER,1.5,4,-150,,,-150,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8481582,Nick Robertson,OVER,1.5,4,100,,,100,dk,True,2.0,True,W,1.0
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8478401,Pavel Zacha,OVER,1.5,5,-120,,,-120,dk,True,2.0,True,W,0.833333
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8476483,Rickard Rakell,OVER,2.5,5,-110,,,-110,dk,True,3.0,True,W,0.909091
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8471675,Sidney Crosby,OVER,2.5,4,140,,,140,dk,True,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Boston Bruins at Pittsburgh Penguins,2026020257,8478438,Tommy Novak,OVER,1.5,4,-160,,,-160,dk,False,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Carolina Hurricanes at New York Islanders,2026020255,8475170,Brayden Schenn,OVER,1.5,4,125,,,125,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Carolina Hurricanes at New York Islanders,2026020255,8482476,Emil Heineman,UNDER,1.5,4,-155,,,-155,dk,False,1.0,True,W,0.645161
+20261105,20261105_1239,20261105_1239,Carolina Hurricanes at New York Islanders,2026020255,8485366,Matthew Schaefer,OVER,2.5,5,-110,,,-110,dk,True,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Carolina Hurricanes at New York Islanders,2026020255,8478427,Sebastian Aho,OVER,2.5,5,100,,,100,dk,True,4.0,True,W,1.0
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8478519,Anthony Cirelli,OVER,1.5,4,-165,,,-165,dk,False,2.0,True,W,0.606061
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8485391,Anton Frondell,OVER,1.5,4,-150,,,-150,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8478010,Brayden Point,OVER,2.5,4,110,,,110,dk,True,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8480426,Charle-Edouard D'Astous,UNDER,1.5,4,-125,,,-125,dk,True,1.0,True,W,0.8
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8484144,Connor Bedard,OVER,2.5,5,-115,,,-115,dk,True,4.0,True,W,0.869565
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8483493,Frank Nazar,OVER,1.5,5,-120,,,-120,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8477404,Jake Guentzel,OVER,2.5,5,-150,,,-150,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8484390,Roman Kantserov,UNDER,1.5,5,-110,,,-110,dk,True,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Chicago Blackhawks at Tampa Bay Lightning,2026020253,8477479,Tyler Bertuzzi,UNDER,1.5,4,-190,,,-190,dk,False,0.0,True,W,0.526316
+20261105,20261105_1239,20261105_1239,Dallas Stars at Columbus Blue Jackets,2026020258,8482660,Kent Johnson,UNDER,1.5,4,100,,,100,dk,True,3.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Dallas Stars at Columbus Blue Jackets,2026020258,8482720,Matthew Knies,UNDER,1.5,5,-125,,not offered on Fliff (no Fliff shots market posted for this game yet),-125,dk,True,1.0,True,W,0.8
+20261105,20261105_1239,20261105_1239,Dallas Stars at Columbus Blue Jackets,2026020258,8478449,Roope Hintz,OVER,1.5,4,-155,,,-155,dk,False,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Dallas Stars at Columbus Blue Jackets,2026020258,8482740,Wyatt Johnston,UNDER,2.5,4,-155,,,-155,dk,False,3.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8479323,Adam Fox,OVER,1.5,4,-105,,,-105,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8482073,Braden Schneider,UNDER,1.5,4,-185,,,-185,dk,False,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8484142,Denver Barkey,UNDER,1.5,4,-195,,,-195,dk,False,0.0,True,W,0.512821
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8482142,Jamie Drysdale,OVER,1.5,4,120,,,120,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8484387,Matvei Michkov,OVER,1.5,5,-150,,,-150,dk,True,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8476459,Mika Zibanejad,OVER,2.5,4,130,,,130,dk,True,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8484148,Oliver Bonk,UNDER,1.5,5,-165,,not offered on Fliff (no Fliff shots market posted for this game yet),-165,dk,False,1.0,True,W,0.606061
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8485406,Porter Martone,OVER,1.5,6,-105,,,-105,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8481533,Trevor Zegras,OVER,1.5,5,-140,,,-140,dk,True,3.0,True,W,0.714286
+20261105,20261105_1239,20261105_1239,Philadelphia Flyers at New York Rangers,2026020256,8478882,Vladislav Gavrikov,UNDER,1.5,5,-160,,,-160,dk,False,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8476462,Dougie Hamilton,OVER,2.5,4,130,,,130,dk,True,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8482077,Dylan Holloway,OVER,1.5,4,-180,,,-180,dk,False,3.0,True,W,0.555556
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8481559,Jack Hughes,OVER,3.5,4,-125,,,-125,dk,True,6.0,True,W,0.8
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8479407,Jesper Bratt,OVER,1.5,4,-185,,,-185,dk,False,2.0,True,W,0.540541
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8483516,Jimmy Snuggerud,UNDER,2.5,4,-195,,,-195,dk,False,2.0,True,W,0.512821
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8482684,Luke Hughes,OVER,2.5,4,125,,,125,dk,True,2.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8482745,Mason McTavish,UNDER,2.5,4,-175,,,-175,dk,False,4.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8481598,Philip Broberg,OVER,1.5,4,-105,,,-105,dk,True,3.0,True,W,0.952381
+20261105,20261105_1239,20261105_1239,St. Louis Blues at New Jersey Devils,2026020254,8480023,Robert Thomas,UNDER,1.5,4,-175,,,-175,dk,False,4.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8479343,Clayton Keller,OVER,2.5,6,115,,,115,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8481540,Cole Caufield,UNDER,2.5,4,110,,,110,dk,True,6.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8483515,Juraj Slafkovsky,UNDER,2.5,5,-180,,,-180,dk,False,4.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8483457,Lane Hutson,UNDER,1.5,6,-120,,not offered on Fliff (no Fliff shots market posted for this game yet),-120,dk,True,3.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8483431,Logan Cooley,UNDER,2.5,4,-190,,,-190,dk,False,3.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8477346,MacKenzie Weegar,OVER,1.5,4,-155,,,-155,dk,False,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8479410,Mikhail Sergachev,OVER,1.5,5,-185,,,-185,dk,False,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8476389,Vincent Trocheck,OVER,1.5,4,-140,,,-140,dk,True,1.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Utah Mammoth at Montreal Canadiens,2026020251,8482737,Zack Bolduc,UNDER,1.5,4,-140,,not offered on Fliff (no Fliff shots market posted for this game yet),-140,dk,True,4.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8479353,Brett Howden,UNDER,1.5,4,-165,,,-165,dk,False,1.0,True,W,0.606061
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8484471,Emmitt Finnie,OVER,1.5,4,-145,,,-145,dk,True,2.0,True,W,0.689655
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8478403,Jack Eichel,OVER,2.5,4,110,,,110,dk,True,4.0,True,W,1.1
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8482078,Lucas Raymond,OVER,2.5,5,105,,,105,dk,True,3.0,True,W,1.05
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8475913,Mark Stone,OVER,1.5,4,-160,,,-160,dk,False,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8484794,Michael Brandsegg-Nygard,OVER,1.5,4,-110,,,-110,dk,True,0.0,True,L,-1.0
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8478483,Mitch Marner,OVER,1.5,5,-190,,,-190,dk,False,3.0,True,W,0.526316
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8481542,Moritz Seider,OVER,1.5,6,-160,,,-160,dk,False,2.0,True,W,0.625
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8478397,Rasmus Andersson,OVER,1.5,4,120,,,120,dk,True,4.0,True,W,1.2
+20261105,20261105_1239,20261105_1239,Vegas Golden Knights at Detroit Red Wings,2026020252,8476881,Tomas Hertl,UNDER,1.5,4,135,,,135,dk,True,2.0,True,L,-1.0
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8479323,Adam Fox,UNDER,1.5,4,-120,,,-120,dk,True,3.0,True,L,-1.0
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8478402,Connor McDavid,OVER,3.5,4,130,,,130,dk,True,4.0,True,W,1.3
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8476473,Connor Murphy,UNDER,1.5,4,-230,,,-230,dk,False,1.0,True,W,0.434783
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8480803,Evan Bouchard,UNDER,2.5,5,100,,not offered on Fliff (no Fliff shots market posted for this game yet),100,dk,True,1.0,True,W,1.0
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8476468,J.T. Miller,OVER,1.5,4,-140,,,-140,dk,True,4.0,True,W,0.714286
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8477953,Kasperi Kapanen,UNDER,1.5,4,-110,,not offered on Fliff (no Fliff shots market posted for this game yet),-110,dk,True,0.0,True,W,0.909091
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8476459,Mika Zibanejad,OVER,1.5,4,-180,,,-180,dk,False,1.0,True,L,-1.0
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8481604,Pavel Dorofeyev,UNDER,2.5,4,-120,,not offered on Fliff (no Fliff shots market posted for this game yet),-120,dk,True,6.0,True,L,-1.0
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8476454,Ryan Nugent-Hopkins,UNDER,2.5,5,-190,,,-190,dk,False,1.0,True,W,0.526316
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8481617,Vasily Podkolzin,UNDER,1.5,5,-110,,not offered on Fliff (no Fliff shots market posted for this game yet),-110,dk,True,1.0,True,W,0.909091
+20261109,20261109_1401,"20261109_1401,20261109_1512",New York Rangers at Edmonton Oilers,2026020283,8475786,Zach Hyman,UNDER,2.5,4,-165,,,-165,dk,False,1.0,True,W,0.606061
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8477989,Christian Dvorak,UNDER,1.5,4,-110,,,-110,dk,True,0.0,True,W,0.909091
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8480012,Elias Pettersson,OVER,1.5,4,-140,,,-140,dk,True,1.0,True,L,-1.0
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8479425,Filip Hronek,OVER,1.5,5,-105,,,-105,dk,True,0.0,True,L,-1.0
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8483476,Jonathan Lekkerimaki,UNDER,1.5,4,105,,,105,dk,True,2.0,True,L,-1.0
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8484387,Matvei Michkov,OVER,1.5,4,-170,,,-170,dk,False,2.0,True,W,0.588235
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8485406,Porter Martone,OVER,1.5,5,-150,,,-150,dk,True,4.0,True,W,0.666667
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8478439,Travis Konecny,OVER,1.5,4,-160,,,-160,dk,False,1.0,True,L,-1.0
+20261109,20261109_1509,"20261109_1509,20261109_1512",Philadelphia Flyers at Vancouver Canucks,2026020284,8481533,Trevor Zegras,OVER,1.5,5,-175,,,-175,dk,False,1.0,True,L,-1.0
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8475170,Brayden Schenn,OVER,1.5,4,-120,,,-120,dk,True,1.0,True,L,-1.0
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8482476,Emil Heineman,UNDER,1.5,4,-105,-115.0,offered,-115,fliff,True,2.0,True,L,-1.0
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8476885,Jacob Trouba,UNDER,1.5,4,110,,,110,dk,True,0.0,True,W,1.1
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8478975,Mason Marchment,OVER,1.5,4,-115,,,-115,dk,True,4.0,True,W,0.869565
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8485366,Matthew Schaefer,OVER,3.5,5,120,,,120,dk,True,5.0,True,W,1.2
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8481601,Simon Holmstrom,OVER,1.5,4,-145,,,-145,dk,True,2.0,True,W,0.689655
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8475726,Tyler Toffoli,OVER,1.5,4,-140,,,-140,dk,True,3.0,True,W,0.714286
+20261109,20261109_1537,20261109_1537,New York Islanders at San Jose Sharks,2026020285,8485388,Victor Eklund,UNDER,1.5,4,-115,,,-115,dk,True,2.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8470613,Brent Burns,OVER,1.5,4,-130,,,-130,dk,True,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8475754,Brock Nelson,OVER,1.5,4,-135,,,-135,dk,True,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8480069,Cale Makar,OVER,2.5,4,-155,,,-155,dk,False,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8478178,Darren Raddysh,UNDER,2.5,4,-125,-140.0,offered,-140,fliff,True,2.0,True,W,0.714286
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8478038,Devon Toews,OVER,1.5,4,-150,,,-150,dk,True,2.0,True,W,0.666667
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8480039,Martin Necas,UNDER,2.5,4,-120,,,-120,dk,True,2.0,True,W,0.833333
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8475172,Nazem Kadri,OVER,2.5,4,-115,,,-115,dk,True,5.0,True,W,0.869565
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8484258,Sam Malinski,UNDER,1.5,4,115,,,115,dk,True,2.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Colorado Avalanche at Toronto Maple Leafs,2026020286,8486171,T.J. Hughes,OVER,2.5,5,125,,,125,dk,True,0.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8480074,Alexandre Texier,UNDER,1.5,4,-125,,,-125,dk,True,3.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8476399,Blake Coleman,OVER,1.5,4,-145,,not offered on Fliff (no Fliff shots market posted for this game yet),-145,dk,True,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8481553,Bobby Brink,OVER,1.5,4,130,,,130,dk,True,5.0,True,W,1.3
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8478493,Joel Eriksson Ek,OVER,2.5,5,-130,,,-130,dk,True,2.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8483515,Juraj Slafkovsky,UNDER,2.5,4,-180,,,-180,dk,False,1.0,True,W,0.555556
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8478864,Kirill Kaprizov,OVER,2.5,5,-175,,,-175,dk,False,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8480018,Nick Suzuki,OVER,2.5,4,130,,,130,dk,True,3.0,True,W,1.3
+20261110,20261110_1304,20261110_1304,Minnesota Wild at Montreal Canadiens,2026020287,8480800,Quinn Hughes,OVER,2.5,5,120,,,120,dk,True,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8482149,Cole Perfetti,UNDER,2.5,4,-130,,,-130,dk,True,0.0,True,W,0.769231
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8476462,Dougie Hamilton,OVER,2.5,4,140,,,140,dk,True,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8478542,Evan Rodrigues,OVER,1.5,4,100,,,100,dk,True,2.0,True,W,1.0
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8480014,Gabriel Vilardi,UNDER,1.5,4,115,,,115,dk,True,1.0,True,W,1.15
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8479407,Jesper Bratt,OVER,1.5,5,-190,,,-190,dk,False,2.0,True,W,0.526316
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8482146,Luke Evangelista,OVER,1.5,4,-190,,,-190,dk,False,3.0,True,W,0.526316
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8482684,Luke Hughes,OVER,1.5,4,-195,,,-195,dk,False,0.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8476460,Mark Scheifele,OVER,1.5,5,-195,,,-195,dk,False,0.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8480002,Nico Hischier,UNDER,2.5,4,-185,,,-185,dk,False,1.0,True,W,0.540541
+20261110,20261110_1304,20261110_1304,New Jersey Devils at Winnipeg Jets,2026020291,8478414,Timo Meier,OVER,2.5,5,-165,,,-165,dk,False,3.0,True,W,0.606061
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8481656,Aliaksei Protas,UNDER,1.5,4,-135,,,-135,dk,True,1.0,True,W,0.740741
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8480208,Drake Batherson,UNDER,2.5,4,-180,,,-180,dk,False,1.0,True,W,0.555556
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8478440,Dylan Strome,UNDER,1.5,4,110,,,110,dk,True,0.0,True,W,1.1
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8479345,Jakob Chychrun,UNDER,2.5,4,-120,,,-120,dk,True,2.0,True,W,0.833333
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8479385,Jordan Kyrou,UNDER,1.5,4,140,,,140,dk,True,0.0,True,W,1.4
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8482092,Ridly Greig,UNDER,1.5,4,-125,,,-125,dk,True,2.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8482116,Tim Stutzle,OVER,2.5,4,135,,,135,dk,True,1.0,True,L,-1.0
+20261110,20261110_1304,20261110_1304,Washington Capitals at Ottawa Senators,2026020288,8476880,Tom Wilson,UNDER,1.5,5,100,,,100,dk,True,0.0,True,W,1.0
+20261110,20261110_1339,20261110_1339,Detroit Red Wings at St. Louis Blues,2026020290,8477429,Andrew Copp,UNDER,1.5,4,-125,,,-125,dk,True,3.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Detroit Red Wings at St. Louis Blues,2026020290,8484471,Emmitt Finnie,OVER,1.5,4,-155,,,-155,dk,False,2.0,True,W,0.645161
+20261110,20261110_1339,20261110_1339,Detroit Red Wings at St. Louis Blues,2026020290,8484794,Michael Brandsegg-Nygard,UNDER,1.5,4,-105,,,-105,dk,True,1.0,True,W,0.952381
+20261110,20261110_1339,20261110_1339,Detroit Red Wings at St. Louis Blues,2026020290,8481542,Moritz Seider,OVER,1.5,4,-170,,,-170,dk,False,6.0,True,W,0.588235
+20261110,20261110_1339,20261110_1339,Detroit Red Wings at St. Louis Blues,2026020290,8477402,Pavel Buchnevich,UNDER,1.5,4,-110,,,-110,dk,True,3.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8477932,Aaron Ekblad,OVER,1.5,4,135,,,135,dk,True,0.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8477409,Carter Verhaeghe,OVER,2.5,5,110,,,110,dk,True,4.0,True,W,1.1
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8475745,Charlie Coyle,UNDER,1.5,4,100,,,100,dk,True,2.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8478055,Gustav Forsling,OVER,1.5,4,120,,,120,dk,True,2.0,True,W,1.2
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8482660,Kent Johnson,OVER,1.5,4,-165,,,-165,dk,False,0.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8479671,Mathieu Olivier,UNDER,1.5,5,-120,,,-120,dk,True,2.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8482720,Matthew Knies,UNDER,1.5,5,-120,,,-120,dk,True,2.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8477497,Sean Monahan,UNDER,1.5,6,-175,,,-175,dk,False,3.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8477495,Seth Jones,OVER,1.5,6,-155,,,-155,dk,False,0.0,True,L,-1.0
+20261110,20261110_1339,20261110_1339,Florida Panthers at Columbus Blue Jackets,2026020289,8477501,Valeri Nichushkin,OVER,1.5,4,-105,,,-105,dk,True,4.0,True,W,0.952381
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8482482,Adam Wilsby,UNDER,1.5,4,-180,,,-180,dk,False,1.0,True,W,0.555556
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8477960,Adrian Kempe,UNDER,3.5,4,-170,,,-170,dk,False,3.0,True,W,0.588235
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8482155,Alex Laferriere,OVER,2.5,4,-165,,,-165,dk,False,5.0,True,W,0.606061
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8478550,Artemi Panarin,OVER,2.5,5,-175,,,-175,dk,False,3.0,True,W,0.571429
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8482730,Brandt Clarke,UNDER,1.5,4,110,,,110,dk,True,3.0,True,L,-1.0
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8470621,Corey Perry,OVER,1.5,4,-130,,,-130,dk,True,1.0,True,L,-1.0
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8482145,Mavrik Bourque,UNDER,2.5,5,-155,,,-155,dk,False,5.0,True,L,-1.0
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8482124,Quinton Byfield,OVER,2.5,4,-105,,,-105,dk,True,4.0,True,W,0.952381
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8476872,Scott Laughton,OVER,1.5,4,145,,,145,dk,True,1.0,True,L,-1.0
+20261110,20261110_1535,20261110_1535,Nashville Predators at Los Angeles Kings,2026020292,8479675,Trevor Moore,OVER,1.5,4,-155,,,-155,dk,False,1.0,True,L,-1.0

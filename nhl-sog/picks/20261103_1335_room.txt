@@ -1,0 +1,14 @@
+**NO BETS** this pass. NHL shots on goal, Tue Nov 3 1:30 PM window pass (fired 1:34, run 1:35 PM PT), DraftKings lines captured 1:35 PM PT. One game in the window: Carolina at Nashville, 5:00 PM PT (205 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 17 lines.
+
+Fliff check: one side cleared the 5-point edge floor, but it can't be bet.
+- Andrei Svechnikov (Carolina) under 2.5 (Carolina at Nashville), 4 of 7 agree (champion +5.4 pts, challenger +2.8, shrunk form +6.4, no-vig moved 2.0 pts toward the under since open; against: Nashville allows 6% more shots to top-6 forwards on PP1, and he's on PP1), DK -115, Fliff -130, shop-at +101 or better. Last 5: 4 of 5 under (shots 1, 1, 2, 1, 3). Skipped: both prices worse than shop-at.
+No huge line moves.
+Correlation note: only one side, so no stacking concern.
+Fliff credits: 1 this pass (Carolina at Nashville); 5 of 10 used today.
+
+Lineups: both DailyFaceoff lineups are older than 12 hours (Carolina updated Nov 1 9:54 AM PT, Nashville Nov 2 9:30 AM PT), so the new last-game NHL.com fallback was used; all 17 players dressed last game and match a DailyFaceoff slot, so none were skipped for staleness.
+Vetoes: 0 injury vetoes (injury re-pull clean), 2 role-check demotions vetoing overs only (Mark Jankowski and Seth Jarvis, Carolina, both now 3rd line), 1 promotion vetoing the under (William Carrier, Carolina, now 1st line), 5 slot vetoes on overs (Steven Stamkos, Ryan O'Reilly, Roman Josi, Filip Forsberg, Mavrik Bourque, all Nashville), 0 unverified gates.
+Spreadsheet: /workspace/nhl-sog/sheets/20261103_D_1335_picks.xlsx (colors only show in Excel or Google Sheets).
+Later today: Anaheim at Vancouver, 6:00 PM PT.

@@ -1,0 +1,251 @@
+nhl_id,player,line,side,n_season,hits_season,n_l10,hits_l10,l10_from_last_season,nv_mine,nv_col,my_hit,my_hit_vig,games_on_or_after_date,max_gamedate_used,sig_x_hit,sig_x_books,agrees_n,agrees_all_n,tests_all_n,evidence_all_summary,their_hit
+8475314,Anders Lee,1.5,over,16,8,10,5,0,0.5941,0.5941,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 8 of 16 this season (50%), 5 of 10 last 10 (50%) vs no-vig 59%",-1
+8475314,Anders Lee,1.5,under,16,8,10,5,0,0.4059,0.40590000000000004,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 1.5 hit 8 of 16 this season (50%), 5 of 10 last 10 (50%) vs no-vig 41%)",1
+8476389,Vincent Trocheck,1.5,over,16,9,10,7,0,0.5385,0.5385,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8476389,Vincent Trocheck,1.5,under,16,7,10,3,0,0.4615,0.4615,0,-1,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8477346,MacKenzie Weegar,1.5,over,16,9,10,5,0,0.5665,0.5665,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8477346,MacKenzie Weegar,1.5,under,16,7,10,5,0,0.4335,0.4335,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8477951,Nick Schmaltz,2.5,over,16,9,10,4,0,0.422,0.422,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8477951,Nick Schmaltz,2.5,under,16,7,10,6,0,0.578,0.5780000000000001,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8478474,Lawson Crouse,1.5,over,16,5,10,3,0,0.4335,0.4335,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: over 1.5 hit 5 of 16 this season (31%), 3 of 10 last 10 (30%) vs no-vig 43%",-1
+8478474,Lawson Crouse,1.5,under,16,11,10,7,0,0.5665,0.5665,1,1,2,2026-11-03,+,0,0,1,9,"with new tests: agrees 1 of 9 (new: under 1.5 hit 11 of 16 this season (69%), 7 of 10 last 10 (70%) vs no-vig 57%)",1
+8479343,Clayton Keller,2.5,over,16,8,10,5,0,0.4335,0.4335,1,0,2,2026-11-03,+,0,6,7,9,"with new tests: agrees 7 of 9 (new: over 2.5 hit 8 of 16 this season (50%), 5 of 10 last 10 (50%) vs no-vig 43%)",1
+8479343,Clayton Keller,2.5,under,16,8,10,5,0,0.5665,0.5665,-1,-1,2,2026-11-03,-,0,0,0,9,"with new tests: agrees 0 of 9; new against: under 2.5 hit 8 of 16 this season (50%), 5 of 10 last 10 (50%) vs no-vig 57%",-1
+8479410,Mikhail Sergachev,1.5,over,16,13,10,8,0,0.6091,0.6091,1,1,2,2026-11-03,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: over 1.5 hit 13 of 16 this season (81%), 8 of 10 last 10 (80%) vs no-vig 61%)",1
+8479410,Mikhail Sergachev,1.5,under,16,3,10,2,0,0.3909,0.3909,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 1.5 hit 3 of 16 this season (19%), 2 of 10 last 10 (20%) vs no-vig 39%",-1
+8480074,Alexandre Texier,1.5,over,15,6,10,5,0,0.3909,0.3909,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8480074,Alexandre Texier,1.5,under,15,9,10,5,0,0.6091,0.6091,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8480849,Barrett Hayton,1.5,over,16,9,10,6,0,0.5575,0.5575,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8480849,Barrett Hayton,1.5,under,16,7,10,4,0,0.4425,0.4425,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8480865,Noah Dobson,1.5,over,15,10,10,8,0,0.5347,0.5347,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 1.5 hit 10 of 15 this season (67%), 8 of 10 last 10 (80%) vs no-vig 53%)",1
+8480865,Noah Dobson,1.5,under,15,5,10,2,0,0.4653,0.46530000000000005,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 1.5 hit 5 of 15 this season (33%), 2 of 10 last 10 (20%) vs no-vig 47%",-1
+8481540,Cole Caufield,2.5,over,15,11,10,7,0,0.5575,0.5575,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 2.5 hit 11 of 15 this season (73%), 7 of 10 last 10 (70%) vs no-vig 56%)",1
+8481540,Cole Caufield,2.5,under,15,4,10,3,0,0.4425,0.4425,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: under 2.5 hit 4 of 15 this season (27%), 3 of 10 last 10 (30%) vs no-vig 44%",-1
+8482699,Dylan Guenther,2.5,over,16,7,10,3,0,0.5446,0.5446,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: over 2.5 hit 7 of 16 this season (44%), 3 of 10 last 10 (30%) vs no-vig 54%",-1
+8482699,Dylan Guenther,2.5,under,16,9,10,7,0,0.4554,0.4554,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 2.5 hit 9 of 16 this season (56%), 7 of 10 last 10 (70%) vs no-vig 46%)",1
+8482737,Zack Bolduc,1.5,over,15,7,10,3,0,0.4554,0.4554,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8482737,Zack Bolduc,1.5,under,15,8,10,7,0,0.5446,0.5446,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8483515,Juraj Slafkovsky,2.5,over,15,6,10,4,0,0.3983,0.3983,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8483515,Juraj Slafkovsky,2.5,under,15,9,10,6,0,0.6017,0.6017,0,0,2,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8483431,Logan Cooley,2.5,over,16,5,10,5,0,0.3887,0.3887,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8483431,Logan Cooley,2.5,under,16,11,10,5,0,0.6113,0.6113,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8483457,Lane Hutson,1.5,over,15,8,10,4,0,0.4899,0.4899,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8483457,Lane Hutson,1.5,under,15,7,10,6,0,0.5101,0.5101,0,0,2,2026-11-03,0,0,6,6,9,with new tests: agrees 6 of 9,0
+8475913,Mark Stone,1.5,over,17,10,10,6,0,0.5752,0.5752,0,0,1,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8475913,Mark Stone,1.5,under,17,7,10,4,0,0.4248,0.42479999999999996,0,0,1,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8475753,Justin Faulk,1.5,over,16,5,10,2,0,0.4459,0.4459,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 5 of 16 this season (31%), 2 of 10 last 10 (20%) vs no-vig 45%",-1
+8475753,Justin Faulk,1.5,under,16,11,10,8,0,0.5541,0.5541,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 1.5 hit 11 of 16 this season (69%), 8 of 10 last 10 (80%) vs no-vig 55%)",1
+8476448,William Karlsson,1.5,over,17,7,10,3,0,0.4951,0.4951,-1,-1,1,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 1.5 hit 7 of 17 this season (41%), 3 of 10 last 10 (30%) vs no-vig 50%",-1
+8476448,William Karlsson,1.5,under,17,10,10,7,0,0.5049,0.5049,1,0,1,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 1.5 hit 10 of 17 this season (59%), 7 of 10 last 10 (70%) vs no-vig 50%)",1
+8476881,Tomas Hertl,1.5,over,17,13,10,8,0,0.6017,0.6017,1,1,1,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 1.5 hit 13 of 17 this season (76%), 8 of 10 last 10 (80%) vs no-vig 60%)",1
+8476881,Tomas Hertl,1.5,under,17,4,10,2,0,0.3983,0.3983,-1,-1,1,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: under 1.5 hit 4 of 17 this season (24%), 2 of 10 last 10 (20%) vs no-vig 40%",-1
+8477447,Shea Theodore,1.5,over,17,9,10,5,0,0.4754,0.4754,0,0,1,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8477447,Shea Theodore,1.5,under,17,8,10,5,0,0.5246,0.5246,0,-1,1,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8477429,Andrew Copp,1.5,over,16,7,10,3,0,0.4165,0.4165,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8477429,Andrew Copp,1.5,under,16,9,10,7,0,0.5835,0.5835,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8478042,Viktor Arvidsson,2.5,over,16,9,10,5,0,0.4853,0.4853,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8478042,Viktor Arvidsson,2.5,under,16,7,10,5,0,0.5147,0.5146999999999999,0,-1,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8478403,Jack Eichel,2.5,over,17,6,10,4,0,0.4459,0.4459,0,-1,1,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8478403,Jack Eichel,2.5,under,17,11,10,6,0,0.5541,0.5541,0,0,1,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8478483,Mitch Marner,1.5,over,15,9,10,5,0,0.6113,0.6113,0,-1,1,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8478483,Mitch Marner,1.5,under,15,6,10,5,0,0.3887,0.38870000000000005,0,0,1,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8478397,Rasmus Andersson,1.5,over,17,12,10,7,0,0.4248,0.4248,1,1,1,2026-11-03,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: over 1.5 hit 12 of 17 this season (71%), 7 of 10 last 10 (70%) vs no-vig 42%)",1
+8478397,Rasmus Andersson,1.5,under,17,5,10,3,0,0.5752,0.5751999999999999,-1,-1,1,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 1.5 hit 5 of 17 this season (29%), 3 of 10 last 10 (30%) vs no-vig 58%",-1
+8479353,Brett Howden,1.5,over,17,7,10,3,0,0.422,0.422,0,0,1,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8479353,Brett Howden,1.5,under,17,10,10,7,0,0.578,0.5780000000000001,0,0,1,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8479337,Alex DeBrincat,3.5,over,16,9,10,6,0,0.4112,0.4112,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 3.5 hit 9 of 16 this season (56%), 6 of 10 last 10 (60%) vs no-vig 41%)",1
+8479337,Alex DeBrincat,3.5,under,16,7,10,4,0,0.5888,0.5888,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 3.5 hit 7 of 16 this season (44%), 4 of 10 last 10 (40%) vs no-vig 59%",-1
+8481542,Moritz Seider,1.5,over,16,11,10,7,0,0.5695,0.5695,1,1,2,2026-11-03,+,0,6,7,9,"with new tests: agrees 7 of 9 (new: over 1.5 hit 11 of 16 this season (69%), 7 of 10 last 10 (70%) vs no-vig 57%)",1
+8481542,Moritz Seider,1.5,under,16,5,10,3,0,0.4305,0.4305,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 1.5 hit 5 of 16 this season (31%), 3 of 10 last 10 (30%) vs no-vig 43%",-1
+8482078,Lucas Raymond,2.5,over,16,9,10,6,0,0.4554,0.4554,1,1,2,2026-11-03,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: over 2.5 hit 9 of 16 this season (56%), 6 of 10 last 10 (60%) vs no-vig 46%)",1
+8482078,Lucas Raymond,2.5,under,16,7,10,4,0,0.5446,0.5446,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 2.5 hit 7 of 16 this season (44%), 4 of 10 last 10 (40%) vs no-vig 54%",-1
+8484471,Emmitt Finnie,1.5,over,16,10,10,5,0,0.5541,0.5541,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8484471,Emmitt Finnie,1.5,under,16,6,10,5,0,0.4459,0.44589999999999996,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8484794,Michael Brandsegg-Nygard,1.5,over,16,8,10,4,0,0.4853,0.4853,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8484794,Michael Brandsegg-Nygard,1.5,under,16,8,10,6,0,0.5147,0.5146999999999999,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484803,Trevor Connelly,1.5,over,17,9,10,5,0,0.5347,0.5347,0,0,1,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484803,Trevor Connelly,1.5,under,17,8,10,5,0,0.4653,0.46530000000000005,0,0,1,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8474590,John Carlson,1.5,over,14,7,10,5,0,0.604,0.604,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: over 1.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 60%",-1
+8474590,John Carlson,1.5,under,14,7,10,5,0,0.396,0.396,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 1.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 40%)",1
+8476453,Nikita Kucherov,3.5,over,14,2,10,2,0,0.4165,0.4165,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 3.5 hit 2 of 14 this season (14%), 2 of 10 last 10 (20%) vs no-vig 42%",-1
+8476453,Nikita Kucherov,3.5,under,14,12,10,8,0,0.5835,0.5835,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 3.5 hit 12 of 14 this season (86%), 8 of 10 last 10 (80%) vs no-vig 58%)",1
+8477479,Tyler Bertuzzi,1.5,over,16,4,10,3,0,0.3887,0.3887,-1,-1,2,2026-11-04,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 1.5 hit 4 of 16 this season (25%), 3 of 10 last 10 (30%) vs no-vig 39%",-1
+8477479,Tyler Bertuzzi,1.5,under,16,12,10,7,0,0.6113,0.6113,1,0,2,2026-11-04,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: under 1.5 hit 12 of 16 this season (75%), 7 of 10 last 10 (70%) vs no-vig 61%)",1
+8477404,Jake Guentzel,2.5,over,14,6,10,4,0,0.5633,0.5633,-1,-1,2,2026-11-03,-,0,5,5,9,"with new tests: agrees 5 of 9; new against: over 2.5 hit 6 of 14 this season (43%), 4 of 10 last 10 (40%) vs no-vig 56%",-1
+8477404,Jake Guentzel,2.5,under,14,8,10,6,0,0.4367,0.4367,1,1,2,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 2.5 hit 8 of 14 this season (57%), 6 of 10 last 10 (60%) vs no-vig 44%)",1
+8478010,Brayden Point,2.5,over,14,7,10,5,0,0.4425,0.4425,1,0,2,2026-11-03,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: over 2.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 44%)",1
+8478010,Brayden Point,2.5,under,14,7,10,5,0,0.5575,0.5575,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 2.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 56%",-1
+8478519,Anthony Cirelli,1.5,over,14,5,10,3,0,0.5835,0.5835,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: over 1.5 hit 5 of 14 this season (36%), 3 of 10 last 10 (30%) vs no-vig 58%",-1
+8478519,Anthony Cirelli,1.5,under,14,9,10,7,0,0.4165,0.4165,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 1.5 hit 9 of 14 this season (64%), 7 of 10 last 10 (70%) vs no-vig 42%)",1
+8479542,Brandon Hagel,3.5,over,14,7,10,5,0,0.422,0.422,1,0,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 3.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 42%)",1
+8479542,Brandon Hagel,3.5,under,14,7,10,5,0,0.578,0.5780000000000001,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 3.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 58%",-1
+8480426,Charle-Edouard D'Astous,1.5,over,13,8,10,7,0,0.4797,0.4797,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 1.5 hit 8 of 13 this season (62%), 7 of 10 last 10 (70%) vs no-vig 48%)",1
+8480426,Charle-Edouard D'Astous,1.5,under,13,5,10,3,0,0.5203,0.5203,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: under 1.5 hit 5 of 13 this season (38%), 3 of 10 last 10 (30%) vs no-vig 52%",-1
+8483493,Frank Nazar,1.5,over,14,9,10,6,0,0.5049,0.5049,1,1,2,2026-11-04,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: over 1.5 hit 9 of 14 this season (64%), 6 of 10 last 10 (60%) vs no-vig 50%)",1
+8483493,Frank Nazar,1.5,under,14,5,10,4,0,0.4951,0.4951,-1,-1,2,2026-11-04,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 1.5 hit 5 of 14 this season (36%), 4 of 10 last 10 (40%) vs no-vig 50%",-1
+8481719,Max Crozier,1.5,over,8,6,10,8,2,0.5203,0.5203,1,1,1,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 1.5 hit 6 of 8 this season (75%), 8 of 10 last 10 (80%) vs no-vig 52%)",1
+8481719,Max Crozier,1.5,under,8,2,10,2,2,0.4797,0.4797,-1,-1,1,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 1.5 hit 2 of 8 this season (25%), 2 of 10 last 10 (20%) vs no-vig 48%",-1
+8484144,Connor Bedard,2.5,over,10,7,10,7,0,0.5,0.5,1,1,2,2026-11-04,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: over 2.5 hit 7 of 10 this season (70%), 7 of 10 last 10 (70%) vs no-vig 50%)",1
+8484144,Connor Bedard,2.5,under,10,3,10,3,0,0.5,0.5,-1,-1,2,2026-11-04,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 2.5 hit 3 of 10 this season (30%), 3 of 10 last 10 (30%) vs no-vig 50%",-1
+8484390,Roman Kantserov,1.5,over,16,8,10,5,0,0.5147,0.5147,0,-1,2,2026-11-04,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484390,Roman Kantserov,1.5,under,16,8,10,5,0,0.4853,0.48529999999999995,0,0,2,2026-11-04,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8485391,Anton Frondell,1.5,over,16,7,10,5,0,0.5575,0.5575,-1,-1,2,2026-11-04,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: over 1.5 hit 7 of 16 this season (44%), 5 of 10 last 10 (50%) vs no-vig 56%",-1
+8485391,Anton Frondell,1.5,under,16,9,10,5,0,0.4425,0.4425,1,0,2,2026-11-04,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 1.5 hit 9 of 16 this season (56%), 5 of 10 last 10 (50%) vs no-vig 44%)",1
+8476462,Dougie Hamilton,2.5,over,15,7,10,4,0,0.4059,0.4059,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8476462,Dougie Hamilton,2.5,under,15,8,10,6,0,0.5941,0.5941000000000001,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8477402,Pavel Buchnevich,1.5,over,14,7,10,5,0,0.4459,0.4459,1,0,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 1.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 45%)",1
+8477402,Pavel Buchnevich,1.5,under,14,7,10,5,0,0.5541,0.5541,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 1.5 hit 7 of 14 this season (50%), 5 of 10 last 10 (50%) vs no-vig 55%",-1
+8478542,Evan Rodrigues,1.5,over,15,4,10,3,0,0.5147,0.5147,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: over 1.5 hit 4 of 15 this season (27%), 3 of 10 last 10 (30%) vs no-vig 51%",-1
+8478542,Evan Rodrigues,1.5,under,15,11,10,7,0,0.4853,0.48529999999999995,1,1,2,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 1.5 hit 11 of 15 this season (73%), 7 of 10 last 10 (70%) vs no-vig 49%)",1
+8478414,Timo Meier,2.5,over,15,8,10,4,0,0.5446,0.5446,0,-1,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8478414,Timo Meier,2.5,under,15,7,10,6,0,0.4554,0.4554,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8480002,Nico Hischier,2.5,over,15,7,10,5,0,0.4335,0.4335,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8480002,Nico Hischier,2.5,under,15,8,10,5,0,0.5665,0.5665,0,-1,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8480023,Robert Thomas,1.5,over,15,7,10,5,0,0.4112,0.4112,1,0,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 1.5 hit 7 of 15 this season (47%), 5 of 10 last 10 (50%) vs no-vig 41%)",1
+8480023,Robert Thomas,1.5,under,15,8,10,5,0,0.5888,0.5888,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: under 1.5 hit 8 of 15 this season (53%), 5 of 10 last 10 (50%) vs no-vig 59%",-1
+8479407,Jesper Bratt,1.5,over,15,11,10,6,0,0.604,0.604,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8479407,Jesper Bratt,1.5,under,15,4,10,4,0,0.396,0.396,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8481559,Jack Hughes,3.5,over,15,7,10,5,0,0.5147,0.5147,0,-1,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8481559,Jack Hughes,3.5,under,15,8,10,5,0,0.4853,0.48529999999999995,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8481598,Philip Broberg,1.5,over,15,7,10,5,0,0.4754,0.4754,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8481598,Philip Broberg,1.5,under,15,8,10,5,0,0.5246,0.5246,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8481580,Connor McMichael,1.5,over,15,5,10,2,0,0.4248,0.4248,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 5 of 15 this season (33%), 2 of 10 last 10 (20%) vs no-vig 42%",-1
+8481580,Connor McMichael,1.5,under,15,10,10,8,0,0.5752,0.5751999999999999,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 1.5 hit 10 of 15 this season (67%), 8 of 10 last 10 (80%) vs no-vig 58%)",1
+8482077,Dylan Holloway,1.5,over,15,9,10,6,0,0.6017,0.6017,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8482077,Dylan Holloway,1.5,under,15,6,10,4,0,0.3983,0.3983,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8482089,Jake Neighbours,1.5,over,15,6,10,4,0,0.396,0.396,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8482089,Jake Neighbours,1.5,under,15,9,10,6,0,0.604,0.604,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8482146,Luke Evangelista,1.5,over,12,9,10,7,0,0.5862,0.5862,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 1.5 hit 9 of 12 this season (75%), 7 of 10 last 10 (70%) vs no-vig 59%)",1
+8482146,Luke Evangelista,1.5,under,12,3,10,3,0,0.4138,0.41379999999999995,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 1.5 hit 3 of 12 this season (25%), 3 of 10 last 10 (30%) vs no-vig 41%",-1
+8482745,Mason McTavish,2.5,over,15,8,10,4,0,0.4059,0.4059,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8482745,Mason McTavish,2.5,under,15,7,10,6,0,0.5941,0.5941000000000001,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8482684,Luke Hughes,2.5,over,15,6,10,2,0,0.4138,0.4138,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8482684,Luke Hughes,2.5,under,15,9,10,8,0,0.5862,0.5862,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8481721,Arseny Gritsyuk,1.5,over,15,9,10,5,0,0.604,0.604,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8481721,Arseny Gritsyuk,1.5,under,15,6,10,5,0,0.396,0.396,0,0,2,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8483516,Jimmy Snuggerud,2.5,over,15,6,10,3,0,0.3818,0.3818,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8483516,Jimmy Snuggerud,2.5,under,15,9,10,7,0,0.6182,0.6182000000000001,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8475170,Brayden Schenn,1.5,over,14,8,10,6,0,0.4165,0.4165,1,1,2,2026-10-31,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: over 1.5 hit 8 of 14 this season (57%), 6 of 10 last 10 (60%) vs no-vig 42%)",1
+8475170,Brayden Schenn,1.5,under,14,6,10,4,0,0.5835,0.5835,-1,-1,2,2026-10-31,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 1.5 hit 6 of 14 this season (43%), 4 of 10 last 10 (40%) vs no-vig 58%",-1
+8475151,Kyle Palmieri,1.5,over,14,10,10,7,0,0.6091,0.6091,1,1,2,2026-10-31,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 1.5 hit 10 of 14 this season (71%), 7 of 10 last 10 (70%) vs no-vig 61%)",1
+8475151,Kyle Palmieri,1.5,under,14,4,10,3,0,0.3909,0.3909,-1,-1,2,2026-10-31,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 1.5 hit 4 of 14 this season (29%), 3 of 10 last 10 (30%) vs no-vig 39%",-1
+8476906,Shayne Gostisbehere,1.5,over,17,9,10,5,0,0.4853,0.4853,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8476906,Shayne Gostisbehere,1.5,under,17,8,10,5,0,0.5147,0.5146999999999999,0,-1,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8477500,Bo Horvat,2.5,over,14,10,10,7,0,0.4951,0.4951,1,1,2,2026-10-31,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 2.5 hit 10 of 14 this season (71%), 7 of 10 last 10 (70%) vs no-vig 50%)",1
+8477500,Bo Horvat,2.5,under,14,4,10,3,0,0.5049,0.5049,-1,-1,2,2026-10-31,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 2.5 hit 4 of 14 this season (29%), 3 of 10 last 10 (30%) vs no-vig 50%",-1
+8477940,Nikolaj Ehlers,2.5,over,17,7,10,5,0,0.4459,0.4459,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8477940,Nikolaj Ehlers,2.5,under,17,10,10,5,0,0.5541,0.5541,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8478427,Sebastian Aho,2.5,over,17,10,10,6,0,0.4694,0.4694,1,1,2,2026-11-03,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: over 2.5 hit 10 of 17 this season (59%), 6 of 10 last 10 (60%) vs no-vig 47%)",1
+8478427,Sebastian Aho,2.5,under,17,7,10,4,0,0.5306,0.5306,-1,-1,2,2026-11-03,-,0,0,0,9,"with new tests: agrees 0 of 9; new against: under 2.5 hit 7 of 17 this season (41%), 4 of 10 last 10 (40%) vs no-vig 53%",-1
+8480336,Sean Walker,1.5,over,17,10,10,8,0,0.5147,0.5147,1,0,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: over 1.5 hit 10 of 17 this season (59%), 8 of 10 last 10 (80%) vs no-vig 51%)",1
+8480336,Sean Walker,1.5,under,17,7,10,2,0,0.4853,0.48529999999999995,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 1.5 hit 7 of 17 this season (41%), 2 of 10 last 10 (20%) vs no-vig 49%",-1
+8480830,Andrei Svechnikov,2.5,over,17,7,10,3,0,0.4754,0.4754,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 2.5 hit 7 of 17 this season (41%), 3 of 10 last 10 (30%) vs no-vig 48%",-1
+8480830,Andrei Svechnikov,2.5,under,17,10,10,7,0,0.5246,0.5246,1,0,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 2.5 hit 10 of 17 this season (59%), 7 of 10 last 10 (70%) vs no-vig 52%)",1
+8481601,Simon Holmstrom,1.5,over,14,7,10,7,0,0.4754,0.4754,0,0,2,2026-10-31,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8481601,Simon Holmstrom,1.5,under,14,7,10,3,0,0.5246,0.5246,0,-1,2,2026-10-31,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8482093,Seth Jarvis,2.5,over,6,4,10,5,4,0.4138,0.4138,1,1,2,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: over 2.5 hit 4 of 6 this season (67%), 5 of 10 last 10 (50%) vs no-vig 41%)",1
+8482093,Seth Jarvis,2.5,under,6,2,10,5,4,0.5862,0.5862,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 2.5 hit 2 of 6 this season (33%), 5 of 10 last 10 (50%) vs no-vig 59%",-1
+8482476,Emil Heineman,1.5,over,14,5,10,5,0,0.4335,0.4335,0,0,2,2026-10-31,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8482476,Emil Heineman,1.5,under,14,9,10,5,0,0.5665,0.5665,0,0,2,2026-10-31,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8482702,Logan Stankoven,2.5,over,17,12,10,8,0,0.4425,0.4425,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 2.5 hit 12 of 17 this season (71%), 8 of 10 last 10 (80%) vs no-vig 44%)",1
+8482702,Logan Stankoven,2.5,under,17,5,10,2,0,0.5575,0.5575,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 2.5 hit 5 of 17 this season (29%), 2 of 10 last 10 (20%) vs no-vig 56%",-1
+8482809,Jackson Blake,2.5,over,17,7,10,4,0,0.4459,0.4459,0,-1,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8482809,Jackson Blake,2.5,under,17,10,10,6,0,0.5541,0.5541,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8485366,Matthew Schaefer,2.5,over,14,8,10,6,0,0.4899,0.4899,1,0,2,2026-10-31,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: over 2.5 hit 8 of 14 this season (57%), 6 of 10 last 10 (60%) vs no-vig 49%)",1
+8485366,Matthew Schaefer,2.5,under,14,6,10,4,0,0.5101,0.5101,-1,-1,2,2026-10-31,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 2.5 hit 6 of 14 this season (43%), 4 of 10 last 10 (40%) vs no-vig 51%",-1
+8476459,Mika Zibanejad,2.5,over,16,6,10,4,0,0.4059,0.4059,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8476459,Mika Zibanejad,2.5,under,16,10,10,6,0,0.5941,0.5941000000000001,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8476468,J.T. Miller,1.5,over,16,7,10,4,0,0.578,0.578,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 7 of 16 this season (44%), 4 of 10 last 10 (40%) vs no-vig 58%",-1
+8476468,J.T. Miller,1.5,under,16,9,10,6,0,0.422,0.42200000000000004,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 1.5 hit 9 of 16 this season (56%), 6 of 10 last 10 (60%) vs no-vig 42%)",1
+8477989,Christian Dvorak,1.5,over,17,6,10,4,0,0.4459,0.4459,0,-1,1,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8477989,Christian Dvorak,1.5,under,17,11,10,6,0,0.5541,0.5541,0,0,1,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8478439,Travis Konecny,1.5,over,7,3,10,4,3,0.5347,0.5347,-1,-1,1,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 3 of 7 this season (43%), 4 of 10 last 10 (40%) vs no-vig 53%",-1
+8478439,Travis Konecny,1.5,under,7,4,10,6,3,0.4653,0.46530000000000005,1,1,1,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 1.5 hit 4 of 7 this season (57%), 6 of 10 last 10 (60%) vs no-vig 47%)",1
+8478882,Vladislav Gavrikov,1.5,over,16,6,10,3,0,0.4248,0.4248,0,-1,2,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8478882,Vladislav Gavrikov,1.5,under,16,10,10,7,0,0.5752,0.5751999999999999,0,0,2,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8479323,Adam Fox,1.5,over,16,7,10,6,0,0.4754,0.4754,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8479323,Adam Fox,1.5,under,16,9,10,4,0,0.5246,0.5246,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8480015,Owen Tippett,1.5,over,11,7,10,6,0,0.5888,0.5888,0,0,1,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8480015,Owen Tippett,1.5,under,11,4,10,4,0,0.4112,0.4112,0,0,1,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8481533,Trevor Zegras,1.5,over,17,8,10,7,0,0.5446,0.5446,0,0,1,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8481533,Trevor Zegras,1.5,under,17,9,10,3,0,0.4554,0.4554,0,0,1,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8481604,Pavel Dorofeyev,2.5,over,16,7,10,3,0,0.5246,0.5246,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 2.5 hit 7 of 16 this season (44%), 3 of 10 last 10 (30%) vs no-vig 52%",-1
+8481604,Pavel Dorofeyev,2.5,under,16,9,10,7,0,0.4754,0.47540000000000004,1,1,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 2.5 hit 9 of 16 this season (56%), 7 of 10 last 10 (70%) vs no-vig 48%)",1
+8481789,Tye Kartye,1.5,over,16,8,10,7,0,0.4853,0.4853,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8481789,Tye Kartye,1.5,under,16,8,10,3,0,0.5147,0.5146999999999999,0,-1,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8482109,Alexis Lafreniere,2.5,over,16,7,10,4,0,0.4059,0.4059,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8482109,Alexis Lafreniere,2.5,under,16,9,10,6,0,0.5941,0.5941000000000001,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8482142,Jamie Drysdale,1.5,over,17,7,10,5,0,0.4248,0.4248,0,0,1,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8482142,Jamie Drysdale,1.5,under,17,10,10,5,0,0.5752,0.5751999999999999,0,0,1,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8482073,Braden Schneider,1.5,over,16,9,10,6,0,0.3909,0.3909,1,1,2,2026-11-03,+,0,0,1,9,"with new tests: agrees 1 of 9 (new: over 1.5 hit 9 of 16 this season (56%), 6 of 10 last 10 (60%) vs no-vig 39%)",1
+8482073,Braden Schneider,1.5,under,16,7,10,4,0,0.6091,0.6091,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: under 1.5 hit 7 of 16 this season (44%), 4 of 10 last 10 (40%) vs no-vig 61%",-1
+8482159,Tyson Foerster,1.5,over,16,11,10,7,0,0.5665,0.5665,1,1,1,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: over 1.5 hit 11 of 16 this season (69%), 7 of 10 last 10 (70%) vs no-vig 57%)",1
+8482159,Tyson Foerster,1.5,under,16,5,10,3,0,0.4335,0.4335,-1,-1,1,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: under 1.5 hit 5 of 16 this season (31%), 3 of 10 last 10 (30%) vs no-vig 43%",-1
+8482157,Will Cuylle,1.5,over,16,11,10,6,0,0.5862,0.5862,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8482157,Will Cuylle,1.5,under,16,5,10,4,0,0.4138,0.41379999999999995,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484387,Matvei Michkov,1.5,over,17,8,10,6,0,0.5575,0.5575,0,0,1,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8484387,Matvei Michkov,1.5,under,17,9,10,4,0,0.4425,0.4425,0,0,1,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484148,Oliver Bonk,1.5,over,11,5,10,4,0,0.422,0.422,0,0,1,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484148,Oliver Bonk,1.5,under,11,6,10,6,0,0.578,0.5780000000000001,0,0,1,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8484210,Gabe Perreault,1.5,over,16,8,10,6,0,0.5246,0.5246,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8484210,Gabe Perreault,1.5,under,16,8,10,4,0,0.4754,0.47540000000000004,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8484142,Denver Barkey,1.5,over,14,3,10,3,0,0.3818,0.3818,-1,-1,1,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 1.5 hit 3 of 14 this season (21%), 3 of 10 last 10 (30%) vs no-vig 38%",-1
+8484142,Denver Barkey,1.5,under,14,11,10,7,0,0.6182,0.6182000000000001,1,0,1,2026-11-03,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: under 1.5 hit 11 of 14 this season (79%), 7 of 10 last 10 (70%) vs no-vig 62%)",1
+8485406,Porter Martone,1.5,over,17,6,10,5,0,0.4754,0.4754,0,0,1,2026-11-03,0,0,6,6,9,with new tests: agrees 6 of 9,0
+8485406,Porter Martone,1.5,under,17,11,10,5,0,0.5246,0.5246,0,0,1,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8471675,Sidney Crosby,2.5,over,15,4,10,1,0,0.3866,0.3866,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: over 2.5 hit 4 of 15 this season (27%), 1 of 10 last 10 (10%) vs no-vig 39%",-1
+8471675,Sidney Crosby,2.5,under,15,11,10,9,0,0.6134,0.6134,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 2.5 hit 11 of 15 this season (73%), 9 of 10 last 10 (90%) vs no-vig 61%)",1
+8471215,Evgeni Malkin,1.5,over,13,8,10,6,0,0.5575,0.5575,0,0,2,2026-10-31,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8471215,Evgeni Malkin,1.5,under,13,5,10,4,0,0.4425,0.4425,0,-1,2,2026-10-31,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8474578,Erik Karlsson,2.5,over,15,4,10,2,0,0.3887,0.3887,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: over 2.5 hit 4 of 15 this season (27%), 2 of 10 last 10 (20%) vs no-vig 39%",-1
+8474578,Erik Karlsson,2.5,under,15,11,10,8,0,0.6113,0.6113,1,1,2,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 2.5 hit 11 of 15 this season (73%), 8 of 10 last 10 (80%) vs no-vig 61%)",1
+8476483,Rickard Rakell,2.5,over,15,6,10,5,0,0.4853,0.4853,0,0,2,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8476483,Rickard Rakell,2.5,under,15,9,10,5,0,0.5147,0.5146999999999999,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8477496,Elias Lindholm,1.5,over,16,8,10,5,0,0.5347,0.5347,0,-1,1,2026-11-02,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8477496,Elias Lindholm,1.5,under,16,8,10,5,0,0.4653,0.46530000000000005,0,0,1,2026-11-02,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8477956,David Pastrnak,3.5,over,16,10,10,5,0,0.4653,0.4653,0,0,1,2026-11-02,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8477956,David Pastrnak,3.5,under,16,6,10,5,0,0.5347,0.5347,0,-1,1,2026-11-02,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8478401,Pavel Zacha,1.5,over,15,5,10,3,0,0.5049,0.5049,-1,-1,1,2026-11-02,-,0,5,5,9,"with new tests: agrees 5 of 9; new against: over 1.5 hit 5 of 15 this season (33%), 3 of 10 last 10 (30%) vs no-vig 50%",-1
+8478401,Pavel Zacha,1.5,under,15,10,10,7,0,0.4951,0.4951,1,1,1,2026-11-02,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 1.5 hit 10 of 15 this season (67%), 7 of 10 last 10 (70%) vs no-vig 50%)",1
+8478438,Tommy Novak,1.5,over,15,7,10,4,0,0.5752,0.5752,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: over 1.5 hit 7 of 15 this season (47%), 4 of 10 last 10 (40%) vs no-vig 58%",-1
+8478438,Tommy Novak,1.5,under,15,8,10,6,0,0.4248,0.42479999999999996,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 1.5 hit 8 of 15 this season (53%), 6 of 10 last 10 (60%) vs no-vig 42%)",1
+8479325,Charlie McAvoy,1.5,over,10,5,10,5,0,0.5575,0.5575,-1,-1,1,2026-11-02,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 1.5 hit 5 of 10 this season (50%), 5 of 10 last 10 (50%) vs no-vig 56%",-1
+8479325,Charlie McAvoy,1.5,under,10,5,10,5,0,0.4425,0.4425,1,0,1,2026-11-02,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: under 1.5 hit 5 of 10 this season (50%), 5 of 10 last 10 (50%) vs no-vig 44%)",1
+8479987,Morgan Geekie,1.5,over,16,6,10,5,0,0.604,0.604,-1,-1,1,2026-11-02,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 6 of 16 this season (38%), 5 of 10 last 10 (50%) vs no-vig 60%",-1
+8479987,Morgan Geekie,1.5,under,16,10,10,5,0,0.396,0.396,1,1,1,2026-11-02,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 1.5 hit 10 of 16 this season (62%), 5 of 10 last 10 (50%) vs no-vig 40%)",1
+8481582,Nick Robertson,1.5,over,15,9,10,8,0,0.4615,0.4615,1,1,2,2026-11-03,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: over 1.5 hit 9 of 15 this season (60%), 8 of 10 last 10 (80%) vs no-vig 46%)",1
+8481582,Nick Robertson,1.5,under,15,6,10,2,0,0.5385,0.5385,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: under 1.5 hit 6 of 15 this season (40%), 2 of 10 last 10 (20%) vs no-vig 54%",-1
+8482475,Egor Chinakhov,1.5,over,11,7,10,6,0,0.5941,0.5941,0,0,2,2026-11-03,0,0,5,5,9,with new tests: agrees 5 of 9,0
+8482475,Egor Chinakhov,1.5,under,11,4,10,4,0,0.4059,0.40590000000000004,0,0,2,2026-11-03,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8482175,JJ Peterka,2.5,over,16,4,10,3,0,0.4059,0.4059,-1,-1,1,2026-11-02,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 2.5 hit 4 of 16 this season (25%), 3 of 10 last 10 (30%) vs no-vig 41%",-1
+8482175,JJ Peterka,2.5,under,16,12,10,7,0,0.5941,0.5941000000000001,1,1,1,2026-11-02,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: under 2.5 hit 12 of 16 this season (75%), 7 of 10 last 10 (70%) vs no-vig 59%)",1
+8483489,Fraser Minten,1.5,over,16,9,10,5,0,0.5246,0.5246,0,0,1,2026-11-02,0,0,0,0,9,with new tests: agrees 0 of 9,0
+8483489,Fraser Minten,1.5,under,16,7,10,5,0,0.4754,0.47540000000000004,0,0,1,2026-11-02,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8485395,James Hagens,1.5,over,16,10,10,7,0,0.5347,0.5347,1,1,1,2026-11-02,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 1.5 hit 10 of 16 this season (62%), 7 of 10 last 10 (70%) vs no-vig 53%)",1
+8485395,James Hagens,1.5,under,16,6,10,3,0,0.4653,0.46530000000000005,-1,-1,1,2026-11-02,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 1.5 hit 6 of 16 this season (38%), 3 of 10 last 10 (30%) vs no-vig 47%",-1
+8485414,Ben Kindel,2.5,over,12,4,10,3,0,0.3887,0.3887,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 2.5 hit 4 of 12 this season (33%), 3 of 10 last 10 (30%) vs no-vig 39%",-1
+8485414,Ben Kindel,2.5,under,12,8,10,7,0,0.6113,0.6113,1,0,2,2026-11-03,+,0,4,5,9,"with new tests: agrees 5 of 9 (new: under 2.5 hit 8 of 12 this season (67%), 7 of 10 last 10 (70%) vs no-vig 61%)",1
+8475745,Charlie Coyle,1.5,over,13,7,10,6,0,0.5147,0.5147,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8475745,Charlie Coyle,1.5,under,13,6,10,4,0,0.4853,0.48529999999999995,0,-1,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8477501,Valeri Nichushkin,1.5,over,13,5,10,4,0,0.4335,0.4335,0,-1,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8477501,Valeri Nichushkin,1.5,under,13,8,10,6,0,0.5665,0.5665,0,0,2,2026-11-03,0,0,2,2,9,with new tests: agrees 2 of 9,0
+8478420,Mikko Rantanen,1.5,over,15,7,10,3,0,0.5752,0.5752,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: over 1.5 hit 7 of 15 this season (47%), 3 of 10 last 10 (30%) vs no-vig 58%",-1
+8478420,Mikko Rantanen,1.5,under,15,8,10,7,0,0.4248,0.42479999999999996,1,1,2,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: under 1.5 hit 8 of 15 this season (53%), 7 of 10 last 10 (70%) vs no-vig 42%)",1
+8478460,Zach Werenski,2.5,over,13,7,10,5,0,0.5446,0.5446,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8478460,Zach Werenski,2.5,under,13,6,10,5,0,0.4554,0.4554,0,0,2,2026-11-03,0,0,3,3,9,with new tests: agrees 3 of 9,0
+8478449,Roope Hintz,1.5,over,15,8,10,6,0,0.5665,0.5665,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8478449,Roope Hintz,1.5,under,15,7,10,4,0,0.4335,0.4335,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8480027,Jason Robertson,2.5,over,15,11,10,8,0,0.5575,0.5575,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 2.5 hit 11 of 15 this season (73%), 8 of 10 last 10 (80%) vs no-vig 56%)",1
+8480027,Jason Robertson,2.5,under,15,4,10,2,0,0.4425,0.4425,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 2.5 hit 4 of 15 this season (27%), 2 of 10 last 10 (20%) vs no-vig 44%",-1
+8481581,Thomas Harley,1.5,over,15,7,10,5,0,0.5695,0.5695,-1,-1,2,2026-11-03,-,0,2,2,9,"with new tests: agrees 2 of 9; new against: over 1.5 hit 7 of 15 this season (47%), 5 of 10 last 10 (50%) vs no-vig 57%",-1
+8481581,Thomas Harley,1.5,under,15,8,10,5,0,0.4305,0.4305,1,0,2,2026-11-03,+,0,3,4,9,"with new tests: agrees 4 of 9 (new: under 1.5 hit 8 of 15 this season (53%), 5 of 10 last 10 (50%) vs no-vig 43%)",1
+8482660,Kent Johnson,1.5,over,13,8,10,6,0,0.5347,0.5347,1,0,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 1.5 hit 8 of 13 this season (62%), 6 of 10 last 10 (60%) vs no-vig 53%)",1
+8482660,Kent Johnson,1.5,under,13,5,10,4,0,0.4653,0.46530000000000005,-1,-1,2,2026-11-03,-,0,4,4,9,"with new tests: agrees 4 of 9; new against: under 1.5 hit 5 of 13 this season (38%), 4 of 10 last 10 (40%) vs no-vig 47%",-1
+8482740,Wyatt Johnston,2.5,over,13,6,10,4,0,0.4335,0.4335,0,0,2,2026-11-03,0,0,1,1,9,with new tests: agrees 1 of 9,0
+8482740,Wyatt Johnston,2.5,under,13,7,10,6,0,0.5665,0.5665,0,0,2,2026-11-03,0,0,4,4,9,with new tests: agrees 4 of 9,0
+8482720,Matthew Knies,1.5,over,13,5,10,3,0,0.4853,0.4853,-1,-1,2,2026-11-03,-,0,1,1,9,"with new tests: agrees 1 of 9; new against: over 1.5 hit 5 of 13 this season (38%), 3 of 10 last 10 (30%) vs no-vig 49%",-1
+8482720,Matthew Knies,1.5,under,13,8,10,7,0,0.5147,0.5146999999999999,1,1,2,2026-11-03,+,0,5,6,9,"with new tests: agrees 6 of 9 (new: under 1.5 hit 8 of 13 this season (62%), 7 of 10 last 10 (70%) vs no-vig 51%)",1
+8483485,Denton Mateychuk,1.5,over,13,8,10,6,0,0.4335,0.4335,1,1,2,2026-11-03,+,0,1,2,9,"with new tests: agrees 2 of 9 (new: over 1.5 hit 8 of 13 this season (62%), 6 of 10 last 10 (60%) vs no-vig 43%)",1
+8483485,Denton Mateychuk,1.5,under,13,5,10,4,0,0.5665,0.5665,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 1.5 hit 5 of 13 this season (38%), 4 of 10 last 10 (40%) vs no-vig 57%",-1
+8484166,Adam Fantilli,2.5,over,13,7,10,6,0,0.4518,0.4518,1,1,2,2026-11-03,+,0,2,3,9,"with new tests: agrees 3 of 9 (new: over 2.5 hit 7 of 13 this season (54%), 6 of 10 last 10 (60%) vs no-vig 45%)",1
+8484166,Adam Fantilli,2.5,under,13,6,10,4,0,0.5482,0.5482,-1,-1,2,2026-11-03,-,0,3,3,9,"with new tests: agrees 3 of 9; new against: under 2.5 hit 6 of 13 this season (46%), 4 of 10 last 10 (40%) vs no-vig 55%",-1

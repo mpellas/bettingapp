@@ -1,0 +1,6 @@
+Fliff check: Matt Coronato UNDER 2.5 (DK -135, Fliff at -117 or better) - model +10.1 pts vs no-vig; recent +3.8 pts
+   last 5: 4 of 5 under 2.5 (shots 2,2,3,1,2); model 63.6%, recent form 57.3% (shot rate last 10 x TOI last 5)
+   evidence: Matt Coronato U2.5: agrees 3 of 7 (champion +10.1 pts; challenger +7.6 pts; shrunk form +5.5 pts); against: opponent allows +6% to F_top6+PP1; on PP1
+Fliff check: Simon Nemec UNDER 1.5 (DK -135, Fliff at -116 or better) - model +5.4 pts vs no-vig; recent +8.3 pts
+   last 5: 4 of 5 under 1.5 (shots 0,1,0,3,1); model 58.9%, recent form 61.8% (shot rate last 10 x TOI last 5)
+   evidence: Simon Nemec U1.5: agrees 3 of 7 (champion +5.4 pts; challenger +2.1 pts; shrunk form +2.0 pts); against: no-vig moved 1.9 pts away from side since open

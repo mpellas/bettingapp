@@ -1,0 +1,4 @@
+date,player,game,side,line,nhl_id,gameId,espn_event,odds_event,fliff_status,fliff_line,fliff_price,fliff_line_matches_list,fliff_shop_at,beats_shop_at,dk_price_list,dk_line_list,dk_price_now,dk_line_now,fliff_line_matches_dk,capture_time_pt,list_file
+20261025,Brayden Schenn,New York Islanders at Dallas Stars,OVER,1.5,8475170,2026020181,401892579,9c1309e10d95a3f6eb6b6b9105c565eb,offered,1.5,-110,True,109,False,-105,1.5,-105,1.5,True,2026-10-25T12:03:12-07:00,20261025_1202_post.txt
+20261025,Roope Hintz,New York Islanders at Dallas Stars,UNDER,2.5,8478449,2026020181,401892579,9c1309e10d95a3f6eb6b6b9105c565eb,offered,2.5,-190,True,-157,False,-185,2.5,-185,2.5,True,2026-10-25T12:03:12-07:00,20261025_1202_post.txt
+20261025,Miro Heiskanen,New York Islanders at Dallas Stars,UNDER,1.5,8480036,2026020181,401892579,9c1309e10d95a3f6eb6b6b9105c565eb,offered,1.5,110,True,145,False,130,1.5,130,1.5,True,2026-10-25T12:03:12-07:00,20261025_1202_post.txt

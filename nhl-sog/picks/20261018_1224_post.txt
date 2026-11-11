@@ -1,0 +1,4 @@
+Fliff check: Matthew Knies UNDER 1.5 (DK -120, Fliff at -106 or better) - model +10.1 pts vs no-vig; recent +7.0 pts
+   evidence: Matthew Knies U1.5: agrees 4 of 7 (champion +10.1 pts; challenger +8.0 pts; shrunk form +4.2 pts; no-vig moved 1.0 pts toward side since open); against: opponent allows +3% to F_top6+PP1; on PP1
+Fliff check: Maxim Shabanov UNDER 1.5 (DK -125, Fliff at -108 or better) - model +11.8 pts vs no-vig; recent +14.8 pts
+   evidence: Maxim Shabanov U1.5: agrees 3 of 7 (champion +11.8 pts; challenger +11.6 pts; shrunk form +12.8 pts); against: on PP1; no-vig moved 2.0 pts away from side since open

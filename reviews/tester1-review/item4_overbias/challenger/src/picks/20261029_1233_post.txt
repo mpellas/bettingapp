@@ -1,0 +1,15 @@
+Fliff check: Gage Goncalves UNDER 1.5 (DK -140, Fliff at -121 or better) - model +7.0 pts vs no-vig; recent +18.1 pts
+   last 5: 2 of 5 under 1.5 (shots 1,2,0,3,2); model 61.4%, recent form 72.6% (shot rate last 10 x TOI last 5)
+   evidence: Gage Goncalves U1.5: agrees 5 of 7 (champion +7.0 pts; challenger +6.5 pts; shrunk form +7.1 pts; opponent allows -3% to F_top6; no-vig moved 4.9 pts toward side since open); nothing against
+Fliff check: MacKenzie Weegar OVER 1.5 (DK -120, Fliff at -103 or better) - model +8.6 pts vs no-vig; recent +19.5 pts
+   last 5: 3 of 5 over 1.5 (shots 1,3,6,1,2); model 59.1%, recent form 70.0% (shot rate last 10 x TOI last 5)
+   evidence: MacKenzie Weegar O1.5: agrees 4 of 7 (champion +8.6 pts; challenger +10.3 pts; shrunk form +5.5 pts; TOI last 5 23.3 vs this season 21.8 (+1.6 min); last 30 incl. last season 20.9 (reference only)); against: opponent allows -3% to D; no-vig moved 1.0 pts away from side since open
+Fliff check: Dylan Guenther UNDER 2.5 (DK +115, Fliff at +129 or better) - model +7.0 pts vs no-vig; recent +2.9 pts
+   last 5: 3 of 5 under 2.5 (shots 2,2,2,3,4); model 50.3%, recent form 46.2% (shot rate last 10 x TOI last 5)
+   evidence: Dylan Guenther U2.5: agrees 3 of 7 (champion +7.0 pts; challenger +4.7 pts; shrunk form +1.5 pts); against: TOI last 5 18.6 vs this season 17.3 (+1.3 min); last 30 incl. last season 17.7 (reference only); on PP1; no-vig moved 16.3 pts away from side since open
+Fliff check: Nikolaj Ehlers OVER 1.5 (DK -170, Fliff at -145 or better) - model +11.6 pts vs no-vig; recent +5.0 pts
+   last 5: 4 of 5 over 1.5 (shots 3,4,1,2,4); model 70.2%, recent form 63.7% (shot rate last 10 x TOI last 5)
+   evidence: Nikolaj Ehlers O1.5: agrees 4 of 7 (champion +11.6 pts; challenger +13.9 pts; shrunk form +12.5 pts; on PP1); against: no-vig moved 2.3 pts away from side since open
+Fliff check: Sebastian Aho OVER 2.5 (DK -120, Fliff at -103 or better) - model +6.8 pts vs no-vig; recent +3.7 pts
+   last 5: 4 of 5 over 2.5 (shots 3,4,3,1,5); model 57.3%, recent form 54.2% (shot rate last 10 x TOI last 5)
+   evidence: Sebastian Aho O2.5: agrees 5 of 7 (champion +6.8 pts; challenger +5.4 pts; shrunk form +7.9 pts; on PP1; no-vig moved 3.0 pts toward side since open); nothing against

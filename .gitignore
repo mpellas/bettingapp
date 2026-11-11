@@ -1,0 +1,24 @@
+# Secrets and local env — never commit live keys
+.env
+.env.*
+!.env.example
+*.pem
+id_rsa
+id_ed25519
+*.p12
+*.pfx
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+
+# Export scaffolding (not part of the review corpus)
+.export-meta/

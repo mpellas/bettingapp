@@ -1,0 +1,10 @@
+Fliff check: Noah Dobson UNDER 2.5 (DK -180, Fliff at -152 or better) - model +5.9 pts vs no-vig; recent +10.3 pts
+   evidence: Noah Dobson U2.5: agrees 3 of 7 (champion +5.9 pts; challenger +5.9 pts; shrunk form +9.7 pts); nothing against
+Fliff check: Tyler Toffoli OVER 1.5 (DK -160, Fliff at -133 or better) - model +4.9 pts vs no-vig; recent +16.5 pts
+   evidence: Tyler Toffoli O1.5: agrees 3 of 7 (champion +4.9 pts; challenger +4.3 pts; shrunk form +7.1 pts); against: no-vig moved -3.2 pts toward side since open
+Fliff check: Moritz Seider OVER 1.5 (DK -145, Fliff at -126 or better) - model +9.8 pts vs no-vig; recent +5.0 pts
+   evidence: Moritz Seider O1.5: agrees 4 of 7 (champion +9.8 pts; challenger +9.3 pts; shrunk form +9.0 pts; on PP1); against: no-vig moved -5.0 pts toward side since open
+Fliff check: Will Smith UNDER 2.5 (DK -145, Fliff at -123 or better) - model +10.2 pts vs no-vig; recent +1.8 pts
+   evidence: Will Smith U2.5: agrees 3 of 7 (champion +10.2 pts; challenger +8.6 pts; shrunk form +1.1 pts); against: on PP1
+Fliff check: Mika Zibanejad UNDER 2.5 (DK -130, Fliff at -112 or better) - model +8.3 pts vs no-vig; recent +16.0 pts
+   evidence: Mika Zibanejad U2.5: agrees 4 of 7 (champion +8.3 pts; challenger +11.0 pts; shrunk form +7.3 pts; no-vig moved +1.0 pts toward side since open); against: opponent allows +3% to F_top6+PP1; on PP1

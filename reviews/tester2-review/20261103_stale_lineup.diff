@@ -1,0 +1,172 @@
+commit bc16c02912fbc9fcf0c49ff869b464882d9521fd
+Author: Grok Bot <bot@box>
+Date:   Tue Nov 3 07:56:26 2026 -0800
+
+    Add 12h stale-lineup skip
+
+diff --git a/NOTES.md b/NOTES.md
+index 03d9173..8c6ed5f 100644
+--- a/NOTES.md
++++ b/NOTES.md
+@@ -172,3 +172,4 @@ miscalibration. Not adopted as a gate.
+ - Oct 24 user bet (DK, OFF-LIST - Hayton was a skip on 3:12 pass): Barrett Hayton UNDER 1.5 SOG (Tampa Bay Lightning vs Utah Mammoth) +105, $0.10, LOSS (DK639284832073848388, placed 5:00 PM). Another DK bet placed 5:02:56 PM (DK639284833769987855) not yet seen.
+ - Oct 24 user bet (DK, 4:09 card pick, own result): Emmitt Finnie OVER 1.5 SOG (Detroit Red Wings at Calgary Flames) -105, $0.10, LOSS (0 shots) (DK639284833769987855, 5:02:56 PM). Verified from DK video Oct 25. Oct 24 bets backfilled into props-finder/user_bets/bets.csv (Bratt/Laferriere = LA @ NJ).
+ - 2026-10-25 16:01 window pass (MIN@VAN 7:00 PM): NO BETS. DeBrusk U2.5 was build_sheet 'Fliff check' but skipped by the 2-of-7 agreement rule; original post kept in picks/20261025_1601_post_prerule.txt, posted post.txt empty. 0 Fliff credits.
++- 2026-11-03 (Tester2): 12h stale-lineup skip now in code (approved rule, previously applied by hand in room posts). New lineup_age.py; shop_gate.py adds lineup_stale column and vetoes (shop_veto) any player whose live DailyFaceoff lineup updatedAt is >12h before gate/list build time, or has no/unparseable timestamp ("lineup timestamp missing" -> skip by choice). build_sheet.py skips those sides on BOTH the DK and Fliff lists with status_reason "lineup stale >12h (Nh old)" first; exactly 12h counts as fresh. Old GATE csvs without lineup_stale fall back to dfo_updated vs now, so re-running build_sheet on past lists will mark them stale. Frozen model, features, picks csv and --rescore untouched. Test: tests/test_stale_lineup.py.
+diff --git a/build_sheet.py b/build_sheet.py
+index 70f109e..b4d6eab 100644
+--- a/build_sheet.py
++++ b/build_sheet.py
+@@ -27,6 +27,7 @@ from openpyxl.styles import Font, PatternFill
+ from openpyxl.formatting.rule import FormulaRule
+ from openpyxl.utils import get_column_letter
+ import recent_form
++import lineup_age   # 2026-11-03 12h stale-lineup skip
+ try:
+     import shrink
+ except Exception:
+@@ -101,6 +102,7 @@ def build_rows(picks, gate, puck, date=None):
+                 flag_thin_edge=yn(recent_form.thin_edge(pm - nv, pr - nv)),
+                 last5_shots=gr.get('last5_shots', ''), recent_windows=gr.get('recent_windows', ''),
+                 _veto=('' if pd.isna(gr.shop_veto) else str(gr.shop_veto).strip()),
++                _stale=lineup_stale_of(gr),
+                 _role=(str(gr.role_reason) if truthy(gr.get(f'role_veto_{side}', False)) and pd.notna(gr.get('role_reason')) else ''),
+                 _ev=ev, _edge=pm - nv, _rmargin=pr - nv,
+                 _rmargin_fresh=(r[f'p_fresh_{side}'] - nv) if f'p_fresh_{side}' in r and pd.notna(r[f'p_fresh_{side}']) else None,
+@@ -135,6 +137,15 @@ def build_rows(picks, gate, puck, date=None):
+     df['offered_fliff'] = df['offered_dk'] = df['offered_prizepicks'] = None
+     return df.drop(columns=[c for c in df if c.startswith('_')])
+ 
++def lineup_stale_of(gr):
++    """2026-11-03: skip reason if the gate's DFO lineup is >12h old or has no timestamp, else ''.
++    Uses the gate's lineup_stale column (computed at gate time = list build time) when present; older GATE files
++    without it fall back to dfo_updated vs now."""
++    if 'lineup_stale' in gr.index:
++        v = gr.get('lineup_stale')
++        return '' if pd.isna(v) else str(v).strip()
++    return lineup_age.stale_reason(gr.get('dfo_updated'))
++
+ def input_drift(r):
+     """Compare the D file's recent-form inputs with fresh game logs (shrink.py). None if they agree."""
+     if 'fresh_sog60_r10' not in r or pd.isna(r.get('fresh_sog60_r10')): return 'fresh game logs unavailable'
+@@ -148,6 +159,7 @@ def assign_status(df, rcol):
+     df['flag_thin_edge'] = [yn(recent_form.thin_edge(e, m)) for e, m in zip(df._edge, df[rcol])]
+ 
+     def fail(x):
++        if x.get('_stale'): return x._stale   # 2026-11-03 12h stale-lineup skip (first reason, both lists)
+         if x.get('_role'): return f"{x._role}, {'under' if x.get('_side')=='under' else 'over'} skipped"
+         if x._edge <= 0: return 'model not above no-vig'
+         if x.flag_shop_ok != 'yes': return f'shop gate failed ({x._veto})' if x.get('_veto') else 'shop gate failed'
+@@ -161,6 +173,8 @@ def assign_status(df, rcol):
+     df['status'], df['status_reason'], df['note'] = 'Skipped', '', ''
+     thin = df.flag_thin_edge.eq('yes')
+     role = df['_role'].fillna('').ne('') if '_role' in df else False   # side-specific role veto (mixed sets it on both)
++    stale = df['_stale'].fillna('').ne('') if '_stale' in df else pd.Series(False, index=df.index)
++    role = role | stale   # stale lineup: Skipped on DK and Fliff lists, like a role veto
+     floor = (df._edge < EDGE_FLOOR - 1e-12) & ~thin   # 5-pt model-edge floor (thin edge keeps its own reason)
+     dk = (df._ev > 0) & ~thin & ~floor & ~role   # role-changed sides are Skipped on the DraftKings list too
+     df.loc[dk, 'status'] = 'DK bet'; df.loc[dk, 'status_reason'] = 'positive blended EV at DraftKings'
+@@ -173,8 +187,10 @@ def assign_status(df, rcol):
+     df.loc[rest, 'status_reason'] = f'passes all checks but outside top {TOP_N} by edge'
+     sk = df.status.eq('Skipped') & df._fail.notna()
+     df.loc[sk, 'status_reason'] = df.loc[sk, '_fail'] + '; no positive blended EV at DraftKings'
+-    rk = sk & role & (df._ev > 0)
++    rk = sk & role & ~stale & (df._ev > 0)
+     df.loc[rk, 'status_reason'] = df.loc[rk, '_fail'] + '; positive blended EV at DraftKings but role changed, not listed'
++    sl = sk & stale & (df._ev > 0)
++    df.loc[sl, 'status_reason'] = df.loc[sl, '_fail'] + '; positive blended EV at DraftKings but lineup stale, not listed'
+     th = df.status.eq('Skipped') & thin & (df._fail.isna() | (df._ev > 0)) & ~role
+     df.loc[th, 'status_reason'] = df.loc[th].apply(
+         lambda x: f'thin edge (model {x._edge*100:+.1f} pts, recent {x._rmargin*100:+.1f} pts vs no-vig; under 1 point)', axis=1)
+diff --git a/lineup_age.py b/lineup_age.py
+new file mode 100644
+index 0000000..d25ddf4
+--- /dev/null
++++ b/lineup_age.py
+@@ -0,0 +1,29 @@
++"""12-hour stale-lineup skip (added 2026-11-03, testers' approved rule; Tester2).
++A side is skipped when the DailyFaceoff lineup used for the gate/role checks (DFO 'updatedAt', stored as dfo_updated
++in the GATE csv) is more than 12 hours older than the list build time. Missing/unparseable timestamp -> SKIP
++(we cannot prove the lineup is fresh). Exactly 12h is still fresh. Never touches the model, features or --rescore."""
++from datetime import datetime, timezone
++import pandas as pd
++STALE_H = 12.0
++REASON_STALE = 'lineup stale >12h'
++REASON_MISSING = 'lineup timestamp missing'
++
++def age_hours(updated, now=None):
++    """Hours between DFO updatedAt and now (UTC). None if missing/unparseable."""
++    if updated is None or (isinstance(updated, float) and pd.isna(updated)) or str(updated).strip() in ('', 'nan', 'None'):
++        return None
++    try:
++        t = pd.Timestamp(str(updated))
++        t = t.tz_localize('UTC') if t.tzinfo is None else t.tz_convert('UTC')
++    except Exception:
++        return None
++    now = pd.Timestamp(now or datetime.now(timezone.utc))
++    now = now.tz_localize('UTC') if now.tzinfo is None else now.tz_convert('UTC')
++    return (now - t).total_seconds() / 3600.0
++
++def stale_reason(updated, now=None):
++    """'' if fresh, else the skip reason text."""
++    a = age_hours(updated, now)
++    if a is None: return REASON_MISSING
++    if a > STALE_H: return f'{REASON_STALE} ({a:.1f}h old)'
++    return ''
+diff --git a/shop_gate.py b/shop_gate.py
+index 47074cf..59e8a3c 100644
+--- a/shop_gate.py
++++ b/shop_gate.py
+@@ -10,6 +10,7 @@ role_change (role_check.py): history slot vs today's EV line / PP1. promotion ->
+ import sys,re,json,glob,os,unicodedata,requests,pandas as pd
+ os.chdir(os.path.dirname(os.path.abspath(__file__)))
+ from role_check import role_change
++from lineup_age import stale_reason   # 2026-11-03: 12h stale-lineup skip
+ date=sys.argv[1]; TAG=sys.argv[2] if len(sys.argv)>2 else 'D'; H={'User-Agent':'Mozilla/5.0'}
+ norm=lambda s:re.sub(r'[^a-z]','',unicodedata.normalize('NFKD',s or '').encode('ascii','ignore').decode().lower())
+ def dfo(team):
+@@ -64,8 +65,10 @@ for _,r in P.iterrows():
+     parts=dtxt+([rr] if rr else [])
+     reason=('mixed: ' if kind=='mixed' and rk!='mixed' else '')+'; '.join(parts)
+     if kind=='mixed': v.append(reason)                                 # mixed -> both sides vetoed (shop_ok False)
++    lst=stale_reason(live.get(t,{}).get('updatedAt')) if t in liveidx else ''   # 2026-11-03: DFO lineup >12h old or no timestamp -> veto both sides
++    if lst: v.append(lst)
+     rows.append(dict(r,team_dfo=t,ev_base=b.get('ev'),pp_base=b.get('pp'),ev_now=L and L['ev'],pp_now=L and L['pp'],
+-        dfo_updated=live.get(t,{}).get('updatedAt'),espn_status=esp.get(n),role_mismatch=bool(rk),role_change=kind,role_veto_over=rvo,role_veto_under=rvu,role_reason=reason,lineup_veto_over=';'.join(dv),shop_veto=';'.join(v)))
++        dfo_updated=live.get(t,{}).get('updatedAt'),lineup_stale=lst,espn_status=esp.get(n),role_mismatch=bool(rk),role_change=kind,role_veto_over=rvo,role_veto_under=rvu,role_reason=reason,lineup_veto_over=';'.join(dv),shop_veto=';'.join(v)))
+ G=pd.DataFrame(rows)
+ G['shop_ok']=G.shop_veto==''                      # no BOTH-SIDES veto (injury/status/not in lineup/unverified/mixed role); side vetoes in role_veto_*
+ G['dk_ev_ok']=G.pick.fillna('')!=''               # model lean beats DraftKings (frozen model's pick column)
+diff --git a/tests/test_stale_lineup.py b/tests/test_stale_lineup.py
+new file mode 100644
+index 0000000..54aa8b6
+--- /dev/null
++++ b/tests/test_stale_lineup.py
+@@ -0,0 +1,27 @@
++"""12h stale-lineup skip (2026-11-03): fresh passes, 13h-old skipped, missing timestamp skipped."""
++import sys, os; sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
++import pandas as pd, build_sheet as B, lineup_age as L
++NOW = '2026-11-03T20:00:00Z'   # 12:00 PM PT build time
++assert L.stale_reason('2026-11-03T17:00:00.000Z', NOW) == ''                      # 3h old -> fresh
++assert L.stale_reason('2026-11-03T08:00:00Z', NOW) == ''                          # exactly 12h -> fresh
++assert L.stale_reason('2026-11-03T07:00:00Z', NOW) == 'lineup stale >12h (13.0h old)'
++assert L.stale_reason(None, NOW) == L.stale_reason(float('nan'), NOW) == L.stale_reason('', NOW) == 'lineup timestamp missing'
++assert L.stale_reason('garbage', NOW) == 'lineup timestamp missing'
++print('13h:', L.stale_reason('2026-11-03T07:00:00Z', NOW))
++def row(p, stale, ev=-0.01):
++    return dict(player=p, _side='under', _edge=.08, _rmargin=.05, _ev=ev, _role='', _veto='', _stale=stale,
++                flag_shop_ok='yes', flag_within_12_novig='yes', flag_slot_veto='no', flag_milestone='yes', flag_lineup_gate='yes')
++df = pd.DataFrame([row('Fresh', L.stale_reason('2026-11-03T17:00:00Z', NOW)),
++                   row('Old13h', L.stale_reason('2026-11-03T07:00:00Z', NOW)),
++                   row('NoTS', L.stale_reason(None, NOW)),
++                   row('Old13hDK', L.stale_reason('2026-11-03T07:00:00Z', NOW), ev=0.03),
++                   row('FreshDK', '', ev=0.03)])
++S = B.assign_status(df, '_rmargin').set_index('player')
++print(S[['status', 'status_reason']].to_string())
++assert S.at['Fresh', 'status'] == 'Fliff check'
++assert S.at['FreshDK', 'status'] == 'DK bet'
++for p in ('Old13h', 'NoTS', 'Old13hDK'): assert S.at[p, 'status'] == 'Skipped', p
++assert S.at['Old13h', 'status_reason'].startswith('lineup stale >12h')
++assert S.at['NoTS', 'status_reason'].startswith('lineup timestamp missing')
++assert 'lineup stale, not listed' in S.at['Old13hDK', 'status_reason']
++print('ok')

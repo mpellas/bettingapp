@@ -1,0 +1,22 @@
+    record         slice        pre_noon  sides    WL  u_dk  u_shop
+final-card All Oct 17-25            with     45 24-21 -2.01    0.95
+final-card All Oct 17-25 excl 4 pre-noon     41 21-20 -3.16   -0.54
+final-card    Post-floor            with      8   3-5 -2.62   -2.24
+final-card    Post-floor excl 4 pre-noon      8   3-5 -2.62   -2.24
+   skipped All Oct 17-25            with     25 14-11 -0.36    1.33
+   skipped All Oct 17-25 excl 4 pre-noon     25 14-11 -0.36    1.33
+   skipped    Post-floor            with     13   8-5  0.77    1.72
+   skipped    Post-floor excl 4 pre-noon     13   8-5  0.77    1.72
+unverified All Oct 17-25            with      4   3-1  1.79    2.17
+unverified All Oct 17-25 excl 4 pre-noon      4   3-1  1.79    2.17
+unverified    Post-floor            with      0   0-0  0.00    0.00
+unverified    Post-floor excl 4 pre-noon      0   0-0  0.00    0.00
+ as-posted All Oct 17-25            with     74 41-33 -0.59    4.45
+ as-posted All Oct 17-25 excl 4 pre-noon     70 38-32 -1.73    2.96
+ as-posted    Post-floor            with     21 11-10 -1.84   -0.51
+ as-posted    Post-floor excl 4 pre-noon     21 11-10 -1.84   -0.51
+record
+final-card    45
+skipped       25
+unverified     4
+Name: count, dtype: int64

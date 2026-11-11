@@ -1,0 +1,54 @@
+{
+ "created_at_utc": "2026-10-18T20:02:42+00:00",
+ "created_at_pt": "2026-10-18T13:02:42-07:00",
+ "season": 2026,
+ "week": 6,
+ "champion_hash": "aa4d70b859",
+ "config_hash": "37b5a34d8c",
+ "code_version": "6ddb05f9",
+ "pregame_code_sha1": "40b08d1852",
+ "data_version": "582330ca",
+ "data_cutoff": "2026-10-15",
+ "dist_fit_before": "2026-09-09",
+ "mean_fit_before": "2026-10-08",
+ "lookback_games": 2,
+ "mode": "snapshot (D lines)",
+ "n_rows_built": 212,
+ "n_void_lines": 2,
+ "void_reasons": {
+  "no player row: player's last team (ARI) is not in this game": 1,
+  "no player row: player's last team (DAL) is not in this game": 1
+ },
+ "n_predictions": {
+  "pass_yds": 24,
+  "rush_yds": 88,
+  "rec_yds": 170
+ },
+ "d_lines_file": "data/lines/snap_2026_wk6_D.csv",
+ "d_lines_sha256": "01ec75b66903d448918387fd4069b1636d2336eebc2e51d5954f742e62e67bdd",
+ "d_captured_at_utc": {
+  "401872995": "2026-10-15T21:03:39+00:00",
+  "401872996": "2026-10-18T10:28:37+00:00",
+  "401872997": "2026-10-18T13:55:16+00:00",
+  "401872998": "2026-10-18T13:55:16+00:00",
+  "401872999": "2026-10-18T13:55:16+00:00",
+  "401873000": "2026-10-18T13:55:16+00:00",
+  "401873001": "2026-10-18T13:55:16+00:00",
+  "401873002": "2026-10-18T13:55:16+00:00",
+  "401873003": "2026-10-18T13:55:16+00:00",
+  "401873004": "2026-10-18T17:02:17+00:00",
+  "401873005": "2026-10-18T17:02:17+00:00",
+  "401873006": "2026-10-18T17:02:17+00:00",
+  "401873007": "2026-10-18T20:02:00+00:00",
+  "401873008": "2026-10-18T20:02:00+00:00"
+ },
+ "n_with_line_D": 282,
+ "sha256_parquet": "06688242bb2fd91bad481f7cf2b7a0b6daa73487617d4f3e012be38fe967df85",
+ "sha256_csv": "0515b6aba7021e7a77c276075341b325f174c4b081573a627c3ef94f6fc94f43",
+ "files": [
+  "data/predictions/2026_wk06/pregame_20261018T200242Z.parquet",
+  "data/predictions/2026_wk06/pregame_20261018T200242Z.csv"
+ ],
+ "void_report": "data/predictions/2026_wk06/pregame_20261018T200242Z_voids.csv",
+ "sha256_voids": "7cd34fdcdbeb122aa4b0da7e4b24913d02d61efcdb3eeefadda81139194becb7"
+}

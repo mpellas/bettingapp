@@ -1,0 +1,25 @@
+record,slice,sides,WL,u_shop,u_dk,close_n,close_mv
+as-posted,All excl pre-noon,69,38-31,3.96,-0.73,30,0.41
+as-posted,Pre-noon excluded,5,3-2,0.49,0.14,5,0.12
+as-posted,Oct 17 excl pre-noon,21,9-12,-3.07,-4.24,11,0.1
+as-posted,All Oct 17-25,74,41-33,4.45,-0.59,35,0.37
+as-posted,Oct 18-24,42,25-17,5.61,2.55,15,0.69
+as-posted,Post-floor,21,11-10,-0.51,-1.84,5,0.43
+as-posted,Oct 17,26,12-14,-2.58,-4.1,16,0.11
+as-posted,Oct 25,6,4-2,1.43,0.96,4,0.2
+final-card,All excl pre-noon,56,30-26,2.08,-1.66,25,0.41
+final-card,Pre-noon excluded,5,3-2,0.49,0.14,5,0.12
+final-card,Oct 17 excl pre-noon,21,9-12,-3.07,-4.24,11,0.1
+final-card,All Oct 17-25,61,33-28,2.57,-1.52,30,0.36
+final-card,Oct 18-24,35,21-14,5.16,2.58,14,0.64
+final-card,Post-floor,9,4-5,-1.48,-1.97,0,
+final-card,Oct 17,26,12-14,-2.58,-4.1,16,0.11
+final-card,Oct 25,0,0-0,0.0,0.0,0,
+skipped,All excl pre-noon,13,8-5,1.88,0.93,5,0.43
+skipped,Pre-noon excluded,0,0-0,0.0,0.0,0,
+skipped,Oct 17 excl pre-noon,0,0-0,0.0,0.0,0,
+skipped,All Oct 17-25,13,8-5,1.88,0.93,5,0.43
+skipped,Oct 18-24,7,4-3,0.45,-0.03,1,1.35
+skipped,Post-floor,12,7-5,0.97,0.13,5,0.43
+skipped,Oct 17,0,0-0,0.0,0.0,0,
+skipped,Oct 25,6,4-2,1.43,0.96,4,0.2

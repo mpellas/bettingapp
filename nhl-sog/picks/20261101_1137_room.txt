@@ -1,0 +1,14 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+**NO BETS** this pass. NHL shots on goal, Sun Nov 1 11:30 AM window pass (fired 11:36, run 11:37 AM PT), DraftKings lines captured 11:37 AM PT. One game in the window: Edmonton Oilers at New York Rangers, 3:00 PM PT (203 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (15 lines up).
+
+Fliff check: two sides cleared the 5-point edge floor, but neither can be bet. Fliff's prices are worse than the shop-at prices on both, and the Rangers' DailyFaceoff lineup is about 26 hours old (Oct 31 9:22 AM PT), so the Rangers side is also skipped under the 12-hour rule. The Oilers lineup is fresh (6:25 AM PT today).
+- Vasily Podkolzin under 1.5 (Edmonton at NY Rangers), 4 of 7 agree, DK +110, Fliff +110, shop-at +125 or better. Skipped: both prices worse than shop-at.
+- Pavel Dorofeyev under 2.5 (Edmonton at NY Rangers), 3 of 7 agree, DK +110, Fliff +105, shop-at +125 or better. Skipped: stale Rangers lineup, and both prices worse than shop-at.
+Correlation note: both are unders in the same game, so they'd be correlated if either ever became bettable.
+Fliff credits: 1 this pass; 2 of 10 used today.
+
+Vetoes: 0 injury vetoes (injury re-pull clean), 1 role-check demotion (Will Cuylle over, down to the 3rd line), 3 role-check promotions (Bjorkstrand, Kapanen and Kartye unders dropped, all up to the 2nd line), 1 unverified-gate skip (Gabe Perreault), 0 slot vetoes.
+Spreadsheet: /workspace/nhl-sog/sheets/20261101_D_1137_picks.xlsx (colors only show in Excel or Google Sheets).

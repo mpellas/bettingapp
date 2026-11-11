@@ -1,0 +1,1361 @@
+date,gameId,player,line,side,nv,hit,rest,why
+20261016,2026020119,Brent Burns,1.5,over,0.4797,0,0,rest: no back-to-back
+20261016,2026020119,Brent Burns,1.5,under,0.5203,1,0,rest: no back-to-back
+20261016,2026020119,Sidney Crosby,2.5,over,0.4165,0,0,rest: no back-to-back
+20261016,2026020119,Sidney Crosby,2.5,under,0.5835,1,0,rest: no back-to-back
+20261016,2026020119,Evgeni Malkin,1.5,over,0.5752,1,0,rest: no back-to-back
+20261016,2026020119,Evgeni Malkin,1.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261016,2026020119,Erik Karlsson,2.5,over,0.4059,0,0,rest: no back-to-back
+20261016,2026020119,Erik Karlsson,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261016,2026020119,Nazem Kadri,2.5,over,0.5246,1,0,rest: no back-to-back
+20261016,2026020119,Nazem Kadri,2.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261016,2026020119,Brock Nelson,1.5,over,0.5862,0,0,rest: no back-to-back
+20261016,2026020119,Brock Nelson,1.5,under,0.41379999999999995,1,0,rest: no back-to-back
+20261016,2026020119,Jaden Schwartz,1.5,over,0.5147,0,0,rest: no back-to-back
+20261016,2026020119,Jaden Schwartz,1.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261016,2026020119,Gabriel Landeskog,1.5,over,0.604,0,0,rest: no back-to-back
+20261016,2026020119,Gabriel Landeskog,1.5,under,0.396,1,0,rest: no back-to-back
+20261016,2026020119,Rickard Rakell,2.5,over,0.4518,1,0,rest: no back-to-back
+20261016,2026020119,Rickard Rakell,2.5,under,0.5482,0,0,rest: no back-to-back
+20261016,2026020119,Bryan Rust,2.5,over,0.4165,0,0,rest: no back-to-back
+20261016,2026020119,Bryan Rust,2.5,under,0.5835,1,0,rest: no back-to-back
+20261016,2026020119,Nathan MacKinnon,4.5,over,0.4138,1,0,rest: no back-to-back
+20261016,2026020119,Nathan MacKinnon,4.5,under,0.5862,0,0,rest: no back-to-back
+20261016,2026020119,Artturi Lehkonen,1.5,over,0.5575,1,0,rest: no back-to-back
+20261016,2026020119,Artturi Lehkonen,1.5,under,0.4425,0,0,rest: no back-to-back
+20261016,2026020119,Devon Toews,1.5,over,0.4653,1,0,rest: no back-to-back
+20261016,2026020119,Devon Toews,1.5,under,0.5347,0,0,rest: no back-to-back
+20261016,2026020119,Tommy Novak,1.5,over,0.4653,1,0,rest: no back-to-back
+20261016,2026020119,Tommy Novak,1.5,under,0.5347,0,0,rest: no back-to-back
+20261016,2026020119,Cale Makar,2.5,over,0.4951,0,0,rest: no back-to-back
+20261016,2026020119,Cale Makar,2.5,under,0.5049,1,0,rest: no back-to-back
+20261016,2026020119,Martin Necas,2.5,over,0.4951,0,0,rest: no back-to-back
+20261016,2026020119,Martin Necas,2.5,under,0.5049,1,0,rest: no back-to-back
+20261016,2026020119,T.J. Hughes,1.5,over,0.5482,1,0,rest: no back-to-back
+20261016,2026020119,T.J. Hughes,1.5,under,0.4518,0,0,rest: no back-to-back
+20261016,2026020119,Sam Malinski,1.5,over,0.5347,0,0,rest: no back-to-back
+20261016,2026020119,Sam Malinski,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261016,2026020119,Ben Kindel,1.5,over,0.5246,1,0,rest: no back-to-back
+20261016,2026020119,Ben Kindel,1.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261017,2026020123,John Carlson,2.5,over,0.422,1,0,rest: no back-to-back
+20261017,2026020123,John Carlson,2.5,under,0.5780000000000001,0,0,rest: no back-to-back
+20261017,2026020123,Nikita Kucherov,2.5,over,0.578,1,0,rest: no back-to-back
+20261017,2026020123,Nikita Kucherov,2.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261017,2026020123,Jake Guentzel,2.5,over,0.5049,0,0,rest: no back-to-back
+20261017,2026020123,Jake Guentzel,2.5,under,0.4951,1,0,rest: no back-to-back
+20261017,2026020123,Brayden Point,1.5,over,0.6182,0,0,rest: no back-to-back
+20261017,2026020123,Brayden Point,1.5,under,0.38180000000000003,1,0,rest: no back-to-back
+20261017,2026020123,Brock Boeser,1.5,over,0.5446,0,0,rest: no back-to-back
+20261017,2026020123,Brock Boeser,1.5,under,0.4554,1,0,rest: no back-to-back
+20261017,2026020123,Jake DeBrusk,2.5,over,0.3983,0,0,rest: no back-to-back
+20261017,2026020123,Jake DeBrusk,2.5,under,0.6017,1,0,rest: no back-to-back
+20261017,2026020123,Anthony Cirelli,1.5,over,0.4853,0,0,rest: no back-to-back
+20261017,2026020123,Anthony Cirelli,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261017,2026020123,Brandon Hagel,3.5,over,0.4305,1,0,rest: no back-to-back
+20261017,2026020123,Brandon Hagel,3.5,under,0.5695,0,0,rest: no back-to-back
+20261017,2026020123,Elias Pettersson,1.5,over,0.5347,1,0,rest: no back-to-back
+20261017,2026020123,Elias Pettersson,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261017,2026020123,Filip Chytil,1.5,over,0.4951,1,0,rest: no back-to-back
+20261017,2026020123,Filip Chytil,1.5,under,0.5049,0,0,rest: no back-to-back
+20261017,2026020123,Ilya Mikheyev,1.5,over,0.4138,1,0,rest: no back-to-back
+20261017,2026020123,Ilya Mikheyev,1.5,under,0.5862,0,0,rest: no back-to-back
+20261018,2026020135,Charlie Coyle,1.5,over,0.5,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Charlie Coyle,1.5,under,0.5,0,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Blake Coleman,1.5,over,0.5941,1,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Blake Coleman,1.5,under,0.40590000000000004,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Sean Monahan,1.5,over,0.4518,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Sean Monahan,1.5,under,0.5482,1,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Valeri Nichushkin,1.5,over,0.5246,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Valeri Nichushkin,1.5,under,0.47540000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Ryan Hartman,1.5,over,0.5246,1,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Ryan Hartman,1.5,under,0.47540000000000004,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Zach Werenski,3.5,over,0.422,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Zach Werenski,3.5,under,0.5780000000000001,1,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Joel Eriksson Ek,2.5,over,0.5575,0,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Joel Eriksson Ek,2.5,under,0.4425,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Conor Garland,1.5,over,0.4138,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Conor Garland,1.5,under,0.5862,1,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Kirill Kaprizov,3.5,over,0.4335,1,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Kirill Kaprizov,3.5,under,0.5665,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Quinn Hughes,2.5,over,0.4754,1,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Quinn Hughes,2.5,under,0.5246,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Matt Boldy,3.5,over,0.4951,1,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Matt Boldy,3.5,under,0.5049,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Bobby Brink,1.5,over,0.422,0,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Bobby Brink,1.5,under,0.5780000000000001,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Kent Johnson,1.5,over,0.5541,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Kent Johnson,1.5,under,0.44589999999999996,0,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Matthew Knies,1.5,over,0.4899,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Matthew Knies,1.5,under,0.5101,1,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Danila Yurov,1.5,over,0.4248,1,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Danila Yurov,1.5,under,0.5751999999999999,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Adam Fantilli,2.5,over,0.4653,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Adam Fantilli,2.5,under,0.5347,1,1,"rest: his team on a back-to-back, opponent rested"
+20261018,2026020135,Maxim Shabanov,1.5,over,0.4853,0,1,"rest: opponent on a back-to-back, his team rested"
+20261018,2026020135,Maxim Shabanov,1.5,under,0.5146999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261019,2026020137,Alex Killorn,1.5,over,0.5347,0,0,rest: no back-to-back
+20261019,2026020137,Alex Killorn,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261019,2026020137,Mikael Granlund,1.5,over,0.5246,1,0,rest: no back-to-back
+20261019,2026020137,Mikael Granlund,1.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261019,2026020137,Mika Zibanejad,2.5,over,0.4899,0,0,rest: no back-to-back
+20261019,2026020137,Mika Zibanejad,2.5,under,0.5101,1,0,rest: no back-to-back
+20261019,2026020137,J.T. Miller,1.5,over,0.5862,1,0,rest: no back-to-back
+20261019,2026020137,J.T. Miller,1.5,under,0.41379999999999995,0,0,rest: no back-to-back
+20261019,2026020137,Adam Fox,1.5,over,0.4754,0,0,rest: no back-to-back
+20261019,2026020137,Adam Fox,1.5,under,0.5246,1,0,rest: no back-to-back
+20261019,2026020137,Eeli Tolvanen,1.5,over,0.4853,0,0,rest: no back-to-back
+20261019,2026020137,Eeli Tolvanen,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261019,2026020137,Jackson LaCombe,1.5,over,0.4853,0,0,rest: no back-to-back
+20261019,2026020137,Jackson LaCombe,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261019,2026020137,Pavel Dorofeyev,2.5,over,0.5752,1,0,rest: no back-to-back
+20261019,2026020137,Pavel Dorofeyev,2.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261019,2026020137,Alexis Lafreniere,2.5,over,0.4305,1,0,rest: no back-to-back
+20261019,2026020137,Alexis Lafreniere,2.5,under,0.5695,0,0,rest: no back-to-back
+20261019,2026020137,Will Cuylle,1.5,over,0.5941,1,0,rest: no back-to-back
+20261019,2026020137,Will Cuylle,1.5,under,0.40590000000000004,0,0,rest: no back-to-back
+20261019,2026020137,Cutter Gauthier,3.5,over,0.4335,1,0,rest: no back-to-back
+20261019,2026020137,Cutter Gauthier,3.5,under,0.5665,0,0,rest: no back-to-back
+20261019,2026020137,Leo Carlsson,2.5,over,0.422,0,0,rest: no back-to-back
+20261019,2026020137,Leo Carlsson,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261019,2026020137,Gabe Perreault,1.5,over,0.5446,1,0,rest: no back-to-back
+20261019,2026020137,Gabe Perreault,1.5,under,0.4554,0,0,rest: no back-to-back
+20261019,2026020137,Beckett Sennecke,2.5,over,0.5147,1,0,rest: no back-to-back
+20261019,2026020137,Beckett Sennecke,2.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261019,2026020138,Nazem Kadri,2.5,over,0.5246,0,0,rest: no back-to-back
+20261019,2026020138,Nazem Kadri,2.5,under,0.47540000000000004,1,0,rest: no back-to-back
+20261019,2026020138,Brock Nelson,1.5,over,0.604,1,0,rest: no back-to-back
+20261019,2026020138,Brock Nelson,1.5,under,0.396,0,0,rest: no back-to-back
+20261019,2026020138,Gabriel Landeskog,1.5,over,0.5665,0,0,rest: no back-to-back
+20261019,2026020138,Gabriel Landeskog,1.5,under,0.4335,1,0,rest: no back-to-back
+20261019,2026020138,Nathan MacKinnon,3.5,over,0.5575,0,0,rest: no back-to-back
+20261019,2026020138,Nathan MacKinnon,3.5,under,0.4425,1,0,rest: no back-to-back
+20261019,2026020138,Artturi Lehkonen,1.5,over,0.5665,1,0,rest: no back-to-back
+20261019,2026020138,Artturi Lehkonen,1.5,under,0.4335,0,0,rest: no back-to-back
+20261019,2026020138,Christian Dvorak,1.5,over,0.5,1,0,rest: no back-to-back
+20261019,2026020138,Christian Dvorak,1.5,under,0.5,0,0,rest: no back-to-back
+20261019,2026020138,Michael Bunting,1.5,over,0.4754,0,0,rest: no back-to-back
+20261019,2026020138,Michael Bunting,1.5,under,0.5246,1,0,rest: no back-to-back
+20261019,2026020138,Cale Makar,2.5,over,0.4653,1,0,rest: no back-to-back
+20261019,2026020138,Cale Makar,2.5,under,0.5347,0,0,rest: no back-to-back
+20261019,2026020138,Martin Necas,2.5,over,0.4248,0,0,rest: no back-to-back
+20261019,2026020138,Martin Necas,2.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261019,2026020138,Trevor Zegras,1.5,over,0.5575,1,0,rest: no back-to-back
+20261019,2026020138,Trevor Zegras,1.5,under,0.4425,0,0,rest: no back-to-back
+20261019,2026020138,Matvei Michkov,1.5,over,0.5575,1,0,rest: no back-to-back
+20261019,2026020138,Matvei Michkov,1.5,under,0.4425,0,0,rest: no back-to-back
+20261019,2026020138,Porter Martone,1.5,over,0.5482,0,0,rest: no back-to-back
+20261019,2026020138,Porter Martone,1.5,under,0.4518,1,0,rest: no back-to-back
+20261020,2026020141,Tyler Toffoli,1.5,over,0.5246,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Tyler Toffoli,1.5,under,0.47540000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Chris Kreider,1.5,over,0.4653,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Chris Kreider,1.5,under,0.5347,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Nick Suzuki,2.5,over,0.4853,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Nick Suzuki,2.5,under,0.5146999999999999,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Mason Marchment,1.5,over,0.4059,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Mason Marchment,1.5,under,0.5941000000000001,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Noah Dobson,2.5,over,0.3866,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Noah Dobson,2.5,under,0.6134,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Kiefer Sherwood,1.5,over,0.4951,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Kiefer Sherwood,1.5,under,0.5049,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Cole Caufield,3.5,over,0.4853,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Cole Caufield,3.5,under,0.5146999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Alex Newhook,1.5,over,0.5385,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Alex Newhook,1.5,under,0.4615,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Juraj Slafkovsky,2.5,over,0.4853,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Juraj Slafkovsky,2.5,under,0.5146999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Lane Hutson,1.5,over,0.5752,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Lane Hutson,1.5,under,0.42479999999999996,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020141,Will Smith,2.5,over,0.4059,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Will Smith,2.5,under,0.5941000000000001,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Macklin Celebrini,3.5,over,0.4248,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Macklin Celebrini,3.5,under,0.5751999999999999,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Igor Chernyshov,1.5,over,0.4425,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Igor Chernyshov,1.5,under,0.5575,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Ivar Stenberg,1.5,over,0.5347,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020141,Ivar Stenberg,1.5,under,0.46530000000000005,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Nazem Kadri,2.5,over,0.4754,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Nazem Kadri,2.5,under,0.5246,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Brock Nelson,1.5,over,0.5446,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Brock Nelson,1.5,under,0.4554,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Dougie Hamilton,2.5,over,0.4248,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Dougie Hamilton,2.5,under,0.5751999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Gabriel Landeskog,1.5,over,0.5203,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Gabriel Landeskog,1.5,under,0.4797,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Nathan MacKinnon,3.5,over,0.5575,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Nathan MacKinnon,3.5,under,0.4425,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Artturi Lehkonen,1.5,over,0.5246,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Artturi Lehkonen,1.5,under,0.47540000000000004,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Devon Toews,1.5,over,0.4554,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Devon Toews,1.5,under,0.5446,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Evan Rodrigues,1.5,over,0.5347,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Evan Rodrigues,1.5,under,0.46530000000000005,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Timo Meier,2.5,over,0.5482,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Timo Meier,2.5,under,0.4518,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Nico Hischier,2.5,over,0.4059,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Nico Hischier,2.5,under,0.5941000000000001,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Cale Makar,2.5,over,0.4653,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Cale Makar,2.5,under,0.5347,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Martin Necas,1.5,over,0.6113,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Martin Necas,1.5,under,0.38870000000000005,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,Jesper Bratt,2.5,over,0.4035,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Jesper Bratt,2.5,under,0.5965,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Jack Hughes,3.5,over,0.4951,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Jack Hughes,3.5,under,0.5049,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Dawson Mercer,1.5,over,0.4518,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Dawson Mercer,1.5,under,0.5482,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Luke Evangelista,1.5,over,0.5862,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Luke Evangelista,1.5,under,0.41379999999999995,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Luke Hughes,2.5,over,0.396,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Luke Hughes,2.5,under,0.604,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Arseny Gritsyuk,2.5,over,0.4138,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,Arseny Gritsyuk,2.5,under,0.5862,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020142,T.J. Hughes,1.5,over,0.5246,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020142,T.J. Hughes,1.5,under,0.47540000000000004,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Brayden Schenn,1.5,over,0.4754,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Brayden Schenn,1.5,under,0.5246,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Kyle Palmieri,2.5,over,0.422,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Kyle Palmieri,2.5,under,0.5780000000000001,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Mikael Granlund,1.5,over,0.5101,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Mikael Granlund,1.5,under,0.4899,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Bo Horvat,3.5,over,0.4138,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Bo Horvat,3.5,under,0.5862,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Anthony Duclair,1.5,over,0.4459,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Anthony Duclair,1.5,under,0.5541,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Tony DeAngelo,1.5,over,0.4754,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Tony DeAngelo,1.5,under,0.5246,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Simon Holmstrom,1.5,over,0.4518,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Simon Holmstrom,1.5,under,0.5482,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Jackson LaCombe,1.5,over,0.4853,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Jackson LaCombe,1.5,under,0.5146999999999999,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Emil Heineman,1.5,over,0.5446,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Emil Heineman,1.5,under,0.4554,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Cutter Gauthier,3.5,over,0.4335,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Cutter Gauthier,3.5,under,0.5665,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Leo Carlsson,2.5,over,0.4059,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Leo Carlsson,2.5,under,0.5941000000000001,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Beckett Sennecke,2.5,over,0.4754,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Beckett Sennecke,2.5,under,0.5246,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020143,Matthew Schaefer,2.5,over,0.5941,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Matthew Schaefer,2.5,under,0.40590000000000004,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Victor Eklund,1.5,over,0.4899,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020143,Victor Eklund,1.5,under,0.5101,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020144,Alex Ovechkin,2.5,over,0.4754,0,0,rest: no back-to-back
+20261020,2026020144,Alex Ovechkin,2.5,under,0.5246,1,0,rest: no back-to-back
+20261020,2026020144,Boone Jenner,1.5,over,0.578,1,0,rest: no back-to-back
+20261020,2026020144,Boone Jenner,1.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261020,2026020144,Tom Wilson,1.5,over,0.5941,1,0,rest: no back-to-back
+20261020,2026020144,Tom Wilson,1.5,under,0.40590000000000004,0,0,rest: no back-to-back
+20261020,2026020144,Trevor Moore,2.5,over,0.4059,0,0,rest: no back-to-back
+20261020,2026020144,Trevor Moore,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261020,2026020144,Alex Tuch,2.5,over,0.4425,0,0,rest: no back-to-back
+20261020,2026020144,Alex Tuch,2.5,under,0.5575,1,0,rest: no back-to-back
+20261020,2026020144,Adrian Kempe,2.5,over,0.5246,1,0,rest: no back-to-back
+20261020,2026020144,Adrian Kempe,2.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261020,2026020144,Artemi Panarin,2.5,over,0.4754,1,0,rest: no back-to-back
+20261020,2026020144,Artemi Panarin,2.5,under,0.5246,0,0,rest: no back-to-back
+20261020,2026020144,Dylan Strome,1.5,over,0.5575,1,0,rest: no back-to-back
+20261020,2026020144,Dylan Strome,1.5,under,0.4425,0,0,rest: no back-to-back
+20261020,2026020144,Jakob Chychrun,2.5,over,0.4653,1,0,rest: no back-to-back
+20261020,2026020144,Jakob Chychrun,2.5,under,0.5347,0,0,rest: no back-to-back
+20261020,2026020144,Jordan Kyrou,1.5,over,0.5862,1,0,rest: no back-to-back
+20261020,2026020144,Jordan Kyrou,1.5,under,0.41379999999999995,0,0,rest: no back-to-back
+20261020,2026020144,Aliaksei Protas,1.5,over,0.4797,0,0,rest: no back-to-back
+20261020,2026020144,Aliaksei Protas,1.5,under,0.5203,1,0,rest: no back-to-back
+20261020,2026020144,Quinton Byfield,2.5,over,0.422,0,0,rest: no back-to-back
+20261020,2026020144,Quinton Byfield,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261020,2026020144,Alex Laferriere,2.5,over,0.4899,1,0,rest: no back-to-back
+20261020,2026020144,Alex Laferriere,2.5,under,0.5101,0,0,rest: no back-to-back
+20261020,2026020144,Brandt Clarke,1.5,over,0.5575,0,0,rest: no back-to-back
+20261020,2026020144,Brandt Clarke,1.5,under,0.4425,1,0,rest: no back-to-back
+20261020,2026020144,Ryan Leonard,2.5,over,0.3887,0,0,rest: no back-to-back
+20261020,2026020144,Ryan Leonard,2.5,under,0.6113,1,0,rest: no back-to-back
+20261020,2026020144,Cole Hutson,1.5,over,0.4899,1,0,rest: no back-to-back
+20261020,2026020144,Cole Hutson,1.5,under,0.5101,0,0,rest: no back-to-back
+20261020,2026020145,Charlie Coyle,2.5,over,0.3818,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Charlie Coyle,2.5,under,0.6182000000000001,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Morgan Rielly,1.5,over,0.4518,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Morgan Rielly,1.5,under,0.5482,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Sean Monahan,1.5,over,0.5665,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Sean Monahan,1.5,under,0.4335,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Valeri Nichushkin,1.5,over,0.5941,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Valeri Nichushkin,1.5,under,0.40590000000000004,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,William Nylander,2.5,over,0.5101,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,William Nylander,2.5,under,0.4899,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Darren Raddysh,2.5,over,0.4754,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Darren Raddysh,2.5,under,0.5246,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Zach Werenski,3.5,over,0.4951,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Zach Werenski,3.5,under,0.5049,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Jack Roslovic,1.5,over,0.5752,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Jack Roslovic,1.5,under,0.42479999999999996,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Conor Garland,1.5,over,0.4853,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Conor Garland,1.5,under,0.5146999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Auston Matthews,3.5,over,0.422,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Auston Matthews,3.5,under,0.5780000000000001,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Kirill Marchenko,2.5,over,0.5246,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Kirill Marchenko,2.5,under,0.47540000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Kent Johnson,2.5,over,0.4138,0,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Kent Johnson,2.5,under,0.5862,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Cole Sillinger,1.5,over,0.5482,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Cole Sillinger,1.5,under,0.4518,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Matthew Knies,1.5,over,0.5482,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Matthew Knies,1.5,under,0.4518,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Adam Fantilli,3.5,over,0.4518,1,1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Adam Fantilli,3.5,under,0.5482,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261020,2026020145,Easton Cowan,1.5,over,0.5101,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Easton Cowan,1.5,under,0.4899,0,1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Gavin McKenna,1.5,over,0.5101,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261020,2026020145,Gavin McKenna,1.5,under,0.4899,0,1,"rest: his team on a back-to-back, opponent rested"
+20261021,2026020152,Sean Couturier,1.5,over,0.4335,0,0,rest: no back-to-back
+20261021,2026020152,Sean Couturier,1.5,under,0.5665,1,0,rest: no back-to-back
+20261021,2026020152,Jason Zucker,1.5,over,0.4899,1,0,rest n/a (no prior game for team)
+20261021,2026020152,Jason Zucker,1.5,under,0.5101,0,0,rest n/a (no prior game for team)
+20261021,2026020152,Christian Dvorak,1.5,over,0.5147,1,0,rest: no back-to-back
+20261021,2026020152,Christian Dvorak,1.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261021,2026020152,Tage Thompson,3.5,over,0.4754,0,0,rest: no back-to-back
+20261021,2026020152,Tage Thompson,3.5,under,0.5246,1,0,rest: no back-to-back
+20261021,2026020152,Josh Norris,1.5,over,0.4754,0,0,rest: no back-to-back
+20261021,2026020152,Josh Norris,1.5,under,0.5246,1,0,rest: no back-to-back
+20261021,2026020152,Rasmus Dahlin,2.5,over,0.4653,1,0,rest: no back-to-back
+20261021,2026020152,Rasmus Dahlin,2.5,under,0.5347,0,0,rest: no back-to-back
+20261021,2026020152,Trevor Zegras,2.5,over,0.396,1,0,rest: no back-to-back
+20261021,2026020152,Trevor Zegras,2.5,under,0.604,0,0,rest: no back-to-back
+20261021,2026020152,Jack Quinn,2.5,over,0.4797,1,0,rest: no back-to-back
+20261021,2026020152,Jack Quinn,2.5,under,0.5203,0,0,rest: no back-to-back
+20261021,2026020152,Josh Doan,1.5,over,0.578,1,0,rest: no back-to-back
+20261021,2026020152,Josh Doan,1.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261021,2026020152,Jiri Kulich,1.5,over,0.5541,0,0,rest: no back-to-back
+20261021,2026020152,Jiri Kulich,1.5,under,0.44589999999999996,1,0,rest: no back-to-back
+20261021,2026020152,Matvei Michkov,2.5,over,0.4059,0,0,rest: no back-to-back
+20261021,2026020152,Matvei Michkov,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261021,2026020152,Zach Benson,1.5,over,0.6017,0,0,rest: no back-to-back
+20261021,2026020152,Zach Benson,1.5,under,0.3983,1,0,rest: no back-to-back
+20261021,2026020152,Porter Martone,1.5,over,0.5965,1,0,rest: no back-to-back
+20261021,2026020152,Porter Martone,1.5,under,0.40349999999999997,0,0,rest: no back-to-back
+20261021,2026020153,Claude Giroux,1.5,over,0.5,1,0,rest: no back-to-back
+20261021,2026020153,Claude Giroux,1.5,under,0.5,0,0,rest: no back-to-back
+20261021,2026020153,Seth Jones,1.5,over,0.5147,1,0,rest: no back-to-back
+20261021,2026020153,Seth Jones,1.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261021,2026020153,Carter Verhaeghe,2.5,over,0.4554,0,0,rest: no back-to-back
+20261021,2026020153,Carter Verhaeghe,2.5,under,0.5446,1,0,rest: no back-to-back
+20261021,2026020153,Sam Reinhart,2.5,over,0.4335,0,0,rest: no back-to-back
+20261021,2026020153,Sam Reinhart,2.5,under,0.5665,1,0,rest: no back-to-back
+20261021,2026020153,Sam Bennett,2.5,over,0.4425,0,0,rest: no back-to-back
+20261021,2026020153,Sam Bennett,2.5,under,0.5575,1,0,rest: no back-to-back
+20261021,2026020153,Matthew Tkachuk,2.5,over,0.5,1,0,rest: no back-to-back
+20261021,2026020153,Matthew Tkachuk,2.5,under,0.5,0,0,rest: no back-to-back
+20261021,2026020153,Drake Batherson,2.5,over,0.4138,0,0,rest: no back-to-back
+20261021,2026020153,Drake Batherson,2.5,under,0.5862,1,0,rest: no back-to-back
+20261021,2026020153,Brady Tkachuk,3.5,over,0.422,0,0,rest: no back-to-back
+20261021,2026020153,Brady Tkachuk,3.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261021,2026020153,Dylan Cozens,2.5,over,0.4459,1,0,rest: no back-to-back
+20261021,2026020153,Dylan Cozens,2.5,under,0.5541,0,0,rest: no back-to-back
+20261021,2026020153,Shane Pinto,1.5,over,0.5752,1,0,rest: no back-to-back
+20261021,2026020153,Shane Pinto,1.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261021,2026020153,Fabian Zetterlund,1.5,over,0.4138,0,0,rest: no back-to-back
+20261021,2026020153,Fabian Zetterlund,1.5,under,0.5862,1,0,rest: no back-to-back
+20261021,2026020153,Tim Stutzle,2.5,over,0.422,0,0,rest: no back-to-back
+20261021,2026020153,Tim Stutzle,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261021,2026020153,Jake Sanderson,2.5,over,0.4059,1,0,rest: no back-to-back
+20261021,2026020153,Jake Sanderson,2.5,under,0.5941000000000001,0,0,rest: no back-to-back
+20261021,2026020153,Anton Lundell,1.5,over,0.5347,0,0,rest: no back-to-back
+20261021,2026020153,Anton Lundell,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261021,2026020153,Ridly Greig,1.5,over,0.4425,0,0,rest: no back-to-back
+20261021,2026020153,Ridly Greig,1.5,under,0.5575,1,0,rest: no back-to-back
+20261024,2026020169,Mats Zuccarello,1.5,over,0.4653,0,0,rest: no back-to-back
+20261024,2026020169,Mats Zuccarello,1.5,under,0.5347,1,0,rest: no back-to-back
+20261024,2026020169,Dougie Hamilton,2.5,over,0.422,0,0,rest: no back-to-back
+20261024,2026020169,Dougie Hamilton,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261024,2026020169,Erik Haula,1.5,over,0.4754,0,0,rest: no back-to-back
+20261024,2026020169,Erik Haula,1.5,under,0.5246,1,0,rest: no back-to-back
+20261024,2026020169,Trevor Moore,1.5,over,0.5665,0,0,rest: no back-to-back
+20261024,2026020169,Trevor Moore,1.5,under,0.4335,1,0,rest: no back-to-back
+20261024,2026020169,Adrian Kempe,2.5,over,0.5347,0,0,rest: no back-to-back
+20261024,2026020169,Adrian Kempe,2.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261024,2026020169,Evan Rodrigues,1.5,over,0.5575,0,0,rest: no back-to-back
+20261024,2026020169,Evan Rodrigues,1.5,under,0.4425,1,0,rest: no back-to-back
+20261024,2026020169,Artemi Panarin,2.5,over,0.4754,1,0,rest: no back-to-back
+20261024,2026020169,Artemi Panarin,2.5,under,0.5246,0,0,rest: no back-to-back
+20261024,2026020169,Timo Meier,2.5,over,0.5752,1,0,rest: no back-to-back
+20261024,2026020169,Timo Meier,2.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261024,2026020169,Nico Hischier,2.5,over,0.4425,1,0,rest: no back-to-back
+20261024,2026020169,Nico Hischier,2.5,under,0.5575,0,0,rest: no back-to-back
+20261024,2026020169,Jesper Bratt,1.5,over,0.6113,0,0,rest: no back-to-back
+20261024,2026020169,Jesper Bratt,1.5,under,0.38870000000000005,1,0,rest: no back-to-back
+20261024,2026020169,Jack Hughes,3.5,over,0.4853,0,0,rest: no back-to-back
+20261024,2026020169,Jack Hughes,3.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261024,2026020169,Luke Evangelista,2.5,over,0.4035,1,0,rest: no back-to-back
+20261024,2026020169,Luke Evangelista,2.5,under,0.5965,0,0,rest: no back-to-back
+20261024,2026020169,Alex Laferriere,2.5,over,0.5147,0,0,rest: no back-to-back
+20261024,2026020169,Alex Laferriere,2.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261024,2026020169,Luke Hughes,2.5,over,0.4335,0,0,rest: no back-to-back
+20261024,2026020169,Luke Hughes,2.5,under,0.5665,1,0,rest: no back-to-back
+20261024,2026020169,Brandt Clarke,1.5,over,0.4853,0,0,rest: no back-to-back
+20261024,2026020169,Brandt Clarke,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261024,2026020169,Arseny Gritsyuk,2.5,over,0.4138,0,0,rest: no back-to-back
+20261024,2026020169,Arseny Gritsyuk,2.5,under,0.5862,1,0,rest: no back-to-back
+20261025,2026020180,Patrick Kane,2.5,over,0.422,0,0,rest: no back-to-back
+20261025,2026020180,Patrick Kane,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261025,2026020180,Seth Jones,1.5,over,0.5482,1,0,rest: no back-to-back
+20261025,2026020180,Seth Jones,1.5,under,0.4518,0,0,rest: no back-to-back
+20261025,2026020180,Tyler Bertuzzi,1.5,over,0.4554,1,0,rest: no back-to-back
+20261025,2026020180,Tyler Bertuzzi,1.5,under,0.5446,0,0,rest: no back-to-back
+20261025,2026020180,Carter Verhaeghe,2.5,over,0.4853,1,0,rest: no back-to-back
+20261025,2026020180,Carter Verhaeghe,2.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261025,2026020180,Sam Reinhart,2.5,over,0.4615,0,0,rest: no back-to-back
+20261025,2026020180,Sam Reinhart,2.5,under,0.5385,1,0,rest: no back-to-back
+20261025,2026020180,Sam Bennett,2.5,over,0.4248,1,0,rest: no back-to-back
+20261025,2026020180,Sam Bennett,2.5,under,0.5751999999999999,0,0,rest: no back-to-back
+20261025,2026020180,Matthew Tkachuk,2.5,over,0.5246,1,0,rest: no back-to-back
+20261025,2026020180,Matthew Tkachuk,2.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261025,2026020180,Brady Tkachuk,3.5,over,0.4335,0,0,rest: no back-to-back
+20261025,2026020180,Brady Tkachuk,3.5,under,0.5665,1,0,rest: no back-to-back
+20261025,2026020180,Anton Lundell,1.5,over,0.578,1,0,rest: no back-to-back
+20261025,2026020180,Anton Lundell,1.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261025,2026020180,Frank Nazar,1.5,over,0.4853,0,0,rest: no back-to-back
+20261025,2026020180,Frank Nazar,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261025,2026020180,Connor Bedard,2.5,over,0.4853,0,0,rest: no back-to-back
+20261025,2026020180,Connor Bedard,2.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261025,2026020180,Roman Kantserov,1.5,over,0.5385,1,0,rest: no back-to-back
+20261025,2026020180,Roman Kantserov,1.5,under,0.4615,0,0,rest: no back-to-back
+20261025,2026020180,Anton Frondell,1.5,over,0.5347,1,0,rest: no back-to-back
+20261025,2026020180,Anton Frondell,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261026,2026020185,Mika Zibanejad,2.5,over,0.4335,0,0,rest: no back-to-back
+20261026,2026020185,Mika Zibanejad,2.5,under,0.5665,1,0,rest: no back-to-back
+20261026,2026020185,J.T. Miller,1.5,over,0.5446,1,0,rest: no back-to-back
+20261026,2026020185,J.T. Miller,1.5,under,0.4554,0,0,rest: no back-to-back
+20261026,2026020185,Trevor Moore,1.5,over,0.5482,0,0,rest: no back-to-back
+20261026,2026020185,Trevor Moore,1.5,under,0.4518,1,0,rest: no back-to-back
+20261026,2026020185,Adrian Kempe,2.5,over,0.5575,1,0,rest: no back-to-back
+20261026,2026020185,Adrian Kempe,2.5,under,0.4425,0,0,rest: no back-to-back
+20261026,2026020185,Artemi Panarin,2.5,over,0.5147,1,0,rest: no back-to-back
+20261026,2026020185,Artemi Panarin,2.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261026,2026020185,Adam Fox,1.5,over,0.4248,1,0,rest: no back-to-back
+20261026,2026020185,Adam Fox,1.5,under,0.5751999999999999,0,0,rest: no back-to-back
+20261026,2026020185,Pavel Dorofeyev,2.5,over,0.5665,0,0,rest: no back-to-back
+20261026,2026020185,Pavel Dorofeyev,2.5,under,0.4335,1,0,rest: no back-to-back
+20261026,2026020185,Alexis Lafreniere,2.5,over,0.396,0,0,rest: no back-to-back
+20261026,2026020185,Alexis Lafreniere,2.5,under,0.604,1,0,rest: no back-to-back
+20261026,2026020185,Will Cuylle,1.5,over,0.578,1,0,rest: no back-to-back
+20261026,2026020185,Will Cuylle,1.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261026,2026020185,Alex Laferriere,2.5,over,0.4518,0,0,rest: no back-to-back
+20261026,2026020185,Alex Laferriere,2.5,under,0.5482,1,0,rest: no back-to-back
+20261026,2026020185,Brandt Clarke,1.5,over,0.5385,0,0,rest: no back-to-back
+20261026,2026020185,Brandt Clarke,1.5,under,0.4615,1,0,rest: no back-to-back
+20261026,2026020185,Gabe Perreault,1.5,over,0.5347,0,0,rest: no back-to-back
+20261026,2026020185,Gabe Perreault,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261027,2026020188,Charlie Coyle,1.5,over,0.5147,0,0,rest: no back-to-back
+20261027,2026020188,Charlie Coyle,1.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261027,2026020188,Sean Couturier,1.5,over,0.4335,0,0,rest: no back-to-back
+20261027,2026020188,Sean Couturier,1.5,under,0.5665,1,0,rest: no back-to-back
+20261027,2026020188,Sean Monahan,1.5,over,0.4653,0,0,rest: no back-to-back
+20261027,2026020188,Sean Monahan,1.5,under,0.5347,1,0,rest: no back-to-back
+20261027,2026020188,Valeri Nichushkin,1.5,over,0.5347,0,0,rest: no back-to-back
+20261027,2026020188,Valeri Nichushkin,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261027,2026020188,Travis Sanheim,1.5,over,0.4425,1,0,rest: no back-to-back
+20261027,2026020188,Travis Sanheim,1.5,under,0.5575,0,0,rest: no back-to-back
+20261027,2026020188,Christian Dvorak,1.5,over,0.4899,1,0,rest: no back-to-back
+20261027,2026020188,Christian Dvorak,1.5,under,0.5101,0,0,rest: no back-to-back
+20261027,2026020188,Zach Werenski,3.5,over,0.4248,0,0,rest: no back-to-back
+20261027,2026020188,Zach Werenski,3.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261027,2026020188,Conor Garland,1.5,over,0.4335,1,0,rest: no back-to-back
+20261027,2026020188,Conor Garland,1.5,under,0.5665,0,0,rest: no back-to-back
+20261027,2026020188,Mathieu Olivier,1.5,over,0.5,0,0,rest: no back-to-back
+20261027,2026020188,Mathieu Olivier,1.5,under,0.5,1,0,rest: no back-to-back
+20261027,2026020188,Trevor Zegras,1.5,over,0.6113,1,0,rest: no back-to-back
+20261027,2026020188,Trevor Zegras,1.5,under,0.38870000000000005,0,0,rest: no back-to-back
+20261027,2026020188,Jamie Drysdale,1.5,over,0.4138,1,0,rest: no back-to-back
+20261027,2026020188,Jamie Drysdale,1.5,under,0.5862,0,0,rest: no back-to-back
+20261027,2026020188,Tyson Foerster,2.5,over,0.3887,1,0,rest: no back-to-back
+20261027,2026020188,Tyson Foerster,2.5,under,0.6113,0,0,rest: no back-to-back
+20261027,2026020188,Kent Johnson,1.5,over,0.5482,1,0,rest: no back-to-back
+20261027,2026020188,Kent Johnson,1.5,under,0.4518,0,0,rest: no back-to-back
+20261027,2026020188,Cole Sillinger,1.5,over,0.4615,1,0,rest: no back-to-back
+20261027,2026020188,Cole Sillinger,1.5,under,0.5385,0,0,rest: no back-to-back
+20261027,2026020188,Matthew Knies,1.5,over,0.4951,0,0,rest: no back-to-back
+20261027,2026020188,Matthew Knies,1.5,under,0.5049,1,0,rest: no back-to-back
+20261027,2026020188,Denton Mateychuk,1.5,over,0.4459,0,0,rest: no back-to-back
+20261027,2026020188,Denton Mateychuk,1.5,under,0.5541,1,0,rest: no back-to-back
+20261027,2026020188,Adam Fantilli,2.5,over,0.4653,0,0,rest: no back-to-back
+20261027,2026020188,Adam Fantilli,2.5,under,0.5347,1,0,rest: no back-to-back
+20261027,2026020188,Matvei Michkov,2.5,over,0.422,0,0,rest: no back-to-back
+20261027,2026020188,Matvei Michkov,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261027,2026020188,Alex Bump,1.5,over,0.5203,1,0,rest: no back-to-back
+20261027,2026020188,Alex Bump,1.5,under,0.4797,0,0,rest: no back-to-back
+20261027,2026020188,Porter Martone,2.5,over,0.396,0,0,rest: no back-to-back
+20261027,2026020188,Porter Martone,2.5,under,0.604,1,0,rest: no back-to-back
+20261028,2026020199,Alex Ovechkin,2.5,over,0.4335,0,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Alex Ovechkin,2.5,under,0.5665,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Boone Jenner,1.5,over,0.5246,0,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Boone Jenner,1.5,under,0.47540000000000004,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Tom Wilson,1.5,over,0.5965,0,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Tom Wilson,1.5,under,0.40349999999999997,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Travis Sanheim,1.5,over,0.4335,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Travis Sanheim,1.5,under,0.5665,1,1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Alex Tuch,2.5,over,0.4853,1,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Alex Tuch,2.5,under,0.5146999999999999,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Dylan Strome,1.5,over,0.5665,1,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Dylan Strome,1.5,under,0.4335,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Pierre-Luc Dubois,1.5,over,0.5347,0,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Pierre-Luc Dubois,1.5,under,0.46530000000000005,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Jakob Chychrun,2.5,over,0.5049,0,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Jakob Chychrun,2.5,under,0.4951,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Jordan Kyrou,2.5,over,0.396,1,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Jordan Kyrou,2.5,under,0.604,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Trevor Zegras,1.5,over,0.5147,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Trevor Zegras,1.5,under,0.48529999999999995,0,1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Aliaksei Protas,1.5,over,0.4951,1,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Aliaksei Protas,1.5,under,0.5049,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Tyson Foerster,1.5,over,0.5246,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Tyson Foerster,1.5,under,0.47540000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Matvei Michkov,1.5,over,0.5347,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Matvei Michkov,1.5,under,0.46530000000000005,1,1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Ryan Leonard,1.5,over,0.6113,1,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Ryan Leonard,1.5,under,0.38870000000000005,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Alex Bump,1.5,over,0.4853,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Alex Bump,1.5,under,0.5146999999999999,0,1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Cole Hutson,1.5,over,0.5446,0,1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Cole Hutson,1.5,under,0.4554,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261028,2026020199,Porter Martone,1.5,over,0.5385,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261028,2026020199,Porter Martone,1.5,under,0.4615,0,1,"rest: his team on a back-to-back, opponent rested"
+20261029,2026020204,John Carlson,1.5,over,0.5965,1,0,rest: no back-to-back
+20261029,2026020204,John Carlson,1.5,under,0.40349999999999997,0,0,rest: no back-to-back
+20261029,2026020204,Mark Scheifele,1.5,over,0.604,0,0,rest: no back-to-back
+20261029,2026020204,Mark Scheifele,1.5,under,0.396,1,0,rest: no back-to-back
+20261029,2026020204,Nikita Kucherov,2.5,over,0.5541,1,0,rest: no back-to-back
+20261029,2026020204,Nikita Kucherov,2.5,under,0.44589999999999996,0,0,rest: no back-to-back
+20261029,2026020204,Jake Guentzel,2.5,over,0.4853,1,0,rest: no back-to-back
+20261029,2026020204,Jake Guentzel,2.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261029,2026020204,Brayden Point,2.5,over,0.4059,1,0,rest: no back-to-back
+20261029,2026020204,Brayden Point,2.5,under,0.5941000000000001,0,0,rest: no back-to-back
+20261029,2026020204,Kyle Connor,3.5,over,0.4059,1,0,rest: no back-to-back
+20261029,2026020204,Kyle Connor,3.5,under,0.5941000000000001,0,0,rest: no back-to-back
+20261029,2026020204,Anthony Cirelli,1.5,over,0.5101,0,0,rest: no back-to-back
+20261029,2026020204,Anthony Cirelli,1.5,under,0.4899,1,0,rest: no back-to-back
+20261029,2026020204,Neal Pionk,1.5,over,0.4951,1,0,rest: no back-to-back
+20261029,2026020204,Neal Pionk,1.5,under,0.5049,0,0,rest: no back-to-back
+20261029,2026020204,Brandon Hagel,3.5,over,0.422,1,0,rest: no back-to-back
+20261029,2026020204,Brandon Hagel,3.5,under,0.5780000000000001,0,0,rest: no back-to-back
+20261029,2026020204,Gabriel Vilardi,1.5,over,0.5347,0,0,rest: no back-to-back
+20261029,2026020204,Gabriel Vilardi,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261029,2026020204,Charle-Edouard D'Astous,1.5,over,0.4554,1,0,rest: no back-to-back
+20261029,2026020204,Charle-Edouard D'Astous,1.5,under,0.5446,0,0,rest: no back-to-back
+20261029,2026020204,Cole Perfetti,2.5,over,0.4305,1,0,rest: no back-to-back
+20261029,2026020204,Cole Perfetti,2.5,under,0.5695,0,0,rest: no back-to-back
+20261029,2026020204,Dawson Mercer,1.5,over,0.4797,1,0,rest: no back-to-back
+20261029,2026020204,Dawson Mercer,1.5,under,0.5203,0,0,rest: no back-to-back
+20261029,2026020204,Gage Goncalves,1.5,over,0.4554,0,0,rest: no back-to-back
+20261029,2026020204,Gage Goncalves,1.5,under,0.5446,1,0,rest: no back-to-back
+20261029,2026020204,Elias Salomonsson,1.5,over,0.4138,1,0,rest: no back-to-back
+20261029,2026020204,Elias Salomonsson,1.5,under,0.5862,0,0,rest: no back-to-back
+20261029,2026020205,Sidney Crosby,2.5,over,0.4138,1,0,rest: no back-to-back
+20261029,2026020205,Sidney Crosby,2.5,under,0.5862,0,0,rest: no back-to-back
+20261029,2026020205,Evgeni Malkin,1.5,over,0.5203,1,0,rest: no back-to-back
+20261029,2026020205,Evgeni Malkin,1.5,under,0.4797,0,0,rest: no back-to-back
+20261029,2026020205,Erik Karlsson,2.5,over,0.3983,0,0,rest: no back-to-back
+20261029,2026020205,Erik Karlsson,2.5,under,0.6017,1,0,rest: no back-to-back
+20261029,2026020205,Anders Lee,1.5,over,0.5347,1,0,rest: no back-to-back
+20261029,2026020205,Anders Lee,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261029,2026020205,Rickard Rakell,2.5,over,0.4899,1,0,rest: no back-to-back
+20261029,2026020205,Rickard Rakell,2.5,under,0.5101,0,0,rest: no back-to-back
+20261029,2026020205,MacKenzie Weegar,1.5,over,0.5049,0,0,rest: no back-to-back
+20261029,2026020205,MacKenzie Weegar,1.5,under,0.4951,1,0,rest: no back-to-back
+20261029,2026020205,Nick Schmaltz,2.5,over,0.396,1,0,rest: no back-to-back
+20261029,2026020205,Nick Schmaltz,2.5,under,0.604,0,0,rest: no back-to-back
+20261029,2026020205,Tommy Novak,1.5,over,0.5482,0,0,rest: no back-to-back
+20261029,2026020205,Tommy Novak,1.5,under,0.4518,1,0,rest: no back-to-back
+20261029,2026020205,Clayton Keller,2.5,over,0.4518,1,0,rest: no back-to-back
+20261029,2026020205,Clayton Keller,2.5,under,0.5482,0,0,rest: no back-to-back
+20261029,2026020205,Mikhail Sergachev,1.5,over,0.5541,1,0,rest: no back-to-back
+20261029,2026020205,Mikhail Sergachev,1.5,under,0.44589999999999996,0,0,rest: no back-to-back
+20261029,2026020205,Barrett Hayton,1.5,over,0.4951,1,0,rest: no back-to-back
+20261029,2026020205,Barrett Hayton,1.5,under,0.5049,0,0,rest: no back-to-back
+20261029,2026020205,Egor Chinakhov,1.5,over,0.6017,0,0,rest n/a (team unclear)
+20261029,2026020205,Egor Chinakhov,1.5,under,0.3983,1,0,rest n/a (team unclear)
+20261029,2026020205,Dylan Guenther,2.5,over,0.5665,0,0,rest: no back-to-back
+20261029,2026020205,Dylan Guenther,2.5,under,0.4335,1,0,rest: no back-to-back
+20261029,2026020205,Logan Cooley,1.5,over,0.5862,1,0,rest: no back-to-back
+20261029,2026020205,Logan Cooley,1.5,under,0.41379999999999995,0,0,rest: no back-to-back
+20261029,2026020205,Ben Kindel,1.5,over,0.5147,1,0,rest n/a (team unclear)
+20261029,2026020205,Ben Kindel,1.5,under,0.48529999999999995,0,0,rest n/a (team unclear)
+20261029,2026020206,Charlie Coyle,1.5,over,0.4797,1,0,rest: no back-to-back
+20261029,2026020206,Charlie Coyle,1.5,under,0.5203,0,0,rest: no back-to-back
+20261029,2026020206,Mark Jankowski,1.5,over,0.396,1,0,rest: no back-to-back
+20261029,2026020206,Mark Jankowski,1.5,under,0.604,0,0,rest: no back-to-back
+20261029,2026020206,Shayne Gostisbehere,1.5,over,0.4853,1,0,rest: no back-to-back
+20261029,2026020206,Shayne Gostisbehere,1.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261029,2026020206,Valeri Nichushkin,1.5,over,0.4615,0,0,rest: no back-to-back
+20261029,2026020206,Valeri Nichushkin,1.5,under,0.5385,1,0,rest: no back-to-back
+20261029,2026020206,William Carrier,1.5,over,0.4165,1,0,rest: no back-to-back
+20261029,2026020206,William Carrier,1.5,under,0.5835,0,0,rest: no back-to-back
+20261029,2026020206,Nikolaj Ehlers,1.5,over,0.5862,0,0,rest: no back-to-back
+20261029,2026020206,Nikolaj Ehlers,1.5,under,0.41379999999999995,1,0,rest: no back-to-back
+20261029,2026020206,Zach Werenski,2.5,over,0.4951,0,0,rest: no back-to-back
+20261029,2026020206,Zach Werenski,2.5,under,0.5049,1,0,rest: no back-to-back
+20261029,2026020206,Sebastian Aho,2.5,over,0.5049,0,0,rest: no back-to-back
+20261029,2026020206,Sebastian Aho,2.5,under,0.4951,1,0,rest: no back-to-back
+20261029,2026020206,Mathieu Olivier,1.5,over,0.4059,1,0,rest: no back-to-back
+20261029,2026020206,Mathieu Olivier,1.5,under,0.5941000000000001,0,0,rest: no back-to-back
+20261029,2026020206,Sean Walker,1.5,over,0.4797,0,0,rest: no back-to-back
+20261029,2026020206,Sean Walker,1.5,under,0.5203,1,0,rest: no back-to-back
+20261029,2026020206,Andrei Svechnikov,2.5,over,0.4248,0,0,rest: no back-to-back
+20261029,2026020206,Andrei Svechnikov,2.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261029,2026020206,Seth Jarvis,2.5,over,0.3818,1,0,rest: no back-to-back
+20261029,2026020206,Seth Jarvis,2.5,under,0.6182000000000001,0,0,rest: no back-to-back
+20261029,2026020206,Kent Johnson,1.5,over,0.4754,1,0,rest: no back-to-back
+20261029,2026020206,Kent Johnson,1.5,under,0.5246,0,0,rest: no back-to-back
+20261029,2026020206,Logan Stankoven,2.5,over,0.4615,1,0,rest: no back-to-back
+20261029,2026020206,Logan Stankoven,2.5,under,0.5385,0,0,rest: no back-to-back
+20261029,2026020206,Matthew Knies,1.5,over,0.4165,0,0,rest: no back-to-back
+20261029,2026020206,Matthew Knies,1.5,under,0.5835,1,0,rest: no back-to-back
+20261029,2026020206,Jackson Blake,2.5,over,0.4425,0,0,rest: no back-to-back
+20261029,2026020206,Jackson Blake,2.5,under,0.5575,1,0,rest: no back-to-back
+20261029,2026020206,Adam Fantilli,1.5,over,0.604,1,0,rest: no back-to-back
+20261029,2026020206,Adam Fantilli,1.5,under,0.396,0,0,rest: no back-to-back
+20261031,2026020221,Drew Doughty,1.5,over,0.3887,0,0,rest: no back-to-back
+20261031,2026020221,Drew Doughty,1.5,under,0.6113,1,0,rest: no back-to-back
+20261031,2026020221,Jason Zucker,1.5,over,0.4653,0,0,rest: no back-to-back
+20261031,2026020221,Jason Zucker,1.5,under,0.5347,1,0,rest: no back-to-back
+20261031,2026020221,Scott Laughton,1.5,over,0.4754,0,0,rest: no back-to-back
+20261031,2026020221,Scott Laughton,1.5,under,0.5246,1,0,rest: no back-to-back
+20261031,2026020221,Trevor Moore,1.5,over,0.6182,1,0,rest: no back-to-back
+20261031,2026020221,Trevor Moore,1.5,under,0.38180000000000003,0,0,rest: no back-to-back
+20261031,2026020221,Artemi Panarin,2.5,over,0.5049,1,0,rest: no back-to-back
+20261031,2026020221,Artemi Panarin,2.5,under,0.4951,0,0,rest: no back-to-back
+20261031,2026020221,Tage Thompson,3.5,over,0.422,1,0,rest: no back-to-back
+20261031,2026020221,Tage Thompson,3.5,under,0.5780000000000001,0,0,rest: no back-to-back
+20261031,2026020221,Rasmus Dahlin,2.5,over,0.5147,0,0,rest: no back-to-back
+20261031,2026020221,Rasmus Dahlin,2.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261031,2026020221,Quinton Byfield,2.5,over,0.4335,0,0,rest: no back-to-back
+20261031,2026020221,Quinton Byfield,2.5,under,0.5665,1,0,rest: no back-to-back
+20261031,2026020221,Jack Quinn,2.5,over,0.4951,0,0,rest: no back-to-back
+20261031,2026020221,Jack Quinn,2.5,under,0.5049,1,0,rest: no back-to-back
+20261031,2026020221,Alex Laferriere,2.5,over,0.4951,1,0,rest: no back-to-back
+20261031,2026020221,Alex Laferriere,2.5,under,0.5049,0,0,rest: no back-to-back
+20261031,2026020221,Brandt Clarke,1.5,over,0.4853,0,0,rest: no back-to-back
+20261031,2026020221,Brandt Clarke,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261031,2026020221,Olen Zellweger,1.5,over,0.5,0,0,rest: no back-to-back
+20261031,2026020221,Olen Zellweger,1.5,under,0.5,1,0,rest: no back-to-back
+20261031,2026020221,Josh Doan,1.5,over,0.5,1,0,rest: no back-to-back
+20261031,2026020221,Josh Doan,1.5,under,0.5,0,0,rest: no back-to-back
+20261031,2026020221,Noah Ostlund,1.5,over,0.5101,1,0,rest: no back-to-back
+20261031,2026020221,Noah Ostlund,1.5,under,0.4899,0,0,rest: no back-to-back
+20261031,2026020221,Zach Benson,1.5,over,0.6113,1,0,rest: no back-to-back
+20261031,2026020221,Zach Benson,1.5,under,0.38870000000000005,0,0,rest: no back-to-back
+20261031,2026020222,Claude Giroux,1.5,over,0.5446,0,0,rest: no back-to-back
+20261031,2026020222,Claude Giroux,1.5,under,0.4554,1,0,rest: no back-to-back
+20261031,2026020222,Tyler Toffoli,1.5,over,0.5347,0,0,rest: no back-to-back
+20261031,2026020222,Tyler Toffoli,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261031,2026020222,Jacob Trouba,1.5,over,0.4459,1,0,rest: no back-to-back
+20261031,2026020222,Jacob Trouba,1.5,under,0.5541,0,0,rest: no back-to-back
+20261031,2026020222,Darnell Nurse,1.5,over,0.4853,0,0,rest: no back-to-back
+20261031,2026020222,Darnell Nurse,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261031,2026020222,Thomas Chabot,1.5,over,0.5385,1,0,rest: no back-to-back
+20261031,2026020222,Thomas Chabot,1.5,under,0.4615,0,0,rest: no back-to-back
+20261031,2026020222,Drake Batherson,2.5,over,0.4335,1,0,rest: no back-to-back
+20261031,2026020222,Drake Batherson,2.5,under,0.5665,0,0,rest: no back-to-back
+20261031,2026020222,Mason Marchment,1.5,over,0.5482,1,0,rest: no back-to-back
+20261031,2026020222,Mason Marchment,1.5,under,0.4518,0,0,rest: no back-to-back
+20261031,2026020222,Kiefer Sherwood,1.5,over,0.5347,0,0,rest: no back-to-back
+20261031,2026020222,Kiefer Sherwood,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261031,2026020222,Dylan Cozens,2.5,over,0.5,1,0,rest: no back-to-back
+20261031,2026020222,Dylan Cozens,2.5,under,0.5,0,0,rest: no back-to-back
+20261031,2026020222,Shane Pinto,2.5,over,0.4138,0,0,rest: no back-to-back
+20261031,2026020222,Shane Pinto,2.5,under,0.5862,1,0,rest: no back-to-back
+20261031,2026020222,Fabian Zetterlund,1.5,over,0.5752,1,0,rest: no back-to-back
+20261031,2026020222,Fabian Zetterlund,1.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261031,2026020222,Tim Stutzle,2.5,over,0.4335,1,0,rest: no back-to-back
+20261031,2026020222,Tim Stutzle,2.5,under,0.5665,0,0,rest: no back-to-back
+20261031,2026020222,Jake Sanderson,2.5,over,0.4853,0,0,rest: no back-to-back
+20261031,2026020222,Jake Sanderson,2.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261031,2026020222,Ridly Greig,1.5,over,0.5049,1,0,rest: no back-to-back
+20261031,2026020222,Ridly Greig,1.5,under,0.4951,0,0,rest: no back-to-back
+20261031,2026020222,Collin Graf,1.5,over,0.4615,0,0,rest: no back-to-back
+20261031,2026020222,Collin Graf,1.5,under,0.5385,1,0,rest: no back-to-back
+20261031,2026020222,Will Smith,2.5,over,0.4615,1,0,rest: no back-to-back
+20261031,2026020222,Will Smith,2.5,under,0.5385,0,0,rest: no back-to-back
+20261031,2026020222,Macklin Celebrini,3.5,over,0.4754,0,0,rest: no back-to-back
+20261031,2026020222,Macklin Celebrini,3.5,under,0.5246,1,0,rest: no back-to-back
+20261031,2026020222,Ivar Stenberg,1.5,over,0.4899,0,0,rest: no back-to-back
+20261031,2026020222,Ivar Stenberg,1.5,under,0.5101,1,0,rest: no back-to-back
+20261101,2026020228,Alex Ovechkin,1.5,over,0.5862,1,0,rest: no back-to-back
+20261101,2026020228,Alex Ovechkin,1.5,under,0.41379999999999995,0,0,rest: no back-to-back
+20261101,2026020228,Blake Coleman,1.5,over,0.604,0,0,rest: no back-to-back
+20261101,2026020228,Blake Coleman,1.5,under,0.396,1,0,rest: no back-to-back
+20261101,2026020228,Tom Wilson,1.5,over,0.6182,1,0,rest: no back-to-back
+20261101,2026020228,Tom Wilson,1.5,under,0.38180000000000003,0,0,rest: no back-to-back
+20261101,2026020228,Alex Tuch,2.5,over,0.4754,1,0,rest: no back-to-back
+20261101,2026020228,Alex Tuch,2.5,under,0.5246,0,0,rest: no back-to-back
+20261101,2026020228,Dylan Strome,1.5,over,0.5665,0,0,rest: no back-to-back
+20261101,2026020228,Dylan Strome,1.5,under,0.4335,1,0,rest: no back-to-back
+20261101,2026020228,Joel Eriksson Ek,2.5,over,0.5482,1,0,rest: no back-to-back
+20261101,2026020228,Joel Eriksson Ek,2.5,under,0.4518,0,0,rest: no back-to-back
+20261101,2026020228,Kirill Kaprizov,3.5,over,0.4335,0,0,rest: no back-to-back
+20261101,2026020228,Kirill Kaprizov,3.5,under,0.5665,1,0,rest: no back-to-back
+20261101,2026020228,Jakob Chychrun,2.5,over,0.4899,1,0,rest: no back-to-back
+20261101,2026020228,Jakob Chychrun,2.5,under,0.5101,0,0,rest: no back-to-back
+20261101,2026020228,Jordan Kyrou,2.5,over,0.4248,0,0,rest: no back-to-back
+20261101,2026020228,Jordan Kyrou,2.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261101,2026020228,Quinn Hughes,2.5,over,0.4754,1,0,rest: no back-to-back
+20261101,2026020228,Quinn Hughes,2.5,under,0.5246,0,0,rest: no back-to-back
+20261101,2026020228,Matt Boldy,3.5,over,0.5147,0,0,rest: no back-to-back
+20261101,2026020228,Matt Boldy,3.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261101,2026020228,Aliaksei Protas,1.5,over,0.5347,0,0,rest: no back-to-back
+20261101,2026020228,Aliaksei Protas,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261101,2026020228,Ryan Leonard,2.5,over,0.4138,1,0,rest: no back-to-back
+20261101,2026020228,Ryan Leonard,2.5,under,0.5862,0,0,rest: no back-to-back
+20261101,2026020228,Cole Hutson,1.5,over,0.5246,0,0,rest: no back-to-back
+20261101,2026020228,Cole Hutson,1.5,under,0.47540000000000004,1,0,rest: no back-to-back
+20261102,2026020232,Mark Stone,1.5,over,0.5941,1,0,rest: no back-to-back
+20261102,2026020232,Mark Stone,1.5,under,0.40590000000000004,0,0,rest: no back-to-back
+20261102,2026020232,William Karlsson,1.5,over,0.5203,0,0,rest: no back-to-back
+20261102,2026020232,William Karlsson,1.5,under,0.4797,1,0,rest: no back-to-back
+20261102,2026020232,Tomas Hertl,2.5,over,0.4138,1,0,rest: no back-to-back
+20261102,2026020232,Tomas Hertl,2.5,under,0.5862,0,0,rest: no back-to-back
+20261102,2026020232,Elias Lindholm,1.5,over,0.5,0,0,rest: no back-to-back
+20261102,2026020232,Elias Lindholm,1.5,under,0.5,1,0,rest: no back-to-back
+20261102,2026020232,David Pastrnak,2.5,over,0.5941,1,0,rest: no back-to-back
+20261102,2026020232,David Pastrnak,2.5,under,0.40590000000000004,0,0,rest: no back-to-back
+20261102,2026020232,Ivan Barbashev,1.5,over,0.4754,0,0,rest: no back-to-back
+20261102,2026020232,Ivan Barbashev,1.5,under,0.5246,1,0,rest: no back-to-back
+20261102,2026020232,Jack Eichel,2.5,over,0.5203,0,0,rest: no back-to-back
+20261102,2026020232,Jack Eichel,2.5,under,0.4797,1,0,rest: no back-to-back
+20261102,2026020232,Mitch Marner,2.5,over,0.4059,0,0,rest: no back-to-back
+20261102,2026020232,Mitch Marner,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261102,2026020232,Pavel Zacha,1.5,over,0.4797,0,0,rest: no back-to-back
+20261102,2026020232,Pavel Zacha,1.5,under,0.5203,1,0,rest: no back-to-back
+20261102,2026020232,Charlie McAvoy,1.5,over,0.5,0,0,rest: no back-to-back
+20261102,2026020232,Charlie McAvoy,1.5,under,0.5,1,0,rest: no back-to-back
+20261102,2026020232,Morgan Geekie,1.5,over,0.5049,1,0,rest: no back-to-back
+20261102,2026020232,Morgan Geekie,1.5,under,0.4951,0,0,rest: no back-to-back
+20261102,2026020232,JJ Peterka,1.5,over,0.5665,0,0,rest: no back-to-back
+20261102,2026020232,JJ Peterka,1.5,under,0.4335,1,0,rest: no back-to-back
+20261102,2026020232,Trevor Connelly,1.5,over,0.5482,0,0,rest: no back-to-back
+20261102,2026020232,Trevor Connelly,1.5,under,0.4518,1,0,rest: no back-to-back
+20261102,2026020233,Justin Faulk,1.5,over,0.4653,0,0,rest: no back-to-back
+20261102,2026020233,Justin Faulk,1.5,under,0.5347,1,0,rest: no back-to-back
+20261102,2026020233,Seth Jones,1.5,over,0.5965,0,0,rest: no back-to-back
+20261102,2026020233,Seth Jones,1.5,under,0.40349999999999997,1,0,rest: no back-to-back
+20261102,2026020233,Carter Verhaeghe,2.5,over,0.4335,0,0,rest: no back-to-back
+20261102,2026020233,Carter Verhaeghe,2.5,under,0.5665,1,0,rest: no back-to-back
+20261102,2026020233,Sam Reinhart,2.5,over,0.4797,1,0,rest: no back-to-back
+20261102,2026020233,Sam Reinhart,2.5,under,0.5203,0,0,rest: no back-to-back
+20261102,2026020233,Sam Bennett,1.5,over,0.6113,1,0,rest: no back-to-back
+20261102,2026020233,Sam Bennett,1.5,under,0.38870000000000005,0,0,rest: no back-to-back
+20261102,2026020233,Viktor Arvidsson,2.5,over,0.4853,1,0,rest: no back-to-back
+20261102,2026020233,Viktor Arvidsson,2.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261102,2026020233,Gustav Forsling,1.5,over,0.4653,0,0,rest: no back-to-back
+20261102,2026020233,Gustav Forsling,1.5,under,0.5347,1,0,rest: no back-to-back
+20261102,2026020233,Matthew Tkachuk,2.5,over,0.4035,0,0,rest: no back-to-back
+20261102,2026020233,Matthew Tkachuk,2.5,under,0.5965,1,0,rest: no back-to-back
+20261102,2026020233,Alex DeBrincat,3.5,over,0.4138,1,0,rest: no back-to-back
+20261102,2026020233,Alex DeBrincat,3.5,under,0.5862,0,0,rest: no back-to-back
+20261102,2026020233,Brady Tkachuk,2.5,over,0.5752,0,0,rest: no back-to-back
+20261102,2026020233,Brady Tkachuk,2.5,under,0.42479999999999996,1,0,rest: no back-to-back
+20261102,2026020233,Moritz Seider,1.5,over,0.6017,1,0,rest: no back-to-back
+20261102,2026020233,Moritz Seider,1.5,under,0.3983,0,0,rest: no back-to-back
+20261102,2026020233,Lucas Raymond,2.5,over,0.4425,0,0,rest: no back-to-back
+20261102,2026020233,Lucas Raymond,2.5,under,0.5575,1,0,rest: no back-to-back
+20261102,2026020233,Anton Lundell,2.5,over,0.3818,0,0,rest: no back-to-back
+20261102,2026020233,Anton Lundell,2.5,under,0.6182000000000001,1,0,rest: no back-to-back
+20261102,2026020233,Emmitt Finnie,1.5,over,0.5665,1,0,rest: no back-to-back
+20261102,2026020233,Emmitt Finnie,1.5,under,0.4335,0,0,rest: no back-to-back
+20261102,2026020233,Michael Brandsegg-Nygard,1.5,over,0.4899,1,0,rest: no back-to-back
+20261102,2026020233,Michael Brandsegg-Nygard,1.5,under,0.5101,0,0,rest: no back-to-back
+20261103,2026020236,Anders Lee,1.5,over,0.5941,1,0,rest: no back-to-back
+20261103,2026020236,Anders Lee,1.5,under,0.40590000000000004,0,0,rest: no back-to-back
+20261103,2026020236,Vincent Trocheck,1.5,over,0.5347,0,0,rest: no back-to-back
+20261103,2026020236,Vincent Trocheck,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261103,2026020236,Nick Paul,1.5,over,0.4754,0,0,rest: no back-to-back
+20261103,2026020236,Nick Paul,1.5,under,0.5246,1,0,rest: no back-to-back
+20261103,2026020236,MacKenzie Weegar,1.5,over,0.5665,1,0,rest: no back-to-back
+20261103,2026020236,MacKenzie Weegar,1.5,under,0.4335,0,0,rest: no back-to-back
+20261103,2026020236,William Nylander,2.5,over,0.4615,1,0,rest: no back-to-back
+20261103,2026020236,William Nylander,2.5,under,0.5385,0,0,rest: no back-to-back
+20261103,2026020236,Nick Schmaltz,2.5,over,0.4248,1,0,rest: no back-to-back
+20261103,2026020236,Nick Schmaltz,2.5,under,0.5751999999999999,0,0,rest: no back-to-back
+20261103,2026020236,Darren Raddysh,2.5,over,0.4335,1,0,rest: no back-to-back
+20261103,2026020236,Darren Raddysh,2.5,under,0.5665,0,0,rest: no back-to-back
+20261103,2026020236,Lawson Crouse,1.5,over,0.4554,1,0,rest: no back-to-back
+20261103,2026020236,Lawson Crouse,1.5,under,0.5446,0,0,rest: no back-to-back
+20261103,2026020236,Jack Roslovic,1.5,over,0.604,1,0,rest: no back-to-back
+20261103,2026020236,Jack Roslovic,1.5,under,0.396,0,0,rest: no back-to-back
+20261103,2026020236,Auston Matthews,2.5,over,0.578,1,0,rest: no back-to-back
+20261103,2026020236,Auston Matthews,2.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261103,2026020236,Clayton Keller,2.5,over,0.4653,1,0,rest: no back-to-back
+20261103,2026020236,Clayton Keller,2.5,under,0.5347,0,0,rest: no back-to-back
+20261103,2026020236,Mikhail Sergachev,2.5,over,0.4059,0,0,rest: no back-to-back
+20261103,2026020236,Mikhail Sergachev,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261103,2026020236,Michael Carcone,1.5,over,0.5835,0,0,rest: no back-to-back
+20261103,2026020236,Michael Carcone,1.5,under,0.4165,1,0,rest: no back-to-back
+20261103,2026020236,Barrett Hayton,1.5,over,0.5147,0,0,rest: no back-to-back
+20261103,2026020236,Barrett Hayton,1.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261103,2026020236,Dylan Guenther,3.5,over,0.4335,0,0,rest: no back-to-back
+20261103,2026020236,Dylan Guenther,3.5,under,0.5665,1,0,rest: no back-to-back
+20261103,2026020236,Logan Cooley,2.5,over,0.3887,1,0,rest: no back-to-back
+20261103,2026020236,Logan Cooley,2.5,under,0.6113,0,0,rest: no back-to-back
+20261103,2026020236,Easton Cowan,1.5,over,0.5101,1,0,rest: no back-to-back
+20261103,2026020236,Easton Cowan,1.5,under,0.4899,0,0,rest: no back-to-back
+20261103,2026020236,Gavin McKenna,1.5,over,0.4853,1,0,rest: no back-to-back
+20261103,2026020236,Gavin McKenna,1.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261103,2026020237,Phillip Danault,1.5,over,0.4335,0,0,rest: no back-to-back
+20261103,2026020237,Phillip Danault,1.5,under,0.5665,1,0,rest: no back-to-back
+20261103,2026020237,Mark Scheifele,1.5,over,0.5941,1,0,rest: no back-to-back
+20261103,2026020237,Mark Scheifele,1.5,under,0.40590000000000004,0,0,rest: no back-to-back
+20261103,2026020237,Josh Anderson,1.5,over,0.5049,1,0,rest: no back-to-back
+20261103,2026020237,Josh Anderson,1.5,under,0.4951,0,0,rest: no back-to-back
+20261103,2026020237,Kyle Connor,3.5,over,0.4335,1,0,rest: no back-to-back
+20261103,2026020237,Kyle Connor,3.5,under,0.5665,0,0,rest: no back-to-back
+20261103,2026020237,Neal Pionk,2.5,over,0.422,1,0,rest: no back-to-back
+20261103,2026020237,Neal Pionk,2.5,under,0.5780000000000001,0,0,rest: no back-to-back
+20261103,2026020237,Gabriel Vilardi,1.5,over,0.5347,1,0,rest: no back-to-back
+20261103,2026020237,Gabriel Vilardi,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261103,2026020237,Alexandre Texier,1.5,over,0.4899,1,0,rest: no back-to-back
+20261103,2026020237,Alexandre Texier,1.5,under,0.5101,0,0,rest: no back-to-back
+20261103,2026020237,Noah Dobson,2.5,over,0.3887,0,0,rest: no back-to-back
+20261103,2026020237,Noah Dobson,2.5,under,0.6113,1,0,rest: no back-to-back
+20261103,2026020237,Cole Caufield,3.5,over,0.4425,1,0,rest: no back-to-back
+20261103,2026020237,Cole Caufield,3.5,under,0.5575,0,0,rest: no back-to-back
+20261103,2026020237,Cole Perfetti,2.5,over,0.4165,1,0,rest: no back-to-back
+20261103,2026020237,Cole Perfetti,2.5,under,0.5835,0,0,rest: no back-to-back
+20261103,2026020237,Kaiden Guhle,1.5,over,0.4615,0,0,rest: no back-to-back
+20261103,2026020237,Kaiden Guhle,1.5,under,0.5385,1,0,rest: no back-to-back
+20261103,2026020237,Zack Bolduc,1.5,over,0.5049,0,0,rest: no back-to-back
+20261103,2026020237,Zack Bolduc,1.5,under,0.4951,1,0,rest: no back-to-back
+20261103,2026020237,Juraj Slafkovsky,2.5,over,0.4554,0,0,rest: no back-to-back
+20261103,2026020237,Juraj Slafkovsky,2.5,under,0.5446,1,0,rest: no back-to-back
+20261103,2026020237,Lane Hutson,1.5,over,0.5203,0,0,rest: no back-to-back
+20261103,2026020237,Lane Hutson,1.5,under,0.4797,1,0,rest: no back-to-back
+20261103,2026020238,Justin Faulk,1.5,over,0.4615,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Justin Faulk,1.5,under,0.5385,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Nikita Kucherov,3.5,over,0.3887,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Nikita Kucherov,3.5,under,0.6113,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Jake Guentzel,2.5,over,0.5541,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Jake Guentzel,2.5,under,0.44589999999999996,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Andrew Copp,1.5,over,0.4653,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Andrew Copp,1.5,under,0.5347,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Viktor Arvidsson,2.5,over,0.4951,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Viktor Arvidsson,2.5,under,0.5049,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Brayden Point,2.5,over,0.4554,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Brayden Point,2.5,under,0.5446,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Anthony Cirelli,1.5,over,0.5482,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Anthony Cirelli,1.5,under,0.4518,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Alex DeBrincat,3.5,over,0.4248,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Alex DeBrincat,3.5,under,0.5751999999999999,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Brandon Hagel,3.5,over,0.4059,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Brandon Hagel,3.5,under,0.5941000000000001,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Moritz Seider,1.5,over,0.5665,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Moritz Seider,1.5,under,0.4335,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Charle-Edouard D'Astous,1.5,over,0.4853,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Charle-Edouard D'Astous,1.5,under,0.5146999999999999,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Pontus Holmberg,1.5,over,0.4459,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Pontus Holmberg,1.5,under,0.5541,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Lucas Raymond,2.5,over,0.4425,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Lucas Raymond,2.5,under,0.5575,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Gage Goncalves,1.5,over,0.4138,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Gage Goncalves,1.5,under,0.5862,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,JJ Moser,1.5,over,0.4248,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,JJ Moser,1.5,under,0.5751999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020238,Emmitt Finnie,1.5,over,0.578,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Emmitt Finnie,1.5,under,0.42200000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Michael Brandsegg-Nygard,1.5,over,0.5246,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020238,Michael Brandsegg-Nygard,1.5,under,0.47540000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020240,Mika Zibanejad,2.5,over,0.4248,0,0,rest: no back-to-back
+20261103,2026020240,Mika Zibanejad,2.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261103,2026020240,J.T. Miller,1.5,over,0.5246,1,0,rest: no back-to-back
+20261103,2026020240,J.T. Miller,1.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261103,2026020240,Pavel Buchnevich,1.5,over,0.5049,1,0,rest: no back-to-back
+20261103,2026020240,Pavel Buchnevich,1.5,under,0.4951,0,0,rest: no back-to-back
+20261103,2026020240,Oliver Bjorkstrand,1.5,over,0.4653,1,0,rest: no back-to-back
+20261103,2026020240,Oliver Bjorkstrand,1.5,under,0.5347,0,0,rest: no back-to-back
+20261103,2026020240,Adam Fox,1.5,over,0.5101,1,0,rest: no back-to-back
+20261103,2026020240,Adam Fox,1.5,under,0.4899,0,0,rest: no back-to-back
+20261103,2026020240,Robert Thomas,1.5,over,0.4653,1,0,rest: no back-to-back
+20261103,2026020240,Robert Thomas,1.5,under,0.5347,0,0,rest: no back-to-back
+20261103,2026020240,Philip Broberg,1.5,over,0.5147,1,0,rest: no back-to-back
+20261103,2026020240,Philip Broberg,1.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261103,2026020240,Connor McMichael,1.5,over,0.4754,0,0,rest: no back-to-back
+20261103,2026020240,Connor McMichael,1.5,under,0.5246,1,0,rest: no back-to-back
+20261103,2026020240,Pavel Dorofeyev,2.5,over,0.5347,0,0,rest: no back-to-back
+20261103,2026020240,Pavel Dorofeyev,2.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261103,2026020240,Tye Kartye,1.5,over,0.4425,1,0,rest: no back-to-back
+20261103,2026020240,Tye Kartye,1.5,under,0.5575,0,0,rest: no back-to-back
+20261103,2026020240,Alexis Lafreniere,2.5,over,0.4335,0,0,rest: no back-to-back
+20261103,2026020240,Alexis Lafreniere,2.5,under,0.5665,1,0,rest: no back-to-back
+20261103,2026020240,Dylan Holloway,2.5,over,0.4425,1,0,rest: no back-to-back
+20261103,2026020240,Dylan Holloway,2.5,under,0.5575,0,0,rest: no back-to-back
+20261103,2026020240,Braden Schneider,1.5,over,0.4165,1,0,rest: no back-to-back
+20261103,2026020240,Braden Schneider,1.5,under,0.5835,0,0,rest: no back-to-back
+20261103,2026020240,Jake Neighbours,1.5,over,0.4425,0,0,rest: no back-to-back
+20261103,2026020240,Jake Neighbours,1.5,under,0.5575,1,0,rest: no back-to-back
+20261103,2026020240,Will Cuylle,1.5,over,0.5752,1,0,rest: no back-to-back
+20261103,2026020240,Will Cuylle,1.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261103,2026020240,Mason McTavish,2.5,over,0.422,0,0,rest: no back-to-back
+20261103,2026020240,Mason McTavish,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261103,2026020240,Jimmy Snuggerud,2.5,over,0.4248,0,0,rest: no back-to-back
+20261103,2026020240,Jimmy Snuggerud,2.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261103,2026020240,Gabe Perreault,1.5,over,0.5965,0,0,rest: no back-to-back
+20261103,2026020240,Gabe Perreault,1.5,under,0.40349999999999997,1,0,rest: no back-to-back
+20261103,2026020241,Blake Coleman,1.5,over,0.5752,0,0,rest: no back-to-back
+20261103,2026020241,Blake Coleman,1.5,under,0.42479999999999996,1,0,rest: no back-to-back
+20261103,2026020241,Michael McCarron,1.5,over,0.4518,0,0,rest: no back-to-back
+20261103,2026020241,Michael McCarron,1.5,under,0.5482,1,0,rest: no back-to-back
+20261103,2026020241,Travis Sanheim,1.5,over,0.4335,1,0,rest: no back-to-back
+20261103,2026020241,Travis Sanheim,1.5,under,0.5665,0,0,rest: no back-to-back
+20261103,2026020241,Christian Dvorak,1.5,over,0.4853,1,0,rest: no back-to-back
+20261103,2026020241,Christian Dvorak,1.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261103,2026020241,Travis Konecny,1.5,over,0.5446,0,0,rest: no back-to-back
+20261103,2026020241,Travis Konecny,1.5,under,0.4554,1,0,rest: no back-to-back
+20261103,2026020241,Joel Eriksson Ek,2.5,over,0.5695,1,0,rest: no back-to-back
+20261103,2026020241,Joel Eriksson Ek,2.5,under,0.4305,0,0,rest: no back-to-back
+20261103,2026020241,Kirill Kaprizov,3.5,over,0.4425,0,0,rest: no back-to-back
+20261103,2026020241,Kirill Kaprizov,3.5,under,0.5575,1,0,rest: no back-to-back
+20261103,2026020241,Quinn Hughes,2.5,over,0.4425,0,0,rest: no back-to-back
+20261103,2026020241,Quinn Hughes,2.5,under,0.5575,1,0,rest: no back-to-back
+20261103,2026020241,Owen Tippett,2.5,over,0.3983,0,0,rest: no back-to-back
+20261103,2026020241,Owen Tippett,2.5,under,0.6017,1,0,rest: no back-to-back
+20261103,2026020241,Trevor Zegras,1.5,over,0.5575,0,0,rest: no back-to-back
+20261103,2026020241,Trevor Zegras,1.5,under,0.4425,1,0,rest: no back-to-back
+20261103,2026020241,Matt Boldy,3.5,over,0.4797,1,0,rest: no back-to-back
+20261103,2026020241,Matt Boldy,3.5,under,0.5203,0,0,rest: no back-to-back
+20261103,2026020241,Tyson Foerster,1.5,over,0.5147,1,0,rest: no back-to-back
+20261103,2026020241,Tyson Foerster,1.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261103,2026020241,Matvei Michkov,1.5,over,0.5665,1,0,rest: no back-to-back
+20261103,2026020241,Matvei Michkov,1.5,under,0.4335,0,0,rest: no back-to-back
+20261103,2026020241,Oliver Bonk,1.5,over,0.4305,0,0,rest: no back-to-back
+20261103,2026020241,Oliver Bonk,1.5,under,0.5695,1,0,rest: no back-to-back
+20261103,2026020241,Porter Martone,1.5,over,0.5446,0,0,rest: no back-to-back
+20261103,2026020241,Porter Martone,1.5,under,0.4554,1,0,rest: no back-to-back
+20261103,2026020241,Maxim Shabanov,1.5,over,0.4425,0,0,rest: no back-to-back
+20261103,2026020241,Maxim Shabanov,1.5,under,0.5575,1,0,rest: no back-to-back
+20261103,2026020242,Sidney Crosby,2.5,over,0.4425,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Sidney Crosby,2.5,under,0.5575,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Kris Letang,1.5,over,0.4951,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Kris Letang,1.5,under,0.5049,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Erik Karlsson,2.5,over,0.3818,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Erik Karlsson,2.5,under,0.6182000000000001,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Mark Stone,1.5,over,0.5752,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Mark Stone,1.5,under,0.42479999999999996,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Rickard Rakell,2.5,over,0.5049,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Rickard Rakell,2.5,under,0.4951,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,William Karlsson,1.5,over,0.5541,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,William Karlsson,1.5,under,0.44589999999999996,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Tomas Hertl,2.5,over,0.3887,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Tomas Hertl,2.5,under,0.6113,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Shea Theodore,1.5,over,0.5246,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Shea Theodore,1.5,under,0.47540000000000004,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Ivan Barbashev,1.5,over,0.4518,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Ivan Barbashev,1.5,under,0.5482,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Jack Eichel,2.5,over,0.5347,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Jack Eichel,2.5,under,0.46530000000000005,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Noah Hanifin,1.5,over,0.396,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Noah Hanifin,1.5,under,0.604,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Mitch Marner,2.5,over,0.3731,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Mitch Marner,2.5,under,0.6269,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Jeremy Lauzon,1.5,over,0.396,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Jeremy Lauzon,1.5,under,0.604,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Rasmus Andersson,1.5,over,0.4554,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Rasmus Andersson,1.5,under,0.5446,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Tommy Novak,1.5,over,0.5752,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Tommy Novak,1.5,under,0.42479999999999996,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Brett Howden,1.5,over,0.4615,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Brett Howden,1.5,under,0.5385,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Nick Robertson,1.5,over,0.4335,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Nick Robertson,1.5,under,0.5665,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Connor Dewar,1.5,over,0.3983,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Connor Dewar,1.5,under,0.6017,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Egor Chinakhov,1.5,over,0.6017,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Egor Chinakhov,1.5,under,0.3983,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Trevor Connelly,1.5,over,0.5101,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Trevor Connelly,1.5,under,0.4899,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020242,Ben Kindel,1.5,over,0.578,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020242,Ben Kindel,1.5,under,0.42200000000000004,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020243,Alex Ovechkin,1.5,over,0.6134,1,0,rest: no back-to-back
+20261103,2026020243,Alex Ovechkin,1.5,under,0.38660000000000005,0,0,rest: no back-to-back
+20261103,2026020243,Boone Jenner,1.5,over,0.4425,1,0,rest: no back-to-back
+20261103,2026020243,Boone Jenner,1.5,under,0.5575,0,0,rest: no back-to-back
+20261103,2026020243,Tom Wilson,1.5,over,0.5752,0,0,rest: no back-to-back
+20261103,2026020243,Tom Wilson,1.5,under,0.42479999999999996,1,0,rest: no back-to-back
+20261103,2026020243,Alex Tuch,2.5,over,0.396,0,0,rest: no back-to-back
+20261103,2026020243,Alex Tuch,2.5,under,0.604,1,0,rest: no back-to-back
+20261103,2026020243,Dylan Strome,1.5,over,0.5,1,0,rest: no back-to-back
+20261103,2026020243,Dylan Strome,1.5,under,0.5,0,0,rest: no back-to-back
+20261103,2026020243,Mikko Rantanen,2.5,over,0.4138,0,0,rest: no back-to-back
+20261103,2026020243,Mikko Rantanen,2.5,under,0.5862,1,0,rest: no back-to-back
+20261103,2026020243,Roope Hintz,2.5,over,0.396,0,0,rest: no back-to-back
+20261103,2026020243,Roope Hintz,2.5,under,0.604,1,0,rest: no back-to-back
+20261103,2026020243,Jakob Chychrun,2.5,over,0.4335,1,0,rest: no back-to-back
+20261103,2026020243,Jakob Chychrun,2.5,under,0.5665,0,0,rest: no back-to-back
+20261103,2026020243,Jordan Kyrou,1.5,over,0.6113,0,0,rest: no back-to-back
+20261103,2026020243,Jordan Kyrou,1.5,under,0.38870000000000005,1,0,rest: no back-to-back
+20261103,2026020243,Miro Heiskanen,1.5,over,0.5101,0,0,rest: no back-to-back
+20261103,2026020243,Miro Heiskanen,1.5,under,0.4899,1,0,rest: no back-to-back
+20261103,2026020243,Jason Robertson,2.5,over,0.5862,1,0,rest: no back-to-back
+20261103,2026020243,Jason Robertson,2.5,under,0.41379999999999995,0,0,rest: no back-to-back
+20261103,2026020243,Thomas Harley,1.5,over,0.4653,0,0,rest: no back-to-back
+20261103,2026020243,Thomas Harley,1.5,under,0.5347,1,0,rest: no back-to-back
+20261103,2026020243,Aliaksei Protas,1.5,over,0.4797,0,0,rest: no back-to-back
+20261103,2026020243,Aliaksei Protas,1.5,under,0.5203,1,0,rest: no back-to-back
+20261103,2026020243,Wyatt Johnston,2.5,over,0.5147,0,0,rest: no back-to-back
+20261103,2026020243,Wyatt Johnston,2.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261103,2026020243,Ryan Leonard,1.5,over,0.6113,1,0,rest: no back-to-back
+20261103,2026020243,Ryan Leonard,1.5,under,0.38870000000000005,0,0,rest: no back-to-back
+20261103,2026020243,Arttu Hyry,1.5,over,0.5,1,0,rest: no back-to-back
+20261103,2026020243,Arttu Hyry,1.5,under,0.5,0,0,rest: no back-to-back
+20261103,2026020243,Cole Hutson,1.5,over,0.4899,0,0,rest: no back-to-back
+20261103,2026020243,Cole Hutson,1.5,under,0.5101,1,0,rest: no back-to-back
+20261103,2026020244,Nazem Kadri,2.5,over,0.4035,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Nazem Kadri,2.5,under,0.5965,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Brock Nelson,1.5,over,0.5101,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Brock Nelson,1.5,under,0.4899,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Jaden Schwartz,1.5,over,0.4554,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Jaden Schwartz,1.5,under,0.5446,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Charlie Coyle,1.5,over,0.5482,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Charlie Coyle,1.5,under,0.4518,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Gabriel Landeskog,1.5,over,0.4459,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Gabriel Landeskog,1.5,under,0.5541,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Nathan MacKinnon,3.5,over,0.4754,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Nathan MacKinnon,3.5,under,0.5246,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Valeri Nichushkin,1.5,over,0.5101,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Valeri Nichushkin,1.5,under,0.4899,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Artturi Lehkonen,1.5,over,0.5049,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Artturi Lehkonen,1.5,under,0.4951,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Devon Toews,1.5,over,0.4459,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Devon Toews,1.5,under,0.5541,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Ivan Provorov,1.5,over,0.4653,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Ivan Provorov,1.5,under,0.5347,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Zach Werenski,2.5,over,0.578,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Zach Werenski,2.5,under,0.42200000000000004,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Conor Garland,1.5,over,0.4459,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Conor Garland,1.5,under,0.5541,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Mathieu Olivier,1.5,over,0.4899,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Mathieu Olivier,1.5,under,0.5101,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Cale Makar,2.5,over,0.4653,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Cale Makar,2.5,under,0.5347,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Martin Necas,2.5,over,0.4059,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Martin Necas,2.5,under,0.5941000000000001,1,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Kent Johnson,1.5,over,0.5965,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Kent Johnson,1.5,under,0.40349999999999997,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Cole Sillinger,1.5,over,0.4853,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Cole Sillinger,1.5,under,0.5146999999999999,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Matthew Knies,1.5,over,0.4853,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Matthew Knies,1.5,under,0.5146999999999999,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Denton Mateychuk,1.5,over,0.4554,0,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Denton Mateychuk,1.5,under,0.5446,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,T.J. Hughes,1.5,over,0.5,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,T.J. Hughes,1.5,under,0.5,0,1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Adam Fantilli,2.5,over,0.5347,1,1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Adam Fantilli,2.5,under,0.46530000000000005,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261103,2026020244,Sam Malinski,1.5,over,0.4518,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261103,2026020244,Sam Malinski,1.5,under,0.5482,1,1,"rest: his team on a back-to-back, opponent rested"
+20261104,2026020247,Claude Giroux,1.5,over,0.4305,1,0,rest: no back-to-back
+20261104,2026020247,Claude Giroux,1.5,under,0.5695,0,0,rest: no back-to-back
+20261104,2026020247,Jason Zucker,1.5,over,0.4615,0,0,rest: no back-to-back
+20261104,2026020247,Jason Zucker,1.5,under,0.5385,1,0,rest: no back-to-back
+20261104,2026020247,Thomas Chabot,1.5,over,0.5246,0,0,rest: no back-to-back
+20261104,2026020247,Thomas Chabot,1.5,under,0.47540000000000004,1,0,rest: no back-to-back
+20261104,2026020247,Tage Thompson,3.5,over,0.4653,0,0,rest: no back-to-back
+20261104,2026020247,Tage Thompson,3.5,under,0.5347,1,0,rest: no back-to-back
+20261104,2026020247,Drake Batherson,2.5,over,0.396,0,0,rest: no back-to-back
+20261104,2026020247,Drake Batherson,2.5,under,0.604,1,0,rest: no back-to-back
+20261104,2026020247,Rasmus Dahlin,2.5,over,0.4951,0,0,rest: no back-to-back
+20261104,2026020247,Rasmus Dahlin,2.5,under,0.5049,1,0,rest: no back-to-back
+20261104,2026020247,Dylan Cozens,2.5,over,0.4518,0,0,rest: no back-to-back
+20261104,2026020247,Dylan Cozens,2.5,under,0.5482,1,0,rest: no back-to-back
+20261104,2026020247,Shane Pinto,1.5,over,0.5965,1,0,rest: no back-to-back
+20261104,2026020247,Shane Pinto,1.5,under,0.40349999999999997,0,0,rest: no back-to-back
+20261104,2026020247,Fabian Zetterlund,1.5,over,0.5347,1,0,rest: no back-to-back
+20261104,2026020247,Fabian Zetterlund,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261104,2026020247,Tim Stutzle,2.5,over,0.3983,1,0,rest: no back-to-back
+20261104,2026020247,Tim Stutzle,2.5,under,0.6017,0,0,rest: no back-to-back
+20261104,2026020247,Jake Sanderson,1.5,over,0.6182,0,0,rest: no back-to-back
+20261104,2026020247,Jake Sanderson,1.5,under,0.38180000000000003,1,0,rest: no back-to-back
+20261104,2026020247,Jack Quinn,2.5,over,0.4853,0,0,rest: no back-to-back
+20261104,2026020247,Jack Quinn,2.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261104,2026020247,Olen Zellweger,1.5,over,0.4754,0,0,rest: no back-to-back
+20261104,2026020247,Olen Zellweger,1.5,under,0.5246,1,0,rest: no back-to-back
+20261104,2026020247,Josh Doan,1.5,over,0.4653,1,0,rest: no back-to-back
+20261104,2026020247,Josh Doan,1.5,under,0.5347,0,0,rest: no back-to-back
+20261104,2026020247,Noah Ostlund,1.5,over,0.5541,1,0,rest: no back-to-back
+20261104,2026020247,Noah Ostlund,1.5,under,0.44589999999999996,0,0,rest: no back-to-back
+20261104,2026020247,Zach Benson,2.5,over,0.4035,1,0,rest: no back-to-back
+20261104,2026020247,Zach Benson,2.5,under,0.5965,0,0,rest: no back-to-back
+20261104,2026020248,Seth Jones,1.5,over,0.604,1,0,rest: no back-to-back
+20261104,2026020248,Seth Jones,1.5,under,0.396,0,0,rest: no back-to-back
+20261104,2026020248,Tyler Bertuzzi,1.5,over,0.4035,0,0,rest: no back-to-back
+20261104,2026020248,Tyler Bertuzzi,1.5,under,0.5965,1,0,rest: no back-to-back
+20261104,2026020248,Carter Verhaeghe,2.5,over,0.4951,1,0,rest: no back-to-back
+20261104,2026020248,Carter Verhaeghe,2.5,under,0.5049,0,0,rest: no back-to-back
+20261104,2026020248,Aaron Ekblad,1.5,over,0.5203,1,0,rest: no back-to-back
+20261104,2026020248,Aaron Ekblad,1.5,under,0.4797,0,0,rest: no back-to-back
+20261104,2026020248,Sam Reinhart,2.5,over,0.5,1,0,rest: no back-to-back
+20261104,2026020248,Sam Reinhart,2.5,under,0.5,0,0,rest: no back-to-back
+20261104,2026020248,Sam Bennett,2.5,over,0.4797,0,0,rest: no back-to-back
+20261104,2026020248,Sam Bennett,2.5,under,0.5203,1,0,rest: no back-to-back
+20261104,2026020248,Gustav Forsling,1.5,over,0.4899,0,0,rest: no back-to-back
+20261104,2026020248,Gustav Forsling,1.5,under,0.5101,1,0,rest: no back-to-back
+20261104,2026020248,Matthew Tkachuk,2.5,over,0.4951,1,0,rest: no back-to-back
+20261104,2026020248,Matthew Tkachuk,2.5,under,0.5049,0,0,rest: no back-to-back
+20261104,2026020248,Eetu Luostarinen,1.5,over,0.4305,0,0,rest: no back-to-back
+20261104,2026020248,Eetu Luostarinen,1.5,under,0.5695,1,0,rest: no back-to-back
+20261104,2026020248,Brady Tkachuk,3.5,over,0.4853,0,0,rest: no back-to-back
+20261104,2026020248,Brady Tkachuk,3.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261104,2026020248,Anton Lundell,2.5,over,0.422,0,0,rest: no back-to-back
+20261104,2026020248,Anton Lundell,2.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261104,2026020248,Frank Nazar,1.5,over,0.5482,1,0,rest: no back-to-back
+20261104,2026020248,Frank Nazar,1.5,under,0.4518,0,0,rest: no back-to-back
+20261104,2026020248,Connor Bedard,2.5,over,0.5147,1,0,rest: no back-to-back
+20261104,2026020248,Connor Bedard,2.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261104,2026020248,Roman Kantserov,1.5,over,0.5246,1,0,rest: no back-to-back
+20261104,2026020248,Roman Kantserov,1.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261104,2026020248,Anton Frondell,1.5,over,0.604,1,0,rest: no back-to-back
+20261104,2026020248,Anton Frondell,1.5,under,0.396,0,0,rest: no back-to-back
+20261105,2026020251,Anders Lee,1.5,over,0.5941,0,0,rest: no back-to-back
+20261105,2026020251,Anders Lee,1.5,under,0.40590000000000004,1,0,rest: no back-to-back
+20261105,2026020251,Vincent Trocheck,1.5,over,0.5385,0,0,rest: no back-to-back
+20261105,2026020251,Vincent Trocheck,1.5,under,0.4615,1,0,rest: no back-to-back
+20261105,2026020251,MacKenzie Weegar,1.5,over,0.5665,0,0,rest: no back-to-back
+20261105,2026020251,MacKenzie Weegar,1.5,under,0.4335,1,0,rest: no back-to-back
+20261105,2026020251,Nick Schmaltz,2.5,over,0.422,1,0,rest: no back-to-back
+20261105,2026020251,Nick Schmaltz,2.5,under,0.5780000000000001,0,0,rest: no back-to-back
+20261105,2026020251,Lawson Crouse,1.5,over,0.4335,1,0,rest: no back-to-back
+20261105,2026020251,Lawson Crouse,1.5,under,0.5665,0,0,rest: no back-to-back
+20261105,2026020251,Clayton Keller,2.5,over,0.4335,0,0,rest: no back-to-back
+20261105,2026020251,Clayton Keller,2.5,under,0.5665,1,0,rest: no back-to-back
+20261105,2026020251,Mikhail Sergachev,1.5,over,0.6091,0,0,rest: no back-to-back
+20261105,2026020251,Mikhail Sergachev,1.5,under,0.3909,1,0,rest: no back-to-back
+20261105,2026020251,Alexandre Texier,1.5,over,0.3909,0,0,rest: no back-to-back
+20261105,2026020251,Alexandre Texier,1.5,under,0.6091,1,0,rest: no back-to-back
+20261105,2026020251,Barrett Hayton,1.5,over,0.5575,0,0,rest: no back-to-back
+20261105,2026020251,Barrett Hayton,1.5,under,0.4425,1,0,rest: no back-to-back
+20261105,2026020251,Noah Dobson,1.5,over,0.5347,0,0,rest: no back-to-back
+20261105,2026020251,Noah Dobson,1.5,under,0.46530000000000005,1,0,rest: no back-to-back
+20261105,2026020251,Cole Caufield,2.5,over,0.5575,1,0,rest: no back-to-back
+20261105,2026020251,Cole Caufield,2.5,under,0.4425,0,0,rest: no back-to-back
+20261105,2026020251,Dylan Guenther,2.5,over,0.5446,0,0,rest: no back-to-back
+20261105,2026020251,Dylan Guenther,2.5,under,0.4554,1,0,rest: no back-to-back
+20261105,2026020251,Zack Bolduc,1.5,over,0.4554,1,0,rest: no back-to-back
+20261105,2026020251,Zack Bolduc,1.5,under,0.5446,0,0,rest: no back-to-back
+20261105,2026020251,Juraj Slafkovsky,2.5,over,0.3983,1,0,rest: no back-to-back
+20261105,2026020251,Juraj Slafkovsky,2.5,under,0.6017,0,0,rest: no back-to-back
+20261105,2026020251,Logan Cooley,2.5,over,0.3887,1,0,rest: no back-to-back
+20261105,2026020251,Logan Cooley,2.5,under,0.6113,0,0,rest: no back-to-back
+20261105,2026020251,Lane Hutson,1.5,over,0.4899,1,0,rest: no back-to-back
+20261105,2026020251,Lane Hutson,1.5,under,0.5101,0,0,rest: no back-to-back
+20261105,2026020252,Mark Stone,1.5,over,0.5752,0,0,rest: no back-to-back
+20261105,2026020252,Mark Stone,1.5,under,0.42479999999999996,1,0,rest: no back-to-back
+20261105,2026020252,Justin Faulk,1.5,over,0.4459,0,0,rest: no back-to-back
+20261105,2026020252,Justin Faulk,1.5,under,0.5541,1,0,rest: no back-to-back
+20261105,2026020252,William Karlsson,1.5,over,0.4951,0,0,rest: no back-to-back
+20261105,2026020252,William Karlsson,1.5,under,0.5049,1,0,rest: no back-to-back
+20261105,2026020252,Tomas Hertl,1.5,over,0.6017,1,0,rest: no back-to-back
+20261105,2026020252,Tomas Hertl,1.5,under,0.3983,0,0,rest: no back-to-back
+20261105,2026020252,Shea Theodore,1.5,over,0.4754,1,0,rest: no back-to-back
+20261105,2026020252,Shea Theodore,1.5,under,0.5246,0,0,rest: no back-to-back
+20261105,2026020252,Andrew Copp,1.5,over,0.4165,1,0,rest: no back-to-back
+20261105,2026020252,Andrew Copp,1.5,under,0.5835,0,0,rest: no back-to-back
+20261105,2026020252,Viktor Arvidsson,2.5,over,0.4853,1,0,rest: no back-to-back
+20261105,2026020252,Viktor Arvidsson,2.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261105,2026020252,Jack Eichel,2.5,over,0.4459,1,0,rest: no back-to-back
+20261105,2026020252,Jack Eichel,2.5,under,0.5541,0,0,rest: no back-to-back
+20261105,2026020252,Mitch Marner,1.5,over,0.6113,1,0,rest: no back-to-back
+20261105,2026020252,Mitch Marner,1.5,under,0.38870000000000005,0,0,rest: no back-to-back
+20261105,2026020252,Rasmus Andersson,1.5,over,0.4248,1,0,rest: no back-to-back
+20261105,2026020252,Rasmus Andersson,1.5,under,0.5751999999999999,0,0,rest: no back-to-back
+20261105,2026020252,Brett Howden,1.5,over,0.422,0,0,rest: no back-to-back
+20261105,2026020252,Brett Howden,1.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261105,2026020252,Alex DeBrincat,3.5,over,0.4112,1,0,rest: no back-to-back
+20261105,2026020252,Alex DeBrincat,3.5,under,0.5888,0,0,rest: no back-to-back
+20261105,2026020252,Moritz Seider,1.5,over,0.5695,1,0,rest: no back-to-back
+20261105,2026020252,Moritz Seider,1.5,under,0.4305,0,0,rest: no back-to-back
+20261105,2026020252,Lucas Raymond,2.5,over,0.4554,1,0,rest: no back-to-back
+20261105,2026020252,Lucas Raymond,2.5,under,0.5446,0,0,rest: no back-to-back
+20261105,2026020252,Emmitt Finnie,1.5,over,0.5541,1,0,rest: no back-to-back
+20261105,2026020252,Emmitt Finnie,1.5,under,0.44589999999999996,0,0,rest: no back-to-back
+20261105,2026020252,Michael Brandsegg-Nygard,1.5,over,0.4853,0,0,rest: no back-to-back
+20261105,2026020252,Michael Brandsegg-Nygard,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261105,2026020252,Trevor Connelly,1.5,over,0.5347,1,0,rest: no back-to-back
+20261105,2026020252,Trevor Connelly,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261105,2026020253,John Carlson,1.5,over,0.604,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,John Carlson,1.5,under,0.396,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Nikita Kucherov,3.5,over,0.4165,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Nikita Kucherov,3.5,under,0.5835,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Tyler Bertuzzi,1.5,over,0.3887,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Tyler Bertuzzi,1.5,under,0.6113,1,1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Jake Guentzel,2.5,over,0.5633,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Jake Guentzel,2.5,under,0.4367,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Brayden Point,2.5,over,0.4425,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Brayden Point,2.5,under,0.5575,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Anthony Cirelli,1.5,over,0.5835,1,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Anthony Cirelli,1.5,under,0.4165,0,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Brandon Hagel,3.5,over,0.422,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Brandon Hagel,3.5,under,0.5780000000000001,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Charle-Edouard D'Astous,1.5,over,0.4797,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Charle-Edouard D'Astous,1.5,under,0.5203,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Frank Nazar,1.5,over,0.5049,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Frank Nazar,1.5,under,0.4951,1,1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Max Crozier,1.5,over,0.5203,0,1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Max Crozier,1.5,under,0.4797,1,-1,"rest: opponent on a back-to-back, his team rested"
+20261105,2026020253,Connor Bedard,2.5,over,0.5,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Connor Bedard,2.5,under,0.5,0,1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Roman Kantserov,1.5,over,0.5147,1,-1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Roman Kantserov,1.5,under,0.48529999999999995,0,1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Anton Frondell,1.5,over,0.5575,0,-1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020253,Anton Frondell,1.5,under,0.4425,1,1,"rest: his team on a back-to-back, opponent rested"
+20261105,2026020254,Dougie Hamilton,2.5,over,0.4059,0,0,rest: no back-to-back
+20261105,2026020254,Dougie Hamilton,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261105,2026020254,Pavel Buchnevich,1.5,over,0.4459,0,0,rest: no back-to-back
+20261105,2026020254,Pavel Buchnevich,1.5,under,0.5541,1,0,rest: no back-to-back
+20261105,2026020254,Evan Rodrigues,1.5,over,0.5147,0,0,rest: no back-to-back
+20261105,2026020254,Evan Rodrigues,1.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261105,2026020254,Timo Meier,2.5,over,0.5446,1,0,rest: no back-to-back
+20261105,2026020254,Timo Meier,2.5,under,0.4554,0,0,rest: no back-to-back
+20261105,2026020254,Nico Hischier,2.5,over,0.4335,0,0,rest: no back-to-back
+20261105,2026020254,Nico Hischier,2.5,under,0.5665,1,0,rest: no back-to-back
+20261105,2026020254,Robert Thomas,1.5,over,0.4112,1,0,rest: no back-to-back
+20261105,2026020254,Robert Thomas,1.5,under,0.5888,0,0,rest: no back-to-back
+20261105,2026020254,Jesper Bratt,1.5,over,0.604,1,0,rest: no back-to-back
+20261105,2026020254,Jesper Bratt,1.5,under,0.396,0,0,rest: no back-to-back
+20261105,2026020254,Jack Hughes,3.5,over,0.5147,1,0,rest: no back-to-back
+20261105,2026020254,Jack Hughes,3.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261105,2026020254,Philip Broberg,1.5,over,0.4754,1,0,rest: no back-to-back
+20261105,2026020254,Philip Broberg,1.5,under,0.5246,0,0,rest: no back-to-back
+20261105,2026020254,Connor McMichael,1.5,over,0.4248,0,0,rest: no back-to-back
+20261105,2026020254,Connor McMichael,1.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261105,2026020254,Dylan Holloway,1.5,over,0.6017,1,0,rest: no back-to-back
+20261105,2026020254,Dylan Holloway,1.5,under,0.3983,0,0,rest: no back-to-back
+20261105,2026020254,Jake Neighbours,1.5,over,0.396,0,0,rest: no back-to-back
+20261105,2026020254,Jake Neighbours,1.5,under,0.604,1,0,rest: no back-to-back
+20261105,2026020254,Luke Evangelista,1.5,over,0.5862,1,0,rest: no back-to-back
+20261105,2026020254,Luke Evangelista,1.5,under,0.41379999999999995,0,0,rest: no back-to-back
+20261105,2026020254,Mason McTavish,2.5,over,0.4059,1,0,rest: no back-to-back
+20261105,2026020254,Mason McTavish,2.5,under,0.5941000000000001,0,0,rest: no back-to-back
+20261105,2026020254,Luke Hughes,2.5,over,0.4138,0,0,rest: no back-to-back
+20261105,2026020254,Luke Hughes,2.5,under,0.5862,1,0,rest: no back-to-back
+20261105,2026020254,Arseny Gritsyuk,1.5,over,0.604,1,0,rest: no back-to-back
+20261105,2026020254,Arseny Gritsyuk,1.5,under,0.396,0,0,rest: no back-to-back
+20261105,2026020254,Jimmy Snuggerud,2.5,over,0.3818,0,0,rest: no back-to-back
+20261105,2026020254,Jimmy Snuggerud,2.5,under,0.6182000000000001,1,0,rest: no back-to-back
+20261105,2026020255,Brayden Schenn,1.5,over,0.4165,0,0,rest: no back-to-back
+20261105,2026020255,Brayden Schenn,1.5,under,0.5835,1,0,rest: no back-to-back
+20261105,2026020255,Kyle Palmieri,1.5,over,0.6091,1,0,rest: no back-to-back
+20261105,2026020255,Kyle Palmieri,1.5,under,0.3909,0,0,rest: no back-to-back
+20261105,2026020255,Shayne Gostisbehere,1.5,over,0.4853,1,0,rest: no back-to-back
+20261105,2026020255,Shayne Gostisbehere,1.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261105,2026020255,Bo Horvat,2.5,over,0.4951,1,0,rest: no back-to-back
+20261105,2026020255,Bo Horvat,2.5,under,0.5049,0,0,rest: no back-to-back
+20261105,2026020255,Nikolaj Ehlers,2.5,over,0.4459,1,0,rest: no back-to-back
+20261105,2026020255,Nikolaj Ehlers,2.5,under,0.5541,0,0,rest: no back-to-back
+20261105,2026020255,Sebastian Aho,2.5,over,0.4694,1,0,rest: no back-to-back
+20261105,2026020255,Sebastian Aho,2.5,under,0.5306,0,0,rest: no back-to-back
+20261105,2026020255,Sean Walker,1.5,over,0.5147,1,0,rest: no back-to-back
+20261105,2026020255,Sean Walker,1.5,under,0.48529999999999995,0,0,rest: no back-to-back
+20261105,2026020255,Andrei Svechnikov,2.5,over,0.4754,1,0,rest: no back-to-back
+20261105,2026020255,Andrei Svechnikov,2.5,under,0.5246,0,0,rest: no back-to-back
+20261105,2026020255,Simon Holmstrom,1.5,over,0.4754,1,0,rest: no back-to-back
+20261105,2026020255,Simon Holmstrom,1.5,under,0.5246,0,0,rest: no back-to-back
+20261105,2026020255,Seth Jarvis,2.5,over,0.4138,0,0,rest: no back-to-back
+20261105,2026020255,Seth Jarvis,2.5,under,0.5862,1,0,rest: no back-to-back
+20261105,2026020255,Emil Heineman,1.5,over,0.4335,0,0,rest: no back-to-back
+20261105,2026020255,Emil Heineman,1.5,under,0.5665,1,0,rest: no back-to-back
+20261105,2026020255,Logan Stankoven,2.5,over,0.4425,1,0,rest: no back-to-back
+20261105,2026020255,Logan Stankoven,2.5,under,0.5575,0,0,rest: no back-to-back
+20261105,2026020255,Jackson Blake,2.5,over,0.4459,0,0,rest: no back-to-back
+20261105,2026020255,Jackson Blake,2.5,under,0.5541,1,0,rest: no back-to-back
+20261105,2026020255,Matthew Schaefer,2.5,over,0.4899,0,0,rest: no back-to-back
+20261105,2026020255,Matthew Schaefer,2.5,under,0.5101,1,0,rest: no back-to-back
+20261105,2026020256,Mika Zibanejad,2.5,over,0.4059,0,0,rest: no back-to-back
+20261105,2026020256,Mika Zibanejad,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261105,2026020256,J.T. Miller,1.5,over,0.578,1,0,rest: no back-to-back
+20261105,2026020256,J.T. Miller,1.5,under,0.42200000000000004,0,0,rest: no back-to-back
+20261105,2026020256,Christian Dvorak,1.5,over,0.4459,0,0,rest: no back-to-back
+20261105,2026020256,Christian Dvorak,1.5,under,0.5541,1,0,rest: no back-to-back
+20261105,2026020256,Travis Konecny,1.5,over,0.5347,1,0,rest: no back-to-back
+20261105,2026020256,Travis Konecny,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261105,2026020256,Vladislav Gavrikov,1.5,over,0.4248,1,0,rest: no back-to-back
+20261105,2026020256,Vladislav Gavrikov,1.5,under,0.5751999999999999,0,0,rest: no back-to-back
+20261105,2026020256,Adam Fox,1.5,over,0.4754,0,0,rest: no back-to-back
+20261105,2026020256,Adam Fox,1.5,under,0.5246,1,0,rest: no back-to-back
+20261105,2026020256,Owen Tippett,1.5,over,0.5888,1,0,rest: no back-to-back
+20261105,2026020256,Owen Tippett,1.5,under,0.4112,0,0,rest: no back-to-back
+20261105,2026020256,Trevor Zegras,1.5,over,0.5446,1,0,rest: no back-to-back
+20261105,2026020256,Trevor Zegras,1.5,under,0.4554,0,0,rest: no back-to-back
+20261105,2026020256,Pavel Dorofeyev,2.5,over,0.5246,1,0,rest: no back-to-back
+20261105,2026020256,Pavel Dorofeyev,2.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261105,2026020256,Tye Kartye,1.5,over,0.4853,1,0,rest: no back-to-back
+20261105,2026020256,Tye Kartye,1.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261105,2026020256,Alexis Lafreniere,2.5,over,0.4059,0,0,rest: no back-to-back
+20261105,2026020256,Alexis Lafreniere,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261105,2026020256,Jamie Drysdale,1.5,over,0.4248,0,0,rest: no back-to-back
+20261105,2026020256,Jamie Drysdale,1.5,under,0.5751999999999999,1,0,rest: no back-to-back
+20261105,2026020256,Braden Schneider,1.5,over,0.3909,1,0,rest: no back-to-back
+20261105,2026020256,Braden Schneider,1.5,under,0.6091,0,0,rest: no back-to-back
+20261105,2026020256,Tyson Foerster,1.5,over,0.5665,0,0,rest: no back-to-back
+20261105,2026020256,Tyson Foerster,1.5,under,0.4335,1,0,rest: no back-to-back
+20261105,2026020256,Will Cuylle,1.5,over,0.5862,0,0,rest: no back-to-back
+20261105,2026020256,Will Cuylle,1.5,under,0.41379999999999995,1,0,rest: no back-to-back
+20261105,2026020256,Matvei Michkov,1.5,over,0.5575,0,0,rest: no back-to-back
+20261105,2026020256,Matvei Michkov,1.5,under,0.4425,1,0,rest: no back-to-back
+20261105,2026020256,Oliver Bonk,1.5,over,0.422,0,0,rest: no back-to-back
+20261105,2026020256,Oliver Bonk,1.5,under,0.5780000000000001,1,0,rest: no back-to-back
+20261105,2026020256,Gabe Perreault,1.5,over,0.5246,1,0,rest: no back-to-back
+20261105,2026020256,Gabe Perreault,1.5,under,0.47540000000000004,0,0,rest: no back-to-back
+20261105,2026020256,Denver Barkey,1.5,over,0.3818,0,0,rest: no back-to-back
+20261105,2026020256,Denver Barkey,1.5,under,0.6182000000000001,1,0,rest: no back-to-back
+20261105,2026020256,Porter Martone,1.5,over,0.4754,0,0,rest: no back-to-back
+20261105,2026020256,Porter Martone,1.5,under,0.5246,1,0,rest: no back-to-back
+20261105,2026020257,Sidney Crosby,2.5,over,0.3866,0,0,rest: no back-to-back
+20261105,2026020257,Sidney Crosby,2.5,under,0.6134,1,0,rest: no back-to-back
+20261105,2026020257,Evgeni Malkin,1.5,over,0.5575,0,0,rest: no back-to-back
+20261105,2026020257,Evgeni Malkin,1.5,under,0.4425,1,0,rest: no back-to-back
+20261105,2026020257,Erik Karlsson,2.5,over,0.3887,0,0,rest: no back-to-back
+20261105,2026020257,Erik Karlsson,2.5,under,0.6113,1,0,rest: no back-to-back
+20261105,2026020257,Rickard Rakell,2.5,over,0.4853,1,0,rest: no back-to-back
+20261105,2026020257,Rickard Rakell,2.5,under,0.5146999999999999,0,0,rest: no back-to-back
+20261105,2026020257,Elias Lindholm,1.5,over,0.5347,1,0,rest: no back-to-back
+20261105,2026020257,Elias Lindholm,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261105,2026020257,David Pastrnak,3.5,over,0.4653,1,0,rest: no back-to-back
+20261105,2026020257,David Pastrnak,3.5,under,0.5347,0,0,rest: no back-to-back
+20261105,2026020257,Pavel Zacha,1.5,over,0.5049,1,0,rest: no back-to-back
+20261105,2026020257,Pavel Zacha,1.5,under,0.4951,0,0,rest: no back-to-back
+20261105,2026020257,Tommy Novak,1.5,over,0.5752,0,0,rest: no back-to-back
+20261105,2026020257,Tommy Novak,1.5,under,0.42479999999999996,1,0,rest: no back-to-back
+20261105,2026020257,Charlie McAvoy,1.5,over,0.5575,0,0,rest: no back-to-back
+20261105,2026020257,Charlie McAvoy,1.5,under,0.4425,1,0,rest: no back-to-back
+20261105,2026020257,Morgan Geekie,1.5,over,0.604,1,0,rest: no back-to-back
+20261105,2026020257,Morgan Geekie,1.5,under,0.396,0,0,rest: no back-to-back
+20261105,2026020257,Nick Robertson,1.5,over,0.4615,1,0,rest: no back-to-back
+20261105,2026020257,Nick Robertson,1.5,under,0.5385,0,0,rest: no back-to-back
+20261105,2026020257,Egor Chinakhov,1.5,over,0.5941,0,0,rest: no back-to-back
+20261105,2026020257,Egor Chinakhov,1.5,under,0.40590000000000004,1,0,rest: no back-to-back
+20261105,2026020257,JJ Peterka,2.5,over,0.4059,0,0,rest: no back-to-back
+20261105,2026020257,JJ Peterka,2.5,under,0.5941000000000001,1,0,rest: no back-to-back
+20261105,2026020257,Fraser Minten,1.5,over,0.5246,0,0,rest: no back-to-back
+20261105,2026020257,Fraser Minten,1.5,under,0.47540000000000004,1,0,rest: no back-to-back
+20261105,2026020257,James Hagens,1.5,over,0.5347,1,0,rest: no back-to-back
+20261105,2026020257,James Hagens,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261105,2026020257,Ben Kindel,2.5,over,0.3887,0,0,rest: no back-to-back
+20261105,2026020257,Ben Kindel,2.5,under,0.6113,1,0,rest: no back-to-back
+20261105,2026020258,Charlie Coyle,1.5,over,0.5147,0,0,rest: no back-to-back
+20261105,2026020258,Charlie Coyle,1.5,under,0.48529999999999995,1,0,rest: no back-to-back
+20261105,2026020258,Valeri Nichushkin,1.5,over,0.4335,0,0,rest: no back-to-back
+20261105,2026020258,Valeri Nichushkin,1.5,under,0.5665,1,0,rest: no back-to-back
+20261105,2026020258,Mikko Rantanen,1.5,over,0.5752,1,0,rest: no back-to-back
+20261105,2026020258,Mikko Rantanen,1.5,under,0.42479999999999996,0,0,rest: no back-to-back
+20261105,2026020258,Zach Werenski,2.5,over,0.5446,1,0,rest: no back-to-back
+20261105,2026020258,Zach Werenski,2.5,under,0.4554,0,0,rest: no back-to-back
+20261105,2026020258,Roope Hintz,1.5,over,0.5665,0,0,rest: no back-to-back
+20261105,2026020258,Roope Hintz,1.5,under,0.4335,1,0,rest: no back-to-back
+20261105,2026020258,Jason Robertson,2.5,over,0.5575,1,0,rest: no back-to-back
+20261105,2026020258,Jason Robertson,2.5,under,0.4425,0,0,rest: no back-to-back
+20261105,2026020258,Thomas Harley,1.5,over,0.5695,1,0,rest: no back-to-back
+20261105,2026020258,Thomas Harley,1.5,under,0.4305,0,0,rest: no back-to-back
+20261105,2026020258,Kent Johnson,1.5,over,0.5347,1,0,rest: no back-to-back
+20261105,2026020258,Kent Johnson,1.5,under,0.46530000000000005,0,0,rest: no back-to-back
+20261105,2026020258,Wyatt Johnston,2.5,over,0.4335,1,0,rest: no back-to-back
+20261105,2026020258,Wyatt Johnston,2.5,under,0.5665,0,0,rest: no back-to-back
+20261105,2026020258,Matthew Knies,1.5,over,0.4853,0,0,rest: no back-to-back
+20261105,2026020258,Matthew Knies,1.5,under,0.5146999999999999,1,0,rest: no back-to-back
+20261105,2026020258,Denton Mateychuk,1.5,over,0.4335,0,0,rest: no back-to-back
+20261105,2026020258,Denton Mateychuk,1.5,under,0.5665,1,0,rest: no back-to-back
+20261105,2026020258,Adam Fantilli,2.5,over,0.4518,1,0,rest: no back-to-back
+20261105,2026020258,Adam Fantilli,2.5,under,0.5482,0,0,rest: no back-to-back

@@ -1,0 +1,10 @@
+Fliff check: Dylan Strome UNDER 1.5 (DK +105, Fliff at +119 or better) - model +4.9 pts vs no-vig; recent +6.3 pts
+   evidence: Dylan Strome U1.5: agrees 5 of 7 (champion +4.9 pts; challenger +6.6 pts; shrunk form +6.5 pts; opponent allows -4% to F_top6+PP1; no-vig moved +1.0 pts toward side since open); against: on PP1
+Fliff check: Timo Meier OVER 2.5 (DK -140, Fliff at -120 or better) - model +5.0 pts vs no-vig; recent +7.1 pts
+   evidence: Timo Meier O2.5: agrees 3 of 7 (champion +5.0 pts; challenger +2.8 pts; shrunk form +6.5 pts); against: TOI last 5 -0.7 min vs season; no-vig moved -2.2 pts toward side since open
+Fliff check: Jakob Chychrun UNDER 2.5 (DK -140, Fliff at -121 or better) - model +7.2 pts vs no-vig; recent +2.5 pts
+   evidence: Jakob Chychrun U2.5: agrees 4 of 7 (champion +7.2 pts; challenger +4.4 pts; shrunk form +5.0 pts; no-vig moved +0.6 pts toward side since open); against: TOI last 5 +0.6 min vs season; on PP1
+Fliff check: Arseny Gritsyuk OVER 1.5 (DK -140, Fliff at -120 or better) - model +3.6 pts vs no-vig; recent +4.9 pts
+   evidence: Arseny Gritsyuk O1.5: agrees 4 of 7 (champion +3.6 pts; challenger +3.7 pts; shrunk form +6.8 pts; no-vig moved +2.0 pts toward side since open); against: TOI last 5 -0.6 min vs season
+Fliff check: Sebastian Aho OVER 2.5 (DK -110, Fliff at +106 or better) - model +3.8 pts vs no-vig; recent +19.3 pts
+   evidence: Sebastian Aho O2.5: agrees 5 of 7 (champion +3.8 pts; challenger +3.0 pts; shrunk form +7.0 pts; on PP1; no-vig moved +1.0 pts toward side since open); nothing against

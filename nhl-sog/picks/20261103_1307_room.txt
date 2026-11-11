@@ -1,0 +1,13 @@
+**NO BETS** this pass. NHL shots on goal, Tue Nov 3 1:00 PM window pass (fired 1:06, run 1:07 PM PT), DraftKings lines captured 1:07 PM PT. One game in the window: Edmonton at New Jersey, 4:30 PM PT (203 min out at run time). No earlier pass today had scored it. Paper only.
+
+DraftKings list: none. 0 DK-listable sides out of 15 lines.
+
+Fliff check: one side cleared the 5-point edge floor, but it can't be bet.
+- Evan Bouchard (Edmonton) under 2.5 (Edmonton at New Jersey), 4 of 7 agree (champion +5.9 pts, challenger +6.7, shrunk form +0.6, no-vig moved 3.4 pts toward the under since open; against: he's on PP1), DK -115, Fliff -135, shop-at +101 or better. Last 5: 2 of 5 under (shots 3, 2, 4, 3, 2). Skipped: both prices worse than shop-at.
+No huge line moves.
+Correlation note: only one side, so no stacking concern.
+Fliff credits: 1 this pass (Edmonton at New Jersey); 4 of 10 used today.
+
+Lineups: both DailyFaceoff lineups are fresh (Edmonton and New Jersey updated 8:39 and 11:00 AM PT), so the stale-lineup fallback wasn't needed.
+Vetoes: 0 injury vetoes (injury re-pull clean), 2 role-check demotions vetoing overs only (Evan Rodrigues, New Jersey, now 3rd line; Luke Evangelista, New Jersey, off PP1), 0 slot vetoes, 0 unverified gates.
+Spreadsheet: /workspace/nhl-sog/sheets/20261103_D_1307_picks.xlsx (colors only show in Excel or Google Sheets).

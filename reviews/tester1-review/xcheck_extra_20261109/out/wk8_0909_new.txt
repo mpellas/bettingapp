@@ -1,0 +1,2 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source analysis_2026_wk8_live_20261101T0909.csv, asof 20261101T170952Z
+Jared Goff Under 259.5 pass_yds @ -113 draftkings: Jared Goff U259.5 pass_yds: agrees 2 of 7 (MIN allows 181/g to QBs (-23% vs lg), EPA/play -0.307; DK line 267.5 -> 259.5 (-8)); against: champion -14.1 pts vs no-vig; team total 24.8 (fav 3) | with new tests: agrees 2 of 11; new against: under 259.5 hit 1 of 6 this season (17%), 2 of 10 last 10 (20%) vs no-vig 56%

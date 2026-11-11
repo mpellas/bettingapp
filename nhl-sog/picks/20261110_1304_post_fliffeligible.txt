@@ -1,0 +1,12 @@
+Fliff check: William Nylander OVER 2.5 (DK -140, Fliff at -118 or better) - model +6.1 pts vs no-vig; recent +2.2 pts
+   last 5: 4 of 5 over 2.5 (shots 3,2,3,4,3); model 59.9%, recent form 56.0% (shot rate last 10 x TOI last 5)
+   evidence: William Nylander O2.5: agrees 3 of 7 (champion +6.1 pts; challenger +7.9 pts; on PP1); against: no-vig moved 1.9 pts away from side since open
+   with new tests: agrees 5 of 12 (new: over 2.5 hit 12 of 19 this season (63%), 7 of 10 last 10 (70%) vs no-vig 54%; DK game total 6.5 (open)); n/a: books
+Fliff check: Darren Raddysh UNDER 2.5 (DK -125, Fliff at -107 or better) - model +7.6 pts vs no-vig; recent +6.3 pts
+   last 5: 4 of 5 under 2.5 (shots 1,2,6,1,2); model 59.0%, recent form 57.8% (shot rate last 10 x TOI last 5)
+   evidence: Darren Raddysh U2.5: agrees 4 of 7 (champion +7.6 pts; challenger +6.6 pts; opponent allows -5% to D+PP1; no-vig moved 2.3 pts toward side since open); against: shrunk form -7.7 pts; on PP1
+   with new tests: agrees 5 of 12 (new: under 2.5 hit 11 of 19 this season (58%), 7 of 10 last 10 (70%) vs no-vig 51%); new against: shot attempts: att/60 last10 15.9 vs base 16.2 (-2%); SOG/att last10 0.36 vs base 0.46 (regression +28%); DK game total 6.5 (open); n/a: books
+Fliff check: Blake Coleman OVER 1.5 (DK -145, Fliff at -123 or better) - model +8.5 pts vs no-vig; recent +8.5 pts
+   last 5: 1 of 5 over 1.5 (shots 1,1,1,2,1); model 63.3%, recent form 63.4% (shot rate last 10 x TOI last 5)
+   evidence: Blake Coleman O1.5: agrees 4 of 7 (champion +8.5 pts; challenger +7.3 pts; shrunk form +13.4 pts; opponent allows +6% to F_top6); against: no-vig moved 4.6 pts away from side since open
+   with new tests: agrees 6 of 12 (new: shot attempts: att/60 last10 15.7 vs base 15.0 (+4%); SOG/att last10 0.50 vs base 0.58 (regression +16%); DK game total 6.5 (open)); n/a: books

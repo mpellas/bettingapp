@@ -1,0 +1,2 @@
+NFL evidence (shadow/context only, not a filter; untested on real prices) - source analysis_2026_wk7_live_20261025T0732.csv, asof 20261025T143200Z
+Brock Purdy Over 19.5 rush_yds @ -113 draftkings: Brock Purdy O19.5 rush_yds: agrees 1 of 7 (usage L3 +22% (carries 6.7 vs 5.0; carry sh 0.22 vs 0.17; snap% 1.00 vs 0.97)); against: ATL allows 4/g to QBs (-74% vs lg), EPA/play -0.049

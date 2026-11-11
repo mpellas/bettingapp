@@ -1,0 +1,26 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 2:00 PM PT window pass (Sun Oct 25), lines captured 2:01 PM PT. One game: Colorado Avalanche at Nashville Predators (5:00 PM PT, start time rechecked, 175 min out). Earlier games were posted in the earlier passes and stay unchanged.
+
+DraftKings list: none. No side has positive blended EV at DraftKings (18 lines up).
+
+Fliff check (2). Neither is a Fliff bet right now: Josi's 1.5 line isn't on Fliff (only 2.5) and Malinski's Fliff price is worse than the shop-at. Josi qualifies on PrizePicks.
+1. Roman Josi, Colorado Avalanche at Nashville Predators (5:00 PM PT), OVER 1.5 shots on goal
+   DK -195, no-vig 61.8%, model 69.1%, recent expected shots 2.31, recent form 67.1% (shot rate last 10 x TOI last 5), shrunk 70.3% (info only). Worst Fliff price: -164. PrizePicks: power2, power3, flex3-flex6.
+   Last 5: 4 of 5 over 1.5 (shots 2, 8, 1, 2, 2).
+   Role: history slot defenseman on PP1; today pair 1 and PP1 (no change). TOI last 5 25.9 min. COL allows 0.951x league to that slot; COL allows 27.0 shots per game over last 20 (about 0.8 below league).
+   Evidence: agrees 5 of 7 (champion +7.2 pts; challenger +9.7 pts; shrunk form +8.5 pts; on PP1; no-vig moved 22.9 pts toward the over since open); against: opponent allows -5% to his slot.
+   Heads-up: this line opened OVER +140 and is now -195, so most of the value has already been bet in; DK -195 is worse than the -164 shop-at, so it's not a DK bet.
+   Fliff: only OVER 2.5 at +130 on Fliff, a different line, so the -164 shop-at doesn't apply. Skip on Fliff.
+2. Sam Malinski, Colorado Avalanche at Nashville Predators (5:00 PM PT), UNDER 1.5 shots on goal
+   DK -105, no-vig 47.5%, model 55.9%, recent expected shots 1.06, recent form 71.2% (shot rate last 10 x TOI last 5), shrunk 57.1% (info only). Worst Fliff price: +109. PrizePicks: not offered.
+   Last 5: 3 of 5 under 1.5 (shots 4, 0, 2, 0, 1).
+   Role: history slot defenseman, no PP; today pair 2, no PP (no change; Colorado's DailyFaceoff lineup was last updated Oct 23, 5:39 PM PT, so it's a day old). TOI last 5 16.2 min vs 18.7 over last 30. NSH allows 0.990x league to that slot; NSH allows 30.2 shots per game over last 20 (about 2.4 above league).
+   Evidence: agrees 3 of 7 (champion +8.3 pts; challenger +3.9 pts; shrunk form +9.6 pts); against: no-vig moved 1.0 pt away from the under since open.
+   Fliff: Fliff -115, worse than the +109 shop-at price. Skip on Fliff.
+Correlation: Josi (Nashville over) and Malinski (Colorado under) are on opposite teams, so they're only loosely linked; a high-event game helps Josi and hurts Malinski.
+Fliff credits: 3 of 10 used today (1 this pass); 110 left on the account.
+
+Vetoes: 0 sides skipped by the lineup-status check and 2 unders by the role/lineup-slot check (both promotions: Gabriel Landeskog from 3rd line to line 2/PP2; Matthew Wood from 3rd line to line 1/PP2, whose under was model 59.3% vs no-vig 50.5%, +8.8 pts). T.J. Hughes OVER 1.5 fell under the 5-point floor (+3.3 pts); Brock Nelson OVER 1.5 had a thin recent-form edge (+0.2 pts).
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261025_D_1404_picks.xlsx (colors only show in Excel or Google Sheets).

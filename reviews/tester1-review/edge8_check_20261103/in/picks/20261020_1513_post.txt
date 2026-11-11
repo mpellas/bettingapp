@@ -1,0 +1,6 @@
+Fliff check: Vince Dunn UNDER 2.5 (DK -155, Fliff at -133 or better) - model +8.7 pts vs no-vig; recent +16.4 pts
+   evidence: Vince Dunn U2.5: agrees 4 of 7 (champion +8.7 pts; challenger +7.9 pts; shrunk form +2.3 pts; no-vig moved 5.6 pts toward side since open); against: TOI last 5 24.2 vs this season 23.1 (+1.1 min); last 30 incl. last season 21.2 (reference only); on PP1
+Fliff check: Kaapo Kakko UNDER 1.5 (DK -165, Fliff at -140 or better) - model +11.8 pts vs no-vig; recent +9.2 pts
+   evidence: Kaapo Kakko U1.5: agrees 3 of 7 (champion +11.8 pts; challenger +10.4 pts; shrunk form +18.2 pts); nothing against
+Fliff check: Mackie Samoskevich UNDER 1.5 (DK +130, Fliff at +146 or better) - model +8.3 pts vs no-vig; recent +19.8 pts
+   evidence: Mackie Samoskevich U1.5: agrees 3 of 7 (champion +8.3 pts; challenger +3.8 pts; shrunk form +5.8 pts); against: no-vig moved 21.5 pts away from side since open

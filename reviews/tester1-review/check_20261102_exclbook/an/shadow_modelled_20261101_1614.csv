@@ -1,0 +1,11 @@
+status,source,game,team,player,market,line,side,book,price,fair_prob,ev_pct,n_books,sharps,model_p,reason
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,WAS,jayden daniels,pass_yds,202.5,Under,draftkings,-112.0,0.5,-5.36,2,,0.5577,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,PHI,dallas goedert,reception_yds,45.5,Under,draftkings,-112.0,0.5,-5.36,7,"fanduel,pinnacle",0.6202,EV -5.36% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,WAS,stefon diggs,reception_yds,42.5,Under,draftkings,-111.0,0.5,-4.95,8,"fanduel,pinnacle",0.6008,EV -4.95% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,WAS,antonio williams,reception_yds,38.5,Under,draftkings,-110.0,0.4979,-4.95,2,,0.6341,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,WAS,chig okonkwo,reception_yds,34.5,Under,draftkings,-111.0,0.5,-4.95,3,,0.5999,0 sharp book(s) at line; EV -4.95% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,PHI,darius cooper,reception_yds,27.5,Under,draftkings,-115.0,0.5,-6.52,5,fanduel,0.5814,1 sharp book(s) at line; EV -6.52% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,WAS,rachaad white,rush_yds,41.5,Under,draftkings,-112.0,0.5,-5.36,4,,0.7439,0 sharp book(s) at line; EV -5.36% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,WAS,antonio williams,reception_yds,37.5,Under,fliff,-120.0,0.4902,-10.14,4,"fanduel,pinnacle",0.6341,EV -10.14% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,PHI,makai lemon,reception_yds,43.5,Under,fliff,-120.0,0.5,-8.33,4,"fanduel,pinnacle",0.6183,EV -8.33% < 2
+fail,DK/Fliff,Philadelphia Eagles @ Washington Commanders,PHI,darius cooper,reception_yds,26.5,Under,fliff,-120.0,0.4977,-8.75,2,,0.5814,0 sharp book(s) at line; EV -8.75% < 2

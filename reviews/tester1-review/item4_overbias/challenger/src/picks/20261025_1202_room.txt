@@ -1,0 +1,31 @@
+Hold about 10 minutes for the testers' cross-check before betting.
+
+NHL shots on goal, 12:00 PM PT window pass (Sun Oct 25), lines captured 12:00 PM PT. One game: New York Islanders at Dallas Stars (3:00 PM PT, start time rechecked). FLA at CHI (12:00 PM PT) was posted in the 9:22 AM pass and stays unchanged.
+
+DraftKings list: none. No side has positive blended EV at DraftKings.
+
+Fliff check (3). Right now Fliff is worse than the shop-at price on all three, so none is a Fliff bet unless the price improves; Hintz is also available on PrizePicks.
+1. Brayden Schenn, New York Islanders at Dallas Stars (3:00 PM PT), OVER 1.5 shots on goal
+   DK -105, no-vig 47.5%, model 55.8%, recent expected shots 2.20, recent form 64.6% (shot rate last 10 x TOI last 5), shrunk 57.0% (info only). Worst Fliff price: +109. PrizePicks: not offered.
+   Last 5: 4 of 5 over 1.5 (shots 3, 1, 2, 2, 3).
+   Role: history slot top-6 forward on PP1; today line 2 and PP1 (no change). DAL allows 0.947x league to that slot; DAL allows 22.7 shots per game over last 20 (about 5.1 below league).
+   Evidence: agrees 5 of 7 (champion +8.2 pts; challenger +3.4 pts; shrunk form +9.5 pts; on PP1; no-vig moved 1.0 pt toward the over since open); against: opponent allows -5% to his slot.
+   Fliff: Fliff -110, worse than the +109 shop-at price. Skip on Fliff.
+2. Roope Hintz, New York Islanders at Dallas Stars (3:00 PM PT), UNDER 2.5 shots on goal
+   DK -185, no-vig 60.9%, model 66.9%, recent expected shots 2.11, recent form 64.8% (shot rate last 10 x TOI last 5), shrunk 65.6% (info only). Worst Fliff price: -157. PrizePicks: power2, power3, flex3-flex6.
+   Last 5: 3 of 5 under 2.5 (shots 2, 1, 3, 0, 5).
+   Role: history slot top-6 forward on PP1; today line 2 and PP1 (no change). NYI allows 0.996x league to that slot; NYI allows 25.2 shots per game over last 20 (about 2.6 below league).
+   Evidence: agrees 4 of 7 (champion +5.9 pts; challenger +6.9 pts; shrunk form +4.7 pts; no-vig moved 2.6 pts toward the under since open); against: he's on PP1.
+   Fliff: Fliff -190, worse than the -157 shop-at price. Skip on Fliff.
+3. Miro Heiskanen, New York Islanders at Dallas Stars (3:00 PM PT), UNDER 1.5 shots on goal
+   DK +130, no-vig 40.6%, model 45.9%, recent expected shots 1.91, recent form 43.0% (shot rate last 10 x TOI last 5), shrunk 41.2% (info only). Worst Fliff price: +145. PrizePicks: not offered.
+   Last 5: 3 of 5 under 1.5 (shots 1, 2, 1, 0, 5).
+   Role: history slot defenseman on PP1; today pair 1 and PP1 (no change). NYI allows 0.990x league to that slot; NYI allows 25.2 shots per game over last 20.
+   Evidence: agrees 3 of 7 (champion +5.3 pts; challenger +2.0 pts; shrunk form +0.6 pts); against: TOI last 5 27.6 vs this season 26.0 (+1.6 min), and he's on PP1. Thin support: the model still has the under below 50%, so it's a plus-price value lean only.
+   Fliff: Fliff +110, worse than the +145 shop-at price. Skip on Fliff.
+Correlation: Hintz and Heiskanen are both Dallas unders in the same game, so they tend to win or lose together; don't stack them, and Schenn's over pulls the other way (it wins in a high-shot game).
+Fliff credits: 2 of 10 used today (1 this pass); 111 left on the account.
+
+Vetoes: 0 sides skipped by the lineup-status check and 2 by the role/lineup-slot check (Mikko Rantanen off PP1, demotion, over vetoed; Joel Kiviranta promoted from 4th line to line 1, under vetoed). 3 more sides fell under the 5-point edge floor.
+No games before noon PT in this pass.
+Spreadsheet: /workspace/nhl-sog/sheets/20261025_D_1202_picks.xlsx (colors only show in Excel or Google Sheets).

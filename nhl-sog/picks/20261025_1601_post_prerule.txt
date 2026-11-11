@@ -1,0 +1,3 @@
+Fliff check: Jake DeBrusk UNDER 2.5 (DK -160, Fliff at -136 or better) - model +5.4 pts vs no-vig; recent +1.2 pts
+   last 5: 5 of 5 under 2.5 (shots 2,2,0,1,2); model 62.9%, recent form 58.7% (shot rate last 10 x TOI last 5)
+   evidence: Jake DeBrusk U2.5: agrees 2 of 7 (champion +5.4 pts; challenger +5.4 pts); against: shrunk form -2.9 pts; on PP1; no-vig moved 2.9 pts away from side since open

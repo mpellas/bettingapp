@@ -1,0 +1,11 @@
+2026020198,8480839,graded_actual,1,2,graded/20261027.csv fixed vs api-web boxscore (Dahlin; U2.5 unaffected),2026-10-31
+2026020189,8475791,result,UNGRADED,VOID_DNP,"Taylor Hall (2 sides, Oct27; in tester1 skipped_sides.csv): absent from api-web boxscore (box_2026020189.json, gameState OFF) and player game-log 20262027; did not play",2026-10-31
+2026020108,8483468,result,UNGRADED,VOID_DNP,"Jiri Kulich: absent from api-web boxscore (box_2026020108.json, gameState OFF) and player game-log 20262027; did not play",2026-10-31
+2026020129,8481716,result,UNGRADED,VOID_DNP,"Dmitri Voronkov: absent from api-web boxscore (box_2026020129.json, gameState OFF) and player game-log 20262027; did not play",2026-10-31
+2026020141,8477505,result,UNGRADED,VOID_DNP,"Alexander Wennberg: absent from api-web boxscore (box_2026020141.json, gameState OFF) and player game-log 20262027; did not play",2026-10-31
+NFL wk6,Quinshon Judkins,result,UNGRADED,VOID_INACTIVE,no nflverse player_week or snap_counts row; team game played; injuries file Questionable (Ankle) -> inactive,2026-10-31
+NFL wk6,DJ Moore,result,UNGRADED,VOID_INACTIVE,no nflverse player_week or snap_counts row; team game played; injuries file Questionable (Shoulder) -> inactive,2026-10-31
+NFL wk6,Tyler Warren,result,UNGRADED,VOID_INACTIVE,no nflverse player_week or snap_counts row; team game played; injuries file Questionable (Groin) -> inactive,2026-10-31
+NFL wk7,Olamide Zaccheaus,result,UNGRADED,VOID_INACTIVE,no nflverse player_week or snap_counts row; team game played; injuries file Questionable (Shoulder) -> inactive,2026-10-31
+NFL wk7,Tyjae Spears,result,UNGRADED,VOID_INACTIVE,no nflverse player_week or snap_counts row; team game played; injuries file Questionable (rest) -> inactive,2026-10-31
+NFL wk7,Calvin Ridley,result,UNGRADED,VOID_INACTIVE,no nflverse player_week or snap_counts row; team game played; injuries file Questionable (Hip) -> inactive,2026-10-31

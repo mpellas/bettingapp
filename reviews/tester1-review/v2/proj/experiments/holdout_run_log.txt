@@ -1,0 +1,5 @@
+2026-10-04 13:45:26,324 nflprops.backtest season 2025 predicted in 12.5s (3721 rows) [model e075c913fb_f9247893]
+2026-10-04 13:45:39,876 nflprops.backtest season 2025 predicted in 12.5s (3721 rows) [model 557e6ab3e4_f9247893]
+[real_espn_uncertain_timing] /workspace/nfl-props/reports/holdout_2025_real_espn_uncertain_timing/report.md
+[sim] /workspace/nfl-props/reports/holdout_2025_sim/report.md
+/workspace/nfl-props/experiments/holdout_frozen.json

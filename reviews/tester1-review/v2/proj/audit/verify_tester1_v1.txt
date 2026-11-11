@@ -1,0 +1,14 @@
+B5 data/lines/espn_open.csv: 3457 rows, share timestamp after kickoff = 0.993
+B5 data/lines/espn_current.csv: 3480 rows, share timestamp after kickoff = 0.993
+B5 athlete-markets with >1 main over/under item (open block): 26
+B2 market_blend values in v1 runs: [0.9]
+B2 v1 grid: market_blend [0.0, 0.25, 0.5, 0.75, 0.9] (no 1.0) per configs/default.yaml
+B6 diagnostic bets 995, flat ROI 0.0302, iid 95% half-width 0.0585
+B6 cluster=game_id (193 clusters): 95% CI [-0.0256, 0.0861]
+B6 cluster=week (13 clusters): 95% CI [-0.0525, 0.1074]
+B6 bets per game mean 5.16 max 11
+B8 real 2025 blend 0.5 threshold 0.02: bets 1145
+B8 real 2025 blend 0.5 threshold 0.03: bets 1142
+B8 real 2025 blend 0.5 threshold 0.04: bets 995
+B8 break-even no-vig edge at -115/-115: 0.0349  at -110/-110: 0.0238
+B1 actual starter != team's previous-game starter in 0.125 of starts (2015-25)

@@ -1,0 +1,2 @@
+logged_at_pt,season,week,game,kick_pt,player,team,market,side,line,book,price,model_p,books_novig_p,blend_p,breakeven_p,blend_ev,status,result,actual,notes
+2026-10-11 12:30,2026,5,CHI@GB,2026-10-11 10:00,Christian Watson,GB,receptions,Under,4.5,DK,-125,0.632,0.544,0.548,0.556,-0.013,graded_provisional,L,5,"Data-first list pick (model-only; failed post-blend EV). Actual 5 rec/7 tgt with game still in Q4 (GB 29-7) at log time; already over so L is final. Not part of locked yards track."
