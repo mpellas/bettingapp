@@ -33,6 +33,7 @@ import os
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 from datetime import date, datetime
 from urllib.error import URLError, HTTPError
@@ -406,11 +407,23 @@ def fetch_day_results(day: str) -> tuple[dict, dict]:
     # Fill any holes from the stats summary endpoint grade.py uses, but only
     # for games already marked finished.
     try:
-        data = get_json(
-            "https://api.nhle.com/stats/rest/en/skater/summary?"
-            "isAggregate=false&isGame=true&limit=-1&"
-            f"cayenneExp=gameDate=\"{iso(day)}\"%20and%20gameTypeId=2"
-        ).get("data") or []
+        # The API caps at 100 rows per call and ignores limit=-1 (Nov 19, 2026):
+        # page with a stable sort until a short page, so holes past row 100 fill too.
+        data, start = [], 0
+        sort = urllib.parse.quote('[{"property":"gameId","direction":"ASC"},{"property":"playerId","direction":"ASC"}]')
+        while True:
+            j = get_json(
+                "https://api.nhle.com/stats/rest/en/skater/summary?"
+                f"isAggregate=false&isGame=true&start={start}&limit=100&sort={sort}&"
+                f"cayenneExp=gameDate=\"{iso(day)}\"%20and%20gameTypeId=2"
+            )
+            page = j.get("data") or []
+            data += page
+            start += 100
+            if len(page) < 100 or ("total" in j and start >= j["total"]):
+                break
+            if start >= 5000:
+                raise RuntimeError(f"stats API paging for {day} passed 5000 rows")
         have = {gid for gid in finished if finished[gid]}
         for x in data:
             gid = int(x["gameId"])

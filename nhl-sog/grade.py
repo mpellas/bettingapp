@@ -1,11 +1,25 @@
 """Grade picks/<date>_D.csv vs NHL box scores; z-CLV D->C from C captures. Usage: python3 grade.py YYYYMMDD
 C = per-line close from close.py (latest price 0-30 min out; pulled lines never backfilled).
 VOID: no C for line (VOID_pulled_before_close if pulled), player DNP (no box row). CLV: market P(side) at C, re-expressed at the D line via NB(mu_C,k) fitted to C no-vig; z = (logit pC - logit pD)."""
-import pandas as pd,numpy as np,requests,json,glob,sys,os
+import pandas as pd,numpy as np,requests,json,glob,sys,os,time
 from scipy import stats,optimize
 date=sys.argv[1]; iso=f'{date[:4]}-{date[4:6]}-{date[6:]}'
 P=pd.read_csv(f'picks/{date}_D.csv'); k=json.load(open(f"models/model_{P.model_hash.iloc[0]}.json"))['k']
-r=requests.get('https://api.nhle.com/stats/rest/en/skater/summary',params={'isAggregate':'false','isGame':'true','limit':-1,'cayenneExp':f'gameDate="{iso}" and gameTypeId=2'},timeout=60).json()['data']
+def summary_rows(iso):
+    """All skater-summary rows for one date. The API caps at 100 rows per call and ignores limit=-1 (Nov 19, 2026), which
+    left players past row 100 graded VOID_dnp. Pages with a stable sort until a short page, so a missing 'total' can't truncate."""
+    d,start=[],0
+    while True:
+        for t in range(4):
+            try:
+                j=requests.get('https://api.nhle.com/stats/rest/en/skater/summary',params={'isAggregate':'false','isGame':'true','start':start,'limit':100,'sort':'[{"property":"gameId","direction":"ASC"},{"property":"playerId","direction":"ASC"}]','cayenneExp':f'gameDate="{iso}" and gameTypeId=2'},timeout=60).json(); break
+            except Exception:
+                if t==3: raise
+                time.sleep(3)
+        page=j['data']; d+=page; start+=100
+        if len(page)<100 or ('total' in j and start>=j['total']): return d
+        if start>=5000: raise SystemExit(f'stats API paging for {iso} passed 5000 rows; refusing to grade')
+r=summary_rows(iso)
 box={(x['playerId'],x['gameId']):x['shots'] for x in r}
 GAMES_WITH_BOX={x['gameId'] for x in r}  # a game with no box rows yet is PENDING, not DNP
 import close
