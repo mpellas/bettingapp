@@ -5,10 +5,16 @@ REP={'summary':['shots','timeOnIcePerGame','positionCode','teamAbbrev','opponent
 SEAS={2021:('2021-10-01','2022-05-01'),2022:('2022-10-01','2023-04-20'),2023:('2023-10-01','2024-04-20'),2024:('2024-10-01','2025-04-20'),2025:('2025-10-01','2026-04-20'),2026:('2026-09-01',(dt.date.today()-dt.timedelta(1)).isoformat())}  # current season: Sep 1 (2026-27 opened Sep 29; was Oct 1 -> Sep 29-30 games missing, fixed 2026-10-17) through yesterday (box clock = PT). Was hard-coded '2026-10-11' -> inputs stale Oct 11-16 (fixed 2026-10-17, approved)
 def get(rep,s,a,b):
     e=f'seasonId={s}{s+1} and gameTypeId=2 and gameDate>="{a}" and gameDate<"{b}"'
-    for t in range(4):
-        try:
-            r=requests.get(B+rep,params={'isAggregate':'false','isGame':'true','limit':-1,'cayenneExp':e},timeout=60);d=r.json()['data'];break
-        except Exception as x: time.sleep(3)
+    d,start=[],0
+    while True:  # API caps at 100 rows per call and ignores limit=-1 (Nov 19, 2026, approved); page with stable sort until total
+        for t in range(4):
+            try:
+                j=requests.get(B+rep,params={'isAggregate':'false','isGame':'true','start':start,'limit':100,'sort':'[{"property":"gameId","direction":"ASC"},{"property":"playerId","direction":"ASC"}]','cayenneExp':e},timeout=60).json();break
+            except Exception as x:
+                if t==3: raise
+                time.sleep(3)
+        d+=j['data']; start+=100
+        if not j['data'] or start>=j.get('total',0): break
     assert len(d)<10000,(rep,a)
     return d
 out=[]
@@ -27,4 +33,5 @@ for s,(a,b) in SEAS.items():
         df=df.drop(columns='totalShotAttempts').merge(pd.read_pickle('audit/attempts_2021.pkl').rename(columns={'att_pbp':'totalShotAttempts'}),on=['gameId','playerId'],how='left'); df['totalShotAttempts']=df.totalShotAttempts.fillna(0).astype(int)
     df['season']=s
     from apply_overrides import apply; df=apply(df)  # official-boxscore corrections (data/stat_overrides.csv)
+    if s==2026 and os.path.exists(f) and len(df)<0.95*len(pd.read_pickle(f)): raise SystemExit(f'refusing to overwrite {f}: {len(df)} rows < 95% of existing (truncated fetch?)')
     df.to_pickle(f); print(s,len(df),flush=True)
