@@ -40,3 +40,26 @@ Found: builder all_sides CSVs have no player_id/game_id, so add_evidence scores 
 Root cause of the missing week-9 predictions: a capture outage, then the pregame step never ran. Snapshots stopped after Thu Nov 5 6:59 PM PT; there were none Fri or Sat, and Sunday captures did not resume until 3:56 PM PT, after every Sunday D window and the morning price-shop. Thu close (JAX@BAL) and almost all Sunday closes were missed (only TB@CHI has C). D lines were rebuilt Sunday 10:00 PM PT (243 then, later 246) but `python -m nflprops.pregame --season 2026 --week 9` was not run, so the Sun 4:14 PM PT pass failed on a missing week-9 pregame CSV (week 8 was not substituted).
 
 Today (no model/track edits, no --rescore, no Odds API or Fliff credits, no retroactive picks): backed up snap_2026_wk9_{D,C,pulled}.csv, pred_log.jsonl, and the 2026 nflverse cache (*.bak_y_20261109); refreshed nflverse (free). I ran the normal pregame command at 12:37 PM PT as a safety file: data/predictions/2026_wk09/pregame_20261109T203732Z.csv. The Mon/Thu night-game capture routine later wrote the official file at 2:03 PM PT: pregame_20261109T220323Z.csv (244 predictions, data_cutoff 2026-11-05, BUF@MIN D captured 2:02:52 PM PT). I did not generate a third file. add_evidence --dlines --week 9 --no-net reads that official file and scored 488 of 492 sides. The 4:10 PM PT prime-time pass should now find data/predictions/2026_wk09/ and use the newest CSV.
+
+## 2026-11-15 extra markets raw grading (user-approved; data-only, paper; pinned capture files untouched)
+- The pinned loop already saves every raw DK-via-ESPN propBets page, so capture needed NO change. DK via ESPN has no prices in
+  2026 (targets only); Anytime TD has neither line nor price -> not gradable, skipped. No Odds API / Fliff used.
+- sidecars/extra_markets/grade_extra_nfl.py: O/U result AT THE LINE (D = last capture <= kickoff-3h; close = last capture in the
+  final 30 min; same as snaplines) vs ESPN summary boxscore; price blank, no units. Markets: receptions, rush_att, pass_cmp,
+  pass_att, pass_td, pass_int, rush_rec_yds, pass_rush_yds, longest_rec, longest_rush, tackles_solo, tackle_assists,
+  tackles_total, sacks, fg_made, xp_made, kicking_pts. Outputs sidecars/extra_markets/graded/nfl_<market>.csv + nfl_summary.csv.
+  Initial run graded weeks 4-10 from already-saved pre-game captures (real captured lines, actual results; nothing invented).
+- Hooked at the end of scripts/track_week.sh (--week N, ~10-20 s; original exit status kept; backup .bak_extra_20261115).
+
+## 2026-11-22 game spread ATS (data-only, paper; pinned capture files untouched)
+- The pinned loop already saves the DraftKings-via-ESPN game odds file (spread + moneyline + total, WITH American prices)
+  alongside every propBets snapshot, so capture needed NO change and the snapshot loop was not restarted (SNF close still pending).
+- sidecars/extra_markets/grade_extra_nfl.py now also writes nfl_spread.csv: both sides, D and close (same windows as snaplines),
+  ATS cover/push/loss at the captured price, units included. Player extras (pass_att, pass_cmp, kicking_pts, etc.) unchanged;
+  kicker points already come from ESPN boxscore totalKickingPoints (present). Backup: grade_extra_nfl.py.bak_spread_20261122
+  and graded_bak_20261122/. Still hooked only at the end of scripts/track_week.sh; no new routine.
+
+
+- Clarification (Tester1, 2026-11-22): nfl_spread.csv grades BOTH sides of every game, so cover/loss are always
+  symmetric and the units total is just the juice. It is raw ATS data, not a model result, and needs a side-picking
+  spread model before the record means anything. See sidecars/extra_markets/NOTES.md.

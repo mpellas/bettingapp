@@ -1,0 +1,253 @@
+{
+  "points": {
+    "model": "points",
+    "walk_forward": [
+      {
+        "season": 2023,
+        "n": 46706,
+        "k": 200.0,
+        "nll": 0.8372,
+        "mae": 0.5309,
+        "mean_mu": 0.471,
+        "mean_y": 0.462
+      },
+      {
+        "season": 2024,
+        "n": 46700,
+        "k": 200.0,
+        "nll": 0.8246,
+        "mae": 0.5167,
+        "mean_mu": 0.448,
+        "mean_y": 0.451
+      },
+      {
+        "season": 2025,
+        "n": 46669,
+        "k": 200.0,
+        "nll": 0.8368,
+        "mae": 0.5247,
+        "mean_mu": 0.464,
+        "mean_y": 0.463
+      }
+    ],
+    "k": 200.0,
+    "oos_n": 13166,
+    "oos_mae": 0.5334,
+    "oos_mean_mu": 0.462,
+    "oos_mean_y": 0.479,
+    "joined_lines": 912,
+    "backtest": [
+      {
+        "label": "points all (edge>0 at D)",
+        "n": 330,
+        "wins": 141,
+        "losses": 189,
+        "pushes": 0,
+        "hit_rate": 0.4273,
+        "units": -56.38,
+        "roi": -0.1709,
+        "avg_breakeven": 0.5205
+      },
+      {
+        "label": "points in band (price >= -150)",
+        "n": 243,
+        "wins": 103,
+        "losses": 140,
+        "pushes": 0,
+        "hit_rate": 0.4239,
+        "units": -26.58,
+        "roi": -0.1094,
+        "avg_breakeven": 0.4696
+      },
+      {
+        "label": "points outside band (worse than -150)",
+        "n": 87,
+        "wins": 38,
+        "losses": 49,
+        "pushes": 0,
+        "hit_rate": 0.4368,
+        "units": -29.8,
+        "roi": -0.3425,
+        "avg_breakeven": 0.6625
+      }
+    ],
+    "train_n": 229145,
+    "note": "LightGBM Poisson on 2021-2025 skater points + rolling TOI/PP/shots; 2026 OOS priced at captured DK D lines from Nov 15 on. Model shrinks toward the mean and faded market favorites; early priced results are negative."
+  },
+  "saves": {
+    "model": "saves",
+    "walk_forward": [
+      {
+        "season": 2023,
+        "n": 2681,
+        "k": 23.22,
+        "nll": 3.5167,
+        "mae": 5.8326,
+        "mean_mu": 26.243,
+        "mean_y": 26.0
+      },
+      {
+        "season": 2024,
+        "n": 2643,
+        "k": 20.95,
+        "nll": 3.4057,
+        "mae": 5.4294,
+        "mean_mu": 24.556,
+        "mean_y": 24.481
+      },
+      {
+        "season": 2025,
+        "n": 2647,
+        "k": 21.03,
+        "nll": 3.4118,
+        "mae": 5.4987,
+        "mean_mu": 24.224,
+        "mean_y": 23.9
+      }
+    ],
+    "k": 22.33564384769478,
+    "oos_n": 753,
+    "backtest": [
+      {
+        "label": "saves all (edge>0 at D)",
+        "n": 64,
+        "wins": 39,
+        "losses": 25,
+        "pushes": 0,
+        "hit_rate": 0.6094,
+        "units": 8.22,
+        "roi": 0.1285,
+        "avg_breakeven": 0.5374
+      },
+      {
+        "label": "saves in band (price >= -150)",
+        "n": 64,
+        "wins": 39,
+        "losses": 25,
+        "pushes": 0,
+        "hit_rate": 0.6094,
+        "units": 8.22,
+        "roi": 0.1285,
+        "avg_breakeven": 0.5374
+      },
+      {
+        "label": "saves outside band (worse than -150)",
+        "n": 0,
+        "wins": 0,
+        "losses": 0,
+        "pushes": 0,
+        "hit_rate": null,
+        "units": null,
+        "roi": null,
+        "avg_breakeven": null,
+        "note": "no priced graded sides"
+      }
+    ],
+    "joined_lines": 108,
+    "features": [
+      "rest",
+      "b2b",
+      "home",
+      "saves_r5",
+      "sa_r5",
+      "toi_min_r5",
+      "starter_r5",
+      "saves_r10",
+      "sa_r10",
+      "toi_min_r10",
+      "starter_r10",
+      "saves_r30",
+      "sa_r30",
+      "toi_min_r30",
+      "starter_r30",
+      "saves_car",
+      "sa_car",
+      "toi_min_car",
+      "starter_car",
+      "n_prior",
+      "opp_sf_r20",
+      "team_sa_r20"
+    ],
+    "train_n": 12835
+  },
+  "puckline": {
+    "model": "puckline",
+    "walk_forward": [
+      {
+        "season": 2023,
+        "n": 1312,
+        "base_home_m15": 0.3239,
+        "pred_home_m15": 0.3039,
+        "actual_home_m15": 0.3377,
+        "actual_home_p15": 0.7188,
+        "rule_hit": 0.5663,
+        "mae_margin": 2.117
+      },
+      {
+        "season": 2024,
+        "n": 1307,
+        "base_home_m15": 0.3286,
+        "pred_home_m15": 0.3025,
+        "actual_home_m15": 0.3535,
+        "actual_home_p15": 0.7353,
+        "rule_hit": 0.593,
+        "mae_margin": 2.121
+      },
+      {
+        "season": 2025,
+        "n": 1312,
+        "base_home_m15": 0.3349,
+        "pred_home_m15": 0.3137,
+        "actual_home_m15": 0.3011,
+        "actual_home_p15": 0.7332,
+        "rule_hit": 0.5831,
+        "mae_margin": 2.1
+      }
+    ],
+    "oos_n": 372,
+    "captured_price_events": 1,
+    "note": "No puckline DK prices existed before 2026-11-22 capture went live. Walk-forward and 2026 OOS are outcome-only (cover rates, not units).",
+    "features": [
+      "h_rest",
+      "h_b2b",
+      "h_goalsFor_r5",
+      "h_goalsAgainst_r5",
+      "h_shotsForPerGame_r5",
+      "h_shotsAgainstPerGame_r5",
+      "h_goalsFor_r10",
+      "h_goalsAgainst_r10",
+      "h_shotsForPerGame_r10",
+      "h_shotsAgainstPerGame_r10",
+      "h_goalsFor_r20",
+      "h_goalsAgainst_r20",
+      "h_shotsForPerGame_r20",
+      "h_shotsAgainstPerGame_r20",
+      "h_goalsFor_car",
+      "h_goalsAgainst_car",
+      "h_shotsForPerGame_car",
+      "h_shotsAgainstPerGame_car",
+      "h_n_prior",
+      "a_rest",
+      "a_b2b",
+      "a_goalsFor_r5",
+      "a_goalsAgainst_r5",
+      "a_shotsForPerGame_r5",
+      "a_shotsAgainstPerGame_r5",
+      "a_goalsFor_r10",
+      "a_goalsAgainst_r10",
+      "a_shotsForPerGame_r10",
+      "a_shotsAgainstPerGame_r10",
+      "a_goalsFor_r20",
+      "a_goalsAgainst_r20",
+      "a_shotsForPerGame_r20",
+      "a_shotsAgainstPerGame_r20",
+      "a_goalsFor_car",
+      "a_goalsAgainst_car",
+      "a_shotsForPerGame_car",
+      "a_shotsAgainstPerGame_car",
+      "a_n_prior"
+    ],
+    "train_n": 6469
+  },
+  "elapsed_s": 3.5
+}

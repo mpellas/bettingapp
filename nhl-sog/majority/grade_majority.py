@@ -682,3 +682,15 @@ def main(argv=None):
 
 if __name__ == "__main__":
     main()
+
+    # EXTRA MARKETS (added 2026-11-15, data-only): raw per-market grading of the extra NHL props into
+    # extra_markets/graded/nhl_*.csv. Separate files; runs after everything above and never changes it. One summary line.
+    try:
+        import subprocess
+        _root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        _py = os.path.join(_root, ".venv", "bin", "python")
+        _r = subprocess.run([_py if os.path.exists(_py) else sys.executable, os.path.join(_root, "extra_markets", "grade_extra_nhl.py")],
+                            capture_output=True, text=True, timeout=300, cwd=_root)
+        print(((_r.stdout or "").strip().splitlines() or ["extra NHL markets: no output (rc=%s) %s" % (_r.returncode, (_r.stderr or "")[-200:])])[0])
+    except Exception as _e:
+        print(f"extra NHL markets grading skipped: {_e}")

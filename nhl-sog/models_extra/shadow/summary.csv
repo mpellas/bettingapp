@@ -1,0 +1,3 @@
+market,label,n,wins,losses,pushes,hit_rate,units,roi,avg_breakeven,in_band_n,band_label,band_n,band_wins,band_losses,band_pushes,band_hit_rate,band_units,band_roi,band_avg_breakeven
+points,points shadow all,330,141,189,0,0.4273,-56.38,-0.1709,0.5205,243,points shadow in-band,243,103,140,0,0.4239,-26.58,-0.1094,0.4696
+saves,saves shadow all,64,39,25,0,0.6094,8.22,0.1285,0.5374,64,saves shadow in-band,64,39,25,0,0.6094,8.22,0.1285,0.5374

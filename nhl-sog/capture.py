@@ -111,6 +111,40 @@ for day in sorted({(now+dt.timedelta(hours=h)).strftime('%Y%m%d') for h in (-8,0
         try: r=close.build(d,eid); print(f'close {eid}: in_window={r["n_in_window"]} closed={len(r["closed"])} pulled={len(r["pulled_before_close"])}')
         except Exception as ex: print(f'close build failed {eid}: {ex}')
     print(f'{"archived only (main kept)" if prev else "saved"} {d}/{eid}_{tag}.json {e.get("name")} {mins:.0f}min lines={len(out["sog_lines"])} saves={len(out["saves_lines"])}')
+    # EXTRA MARKETS (added 2026-11-15, data-only, paper): every non-SOG athlete prop in the SAME propBets response
+    # (points, assists, goals, anytime goal, blocked shots, PP points, goalie saves...). No extra HTTP calls. Written only to
+    # captures/<date>/extra/ (never read by SOG code, close.py or close_watch). Any error here is printed and ignored.
+    try:
+        xr=[]
+        for p in items:
+            tn=p['type']['name']
+            if 'athlete' not in p or 'Shots on Goal' in tn: continue
+            ar=p['athlete']['$ref']; aid=ar.split('/athletes/')[1].split('?')[0]; od=p.get('odds') or {}; am=od.get('american') or {}
+            xr.append({'type':tn,'espn_id':aid,'player':(ath.get(aid) or {}).get('name'),'nhl_id':idm.get(aid),
+              'line':(od.get('total') or {}).get('value'),'target':((p.get('current') or {}).get('target') or {}).get('value'),
+              'american':am.get('value'),'american_open':am.get('open'),'lastUpdated':p.get('lastUpdated')})
+        os.makedirs(f'{d}/extra',exist_ok=True)
+        json.dump({'event':eid,'name':e.get('name'),'home':teams['home']['displayName'],'away':teams['away']['displayName'],
+          'home_abbr':teams['home'].get('abbreviation'),'away_abbr':teams['away'].get('abbreviation'),'start_utc':e['date'],
+          'captured_utc':now.isoformat(),'tag':tag,'minutes_to_start':round(mins,1),'book':'DraftKings (ESPN provider 100)','items':xr},
+          open(f'{d}/extra/{eid}_{tag}_{now.strftime("%H%M%S")}.json','w'))
+        print(f'extra markets {eid}: {len(xr)} items')
+    except Exception as xe: print(f'extra markets skipped {eid}: {xe}')
+    # GAMELINES (added 2026-11-22, data-only, paper): DraftKings puckline (-1.5/+1.5 both sides),
+    # game total and moneyline, parsed from the SAME free ESPN scoreboard event already fetched
+    # above (provider 100). No extra HTTP calls. Written only to captures/<date>/gamelines/
+    # (never read by SOG code, close.py or close_watch). Any error here is printed and ignored.
+    try:
+        import capture_gamelines as _gl
+        _gs=_gl.from_event(e, tag, mins, now)
+        if _gs:
+            os.makedirs(f'{d}/gamelines', exist_ok=True)
+            _gl.dump_atomic(_gs, f'{d}/gamelines/{eid}_{tag}_{now.strftime("%H%M%S")}.json')
+            _gc=_gl.counts(_gs)
+            print(f'gamelines {eid}: puckline={_gc["puckline_sides"]} total={_gc["total_sides"]} ml={_gc["moneyline_sides"]}')
+        else:
+            print(f'gamelines {eid}: no DK game lines on scoreboard')
+    except Exception as ge: print(f'gamelines skipped {eid}: {ge}')
 json.dump(ath,open(ATH,'w')); json.dump(idm,open(IDM,'w'))
 # Land in the 0-30 close window ASAP: if the next drop is 30-60 min out, wake when it is 28 min out (not 180/600 later).
 # Once any drop is <=30 min out, C snapshot ~every 4 min until puck drop (per-line close = latest in-window price).

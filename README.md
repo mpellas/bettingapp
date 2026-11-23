@@ -49,6 +49,9 @@ nhl-sog/                 NHL SOG model, captures, window-pass outputs, graders
   card_decisions.csv     FINAL CALL / skip decisions per list
   graded/                Official-list grader outputs
   shadow/, challenger/   Shadow trackers and challenger model
+  extra_markets/         Data-only grader for non-SOG player props + puckline/total/ML
+  models_extra/          Paper shadow models for points, puckline, and saves
+  capture_gamelines.py   DraftKings game-line hook used by capture.py
   fliff_prices/, fliff_credits_*.csv
   NOTES.md               Run log and process changes
   user_bets/             Bet-slip stills that passed the public-repo screen
@@ -57,7 +60,8 @@ nfl-props/               NFL yards research pipeline (v3) and 2026 paper track
   src/nflprops/track.py  Frozen tracker (do not edit)
   data/snapshots/        Per-day .tar.gz of ESPN capture JSON (see README there)
   data/predictions/, data/track/, data/cache/, data/lines/
-  scripts/, ops/         snapshot_loop / supervisor, close-window capture
+  scripts/, ops/         snapshot_loop / supervisor, close-window capture; track_week.sh also runs the extra-markets grader
+  sidecars/extra_markets/ Data-only NFL extras + spread ATS (both sides; see NOTES.md there)
   reports/, experiments/, configs/
 props-finder/            Market-consensus shopper + user_bets/bets.csv
 prop-finder/             Older / larger research tree (backtests, CFBD, caches)
